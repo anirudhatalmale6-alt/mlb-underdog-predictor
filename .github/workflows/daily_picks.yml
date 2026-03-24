@@ -1,0 +1,43 @@
+name: Daily MLB Underdog Picks
+
+on:
+  schedule:
+    # Run at 10:00 AM ET (14:00 UTC) every day during MLB season (March-October)
+    - cron: '0 14 * 3-10 *'
+  workflow_dispatch:  # Allow manual trigger
+
+env:
+  ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+
+jobs:
+  generate-picks:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily prediction pipeline
+        run: python run_daily.py
+
+      - name: Generate picks page
+        run: python generate_picks_page.py
+
+      - name: Commit and push picks
+        run: |
+          git config user.name "MLB Predictor Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add TODAYS_PICKS.md data/output/
+          git diff --staged --quiet || git commit -m "Daily picks for $(date +%Y-%m-%d)"
+          git push
