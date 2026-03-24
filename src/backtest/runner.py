@@ -10,8 +10,9 @@ from config.settings import (
     HISTORICAL_SEASONS, BACKTEST_TEST_SEASONS,
     PROCESSED_DIR, OUTPUT_DIR,
 )
-from src.ingest.historical import build_historical_dataset
-from src.features.builder import build_historical_features
+from src.ingest.bulk_collect import collect_multiple_seasons
+from src.ingest.historical import build_historical_dataset, _compute_elo_and_odds
+from src.features.builder import build_historical_features, FEATURE_COLUMNS
 from src.model.train import walk_forward_validation
 from src.model.evaluate import evaluate_predictions, print_report
 from src.model.registry import save_model
@@ -39,14 +40,18 @@ def run_full_backtest(
     if test_seasons is None:
         test_seasons = BACKTEST_TEST_SEASONS
 
-    # Step 1: Collect historical games
+    # Step 1: Collect historical games (bulk method — fast)
     log.info("Step 1: Collecting historical game data...")
-    games_df = build_historical_dataset(seasons)
+    games_df = collect_multiple_seasons(seasons)
     if games_df.empty:
         log.error("No historical data collected. Aborting backtest.")
         return {"error": "No data"}
 
     log.info(f"  Collected {len(games_df)} games across seasons {seasons}")
+
+    # Add Elo ratings and synthetic odds
+    log.info("  Computing Elo ratings and synthetic odds...")
+    games_df = _compute_elo_and_odds(games_df)
 
     # Step 2: Build features
     log.info("Step 2: Building feature matrix...")
@@ -90,9 +95,10 @@ def run_full_backtest(
 
     # Save the final model
     save_model(final_model, {
+        "features": [c for c in FEATURE_COLUMNS if c in features_df.columns],
         "trained_on": str(seasons),
         "test_seasons": str(test_seasons),
-        "n_features": len(features_df.columns) - 6,  # Subtract metadata cols
+        "n_features": len(features_df.columns) - 6,
         "backtest_metrics": metrics,
     })
 
