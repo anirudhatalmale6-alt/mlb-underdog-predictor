@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  mlb-predictor:
+    build: .
+    container_name: mlb-predictor
+    env_file: .env
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+    # Run daily pipeline
+    command: python run_daily.py
+
+  # Optional: run backtest
+  backtest:
+    build: .
+    container_name: mlb-backtest
+    env_file: .env
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+    command: python run_backtest.py
+    profiles:
+      - backtest
