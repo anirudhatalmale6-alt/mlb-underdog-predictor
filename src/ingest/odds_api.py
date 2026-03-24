@@ -13,6 +13,7 @@ from config.settings import (
     ODDS_API_KEY, ODDS_API_BASE, ODDS_REGIONS,
     ODDS_MARKETS, ODDS_FORMAT, RAW_DIR,
     MIN_UNDERDOG_ODDS, MAX_UNDERDOG_ODDS,
+    TEAM_ABBREVS,
 )
 from src.utils.odds_math import american_to_implied, remove_vig, is_qualifying_underdog
 from src.utils.logging import get_logger
@@ -20,20 +21,22 @@ from src.utils.logging import get_logger
 log = get_logger(__name__)
 
 
-def fetch_mlb_odds() -> list[dict]:
+def fetch_mlb_odds(include_totals: bool = True) -> list[dict]:
     """
-    Fetch current MLB moneyline odds from The Odds API.
-    Returns list of game dicts with consensus odds and underdog info.
+    Fetch current MLB odds from The Odds API.
+    Returns list of game dicts with moneyline + totals odds.
     """
     if not ODDS_API_KEY:
         log.error("ODDS_API_KEY not set. Cannot fetch live odds.")
         return []
 
+    markets = "h2h,totals" if include_totals else ODDS_MARKETS
+
     url = f"{ODDS_API_BASE}/sports/baseball_mlb/odds/"
     params = {
         "apiKey": ODDS_API_KEY,
         "regions": ODDS_REGIONS,
-        "markets": ODDS_MARKETS,
+        "markets": markets,
         "oddsFormat": ODDS_FORMAT,
     }
 
@@ -58,7 +61,7 @@ def fetch_mlb_odds() -> list[dict]:
 
 
 def _parse_odds_response(data: list[dict]) -> list[dict]:
-    """Parse The Odds API response into clean game records."""
+    """Parse The Odds API response into clean game records with moneyline + totals."""
     games = []
     for event in data:
         home_team = event.get("home_team", "")
@@ -68,19 +71,30 @@ def _parse_odds_response(data: list[dict]) -> list[dict]:
         # Collect odds from all bookmakers
         home_odds_list = []
         away_odds_list = []
+        total_points_list = []
+        over_odds_list = []
+        under_odds_list = []
+
         for bookmaker in event.get("bookmakers", []):
             for market in bookmaker.get("markets", []):
-                if market.get("key") != "h2h":
-                    continue
-                outcomes = {o["name"]: o["price"] for o in market.get("outcomes", [])}
-                if home_team in outcomes and away_team in outcomes:
-                    home_odds_list.append(outcomes[home_team])
-                    away_odds_list.append(outcomes[away_team])
+                key = market.get("key")
+                outcomes = {o["name"]: o for o in market.get("outcomes", [])}
+
+                if key == "h2h":
+                    if home_team in outcomes and away_team in outcomes:
+                        home_odds_list.append(outcomes[home_team]["price"])
+                        away_odds_list.append(outcomes[away_team]["price"])
+
+                elif key == "totals":
+                    if "Over" in outcomes and "Under" in outcomes:
+                        total_points_list.append(outcomes["Over"].get("point", 0))
+                        over_odds_list.append(outcomes["Over"]["price"])
+                        under_odds_list.append(outcomes["Under"]["price"])
 
         if not home_odds_list or not away_odds_list:
             continue
 
-        # Consensus odds (median across books)
+        # Consensus moneyline odds (median across books)
         home_odds_list.sort()
         away_odds_list.sort()
         mid = len(home_odds_list) // 2
@@ -97,7 +111,6 @@ def _parse_odds_response(data: list[dict]) -> list[dict]:
             underdog_odds = away_consensus
             favorite_odds = home_consensus
         else:
-            # Pick-em or both positive: take the higher positive line
             if home_consensus >= away_consensus:
                 underdog = "home"
                 underdog_odds = home_consensus
@@ -111,7 +124,7 @@ def _parse_odds_response(data: list[dict]) -> list[dict]:
         home_prob, away_prob = remove_vig(home_consensus, away_consensus)
         underdog_prob = home_prob if underdog == "home" else away_prob
 
-        games.append({
+        game = {
             "event_id": event.get("id", ""),
             "commence_time": commence,
             "home_team": home_team,
@@ -128,10 +141,26 @@ def _parse_odds_response(data: list[dict]) -> list[dict]:
             ),
             "num_bookmakers": len(home_odds_list),
             "odds_spread": max(home_odds_list) - min(home_odds_list),
-        })
+        }
+
+        # Totals consensus
+        if total_points_list and over_odds_list:
+            total_points_list.sort()
+            over_odds_list.sort()
+            under_odds_list.sort()
+            tmid = len(total_points_list) // 2
+            game["total_line"] = total_points_list[tmid]
+            game["over_odds"] = over_odds_list[tmid]
+            game["under_odds"] = under_odds_list[tmid]
+            game["has_total"] = True
+        else:
+            game["has_total"] = False
+
+        games.append(game)
 
     qualifying = sum(1 for g in games if g["is_qualifying"])
-    log.info(f"Parsed {len(games)} games, {qualifying} qualifying underdogs")
+    with_totals = sum(1 for g in games if g.get("has_total"))
+    log.info(f"Parsed {len(games)} games, {qualifying} qualifying underdogs, {with_totals} with totals")
     return games
 
 

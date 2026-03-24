@@ -51,6 +51,15 @@ def collect_season_bulk(season: int) -> pd.DataFrame:
             home_id = home["team"]["id"]
             away_id = away["team"]["id"]
 
+            # Extract F5 (first 5 innings) scores from linescore
+            linescore = game.get("linescore", {})
+            innings = linescore.get("innings", [])
+            f5_home = sum(inn.get("home", {}).get("runs", 0) for inn in innings[:5])
+            f5_away = sum(inn.get("away", {}).get("runs", 0) for inn in innings[:5])
+
+            home_score = home.get("score", 0)
+            away_score = away.get("score", 0)
+
             games.append({
                 "game_id": game["gamePk"],
                 "game_date": date_entry["date"],
@@ -58,9 +67,14 @@ def collect_season_bulk(season: int) -> pd.DataFrame:
                 "away_team_id": away_id,
                 "home_team": TEAM_ID_TO_ABBREV.get(home_id, "UNK"),
                 "away_team": TEAM_ID_TO_ABBREV.get(away_id, "UNK"),
-                "home_score": home.get("score", 0),
-                "away_score": away.get("score", 0),
-                "home_win": 1 if home.get("score", 0) > away.get("score", 0) else 0,
+                "home_score": home_score,
+                "away_score": away_score,
+                "total_runs": home_score + away_score,
+                "home_win": 1 if home_score > away_score else 0,
+                "f5_home_score": f5_home,
+                "f5_away_score": f5_away,
+                "f5_total": f5_home + f5_away,
+                "num_innings": len(innings),
             })
 
     df = pd.DataFrame(games)

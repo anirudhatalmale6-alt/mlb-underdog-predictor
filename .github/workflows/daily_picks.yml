@@ -1,4 +1,4 @@
-name: Daily MLB Underdog Picks
+name: Daily MLB Picks
 
 on:
   schedule:

@@ -59,10 +59,13 @@ def generate_predictions(
         kelly = calculate_kelly(model_prob, decimal_odds)
 
         pick = {
+            "bet_type": "MONEYLINE",
             "game_date": game.get("game_date", str(date.today())),
             "home_team": game.get("home_team", ""),
             "away_team": game.get("away_team", ""),
             "underdog_team": game.get("underdog_team", ""),
+            "home_sp_name": game.get("home_sp_name", "TBD"),
+            "away_sp_name": game.get("away_sp_name", "TBD"),
             "underdog_odds": underdog_odds,
             "market_implied_prob": round(market_prob, 4),
             "model_win_prob": round(model_prob, 4),
