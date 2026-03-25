@@ -1,6 +1,6 @@
 # MLB Picks - Wednesday, March 25, 2026
 
-*Last updated: 2026-03-25 02:44 PM ET*
+*Last updated: 2026-03-25 02:52 PM ET*
 
 ## Full Game Over/Under
 
