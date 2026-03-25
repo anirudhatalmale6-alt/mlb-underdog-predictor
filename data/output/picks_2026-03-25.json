@@ -1,0 +1,34 @@
+[
+  {
+    "bet_type":"FULL GAME TOTAL",
+    "game_date":"2026-03-25",
+    "home_team":"SF",
+    "away_team":"NYY",
+    "home_sp_name":"Logan Webb",
+    "away_sp_name":"Max Fried",
+    "pick":"OVER",
+    "line":"7.0",
+    "model_prob":0.5747,
+    "edge":0.0747,
+    "edge_pct":"7.5%",
+    "confidence":"MEDIUM",
+    "recommended":true,
+    "notes":"Pitcher-friendly park; Low-scoring matchup"
+  },
+  {
+    "bet_type":"F5 TOTAL",
+    "game_date":"2026-03-25",
+    "home_team":"SF",
+    "away_team":"NYY",
+    "home_sp_name":"Logan Webb",
+    "away_sp_name":"Max Fried",
+    "pick":"OVER",
+    "line":"3.9",
+    "model_prob":0.8253,
+    "edge":0.3253,
+    "edge_pct":"32.5%",
+    "confidence":"HIGH",
+    "recommended":true,
+    "notes":"Pitcher-friendly park; Low-scoring matchup; Strong value"
+  }
+]

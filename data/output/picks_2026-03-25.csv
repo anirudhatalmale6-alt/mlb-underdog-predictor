@@ -1,0 +1,3 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,line,model_prob,edge,edge_pct,confidence,recommended,notes
+FULL GAME TOTAL,2026-03-25,SF,NYY,Logan Webb,Max Fried,OVER,7.0,0.5747,0.0747,7.5%,MEDIUM,True,Pitcher-friendly park; Low-scoring matchup
+F5 TOTAL,2026-03-25,SF,NYY,Logan Webb,Max Fried,OVER,3.9,0.8253,0.3253,32.5%,HIGH,True,Pitcher-friendly park; Low-scoring matchup; Strong value
