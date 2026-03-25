@@ -7,8 +7,9 @@ build/
 data/raw/
 data/processed/
 data/output/
-models/*.joblib
-models/*.json
+# Keep only timestamped model snapshots out of git; latest models are tracked
+models/xgb_*_2*.joblib
+models/xgb_*_2*_meta.json
 *.log
 .venv/
 venv/
