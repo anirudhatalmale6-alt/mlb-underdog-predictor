@@ -1,0 +1,30 @@
+bet_type,game_date,home_team,away_team,underdog_team,home_sp_name,away_sp_name,underdog_odds,market_implied_prob,model_win_prob,edge,edge_pct,kelly_fraction,confidence,recommended,notes,pick,line,model_prob
+MONEYLINE,2026-03-26,CIN,BOS,CIN,Andrew Abbott,Garrett Crochet,135.0,0.4255,0.4028,-0.0227,-2.3%,0.0,NO PLAY,False,Home underdog,,,
+MONEYLINE,2026-03-26,SEA,CLE,CLE,Logan Gilbert,Tanner Bibee,158.0,0.3876,0.3555,-0.0321,-3.2%,0.0,NO PLAY,False,Standard play,,,
+MONEYLINE,2026-03-26,PHI,TEX,TEX,Cristopher Sánchez,Nathan Eovaldi,134.0,0.4274,0.3947,-0.0326,-3.3%,0.0,NO PLAY,False,Standard play,,,
+MONEYLINE,2026-03-26,HOU,LAA,LAA,Hunter Brown,José Soriano,153.0,0.3953,0.3563,-0.039,-3.9%,0.0,NO PLAY,False,Standard play,,,
+MONEYLINE,2026-03-26,MIL,CWS,CWS,Jacob Misiorowski,Shane Smith,155.0,0.3922,0.3528,-0.0394,-3.9%,0.0,NO PLAY,False,Standard play,,,
+MONEYLINE,2026-03-26,LAD,ARI,ARI,Yoshinobu Yamamoto,Zac Gallen,218.0,0.3145,0.1751,-0.1394,-13.9%,0.0,NO PLAY,False,Standard play,,,
+MONEYLINE,2026-03-26,CHC,WSH,WSH,Matthew Boyd,Cade Cavalli,189.0,0.346,0.1916,-0.1544,-15.4%,0.0,NO PLAY,False,Standard play,,,
+FULL GAME TOTAL,2026-03-26,CIN,BOS,,Andrew Abbott,Garrett Crochet,,,,0.2314,23.1%,,HIGH,True,Hitter-friendly park; Low-scoring matchup; Strong value,OVER,8.0,0.7314
+FULL GAME TOTAL,2026-03-26,BAL,MIN,,Trevor Rogers,Joe Ryan,,,,0.2059,20.6%,,HIGH,True,Low-scoring matchup; Strong value,OVER,8.0,0.7059
+FULL GAME TOTAL,2026-03-26,PHI,TEX,,Cristopher Sánchez,Nathan Eovaldi,,,,0.2059,20.6%,,HIGH,True,Low-scoring matchup; Strong value,OVER,8.0,0.7059
+FULL GAME TOTAL,2026-03-26,MIL,CWS,,Jacob Misiorowski,Shane Smith,,,,0.1567,15.7%,,HIGH,True,Low-scoring matchup; Strong value,OVER,8.0,0.6567
+FULL GAME TOTAL,2026-03-26,CHC,WSH,,Matthew Boyd,Cade Cavalli,,,,0.1567,15.7%,,HIGH,True,Low-scoring matchup; Strong value,OVER,7.0,0.6567
+FULL GAME TOTAL,2026-03-26,HOU,LAA,,Hunter Brown,José Soriano,,,,0.1538,15.4%,,HIGH,True,Low-scoring matchup; Strong value,OVER,8.0,0.6538
+FULL GAME TOTAL,2026-03-26,STL,TB,,Matthew Liberatore,Drew Rasmussen,,,,0.1446,14.5%,,HIGH,True,Low-scoring matchup; Strong value,OVER,7.5,0.6446
+FULL GAME TOTAL,2026-03-26,NYM,PIT,,Freddy Peralta,Paul Skenes,,,,0.0754,7.5%,,MEDIUM,True,Low-scoring matchup,OVER,7.0,0.5754
+FULL GAME TOTAL,2026-03-26,LAD,ARI,,Yoshinobu Yamamoto,Zac Gallen,,,,0.0754,7.5%,,MEDIUM,True,Low-scoring matchup,OVER,9.0,0.5754
+FULL GAME TOTAL,2026-03-26,SD,DET,,Nick Pivetta,Tarik Skubal,,,,0.0629,6.3%,,MEDIUM,True,Pitcher-friendly park; Low-scoring matchup,OVER,7.0,0.5629
+FULL GAME TOTAL,2026-03-26,SEA,CLE,,Logan Gilbert,Tanner Bibee,,,,0.0629,6.3%,,MEDIUM,True,Pitcher-friendly park; Low-scoring matchup,OVER,6.5,0.5629
+F5 TOTAL,2026-03-26,PHI,TEX,,Cristopher Sánchez,Nathan Eovaldi,,,,0.3638,36.4%,,HIGH,True,Low-scoring matchup; Strong value,OVER,4.4,0.8638
+F5 TOTAL,2026-03-26,CIN,BOS,,Andrew Abbott,Garrett Crochet,,,,0.3638,36.4%,,HIGH,True,Hitter-friendly park; Low-scoring matchup; Strong value,OVER,4.4,0.8638
+F5 TOTAL,2026-03-26,BAL,MIN,,Trevor Rogers,Joe Ryan,,,,0.3638,36.4%,,HIGH,True,Low-scoring matchup; Strong value,OVER,4.4,0.8638
+F5 TOTAL,2026-03-26,MIL,CWS,,Jacob Misiorowski,Shane Smith,,,,0.3626,36.3%,,HIGH,True,Low-scoring matchup; Strong value,OVER,4.4,0.8626
+F5 TOTAL,2026-03-26,CHC,WSH,,Matthew Boyd,Cade Cavalli,,,,0.3626,36.3%,,HIGH,True,Low-scoring matchup; Strong value,OVER,3.9,0.8626
+F5 TOTAL,2026-03-26,STL,TB,,Matthew Liberatore,Drew Rasmussen,,,,0.3563,35.6%,,HIGH,True,Low-scoring matchup; Strong value,OVER,4.1,0.8563
+F5 TOTAL,2026-03-26,HOU,LAA,,Hunter Brown,José Soriano,,,,0.3546,35.5%,,HIGH,True,Low-scoring matchup; Strong value,OVER,4.4,0.8546
+F5 TOTAL,2026-03-26,NYM,PIT,,Freddy Peralta,Paul Skenes,,,,0.3477,34.8%,,HIGH,True,Low-scoring matchup; Strong value,OVER,3.9,0.8477
+F5 TOTAL,2026-03-26,LAD,ARI,,Yoshinobu Yamamoto,Zac Gallen,,,,0.3477,34.8%,,HIGH,True,Low-scoring matchup; Strong value,OVER,5.0,0.8477
+F5 TOTAL,2026-03-26,SD,DET,,Nick Pivetta,Tarik Skubal,,,,0.32,32.0%,,HIGH,True,Pitcher-friendly park; Low-scoring matchup; Strong value,OVER,3.9,0.82
+F5 TOTAL,2026-03-26,SEA,CLE,,Logan Gilbert,Tanner Bibee,,,,0.32,32.0%,,HIGH,True,Pitcher-friendly park; Low-scoring matchup; Strong value,OVER,3.6,0.82
