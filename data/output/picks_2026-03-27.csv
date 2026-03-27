@@ -1,0 +1,19 @@
+bet_type,game_date,home_team,away_team,underdog_team,home_sp_name,away_sp_name,underdog_odds,market_implied_prob,model_win_prob,edge,edge_pct,kelly_fraction,confidence,recommended,notes,pick,line,model_prob
+MONEYLINE,2026-03-27,LAD,ARI,ARI,Emmet Sheehan,Ryne Nelson,206.0,0.3268,0.5457,0.2189,21.9%,0.3252,HIGH,True,Strong value play,,,
+MONEYLINE,2026-03-27,SEA,CLE,CLE,George Kirby,Gavin Williams,146.0,0.4065,0.596,0.1895,18.9%,0.3193,HIGH,True,Strong value play,,,
+MONEYLINE,2026-03-27,HOU,LAA,LAA,Mike Burrows,Yusei Kikuchi,138.0,0.4202,0.5941,0.174,17.4%,0.3,HIGH,True,Strong value play,,,
+MONEYLINE,2026-03-27,MIA,COL,COL,Sandy Alcantara,Kyle Freeland,164.0,0.3788,0.312,-0.0668,-6.7%,0.0,NO PLAY,False,Standard play,,,
+FULL GAME TOTAL,2026-03-27,HOU,LAA,,Mike Burrows,Yusei Kikuchi,,,,0.3237,32.4%,,HIGH,True,Low-scoring matchup; Strong value,OVER,8.5,0.8237
+FULL GAME TOTAL,2026-03-27,SF,NYY,,Robbie Ray,Cam Schlittler,,,,0.2944,29.4%,,HIGH,True,Pitcher-friendly park; Low-scoring matchup; Strong value,OVER,8.0,0.7944
+FULL GAME TOTAL,2026-03-27,ATL,KC,,Chris Sale,Cole Ragans,,,,0.1567,15.7%,,HIGH,True,Low-scoring matchup; Strong value,OVER,7.5,0.6567
+FULL GAME TOTAL,2026-03-27,SD,DET,,Michael King,Framber Valdez,,,,0.1287,12.9%,,HIGH,True,Pitcher-friendly park; Strong value,OVER,7.5,0.6287
+FULL GAME TOTAL,2026-03-27,MIA,COL,,Sandy Alcantara,Kyle Freeland,,,,0.0586,5.9%,,MEDIUM,True,Pitcher-friendly park; Low-scoring matchup,OVER,7.5,0.5586
+FULL GAME TOTAL,2026-03-27,LAD,ARI,,Emmet Sheehan,Ryne Nelson,,,,0.0302,3.0%,,LOW,True,Standard play,UNDER,8.5,0.5302
+FULL GAME TOTAL,2026-03-27,SEA,CLE,,George Kirby,Gavin Williams,,,,0.0171,1.7%,,NO PLAY,False,Pitcher-friendly park,OVER,7.0,0.5171
+F5 TOTAL,2026-03-27,ATL,KC,,Chris Sale,Cole Ragans,,,,0.3626,36.3%,,HIGH,True,Low-scoring matchup; Strong value,OVER,4.1,0.8626
+F5 TOTAL,2026-03-27,MIA,COL,,Sandy Alcantara,Kyle Freeland,,,,0.3239,32.4%,,HIGH,True,Pitcher-friendly park; Low-scoring matchup; Strong value,OVER,4.1,0.8239
+F5 TOTAL,2026-03-27,HOU,LAA,,Mike Burrows,Yusei Kikuchi,,,,0.3125,31.3%,,HIGH,True,Low-scoring matchup; Strong value,OVER,4.7,0.8125
+F5 TOTAL,2026-03-27,SD,DET,,Michael King,Framber Valdez,,,,0.2921,29.2%,,HIGH,True,Pitcher-friendly park; Strong value,UNDER,4.1,0.7921
+F5 TOTAL,2026-03-27,SF,NYY,,Robbie Ray,Cam Schlittler,,,,0.2064,20.6%,,HIGH,True,Pitcher-friendly park; Low-scoring matchup; Strong value,OVER,4.4,0.7064
+F5 TOTAL,2026-03-27,SEA,CLE,,George Kirby,Gavin Williams,,,,0.1361,13.6%,,HIGH,True,Pitcher-friendly park; Strong value,UNDER,3.9,0.6361
+F5 TOTAL,2026-03-27,LAD,ARI,,Emmet Sheehan,Ryne Nelson,,,,0.1006,10.1%,,HIGH,True,Strong value,OVER,4.7,0.6006

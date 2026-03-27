@@ -1,62 +1,88 @@
-# MLB Picks - Thursday, March 26, 2026
+# MLB Picks - Friday, March 27, 2026
 
-*Last updated: 2026-03-26 02:57 PM ET*
+*Last updated: 2026-03-27 02:43 PM ET*
 
 ## Moneyline Underdogs
 
-No recommended underdog plays today.
+### RECOMMENDED PLAYS (3)
 
-**Other Qualifying Underdogs (7)** — below edge threshold:
+These picks have a positive edge over the market odds:
+
+#### ARI (+206.0)
+
+| Stat | Value |
+|------|-------|
+| Matchup | ARI @ LAD |
+| Starting Pitchers | Ryne Nelson vs Emmet Sheehan |
+| Model Win Probability | 54.6% |
+| Edge Over Market | 21.9% |
+| Confidence | HIGH |
+| Notes | Strong value play |
+
+#### CLE (+146.0)
+
+| Stat | Value |
+|------|-------|
+| Matchup | CLE @ SEA |
+| Starting Pitchers | Gavin Williams vs George Kirby |
+| Model Win Probability | 59.6% |
+| Edge Over Market | 18.9% |
+| Confidence | HIGH |
+| Notes | Strong value play |
+
+#### LAA (+138.0)
+
+| Stat | Value |
+|------|-------|
+| Matchup | LAA @ HOU |
+| Starting Pitchers | Yusei Kikuchi vs Mike Burrows |
+| Model Win Probability | 59.4% |
+| Edge Over Market | 17.4% |
+| Confidence | HIGH |
+| Notes | Strong value play |
+
+**Other Qualifying Underdogs (1)** — below edge threshold:
 
 | Team | Odds | Win Prob | Edge |
 |------|------|----------|------|
-| CIN | +135.0 | 40.3% | -2.3% |
-| CLE | +158.0 | 35.5% | -3.2% |
-| TEX | +134.0 | 39.5% | -3.3% |
-| LAA | +153.0 | 35.6% | -3.9% |
-| CWS | +155.0 | 35.3% | -3.9% |
-| ARI | +218.0 | 17.5% | -13.9% |
-| WSH | +189.0 | 19.2% | -15.4% |
+| COL | +164.0 | 31.2% | -6.7% |
 
 ---
 
 ## Full Game Over/Under
 
-### RECOMMENDED PLAYS (11)
+### RECOMMENDED PLAYS (6)
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| BOS @ CIN | Garrett Crochet vs Andrew Abbott | 8.0 | OVER | 73.1% | 23.1% | HIGH | Hitter-friendly park; Low-scoring matchup; Strong value |
-| MIN @ BAL | Joe Ryan vs Trevor Rogers | 8.0 | OVER | 70.6% | 20.6% | HIGH | Low-scoring matchup; Strong value |
-| TEX @ PHI | Nathan Eovaldi vs Cristopher Sánchez | 8.0 | OVER | 70.6% | 20.6% | HIGH | Low-scoring matchup; Strong value |
-| CWS @ MIL | Shane Smith vs Jacob Misiorowski | 8.0 | OVER | 65.7% | 15.7% | HIGH | Low-scoring matchup; Strong value |
-| WSH @ CHC | Cade Cavalli vs Matthew Boyd | 7.0 | OVER | 65.7% | 15.7% | HIGH | Low-scoring matchup; Strong value |
-| LAA @ HOU | José Soriano vs Hunter Brown | 8.0 | OVER | 65.4% | 15.4% | HIGH | Low-scoring matchup; Strong value |
-| TB @ STL | Drew Rasmussen vs Matthew Liberatore | 7.5 | OVER | 64.5% | 14.5% | HIGH | Low-scoring matchup; Strong value |
-| PIT @ NYM | Paul Skenes vs Freddy Peralta | 7.0 | OVER | 57.5% | 7.5% | MEDIUM | Low-scoring matchup |
-| ARI @ LAD | Zac Gallen vs Yoshinobu Yamamoto | 9.0 | OVER | 57.5% | 7.5% | MEDIUM | Low-scoring matchup |
-| DET @ SD | Tarik Skubal vs Nick Pivetta | 7.0 | OVER | 56.3% | 6.3% | MEDIUM | Pitcher-friendly park; Low-scoring matchup |
-| CLE @ SEA | Tanner Bibee vs Logan Gilbert | 6.5 | OVER | 56.3% | 6.3% | MEDIUM | Pitcher-friendly park; Low-scoring matchup |
+| LAA @ HOU | Yusei Kikuchi vs Mike Burrows | 8.5 | OVER | 82.4% | 32.4% | HIGH | Low-scoring matchup; Strong value |
+| NYY @ SF | Cam Schlittler vs Robbie Ray | 8.0 | OVER | 79.4% | 29.4% | HIGH | Pitcher-friendly park; Low-scoring matchup; Strong value |
+| KC @ ATL | Cole Ragans vs Chris Sale | 7.5 | OVER | 65.7% | 15.7% | HIGH | Low-scoring matchup; Strong value |
+| DET @ SD | Framber Valdez vs Michael King | 7.5 | OVER | 62.9% | 12.9% | HIGH | Pitcher-friendly park; Strong value |
+| COL @ MIA | Kyle Freeland vs Sandy Alcantara | 7.5 | OVER | 55.9% | 5.9% | MEDIUM | Pitcher-friendly park; Low-scoring matchup |
+| ARI @ LAD | Ryne Nelson vs Emmet Sheehan | 8.5 | UNDER | 53.0% | 3.0% | LOW | Standard play |
+
+**Other Games (1)** — below edge threshold:
+
+| Matchup | Line | Pick | Probability | Edge |
+|---------|------|------|-------------|------|
+| CLE @ SEA | 7.0 | OVER | 51.7% | 1.7% |
 
 ---
 
 ## First 5 Innings Over/Under
 
-### RECOMMENDED PLAYS (11)
+### RECOMMENDED PLAYS (7)
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TEX @ PHI | Nathan Eovaldi vs Cristopher Sánchez | 4.4 | OVER | 86.4% | 36.4% | HIGH | Low-scoring matchup; Strong value |
-| BOS @ CIN | Garrett Crochet vs Andrew Abbott | 4.4 | OVER | 86.4% | 36.4% | HIGH | Hitter-friendly park; Low-scoring matchup; Strong value |
-| MIN @ BAL | Joe Ryan vs Trevor Rogers | 4.4 | OVER | 86.4% | 36.4% | HIGH | Low-scoring matchup; Strong value |
-| CWS @ MIL | Shane Smith vs Jacob Misiorowski | 4.4 | OVER | 86.3% | 36.3% | HIGH | Low-scoring matchup; Strong value |
-| WSH @ CHC | Cade Cavalli vs Matthew Boyd | 3.9 | OVER | 86.3% | 36.3% | HIGH | Low-scoring matchup; Strong value |
-| TB @ STL | Drew Rasmussen vs Matthew Liberatore | 4.1 | OVER | 85.6% | 35.6% | HIGH | Low-scoring matchup; Strong value |
-| LAA @ HOU | José Soriano vs Hunter Brown | 4.4 | OVER | 85.5% | 35.5% | HIGH | Low-scoring matchup; Strong value |
-| PIT @ NYM | Paul Skenes vs Freddy Peralta | 3.9 | OVER | 84.8% | 34.8% | HIGH | Low-scoring matchup; Strong value |
-| ARI @ LAD | Zac Gallen vs Yoshinobu Yamamoto | 5.0 | OVER | 84.8% | 34.8% | HIGH | Low-scoring matchup; Strong value |
-| DET @ SD | Tarik Skubal vs Nick Pivetta | 3.9 | OVER | 82.0% | 32.0% | HIGH | Pitcher-friendly park; Low-scoring matchup; Strong value |
-| CLE @ SEA | Tanner Bibee vs Logan Gilbert | 3.6 | OVER | 82.0% | 32.0% | HIGH | Pitcher-friendly park; Low-scoring matchup; Strong value |
+| KC @ ATL | Cole Ragans vs Chris Sale | 4.1 | OVER | 86.3% | 36.3% | HIGH | Low-scoring matchup; Strong value |
+| COL @ MIA | Kyle Freeland vs Sandy Alcantara | 4.1 | OVER | 82.4% | 32.4% | HIGH | Pitcher-friendly park; Low-scoring matchup; Strong value |
+| LAA @ HOU | Yusei Kikuchi vs Mike Burrows | 4.7 | OVER | 81.2% | 31.3% | HIGH | Low-scoring matchup; Strong value |
+| DET @ SD | Framber Valdez vs Michael King | 4.1 | UNDER | 79.2% | 29.2% | HIGH | Pitcher-friendly park; Strong value |
+| NYY @ SF | Cam Schlittler vs Robbie Ray | 4.4 | OVER | 70.6% | 20.6% | HIGH | Pitcher-friendly park; Low-scoring matchup; Strong value |
+| CLE @ SEA | Gavin Williams vs George Kirby | 3.9 | UNDER | 63.6% | 13.6% | HIGH | Pitcher-friendly park; Strong value |
+| ARI @ LAD | Ryne Nelson vs Emmet Sheehan | 4.7 | OVER | 60.1% | 10.1% | HIGH | Strong value |
 
 ---
 
