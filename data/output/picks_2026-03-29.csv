@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,underdog_team,home_sp_name,away_sp_name,underdog_odds,market_implied_prob,model_win_prob,edge,edge_pct,kelly_fraction,confidence,recommended,notes,pick,line,model_prob
+MONEYLINE,2026-03-29,NYM,PIT,PIT,Nolan McLean,Carmen Mlodzinski,154.0,0.3937,0.7238,0.3301,33.0%,0.5445,HIGH,True,Strong value play,,,
+MONEYLINE,2026-03-29,MIL,CWS,CWS,Brandon Sproat,Anthony Kay,146.0,0.4065,0.6225,0.216,21.6%,0.3639,HIGH,True,Strong value play,,,
+MONEYLINE,2026-03-29,ATL,KC,KC,Grant Holmes,Seth Lugo,133.0,0.4292,0.5925,0.1633,16.3%,0.2861,HIGH,True,Strong value play,,,
+MONEYLINE,2026-03-29,HOU,LAA,LAA,Tatsuya Imai,Jack Kochanowicz,149.0,0.4016,0.4813,0.0797,8.0%,0.1332,MEDIUM,True,Good value,,,
+MONEYLINE,2026-03-29,MIA,COL,COL,Max Meyer,Jose Quintana,160.0,0.3846,0.4474,0.0628,6.3%,0.102,MEDIUM,True,Good value,,,
+MONEYLINE,2026-03-29,PHI,TEX,TEX,Jesús Luzardo,MacKenzie Gore,139.0,0.4184,0.4732,0.0548,5.5%,0.0943,MEDIUM,True,Good value,,,
+MONEYLINE,2026-03-29,BAL,MIN,MIN,Shane Baz,Bailey Ober,130.0,0.4348,0.4888,0.054,5.4%,0.0956,MEDIUM,True,Good value,,,
+MONEYLINE,2026-03-29,CHC,WSH,WSH,Shota Imanaga,Jake Irvin,206.0,0.3268,0.3747,0.0479,4.8%,0.0711,LOW,True,Standard play,,,
+FULL GAME TOTAL,2026-03-29,CHC,WSH,,Shota Imanaga,Jake Irvin,,,,0.28,28.0%,,HIGH,True,High-scoring matchup; Strong value,UNDER,9.0,0.78
+FULL GAME TOTAL,2026-03-29,BAL,MIN,,Shane Baz,Bailey Ober,,,,0.2707,27.1%,,HIGH,True,Low-scoring matchup; Strong value,OVER,9.0,0.7707
+FULL GAME TOTAL,2026-03-29,CIN,BOS,,Rhett Lowder,Connelly Early,,,,0.2379,23.8%,,HIGH,True,Hitter-friendly park; Low-scoring matchup; Strong value,OVER,8.5,0.7379
+FULL GAME TOTAL,2026-03-29,SEA,CLE,,Emerson Hancock,Slade Cecconi,,,,0.1344,13.4%,,HIGH,True,Pitcher-friendly park; Strong value,UNDER,7.5,0.6344
+FULL GAME TOTAL,2026-03-29,MIA,COL,,Max Meyer,Jose Quintana,,,,0.1028,10.3%,,HIGH,True,Pitcher-friendly park; Low-scoring matchup; Strong value,UNDER,8.0,0.6028
+FULL GAME TOTAL,2026-03-29,STL,TB,,Dustin May,Steven Matz,,,,0.0909,9.1%,,HIGH,True,High-scoring matchup; Strong value,UNDER,7.5,0.5909
+FULL GAME TOTAL,2026-03-29,NYM,PIT,,Nolan McLean,Carmen Mlodzinski,,,,0.0726,7.3%,,MEDIUM,True,High-scoring matchup,OVER,8.0,0.5726
+FULL GAME TOTAL,2026-03-29,ATL,KC,,Grant Holmes,Seth Lugo,,,,0.0406,4.1%,,LOW,True,Low-scoring matchup,OVER,8.0,0.5406
+FULL GAME TOTAL,2026-03-29,PHI,TEX,,Jesús Luzardo,MacKenzie Gore,,,,0.0267,2.7%,,NO PLAY,False,Standard play,OVER,8.0,0.5267
+FULL GAME TOTAL,2026-03-29,HOU,LAA,,Tatsuya Imai,Jack Kochanowicz,,,,0.0231,2.3%,,NO PLAY,False,High-scoring matchup,UNDER,9.0,0.5231
+FULL GAME TOTAL,2026-03-29,MIL,CWS,,Brandon Sproat,Anthony Kay,,,,0.009,0.9%,,NO PLAY,False,High-scoring matchup,OVER,7.5,0.509
+F5 TOTAL,2026-03-29,BAL,MIN,,Shane Baz,Bailey Ober,,,,0.3598,36.0%,,HIGH,True,Low-scoring matchup; Strong value,OVER,5.0,0.8598
+F5 TOTAL,2026-03-29,MIA,COL,,Max Meyer,Jose Quintana,,,,0.3283,32.8%,,HIGH,True,Pitcher-friendly park; Low-scoring matchup; Strong value,OVER,4.4,0.8283
+F5 TOTAL,2026-03-29,CIN,BOS,,Rhett Lowder,Connelly Early,,,,0.2367,23.7%,,HIGH,True,Hitter-friendly park; Low-scoring matchup; Strong value,OVER,4.7,0.7367
+F5 TOTAL,2026-03-29,ATL,KC,,Grant Holmes,Seth Lugo,,,,0.1694,16.9%,,HIGH,True,Low-scoring matchup; Strong value,OVER,4.4,0.6694
+F5 TOTAL,2026-03-29,MIL,CWS,,Brandon Sproat,Anthony Kay,,,,0.167,16.7%,,HIGH,True,High-scoring matchup; Strong value,OVER,4.1,0.667
+F5 TOTAL,2026-03-29,CHC,WSH,,Shota Imanaga,Jake Irvin,,,,0.1662,16.6%,,HIGH,True,High-scoring matchup; Strong value,UNDER,5.0,0.6662
+F5 TOTAL,2026-03-29,NYM,PIT,,Nolan McLean,Carmen Mlodzinski,,,,0.149,14.9%,,HIGH,True,High-scoring matchup; Strong value,OVER,4.4,0.649
+F5 TOTAL,2026-03-29,SEA,CLE,,Emerson Hancock,Slade Cecconi,,,,0.1296,13.0%,,HIGH,True,Pitcher-friendly park; Strong value,UNDER,4.1,0.6296
+F5 TOTAL,2026-03-29,STL,TB,,Dustin May,Steven Matz,,,,0.1151,11.5%,,HIGH,True,High-scoring matchup; Strong value,UNDER,4.1,0.6151
+F5 TOTAL,2026-03-29,PHI,TEX,,Jesús Luzardo,MacKenzie Gore,,,,0.0394,3.9%,,LOW,True,Standard play,OVER,4.4,0.5394
+F5 TOTAL,2026-03-29,HOU,LAA,,Tatsuya Imai,Jack Kochanowicz,,,,0.0021,0.2%,,NO PLAY,False,High-scoring matchup,OVER,5.0,0.5021
