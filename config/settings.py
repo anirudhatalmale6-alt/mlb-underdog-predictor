@@ -38,7 +38,7 @@ MIN_UNDERDOG_ODDS = int(os.getenv("MIN_UNDERDOG_ODDS", "130"))
 MAX_UNDERDOG_ODDS = int(os.getenv("MAX_UNDERDOG_ODDS", "250"))
 
 # ── Model Settings ───────────────────────────────────────────────────────
-EDGE_THRESHOLD = float(os.getenv("EDGE_THRESHOLD", "0.03"))
+EDGE_THRESHOLD = float(os.getenv("EDGE_THRESHOLD", "0.06"))
 RETRAIN_DAILY = os.getenv("RETRAIN_DAILY", "false").lower() == "true"
 
 # Training seasons for historical backtest

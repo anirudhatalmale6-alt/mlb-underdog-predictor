@@ -178,7 +178,7 @@ def _predict_totals(
             "edge": round(edge, 4),
             "edge_pct": f"{edge * 100:.1f}%",
             "confidence": _confidence_label(edge),
-            "recommended": edge >= 0.03,
+            "recommended": edge >= 0.06,
             "notes": _generate_notes(game, over_prob, edge, bet_type),
         })
 
@@ -186,11 +186,11 @@ def _predict_totals(
 
 
 def _confidence_label(edge: float) -> str:
-    if edge >= 0.08:
+    if edge >= 0.10:
         return "HIGH"
-    elif edge >= 0.05:
+    elif edge >= 0.08:
         return "MEDIUM"
-    elif edge >= 0.03:
+    elif edge >= 0.06:
         return "LOW"
     else:
         return "NO PLAY"

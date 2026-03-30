@@ -101,7 +101,7 @@ def generate_picks_page(target_date: date = None):
     lines.append("- **Probability**: The model's confidence in its pick")
     lines.append("- **Edge**: How much the model disagrees with the 50/50 line (higher = more confident)")
     lines.append("")
-    lines.append("**Confidence Levels:** HIGH (8%+ edge), MEDIUM (5-8%), LOW (3-5%)")
+    lines.append("**Confidence Levels:** HIGH (10%+ edge), MEDIUM (8-10%), LOW (6-8%)")
     lines.append("")
     lines.append("*Disclaimer: This is a statistical model for informational purposes. Past performance does not guarantee future results. Gamble responsibly.*")
 
