@@ -81,6 +81,12 @@ def generate_predictions(
     results_df = pd.DataFrame(results)
     results_df = results_df.sort_values("edge", ascending=False)
 
+    # Cap at top 2 recommended picks to keep total volume low
+    rec_mask = results_df["recommended"]
+    if rec_mask.sum() > 2:
+        rec_indices = results_df[rec_mask].index[:2]
+        results_df.loc[~results_df.index.isin(rec_indices), "recommended"] = False
+
     recommended = results_df[results_df["recommended"]].shape[0]
     log.info(f"Generated {len(results_df)} predictions, {recommended} recommended picks")
 

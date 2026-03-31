@@ -178,19 +178,25 @@ def _predict_totals(
             "edge": round(edge, 4),
             "edge_pct": f"{edge * 100:.1f}%",
             "confidence": _confidence_label(edge),
-            "recommended": edge >= 0.06,
+            "recommended": edge >= 0.12,
             "notes": _generate_notes(game, over_prob, edge, bet_type),
         })
 
-    return pd.DataFrame(results).sort_values("edge", ascending=False)
+    results_df = pd.DataFrame(results).sort_values("edge", ascending=False)
+    # Cap at top 2 recommended picks per bet type to keep total volume low
+    rec_mask = results_df["recommended"]
+    if rec_mask.sum() > 2:
+        rec_indices = results_df[rec_mask].index[:2]
+        results_df.loc[~results_df.index.isin(rec_indices), "recommended"] = False
+    return results_df
 
 
 def _confidence_label(edge: float) -> str:
-    if edge >= 0.10:
+    if edge >= 0.18:
         return "HIGH"
-    elif edge >= 0.08:
+    elif edge >= 0.15:
         return "MEDIUM"
-    elif edge >= 0.06:
+    elif edge >= 0.12:
         return "LOW"
     else:
         return "NO PLAY"

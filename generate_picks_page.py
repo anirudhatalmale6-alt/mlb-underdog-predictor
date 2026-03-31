@@ -60,14 +60,16 @@ def generate_picks_page(target_date: date = None):
         print(f"No picks. Wrote {output_path}")
         return
 
-    # Separate by bet type
-    ml_picks = [p for p in picks if p.get("bet_type", "MONEYLINE") == "MONEYLINE"]
-    fg_picks = [p for p in picks if p.get("bet_type") == "FULL GAME TOTAL"]
-    f5_picks = [p for p in picks if p.get("bet_type") == "F5 TOTAL"]
+    # Separate by bet type — only keep recommended picks
+    ml_picks = [p for p in picks if p.get("bet_type", "MONEYLINE") == "MONEYLINE" and p.get("recommended")]
+    fg_picks = [p for p in picks if p.get("bet_type") == "FULL GAME TOTAL" and p.get("recommended")]
+    f5_picks = [p for p in picks if p.get("bet_type") == "F5 TOTAL" and p.get("recommended")]
 
     # If no bet_type field (legacy), treat all as moneyline
     if not ml_picks and not fg_picks and not f5_picks:
-        ml_picks = picks
+        ml_rec = [p for p in picks if p.get("recommended")]
+        if ml_rec:
+            ml_picks = ml_rec
 
     # ── Moneyline Underdog Section ──
     if ml_picks:
@@ -83,6 +85,8 @@ def generate_picks_page(target_date: date = None):
 
     if not ml_picks and not fg_picks and not f5_picks:
         lines.append("## No Recommended Plays Today")
+        lines.append("")
+        lines.append("Games are on the schedule but no picks met the model's edge threshold today.")
         lines.append("")
 
     # Footer
@@ -113,20 +117,15 @@ def generate_picks_page(target_date: date = None):
 
 
 def _render_moneyline_section(lines: list, picks: list):
-    """Render the moneyline underdog picks section."""
-    recommended = [p for p in picks if p.get("recommended")]
-    others = [p for p in picks if not p.get("recommended")]
-
+    """Render the moneyline underdog picks section (recommended only)."""
     lines.append("## Moneyline Underdogs")
     lines.append("")
 
-    if recommended:
-        lines.append(f"### RECOMMENDED PLAYS ({len(recommended)})")
-        lines.append("")
-        lines.append("These picks have a positive edge over the market odds:")
+    if picks:
+        lines.append(f"### RECOMMENDED PLAYS ({len(picks)})")
         lines.append("")
 
-        for p in recommended:
+        for p in picks:
             team = p.get("underdog_team", "???")
             odds = p.get("underdog_odds", 0)
             prob = p.get("model_win_prob", 0)
@@ -153,44 +152,23 @@ def _render_moneyline_section(lines: list, picks: list):
             if notes:
                 lines.append(f"| Notes | {notes} |")
             lines.append("")
-    else:
-        lines.append("No recommended underdog plays today.")
-        lines.append("")
-
-    if others:
-        lines.append(f"**Other Qualifying Underdogs ({len(others)})** — below edge threshold:")
-        lines.append("")
-        lines.append("| Team | Odds | Win Prob | Edge |")
-        lines.append("|------|------|----------|------|")
-        for p in others:
-            team = p.get("underdog_team", "???")
-            odds = p.get("underdog_odds", 0)
-            prob = p.get("model_win_prob", 0)
-            edge = p.get("edge_pct", "0.0%")
-            odds_str = f"+{odds}" if odds > 0 else str(odds)
-            prob_str = f"{prob:.1%}" if isinstance(prob, float) else str(prob)
-            lines.append(f"| {team} | {odds_str} | {prob_str} | {edge} |")
-        lines.append("")
 
     lines.append("---")
     lines.append("")
 
 
 def _render_totals_section(lines: list, picks: list, title: str):
-    """Render a totals (over/under) section."""
-    recommended = [p for p in picks if p.get("recommended")]
-    others = [p for p in picks if not p.get("recommended")]
-
+    """Render a totals (over/under) section (recommended only)."""
     lines.append(f"## {title}")
     lines.append("")
 
-    if recommended:
-        lines.append(f"### RECOMMENDED PLAYS ({len(recommended)})")
+    if picks:
+        lines.append(f"### RECOMMENDED PLAYS ({len(picks)})")
         lines.append("")
         lines.append("| Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |")
         lines.append("|---------|----------|------|------|-------------|------|------------|-------|")
 
-        for p in recommended:
+        for p in picks:
             home = p.get("home_team", "")
             away = p.get("away_team", "")
             home_sp = p.get("home_sp_name", "TBD")
@@ -205,25 +183,6 @@ def _render_totals_section(lines: list, picks: list, title: str):
 
             lines.append(f"| {away} @ {home} | {away_sp} vs {home_sp} | {line} | {pick} | {prob_str} | {edge} | {conf} | {notes} |")
 
-        lines.append("")
-    else:
-        lines.append("No recommended totals plays today.")
-        lines.append("")
-
-    if others:
-        lines.append(f"**Other Games ({len(others)})** — below edge threshold:")
-        lines.append("")
-        lines.append("| Matchup | Line | Pick | Probability | Edge |")
-        lines.append("|---------|------|------|-------------|------|")
-        for p in others:
-            home = p.get("home_team", "")
-            away = p.get("away_team", "")
-            line = p.get("line", "?")
-            pick = p.get("pick", "?")
-            prob = p.get("model_prob", 0)
-            edge = p.get("edge_pct", "")
-            prob_str = f"{prob:.1%}" if isinstance(prob, float) else str(prob)
-            lines.append(f"| {away} @ {home} | {line} | {pick} | {prob_str} | {edge} |")
         lines.append("")
 
     lines.append("---")

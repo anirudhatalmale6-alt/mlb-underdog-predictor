@@ -1,0 +1,32 @@
+bet_type,game_date,home_team,away_team,underdog_team,home_sp_name,away_sp_name,underdog_odds,market_implied_prob,model_win_prob,edge,edge_pct,kelly_fraction,confidence,recommended,notes,pick,line,model_prob
+MONEYLINE,2026-03-31,TOR,COL,COL,Max Scherzer,Ryan Feltner,224.0,0.3086,0.5814,0.2728,27.3%,0.3946,HIGH,True,Strong value play,,,
+MONEYLINE,2026-03-31,PHI,WSH,WSH,Andrew Painter,PJ Poulin,155.0,0.3922,0.6382,0.246,24.6%,0.4047,HIGH,True,Underdog SP has better ERA; Favorite on 3L skid; Strong value play,,,
+MONEYLINE,2026-03-31,HOU,BOS,BOS,Hunter Brown,Brayan Bello,130.0,0.4348,0.6757,0.2409,24.1%,0.4262,HIGH,False,Facing elite SP; Favorite on 3L skid; Strong value play,,,
+MONEYLINE,2026-03-31,STL,NYM,STL,Andre Pallante,Kodai Senga,139.0,0.4184,0.586,0.1676,16.8%,0.2882,HIGH,False,Strong value play; Home underdog,,,
+MONEYLINE,2026-03-31,LAD,CLE,CLE,Shohei Ohtani,Tanner Bibee,203.0,0.33,0.2994,-0.0306,-3.1%,0.0,NO PLAY,False,Standard play,,,
+FULL GAME TOTAL,2026-03-31,MIL,TB,,Brandon Woodruff,Shane McClanahan,,,,0.3525,35.3%,,HIGH,True,High-scoring matchup; Strong value,UNDER,7.5,0.8525
+FULL GAME TOTAL,2026-03-31,MIA,CWS,,Janson Junk,Erick Fedde,,,,0.2936,29.4%,,HIGH,True,Pitcher-friendly park; Strong value,UNDER,8.5,0.7936
+FULL GAME TOTAL,2026-03-31,PHI,WSH,,Andrew Painter,PJ Poulin,,,,0.1968,19.7%,,HIGH,False,High-scoring matchup; Strong SP matchup; Strong value,UNDER,9.0,0.6968
+FULL GAME TOTAL,2026-03-31,CHC,LAA,,Jameson Taillon,José Soriano,,,,0.1498,15.0%,,LOW,False,High-scoring matchup; Strong SP matchup; Strong value,UNDER,7.0,0.6498
+FULL GAME TOTAL,2026-03-31,STL,NYM,,Andre Pallante,Kodai Senga,,,,0.1359,13.6%,,LOW,False,High-scoring matchup; Strong value,UNDER,8.5,0.6359
+FULL GAME TOTAL,2026-03-31,SD,SF,,Germán Márquez,Logan Webb,,,,0.1012,10.1%,,NO PLAY,False,Pitcher-friendly park; Low-scoring matchup; Weak SP matchup; Strong value,OVER,7.5,0.6012
+FULL GAME TOTAL,2026-03-31,TOR,COL,,Max Scherzer,Ryan Feltner,,,,0.0921,9.2%,,NO PLAY,False,High-scoring matchup; Strong value,UNDER,8.5,0.5921
+FULL GAME TOTAL,2026-03-31,CIN,PIT,,Brandon Williamson,Bubba Chandler,,,,0.0812,8.1%,,NO PLAY,False,Hitter-friendly park; Low-scoring matchup; Strong value,OVER,9.0,0.5812
+FULL GAME TOTAL,2026-03-31,LAD,CLE,,Shohei Ohtani,Tanner Bibee,,,,0.0734,7.3%,,NO PLAY,False,Standard play,OVER,8.0,0.5734
+FULL GAME TOTAL,2026-03-31,HOU,BOS,,Hunter Brown,Brayan Bello,,,,0.0654,6.5%,,NO PLAY,False,Strong SP matchup,OVER,7.5,0.5654
+FULL GAME TOTAL,2026-03-31,BAL,TEX,,Zach Eflin,TBD,,,,0.0493,4.9%,,NO PLAY,False,Standard play,OVER,8.0,0.5493
+FULL GAME TOTAL,2026-03-31,SEA,NYY,,Logan Gilbert,Max Fried,,,,0.0372,3.7%,,NO PLAY,False,Pitcher-friendly park; Strong SP matchup,UNDER,7.0,0.5372
+FULL GAME TOTAL,2026-03-31,ARI,DET,,Brandon Pfaadt,Casey Mize,,,,0.0301,3.0%,,NO PLAY,False,Hitter-friendly park,UNDER,9.0,0.5301
+F5 TOTAL,2026-03-31,CIN,PIT,,Brandon Williamson,Bubba Chandler,,,,0.3417,34.2%,,HIGH,True,Hitter-friendly park; Low-scoring matchup; Strong value,OVER,5.0,0.8417
+F5 TOTAL,2026-03-31,SD,SF,,Germán Márquez,Logan Webb,,,,0.333,33.3%,,HIGH,True,Pitcher-friendly park; Low-scoring matchup; Weak SP matchup; Strong value,OVER,4.1,0.833
+F5 TOTAL,2026-03-31,STL,NYM,,Andre Pallante,Kodai Senga,,,,0.3164,31.6%,,HIGH,False,High-scoring matchup; Strong value,UNDER,4.7,0.8164
+F5 TOTAL,2026-03-31,MIL,TB,,Brandon Woodruff,Shane McClanahan,,,,0.2874,28.7%,,HIGH,False,High-scoring matchup; Strong value,UNDER,4.1,0.7874
+F5 TOTAL,2026-03-31,PHI,WSH,,Andrew Painter,PJ Poulin,,,,0.2545,25.4%,,HIGH,False,High-scoring matchup; Strong SP matchup; Strong value,UNDER,5.0,0.7545
+F5 TOTAL,2026-03-31,CHC,LAA,,Jameson Taillon,José Soriano,,,,0.2428,24.3%,,HIGH,False,High-scoring matchup; Strong SP matchup; Strong value,UNDER,3.9,0.7428
+F5 TOTAL,2026-03-31,MIA,CWS,,Janson Junk,Erick Fedde,,,,0.1145,11.5%,,NO PLAY,False,Pitcher-friendly park; Strong value,UNDER,4.7,0.6145
+F5 TOTAL,2026-03-31,BAL,TEX,,Zach Eflin,TBD,,,,0.0907,9.1%,,NO PLAY,False,Strong value,UNDER,4.4,0.5907
+F5 TOTAL,2026-03-31,SEA,NYY,,Logan Gilbert,Max Fried,,,,0.0837,8.4%,,NO PLAY,False,Pitcher-friendly park; Strong SP matchup; Strong value,OVER,3.9,0.5837
+F5 TOTAL,2026-03-31,LAD,CLE,,Shohei Ohtani,Tanner Bibee,,,,0.0663,6.6%,,NO PLAY,False,Standard play,OVER,4.4,0.5663
+F5 TOTAL,2026-03-31,HOU,BOS,,Hunter Brown,Brayan Bello,,,,0.0651,6.5%,,NO PLAY,False,Strong SP matchup,UNDER,4.1,0.5651
+F5 TOTAL,2026-03-31,ARI,DET,,Brandon Pfaadt,Casey Mize,,,,0.0281,2.8%,,NO PLAY,False,Hitter-friendly park,OVER,5.0,0.5281
+F5 TOTAL,2026-03-31,TOR,COL,,Max Scherzer,Ryan Feltner,,,,0.0232,2.3%,,NO PLAY,False,High-scoring matchup,OVER,4.7,0.5232

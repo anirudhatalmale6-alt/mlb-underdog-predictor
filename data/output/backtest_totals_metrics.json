@@ -1,0 +1,10 @@
+{
+  "full_game": {
+    "accuracy": 0.5591,
+    "n_games": 9691
+  },
+  "f5": {
+    "accuracy": 0.5607,
+    "n_games": 9691
+  }
+}

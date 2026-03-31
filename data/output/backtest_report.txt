@@ -1,0 +1,35 @@
+============================================================
+  MLB UNDERDOG PREDICTOR — BACKTEST REPORT
+============================================================
+
+  Total games evaluated:     3738
+  Model accuracy:            56.0%
+  Actual underdog win rate:  40.2%
+  Brier score:               0.2551
+
+  ── ROI (Flat $100 Bets on All Qualifying Underdogs) ──
+  Total bets:      3738
+  Wins:            1501
+  Hit rate:        40.2%
+  Total wagered:   $373,800.00
+  Total returned:  $394,331.00
+  Profit/Loss:     $20,531.00
+  ROI:             5.5%
+
+  ── ROI (Edge >= 3% Threshold Only) ──
+  Total picks:     1567
+  Hit rate:        38.5%
+  ROI:             1.5%
+  Profit/Loss:     $2,379.00
+
+  ── Per-Season Breakdown ──
+  2022: 1278 games, accuracy=56.5%, hit_rate=37.9%, ROI=0.2%
+  2023: 1255 games, accuracy=55.5%, hit_rate=41.6%, ROI=9.3%
+  2024: 1205 games, accuracy=56.1%, hit_rate=41.1%, ROI=7.1%
+
+  ── Performance by Odds Range ──
+  +130_to_+150: 1402 games, hit_rate=43.7%, model_acc=53.1%
+  +150_to_+180: 1271 games, hit_rate=41.9%, model_acc=54.1%
+  +180_to_+210: 664 games, hit_rate=34.6%, model_acc=59.8%
+  +210_to_+250: 393 games, hit_rate=31.8%, model_acc=65.6%
+============================================================
