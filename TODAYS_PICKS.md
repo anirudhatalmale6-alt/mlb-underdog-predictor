@@ -1,32 +1,32 @@
-# MLB Picks - Tuesday, March 31, 2026
+# MLB Picks - Wednesday, April 01, 2026
 
-*Last updated: 2026-03-31 02:55 PM ET*
+*Last updated: 2026-04-01 02:59 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (2)
 
-#### COL (+224.0)
+#### STL (+141.0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | COL @ TOR |
-| Starting Pitchers | Ryan Feltner vs Max Scherzer |
-| Model Win Probability | 58.1% |
-| Edge Over Market | 27.3% |
+| Matchup | NYM @ STL |
+| Starting Pitchers | Freddy Peralta vs Matthew Liberatore |
+| Model Win Probability | 75.1% |
+| Edge Over Market | 33.6% |
 | Confidence | HIGH |
-| Notes | Strong value play |
+| Notes | Underdog SP has better ERA; Strong value play; Home underdog |
 
-#### WSH (+159.0)
+#### WSH (+226.0)
 
 | Stat | Value |
 |------|-------|
 | Matchup | WSH @ PHI |
-| Starting Pitchers | PJ Poulin vs Andrew Painter |
-| Model Win Probability | 64.3% |
+| Starting Pitchers | Cade Cavalli vs Cristopher Sánchez |
+| Model Win Probability | 56.4% |
 | Edge Over Market | 25.7% |
 | Confidence | HIGH |
-| Notes | Underdog SP has better ERA; Favorite on 3L skid; Strong value play |
+| Notes | Facing elite SP; Strong value play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TB @ MIL | Shane McClanahan vs Brandon Woodruff | 7.5 | UNDER | 85.2% | 35.3% | HIGH | High-scoring matchup; Strong value |
-| CWS @ MIA | Erick Fedde vs Janson Junk | 8.5 | UNDER | 79.4% | 29.4% | HIGH | Pitcher-friendly park; Strong value |
+| TB @ MIL | Drew Rasmussen vs Jacob Misiorowski | 7.0 | UNDER | 73.4% | 23.4% | HIGH | High-scoring matchup; Strong SP matchup; Strong value |
+| BOS @ HOU | Garrett Crochet vs Mike Burrows | 7.0 | UNDER | 68.1% | 18.1% | HIGH | Strong value |
 
 ---
 
@@ -47,8 +47,8 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| PIT @ CIN | Bubba Chandler vs Brandon Williamson | 5.0 | OVER | 84.2% | 34.2% | HIGH | Hitter-friendly park; Low-scoring matchup; Strong value |
-| SF @ SD | Logan Webb vs Germán Márquez | 4.1 | OVER | 83.3% | 33.3% | HIGH | Pitcher-friendly park; Low-scoring matchup; Weak SP matchup; Strong value |
+| MIN @ KC | Joe Ryan vs Noah Cameron | 4.7 | OVER | 84.1% | 34.1% | HIGH | Low-scoring matchup; Strong SP matchup; Strong value |
+| SF @ SD | Adrian Houser vs Nick Pivetta | 4.4 | OVER | 78.4% | 28.4% | HIGH | Pitcher-friendly park; Low-scoring matchup; Weak SP matchup; Strong value |
 
 ---
 
