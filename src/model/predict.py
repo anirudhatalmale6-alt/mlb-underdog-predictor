@@ -46,12 +46,19 @@ def generate_predictions(
     X = df[available_cols].fillna(0)
 
     # Predict
-    probs = model.predict_proba(X)[:, 1]
+    raw_probs = model.predict_proba(X)[:, 1]
+
+    # Dampen probabilities toward market line to reduce overconfidence
+    # Early season stats are noisy — pull predictions toward the prior
+    DAMPEN = 0.30  # blend 30% toward market implied prob
+    probs = raw_probs
 
     # Build output
     results = []
     for i, game in enumerate(games_with_features):
-        model_prob = float(probs[i])
+        raw_prob = float(probs[i])
+        market_prior = american_to_implied(game.get("underdog_odds", 150))
+        model_prob = raw_prob * (1 - DAMPEN) + market_prior * DAMPEN
         underdog_odds = game.get("underdog_odds", 150)
         market_prob = american_to_implied(underdog_odds)
         edge = model_prob - market_prob
@@ -81,10 +88,10 @@ def generate_predictions(
     results_df = pd.DataFrame(results)
     results_df = results_df.sort_values("edge", ascending=False)
 
-    # Cap at top 2 recommended picks to keep total volume low
+    # Cap at top 1 recommended pick to keep total volume low
     rec_mask = results_df["recommended"]
-    if rec_mask.sum() > 2:
-        rec_indices = results_df[rec_mask].index[:2]
+    if rec_mask.sum() > 1:
+        rec_indices = results_df[rec_mask].index[:1]
         results_df.loc[~results_df.index.isin(rec_indices), "recommended"] = False
 
     recommended = results_df[results_df["recommended"]].shape[0]

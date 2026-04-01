@@ -148,7 +148,12 @@ def _predict_totals(
 
     df = pd.DataFrame(games)
     X = df[available_cols].fillna(0)
-    probs = model.predict_proba(X)[:, 1]  # P(over)
+    raw_probs = model.predict_proba(X)[:, 1]  # P(over)
+
+    # Dampen probabilities toward 0.5 to reduce overconfidence
+    # Early season stats are noisy, so pull predictions toward the prior
+    DAMPEN = 0.35  # blend 35% toward 0.5 (higher = more conservative)
+    probs = raw_probs * (1 - DAMPEN) + 0.5 * DAMPEN
 
     results = []
     for i, game in enumerate(games):
@@ -178,15 +183,15 @@ def _predict_totals(
             "edge": round(edge, 4),
             "edge_pct": f"{edge * 100:.1f}%",
             "confidence": _confidence_label(edge),
-            "recommended": edge >= 0.12,
+            "recommended": edge >= 0.08,
             "notes": _generate_notes(game, over_prob, edge, bet_type),
         })
 
     results_df = pd.DataFrame(results).sort_values("edge", ascending=False)
-    # Cap at top 2 recommended picks per bet type to keep total volume low
+    # Cap at top 1 recommended pick per bet type
     rec_mask = results_df["recommended"]
-    if rec_mask.sum() > 2:
-        rec_indices = results_df[rec_mask].index[:2]
+    if rec_mask.sum() > 1:
+        rec_indices = results_df[rec_mask].index[:1]
         results_df.loc[~results_df.index.isin(rec_indices), "recommended"] = False
     return results_df
 

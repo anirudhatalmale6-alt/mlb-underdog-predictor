@@ -1,38 +1,36 @@
 bet_type,game_date,home_team,away_team,underdog_team,home_sp_name,away_sp_name,underdog_odds,market_implied_prob,model_win_prob,edge,edge_pct,kelly_fraction,confidence,recommended,notes,pick,line,model_prob
-MONEYLINE,2026-04-01,STL,NYM,STL,Matthew Liberatore,Freddy Peralta,141.0,0.4149,0.7511,0.3361,33.6%,0.5745,HIGH,True,Underdog SP has better ERA; Strong value play; Home underdog,,,
-MONEYLINE,2026-04-01,PHI,WSH,WSH,Cristopher Sánchez,Cade Cavalli,226.0,0.3067,0.5635,0.2567,25.7%,0.3703,HIGH,True,Facing elite SP; Strong value play,,,
-MONEYLINE,2026-04-01,CHC,LAA,LAA,Matthew Boyd,Yusei Kikuchi,140.0,0.4167,0.669,0.2524,25.2%,0.4326,HIGH,False,Underdog SP has better ERA; Strong value play,,,
-MONEYLINE,2026-04-01,SD,SF,SF,Nick Pivetta,Adrian Houser,130.0,0.4348,0.6431,0.2083,20.8%,0.3686,HIGH,False,Underdog SP has better ERA; Strong value play,,,
-MONEYLINE,2026-04-01,CIN,PIT,CIN,Andrew Abbott,Paul Skenes,133.0,0.4292,0.626,0.1969,19.7%,0.3449,HIGH,False,Underdog SP has better ERA; Strong value play; Home underdog,,,
-MONEYLINE,2026-04-01,TOR,COL,COL,Kevin Gausman,Kyle Freeland,239.0,0.295,0.4826,0.1877,18.8%,0.2662,HIGH,False,Facing elite SP; Strong value play,,,
-MONEYLINE,2026-04-01,MIA,CWS,CWS,Sandy Alcantara,Shane Smith,131.0,0.4329,0.5209,0.088,8.8%,0.1552,MEDIUM,False,Facing elite SP; Strong value play,,,
-MONEYLINE,2026-04-01,ARI,DET,ARI,Zac Gallen,Tarik Skubal,140.0,0.4167,0.4703,0.0536,5.4%,0.0919,MEDIUM,False,Facing elite SP; Favorite on 3L skid; Good value; Home underdog,,,
-MONEYLINE,2026-04-01,LAD,CLE,CLE,Yoshinobu Yamamoto,Gavin Williams,222.0,0.3106,0.3082,-0.0023,-0.2%,0.0,NO PLAY,False,Facing elite SP,,,
-FULL GAME TOTAL,2026-04-01,MIL,TB,,Jacob Misiorowski,Drew Rasmussen,,,,0.2342,23.4%,,HIGH,True,High-scoring matchup; Strong SP matchup; Strong value,UNDER,7.0,0.7342
-FULL GAME TOTAL,2026-04-01,HOU,BOS,,Mike Burrows,Garrett Crochet,,,,0.1809,18.1%,,HIGH,True,Strong value,UNDER,7.0,0.6809
-FULL GAME TOTAL,2026-04-01,MIA,CWS,,Sandy Alcantara,Shane Smith,,,,0.1395,14.0%,,LOW,False,Pitcher-friendly park; Weak SP matchup; Strong value,UNDER,7.5,0.6395
-FULL GAME TOTAL,2026-04-01,SD,SF,,Nick Pivetta,Adrian Houser,,,,0.1381,13.8%,,LOW,False,Pitcher-friendly park; Low-scoring matchup; Weak SP matchup; Strong value,OVER,8.0,0.6381
-FULL GAME TOTAL,2026-04-01,CHC,LAA,,Matthew Boyd,Yusei Kikuchi,,,,0.129,12.9%,,LOW,False,Weak SP matchup; Strong value,UNDER,6.0,0.629
-FULL GAME TOTAL,2026-04-01,BAL,TEX,,Trevor Rogers,Nathan Eovaldi,,,,0.1141,11.4%,,NO PLAY,False,Strong value,UNDER,8.5,0.6141
-FULL GAME TOTAL,2026-04-01,KC,MIN,,Noah Cameron,Joe Ryan,,,,0.0996,10.0%,,NO PLAY,False,Low-scoring matchup; Strong SP matchup; Strong value,OVER,8.5,0.5996
-FULL GAME TOTAL,2026-04-01,CIN,PIT,,Andrew Abbott,Paul Skenes,,,,0.0952,9.5%,,NO PLAY,False,Hitter-friendly park; Low-scoring matchup; Weak SP matchup; Strong value,OVER,7.5,0.5952
-FULL GAME TOTAL,2026-04-01,LAD,CLE,,Yoshinobu Yamamoto,Gavin Williams,,,,0.0542,5.4%,,NO PLAY,False,Low-scoring matchup,OVER,8.0,0.5542
-FULL GAME TOTAL,2026-04-01,STL,NYM,,Matthew Liberatore,Freddy Peralta,,,,0.0539,5.4%,,NO PLAY,False,Standard play,UNDER,7.5,0.5539
-FULL GAME TOTAL,2026-04-01,SEA,NYY,,George Kirby,Cam Schlittler,,,,0.0456,4.6%,,NO PLAY,False,Pitcher-friendly park; Strong SP matchup,UNDER,7.0,0.5456
-FULL GAME TOTAL,2026-04-01,PHI,WSH,,Cristopher Sánchez,Cade Cavalli,,,,0.0206,2.1%,,NO PLAY,False,Strong SP matchup,OVER,8.0,0.5206
-FULL GAME TOTAL,2026-04-01,ARI,DET,,Zac Gallen,Tarik Skubal,,,,0.0182,1.8%,,NO PLAY,False,Hitter-friendly park,UNDER,7.5,0.5182
-FULL GAME TOTAL,2026-04-01,TOR,COL,,Kevin Gausman,Kyle Freeland,,,,0.0036,0.4%,,NO PLAY,False,Strong SP matchup,UNDER,7.5,0.5036
-F5 TOTAL,2026-04-01,KC,MIN,,Noah Cameron,Joe Ryan,,,,0.3407,34.1%,,HIGH,True,Low-scoring matchup; Strong SP matchup; Strong value,OVER,4.7,0.8407
-F5 TOTAL,2026-04-01,SD,SF,,Nick Pivetta,Adrian Houser,,,,0.2843,28.4%,,HIGH,True,Pitcher-friendly park; Low-scoring matchup; Weak SP matchup; Strong value,OVER,4.4,0.7843
-F5 TOTAL,2026-04-01,MIL,TB,,Jacob Misiorowski,Drew Rasmussen,,,,0.1891,18.9%,,HIGH,False,High-scoring matchup; Strong SP matchup; Strong value,UNDER,3.9,0.6891
-F5 TOTAL,2026-04-01,SEA,NYY,,George Kirby,Cam Schlittler,,,,0.1753,17.5%,,MEDIUM,False,Pitcher-friendly park; Strong SP matchup; Strong value,OVER,3.9,0.6753
-F5 TOTAL,2026-04-01,BAL,TEX,,Trevor Rogers,Nathan Eovaldi,,,,0.1536,15.4%,,MEDIUM,False,Strong value,UNDER,4.7,0.6536
-F5 TOTAL,2026-04-01,CIN,PIT,,Andrew Abbott,Paul Skenes,,,,0.1221,12.2%,,LOW,False,Hitter-friendly park; Low-scoring matchup; Weak SP matchup; Strong value,OVER,4.1,0.6221
-F5 TOTAL,2026-04-01,STL,NYM,,Matthew Liberatore,Freddy Peralta,,,,0.1149,11.5%,,NO PLAY,False,Strong value,UNDER,4.1,0.6149
-F5 TOTAL,2026-04-01,CHC,LAA,,Matthew Boyd,Yusei Kikuchi,,,,0.1093,10.9%,,NO PLAY,False,Weak SP matchup; Strong value,UNDER,3.3,0.6093
-F5 TOTAL,2026-04-01,HOU,BOS,,Mike Burrows,Garrett Crochet,,,,0.1091,10.9%,,NO PLAY,False,Strong value,OVER,3.9,0.6091
-F5 TOTAL,2026-04-01,MIA,CWS,,Sandy Alcantara,Shane Smith,,,,0.075,7.5%,,NO PLAY,False,Pitcher-friendly park; Weak SP matchup,UNDER,4.1,0.575
-F5 TOTAL,2026-04-01,PHI,WSH,,Cristopher Sánchez,Cade Cavalli,,,,0.049,4.9%,,NO PLAY,False,Strong SP matchup,OVER,4.4,0.549
-F5 TOTAL,2026-04-01,LAD,CLE,,Yoshinobu Yamamoto,Gavin Williams,,,,0.0406,4.1%,,NO PLAY,False,Low-scoring matchup,OVER,4.4,0.5406
-F5 TOTAL,2026-04-01,ARI,DET,,Zac Gallen,Tarik Skubal,,,,0.0302,3.0%,,NO PLAY,False,Hitter-friendly park,UNDER,4.1,0.5302
-F5 TOTAL,2026-04-01,TOR,COL,,Kevin Gausman,Kyle Freeland,,,,0.0298,3.0%,,NO PLAY,False,Strong SP matchup,UNDER,4.1,0.5298
+MONEYLINE,2026-04-01,STL,NYM,STL,Matthew Liberatore,Freddy Peralta,140.0,0.4167,0.6507,0.2341,23.4%,0.4013,HIGH,True,Underdog SP has better ERA; Strong value play; Home underdog,,,
+MONEYLINE,2026-04-01,PHI,WSH,WSH,Cristopher Sánchez,Cade Cavalli,226.0,0.3067,0.4865,0.1797,18.0%,0.2592,HIGH,False,Facing elite SP; Strong value play,,,
+MONEYLINE,2026-04-01,CHC,LAA,LAA,Matthew Boyd,Yusei Kikuchi,138.0,0.4202,0.5802,0.16,16.0%,0.2759,HIGH,False,Underdog SP has better ERA; Strong value play,,,
+MONEYLINE,2026-04-01,SD,SF,SF,Nick Pivetta,Adrian Houser,131.0,0.4329,0.5704,0.1375,13.8%,0.2425,HIGH,False,Underdog SP has better ERA; Strong value play,,,
+MONEYLINE,2026-04-01,TOR,COL,COL,Kevin Gausman,Kyle Freeland,240.0,0.2941,0.4139,0.1198,12.0%,0.1697,HIGH,False,Facing elite SP; Strong value play,,,
+MONEYLINE,2026-04-01,ARI,DET,ARI,Zac Gallen,Tarik Skubal,138.0,0.4202,0.4462,0.0261,2.6%,0.045,NO PLAY,False,Facing elite SP; Favorite on 3L skid; Home underdog,,,
+MONEYLINE,2026-04-01,LAD,CLE,CLE,Yoshinobu Yamamoto,Gavin Williams,222.0,0.3106,0.3089,-0.0016,-0.2%,0.0,NO PLAY,False,Facing elite SP,,,
+FULL GAME TOTAL,2026-04-01,MIL,TB,,Jacob Misiorowski,Drew Rasmussen,,,,0.1522,15.2%,,MEDIUM,True,High-scoring matchup; Strong SP matchup; Strong value,UNDER,7.0,0.6522
+FULL GAME TOTAL,2026-04-01,HOU,BOS,,Mike Burrows,Garrett Crochet,,,,0.1176,11.8%,,NO PLAY,False,Strong value,UNDER,7.0,0.6176
+FULL GAME TOTAL,2026-04-01,MIA,CWS,,Sandy Alcantara,Shane Smith,,,,0.0907,9.1%,,NO PLAY,False,Pitcher-friendly park; Weak SP matchup; Strong value,UNDER,7.5,0.5907
+FULL GAME TOTAL,2026-04-01,SD,SF,,Nick Pivetta,Adrian Houser,,,,0.0898,9.0%,,NO PLAY,False,Pitcher-friendly park; Low-scoring matchup; Weak SP matchup; Strong value,OVER,8.0,0.5898
+FULL GAME TOTAL,2026-04-01,CHC,LAA,,Matthew Boyd,Yusei Kikuchi,,,,0.0838,8.4%,,NO PLAY,False,Weak SP matchup; Strong value,UNDER,6.0,0.5838
+FULL GAME TOTAL,2026-04-01,BAL,TEX,,Trevor Rogers,Nathan Eovaldi,,,,0.0742,7.4%,,NO PLAY,False,Standard play,UNDER,8.5,0.5742
+FULL GAME TOTAL,2026-04-01,KC,MIN,,Noah Cameron,Joe Ryan,,,,0.0647,6.5%,,NO PLAY,False,Low-scoring matchup; Strong SP matchup,OVER,8.5,0.5647
+FULL GAME TOTAL,2026-04-01,CIN,PIT,,Andrew Abbott,Paul Skenes,,,,0.0619,6.2%,,NO PLAY,False,Hitter-friendly park; Low-scoring matchup; Weak SP matchup,OVER,7.5,0.5619
+FULL GAME TOTAL,2026-04-01,LAD,CLE,,Yoshinobu Yamamoto,Gavin Williams,,,,0.0352,3.5%,,NO PLAY,False,Low-scoring matchup,OVER,8.0,0.5352
+FULL GAME TOTAL,2026-04-01,STL,NYM,,Matthew Liberatore,Freddy Peralta,,,,0.035,3.5%,,NO PLAY,False,Standard play,UNDER,7.5,0.535
+FULL GAME TOTAL,2026-04-01,SEA,NYY,,George Kirby,Cam Schlittler,,,,0.0297,3.0%,,NO PLAY,False,Pitcher-friendly park; Strong SP matchup,UNDER,7.0,0.5297
+FULL GAME TOTAL,2026-04-01,PHI,WSH,,Cristopher Sánchez,Cade Cavalli,,,,0.0134,1.3%,,NO PLAY,False,Strong SP matchup,OVER,8.0,0.5134
+FULL GAME TOTAL,2026-04-01,ARI,DET,,Zac Gallen,Tarik Skubal,,,,0.0118,1.2%,,NO PLAY,False,Hitter-friendly park,UNDER,7.5,0.5118
+FULL GAME TOTAL,2026-04-01,TOR,COL,,Kevin Gausman,Kyle Freeland,,,,0.0023,0.2%,,NO PLAY,False,Strong SP matchup,UNDER,7.5,0.5023
+F5 TOTAL,2026-04-01,KC,MIN,,Noah Cameron,Joe Ryan,,,,0.2215,22.1%,,HIGH,True,Low-scoring matchup; Strong SP matchup; Strong value,OVER,4.7,0.7215
+F5 TOTAL,2026-04-01,SD,SF,,Nick Pivetta,Adrian Houser,,,,0.1848,18.5%,,HIGH,False,Pitcher-friendly park; Low-scoring matchup; Weak SP matchup; Strong value,OVER,4.4,0.6848
+F5 TOTAL,2026-04-01,MIL,TB,,Jacob Misiorowski,Drew Rasmussen,,,,0.1229,12.3%,,LOW,False,High-scoring matchup; Strong SP matchup; Strong value,UNDER,3.9,0.6229
+F5 TOTAL,2026-04-01,SEA,NYY,,George Kirby,Cam Schlittler,,,,0.1139,11.4%,,NO PLAY,False,Pitcher-friendly park; Strong SP matchup; Strong value,OVER,3.9,0.6139
+F5 TOTAL,2026-04-01,BAL,TEX,,Trevor Rogers,Nathan Eovaldi,,,,0.0998,10.0%,,NO PLAY,False,Strong value,UNDER,4.7,0.5998
+F5 TOTAL,2026-04-01,CIN,PIT,,Andrew Abbott,Paul Skenes,,,,0.0793,7.9%,,NO PLAY,False,Hitter-friendly park; Low-scoring matchup; Weak SP matchup,OVER,4.1,0.5793
+F5 TOTAL,2026-04-01,STL,NYM,,Matthew Liberatore,Freddy Peralta,,,,0.0747,7.5%,,NO PLAY,False,Standard play,UNDER,4.1,0.5747
+F5 TOTAL,2026-04-01,CHC,LAA,,Matthew Boyd,Yusei Kikuchi,,,,0.071,7.1%,,NO PLAY,False,Weak SP matchup,UNDER,3.3,0.571
+F5 TOTAL,2026-04-01,HOU,BOS,,Mike Burrows,Garrett Crochet,,,,0.0709,7.1%,,NO PLAY,False,Standard play,OVER,3.9,0.5709
+F5 TOTAL,2026-04-01,MIA,CWS,,Sandy Alcantara,Shane Smith,,,,0.0487,4.9%,,NO PLAY,False,Pitcher-friendly park; Weak SP matchup,UNDER,4.1,0.5487
+F5 TOTAL,2026-04-01,PHI,WSH,,Cristopher Sánchez,Cade Cavalli,,,,0.0318,3.2%,,NO PLAY,False,Strong SP matchup,OVER,4.4,0.5318
+F5 TOTAL,2026-04-01,LAD,CLE,,Yoshinobu Yamamoto,Gavin Williams,,,,0.0264,2.6%,,NO PLAY,False,Low-scoring matchup,OVER,4.4,0.5264
+F5 TOTAL,2026-04-01,ARI,DET,,Zac Gallen,Tarik Skubal,,,,0.0196,2.0%,,NO PLAY,False,Hitter-friendly park,UNDER,4.1,0.5196
+F5 TOTAL,2026-04-01,TOR,COL,,Kevin Gausman,Kyle Freeland,,,,0.0194,1.9%,,NO PLAY,False,Strong SP matchup,UNDER,4.1,0.5194

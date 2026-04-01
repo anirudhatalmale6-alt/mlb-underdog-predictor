@@ -1,54 +1,41 @@
 # MLB Picks - Wednesday, April 01, 2026
 
-*Last updated: 2026-04-01 02:59 PM ET*
+*Last updated: 2026-04-01 03:26 PM ET*
 
 ## Moneyline Underdogs
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (1)
 
-#### STL (+141.0)
+#### STL (+140.0)
 
 | Stat | Value |
 |------|-------|
 | Matchup | NYM @ STL |
 | Starting Pitchers | Freddy Peralta vs Matthew Liberatore |
-| Model Win Probability | 75.1% |
-| Edge Over Market | 33.6% |
+| Model Win Probability | 65.1% |
+| Edge Over Market | 23.4% |
 | Confidence | HIGH |
 | Notes | Underdog SP has better ERA; Strong value play; Home underdog |
-
-#### WSH (+226.0)
-
-| Stat | Value |
-|------|-------|
-| Matchup | WSH @ PHI |
-| Starting Pitchers | Cade Cavalli vs Cristopher Sánchez |
-| Model Win Probability | 56.4% |
-| Edge Over Market | 25.7% |
-| Confidence | HIGH |
-| Notes | Facing elite SP; Strong value play |
 
 ---
 
 ## Full Game Over/Under
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (1)
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TB @ MIL | Drew Rasmussen vs Jacob Misiorowski | 7.0 | UNDER | 73.4% | 23.4% | HIGH | High-scoring matchup; Strong SP matchup; Strong value |
-| BOS @ HOU | Garrett Crochet vs Mike Burrows | 7.0 | UNDER | 68.1% | 18.1% | HIGH | Strong value |
+| TB @ MIL | Drew Rasmussen vs Jacob Misiorowski | 7.0 | UNDER | 65.2% | 15.2% | MEDIUM | High-scoring matchup; Strong SP matchup; Strong value |
 
 ---
 
 ## First 5 Innings Over/Under
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (1)
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIN @ KC | Joe Ryan vs Noah Cameron | 4.7 | OVER | 84.1% | 34.1% | HIGH | Low-scoring matchup; Strong SP matchup; Strong value |
-| SF @ SD | Adrian Houser vs Nick Pivetta | 4.4 | OVER | 78.4% | 28.4% | HIGH | Pitcher-friendly park; Low-scoring matchup; Weak SP matchup; Strong value |
+| MIN @ KC | Joe Ryan vs Noah Cameron | 4.7 | OVER | 72.2% | 22.1% | HIGH | Low-scoring matchup; Strong SP matchup; Strong value |
 
 ---
 
