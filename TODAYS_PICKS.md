@@ -1,21 +1,21 @@
-# MLB Picks - Wednesday, April 01, 2026
+# MLB Picks - Thursday, April 02, 2026
 
-*Last updated: 2026-04-01 03:26 PM ET*
+*Last updated: 2026-04-02 02:46 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-#### STL (+140.0)
+#### MIN (+134.0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | NYM @ STL |
-| Starting Pitchers | Freddy Peralta vs Matthew Liberatore |
-| Model Win Probability | 65.1% |
-| Edge Over Market | 23.4% |
+| Matchup | MIN @ KC |
+| Starting Pitchers | Taj Bradley vs Cole Ragans |
+| Model Win Probability | 57.9% |
+| Edge Over Market | 15.1% |
 | Confidence | HIGH |
-| Notes | Underdog SP has better ERA; Strong value play; Home underdog |
+| Notes | Underdog SP has better ERA; Favorite on 3L skid; Strong value play |
 
 ---
 
@@ -25,7 +25,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TB @ MIL | Drew Rasmussen vs Jacob Misiorowski | 7.0 | UNDER | 65.2% | 15.2% | MEDIUM | High-scoring matchup; Strong SP matchup; Strong value |
+| NYM @ SF | David Peterson vs Robbie Ray | 7.5 | OVER | 62.0% | 12.0% | NO PLAY | Pitcher-friendly park, but other factors favor OVER; Low-scoring teams, but line is set too low; Elite SPs, but line overreacts; Strong value |
 
 ---
 
@@ -35,7 +35,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIN @ KC | Joe Ryan vs Noah Cameron | 4.7 | OVER | 72.2% | 22.1% | HIGH | Low-scoring matchup; Strong SP matchup; Strong value |
+| ATL @ ARI | Reynaldo López vs Ryne Nelson | 5.0 | OVER | 66.5% | 16.5% | MEDIUM | Hitter-friendly park favors OVER; Strong value |
 
 ---
 

@@ -1,0 +1,8 @@
+bet_type,game_date,home_team,away_team,underdog_team,home_sp_name,away_sp_name,underdog_odds,market_implied_prob,model_win_prob,edge,edge_pct,kelly_fraction,confidence,recommended,notes,pick,line,model_prob
+MONEYLINE,2026-04-02,KC,MIN,MIN,Cole Ragans,Taj Bradley,134.0,0.4274,0.5786,0.1513,15.1%,0.2641,HIGH,True,Underdog SP has better ERA; Favorite on 3L skid; Strong value play,,,
+FULL GAME TOTAL,2026-04-02,SF,NYM,,Robbie Ray,David Peterson,,,,0.1199,12.0%,,NO PLAY,True,"Pitcher-friendly park, but other factors favor OVER; Low-scoring teams, but line is set too low; Elite SPs, but line overreacts; Strong value",OVER,7.5,0.6199
+FULL GAME TOTAL,2026-04-02,KC,MIN,,Cole Ragans,Taj Bradley,,,,0.1096,11.0%,,NO PLAY,False,Weak pitching matchup; Strong value,OVER,9.5,0.6096
+FULL GAME TOTAL,2026-04-02,ARI,ATL,,Ryne Nelson,Reynaldo López,,,,0.0619,6.2%,,NO PLAY,False,Hitter-friendly park favors OVER,OVER,9.0,0.5619
+F5 TOTAL,2026-04-02,ARI,ATL,,Ryne Nelson,Reynaldo López,,,,0.1653,16.5%,,MEDIUM,True,Hitter-friendly park favors OVER; Strong value,OVER,5.0,0.6653
+F5 TOTAL,2026-04-02,SF,NYM,,Robbie Ray,David Peterson,,,,0.1566,15.7%,,MEDIUM,False,"Pitcher-friendly park, but other factors favor OVER; Low-scoring teams, but line is set too low; Elite SPs, but line overreacts; Strong value",OVER,4.1,0.6566
+F5 TOTAL,2026-04-02,KC,MIN,,Cole Ragans,Taj Bradley,,,,0.0188,1.9%,,NO PLAY,False,Weak pitching matchup,OVER,5.2,0.5188
