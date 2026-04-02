@@ -208,24 +208,26 @@ def _confidence_label(edge: float) -> str:
 
 
 def _generate_notes(game: dict, over_prob: float, edge: float, bet_type: str) -> str:
+    is_over = over_prob > 0.5
     notes = []
+
     pf = game.get("park_factor", 1.0)
     if pf >= 1.04:
-        notes.append("Hitter-friendly park")
+        notes.append("Hitter-friendly park favors OVER" if is_over else "Hitter-friendly park, but other factors favor UNDER")
     elif pf <= 0.96:
-        notes.append("Pitcher-friendly park")
+        notes.append("Pitcher-friendly park, but other factors favor OVER" if is_over else "Pitcher-friendly park favors UNDER")
 
     combined_rpg = game.get("combined_rpg", 9.0)
     if combined_rpg > 10:
-        notes.append("High-scoring matchup")
+        notes.append("High-scoring teams" if is_over else "High-scoring teams, but line is inflated")
     elif combined_rpg < 7.5:
-        notes.append("Low-scoring matchup")
+        notes.append("Low-scoring teams, but line is set too low" if is_over else "Low-scoring teams")
 
     sp_era = game.get("sp_era_combined", 4.5)
     if sp_era < 3.5:
-        notes.append("Strong SP matchup")
+        notes.append("Elite SPs, but line overreacts" if is_over else "Elite SP matchup")
     elif sp_era > 5.0:
-        notes.append("Weak SP matchup")
+        notes.append("Weak pitching matchup" if is_over else "Weak pitching, but line already accounts for it")
 
     if edge >= 0.08:
         notes.append("Strong value")
