@@ -1,21 +1,21 @@
-# MLB Picks - Thursday, April 02, 2026
+# MLB Picks - Friday, April 03, 2026
 
-*Last updated: 2026-04-02 02:46 PM ET*
+*Last updated: 2026-04-03 02:37 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-#### MIN (+134.0)
+#### STL (+150.0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIN @ KC |
-| Starting Pitchers | Taj Bradley vs Cole Ragans |
-| Model Win Probability | 57.9% |
-| Edge Over Market | 15.1% |
+| Matchup | STL @ DET |
+| Starting Pitchers | Michael McGreevy vs Framber Valdez |
+| Model Win Probability | 59.6% |
+| Edge Over Market | 19.6% |
 | Confidence | HIGH |
-| Notes | Underdog SP has better ERA; Favorite on 3L skid; Strong value play |
+| Notes | Underdog SP has better ERA; Favorite on 4L skid; Strong value play |
 
 ---
 
@@ -25,7 +25,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| NYM @ SF | David Peterson vs Robbie Ray | 7.5 | OVER | 62.0% | 12.0% | NO PLAY | Pitcher-friendly park, but other factors favor OVER; Low-scoring teams, but line is set too low; Elite SPs, but line overreacts; Strong value |
+| SD @ BOS | Michael King vs Sonny Gray | 8.5 | OVER | 73.5% | 23.5% | HIGH | Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Elite SPs, but line overreacts; Strong value |
 
 ---
 
@@ -35,7 +35,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| ATL @ ARI | Reynaldo López vs Ryne Nelson | 5.0 | OVER | 66.5% | 16.5% | MEDIUM | Hitter-friendly park favors OVER; Strong value |
+| MIL @ KC | Chad Patrick vs Luinder Avila | 5.0 | UNDER | 73.2% | 23.2% | HIGH | High-scoring teams, but line is inflated; Elite SP matchup; Strong value |
 
 ---
 
