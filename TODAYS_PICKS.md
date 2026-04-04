@@ -1,21 +1,21 @@
-# MLB Picks - Friday, April 03, 2026
+# MLB Picks - Saturday, April 04, 2026
 
-*Last updated: 2026-04-03 02:37 PM ET*
+*Last updated: 2026-04-04 02:25 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-#### STL (+150.0)
+#### COL (+194.0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | STL @ DET |
-| Starting Pitchers | Michael McGreevy vs Framber Valdez |
-| Model Win Probability | 59.6% |
-| Edge Over Market | 19.6% |
-| Confidence | HIGH |
-| Notes | Underdog SP has better ERA; Favorite on 4L skid; Strong value play |
+| Matchup | PHI @ COL |
+| Starting Pitchers | Jesús Luzardo vs TBD |
+| Model Win Probability | 43.8% |
+| Edge Over Market | 9.8% |
+| Confidence | MEDIUM |
+| Notes | Underdog SP has better ERA; Favorite on 3L skid; Strong value play; Home underdog |
 
 ---
 
@@ -25,7 +25,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SD @ BOS | Michael King vs Sonny Gray | 8.5 | OVER | 73.5% | 23.5% | HIGH | Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Elite SPs, but line overreacts; Strong value |
+| SD @ BOS | Randy Vásquez vs Connelly Early | 8.0 | OVER | 71.5% | 21.4% | HIGH | Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Elite SPs, but line overreacts; Strong value |
 
 ---
 
@@ -35,7 +35,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIL @ KC | Chad Patrick vs Luinder Avila | 5.0 | UNDER | 73.2% | 23.2% | HIGH | High-scoring teams, but line is inflated; Elite SP matchup; Strong value |
+| SD @ BOS | Randy Vásquez vs Connelly Early | 4.4 | OVER | 75.7% | 25.7% | HIGH | Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Elite SPs, but line overreacts; Strong value |
 
 ---
 
