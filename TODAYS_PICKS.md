@@ -1,21 +1,21 @@
-# MLB Picks - Saturday, April 04, 2026
+# MLB Picks - Sunday, April 05, 2026
 
-*Last updated: 2026-04-04 02:25 PM ET*
+*Last updated: 2026-04-05 02:27 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-#### COL (+194.0)
+#### COL (+145.0)
 
 | Stat | Value |
 |------|-------|
 | Matchup | PHI @ COL |
-| Starting Pitchers | Jesús Luzardo vs TBD |
-| Model Win Probability | 43.8% |
-| Edge Over Market | 9.8% |
-| Confidence | MEDIUM |
-| Notes | Underdog SP has better ERA; Favorite on 3L skid; Strong value play; Home underdog |
+| Starting Pitchers | Taijuan Walker vs Tomoyuki Sugano |
+| Model Win Probability | 60.4% |
+| Edge Over Market | 19.6% |
+| Confidence | HIGH |
+| Notes | Underdog SP has better ERA; Favorite on 4L skid; Strong value play; Home underdog |
 
 ---
 
@@ -25,7 +25,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SD @ BOS | Randy Vásquez vs Connelly Early | 8.0 | OVER | 71.5% | 21.4% | HIGH | Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Elite SPs, but line overreacts; Strong value |
+| SD @ BOS | Walker Buehler vs Ranger Suarez | 9.0 | OVER | 68.8% | 18.8% | HIGH | Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Weak pitching matchup; Strong value |
 
 ---
 
@@ -35,7 +35,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SD @ BOS | Randy Vásquez vs Connelly Early | 4.4 | OVER | 75.7% | 25.7% | HIGH | Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Elite SPs, but line overreacts; Strong value |
+| SD @ BOS | Walker Buehler vs Ranger Suarez | 5.0 | OVER | 74.3% | 24.3% | HIGH | Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Weak pitching matchup; Strong value |
 
 ---
 

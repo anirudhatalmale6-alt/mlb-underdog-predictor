@@ -1,0 +1,37 @@
+bet_type,game_date,home_team,away_team,underdog_team,home_sp_name,away_sp_name,underdog_odds,market_implied_prob,model_win_prob,edge,edge_pct,kelly_fraction,confidence,recommended,notes,pick,line,model_prob
+MONEYLINE,2026-04-05,COL,PHI,COL,Tomoyuki Sugano,Taijuan Walker,145.0,0.4082,0.6043,0.1961,19.6%,0.3314,HIGH,True,Underdog SP has better ERA; Favorite on 4L skid; Strong value play; Home underdog,,,
+MONEYLINE,2026-04-05,WSH,LAD,WSH,Foster Griffin,Roki Sasaki,165.0,0.3774,0.5553,0.178,17.8%,0.2858,HIGH,False,Facing elite SP; Underdog on 4L skid; Strong value play; Home underdog,,,
+MONEYLINE,2026-04-05,BOS,SD,SD,Ranger Suarez,Walker Buehler,132.0,0.431,0.5155,0.0845,8.4%,0.1484,MEDIUM,False,Underdog SP has better ERA; Strong value play,,,
+MONEYLINE,2026-04-05,NYY,MIA,MIA,Max Fried,Chris Paddack,242.0,0.2924,0.3761,0.0837,8.4%,0.1183,MEDIUM,False,Facing elite SP; Favorite on 4L skid; Strong value play,,,
+MONEYLINE,2026-04-05,LAA,SEA,LAA,Ryan Johnson,Luis Castillo,144.0,0.4098,0.4545,0.0446,4.5%,0.0756,NO PLAY,False,Facing elite SP; Home underdog,,,
+MONEYLINE,2026-04-05,CWS,TOR,CWS,Davis Martin,Eric Lauer,139.0,0.4184,0.4528,0.0344,3.4%,0.0592,NO PLAY,False,Facing elite SP; Favorite on 3L skid; Home underdog,,,
+FULL GAME TOTAL,2026-04-05,BOS,SD,,Ranger Suarez,Walker Buehler,,,,0.1883,18.8%,,HIGH,True,"Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Weak pitching matchup; Strong value",OVER,9.0,0.6883
+FULL GAME TOTAL,2026-04-05,COL,PHI,,Tomoyuki Sugano,Taijuan Walker,,,,0.1875,18.7%,,HIGH,False,Hitter-friendly park favors OVER; Weak pitching matchup; Strong value,OVER,11.0,0.6875
+FULL GAME TOTAL,2026-04-05,ARI,ATL,,Brandon Pfaadt,Martín Pérez,,,,0.1454,14.5%,,LOW,False,Hitter-friendly park favors OVER; Strong value,OVER,9.0,0.6454
+FULL GAME TOTAL,2026-04-05,LAA,SEA,,Ryan Johnson,Luis Castillo,,,,0.1393,13.9%,,LOW,False,"Low-scoring teams, but line is set too low; Weak pitching matchup; Strong value",OVER,9.0,0.6393
+FULL GAME TOTAL,2026-04-05,WSH,LAD,,Foster Griffin,Roki Sasaki,,,,0.1356,13.6%,,LOW,False,"High-scoring teams, but line is inflated; Elite SP matchup; Strong value",UNDER,9.0,0.6356
+FULL GAME TOTAL,2026-04-05,NYY,MIA,,Max Fried,Chris Paddack,,,,0.1188,11.9%,,NO PLAY,False,"Hitter-friendly park, but other factors favor UNDER; High-scoring teams, but line is inflated; Weak pitching, but line already accounts for it; Strong value",UNDER,8.0,0.6188
+FULL GAME TOTAL,2026-04-05,DET,STL,,Keider Montero,Kyle Leahy,,,,0.0656,6.6%,,NO PLAY,False,"Weak pitching, but line already accounts for it",UNDER,8.0,0.5656
+FULL GAME TOTAL,2026-04-05,KC,MIL,,Kris Bubic,Kyle Harrison,,,,0.0589,5.9%,,NO PLAY,False,"High-scoring teams, but line is inflated; Elite SP matchup",UNDER,7.5,0.5589
+FULL GAME TOTAL,2026-04-05,CLE,CHC,,Slade Cecconi,Edward Cabrera,,,,0.0389,3.9%,,NO PLAY,False,Weak pitching matchup,OVER,7.5,0.5389
+FULL GAME TOTAL,2026-04-05,MIN,TB,,Simeon Woods Richardson,Nick Martinez,,,,0.0278,2.8%,,NO PLAY,False,"Elite SPs, but line overreacts",OVER,8.0,0.5278
+FULL GAME TOTAL,2026-04-05,CLE,CHC,,Parker Messick,Shota Imanaga,,,,0.0245,2.4%,,NO PLAY,False,Standard play,OVER,7.5,0.5245
+FULL GAME TOTAL,2026-04-05,PIT,BAL,,Braxton Ashcraft,Chris Bassitt,,,,0.0133,1.3%,,NO PLAY,False,Weak pitching matchup,OVER,8.5,0.5133
+FULL GAME TOTAL,2026-04-05,SF,NYM,,Logan Webb,Kodai Senga,,,,0.0048,0.5%,,NO PLAY,False,"Pitcher-friendly park, but other factors favor OVER; Weak pitching matchup",OVER,7.0,0.5048
+FULL GAME TOTAL,2026-04-05,CWS,TOR,,Davis Martin,Eric Lauer,,,,0.0022,0.2%,,NO PLAY,False,Standard play,UNDER,8.0,0.5022
+FULL GAME TOTAL,2026-04-05,TEX,CIN,,Jack Leiter,Chase Burns,,,,0.0015,0.1%,,NO PLAY,False,Low-scoring teams; Elite SP matchup,UNDER,7.5,0.5015
+F5 TOTAL,2026-04-05,BOS,SD,,Ranger Suarez,Walker Buehler,,,,0.2427,24.3%,,HIGH,True,"Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Weak pitching matchup; Strong value",OVER,5.0,0.7427
+F5 TOTAL,2026-04-05,LAA,SEA,,Ryan Johnson,Luis Castillo,,,,0.2136,21.4%,,HIGH,False,"Low-scoring teams, but line is set too low; Weak pitching matchup; Strong value",OVER,5.0,0.7136
+F5 TOTAL,2026-04-05,KC,MIL,,Kris Bubic,Kyle Harrison,,,,0.1521,15.2%,,MEDIUM,False,"High-scoring teams, but line is inflated; Elite SP matchup; Strong value",UNDER,4.1,0.6521
+F5 TOTAL,2026-04-05,ARI,ATL,,Brandon Pfaadt,Martín Pérez,,,,0.1178,11.8%,,NO PLAY,False,Hitter-friendly park favors OVER; Strong value,OVER,5.0,0.6178
+F5 TOTAL,2026-04-05,WSH,LAD,,Foster Griffin,Roki Sasaki,,,,0.1036,10.4%,,NO PLAY,False,"High-scoring teams, but line is inflated; Elite SP matchup; Strong value",UNDER,5.0,0.6036
+F5 TOTAL,2026-04-05,SF,NYM,,Logan Webb,Kodai Senga,,,,0.0911,9.1%,,NO PLAY,False,"Pitcher-friendly park favors UNDER; Weak pitching, but line already accounts for it; Strong value",UNDER,3.9,0.5911
+F5 TOTAL,2026-04-05,NYY,MIA,,Max Fried,Chris Paddack,,,,0.077,7.7%,,NO PLAY,False,"Hitter-friendly park, but other factors favor UNDER; High-scoring teams, but line is inflated; Weak pitching, but line already accounts for it",UNDER,4.4,0.577
+F5 TOTAL,2026-04-05,DET,STL,,Keider Montero,Kyle Leahy,,,,0.0747,7.5%,,NO PLAY,False,"Weak pitching, but line already accounts for it",UNDER,4.4,0.5747
+F5 TOTAL,2026-04-05,TEX,CIN,,Jack Leiter,Chase Burns,,,,0.0618,6.2%,,NO PLAY,False,"Low-scoring teams, but line is set too low; Elite SPs, but line overreacts",OVER,4.1,0.5618
+F5 TOTAL,2026-04-05,MIN,TB,,Simeon Woods Richardson,Nick Martinez,,,,0.0519,5.2%,,NO PLAY,False,Elite SP matchup,UNDER,4.4,0.5519
+F5 TOTAL,2026-04-05,COL,PHI,,Tomoyuki Sugano,Taijuan Walker,,,,0.0502,5.0%,,NO PLAY,False,"Hitter-friendly park, but other factors favor UNDER; Weak pitching, but line already accounts for it",UNDER,6.1,0.5502
+F5 TOTAL,2026-04-05,CWS,TOR,,Davis Martin,Eric Lauer,,,,0.0304,3.0%,,NO PLAY,False,Standard play,UNDER,4.4,0.5304
+F5 TOTAL,2026-04-05,CLE,CHC,,Slade Cecconi,Edward Cabrera,,,,0.0267,2.7%,,NO PLAY,False,"Weak pitching, but line already accounts for it",UNDER,4.1,0.5267
+F5 TOTAL,2026-04-05,CLE,CHC,,Parker Messick,Shota Imanaga,,,,0.0137,1.4%,,NO PLAY,False,Standard play,UNDER,4.1,0.5137
+F5 TOTAL,2026-04-05,PIT,BAL,,Braxton Ashcraft,Chris Bassitt,,,,0.0124,1.2%,,NO PLAY,False,"Weak pitching, but line already accounts for it",UNDER,4.7,0.5124
