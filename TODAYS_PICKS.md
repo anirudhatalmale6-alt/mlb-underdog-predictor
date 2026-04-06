@@ -1,21 +1,21 @@
-# MLB Picks - Sunday, April 05, 2026
+# MLB Picks - Monday, April 06, 2026
 
-*Last updated: 2026-04-05 02:27 PM ET*
+*Last updated: 2026-04-06 02:40 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-#### COL (+145.0)
+#### COL (+146.0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | PHI @ COL |
-| Starting Pitchers | Taijuan Walker vs Tomoyuki Sugano |
-| Model Win Probability | 60.4% |
-| Edge Over Market | 19.6% |
+| Matchup | HOU @ COL |
+| Starting Pitchers | Cody Bolton vs Ryan Feltner |
+| Model Win Probability | 55.8% |
+| Edge Over Market | 15.2% |
 | Confidence | HIGH |
-| Notes | Underdog SP has better ERA; Favorite on 4L skid; Strong value play; Home underdog |
+| Notes | Underdog SP has better ERA; Strong value play; Home underdog |
 
 ---
 
@@ -25,7 +25,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SD @ BOS | Walker Buehler vs Ranger Suarez | 9.0 | OVER | 68.8% | 18.8% | HIGH | Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Weak pitching matchup; Strong value |
+| MIL @ BOS | Brandon Woodruff vs Brayan Bello | 8.0 | UNDER | 61.9% | 11.9% | NO PLAY | Hitter-friendly park, but other factors favor UNDER; Weak pitching, but line already accounts for it; Strong value |
 
 ---
 
@@ -35,7 +35,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SD @ BOS | Walker Buehler vs Ranger Suarez | 5.0 | OVER | 74.3% | 24.3% | HIGH | Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Weak pitching matchup; Strong value |
+| HOU @ COL | Cody Bolton vs Ryan Feltner | 5.8 | UNDER | 68.0% | 18.0% | HIGH | Hitter-friendly park, but other factors favor UNDER; High-scoring teams, but line is inflated; Elite SP matchup; Strong value |
 
 ---
 

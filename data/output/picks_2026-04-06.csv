@@ -1,0 +1,29 @@
+bet_type,game_date,home_team,away_team,underdog_team,home_sp_name,away_sp_name,underdog_odds,market_implied_prob,model_win_prob,edge,edge_pct,kelly_fraction,confidence,recommended,notes,pick,line,model_prob
+MONEYLINE,2026-04-06,COL,HOU,COL,Ryan Feltner,Cody Bolton,146.0,0.4065,0.5584,0.1519,15.2%,0.2559,HIGH,True,Underdog SP has better ERA; Strong value play; Home underdog,,,
+MONEYLINE,2026-04-06,LAA,ATL,LAA,José Soriano,Chris Sale,144.0,0.4098,0.3816,-0.0283,-2.8%,0.0,NO PLAY,False,Underdog SP has better ERA; Home underdog,,,
+FULL GAME TOTAL,2026-04-06,BOS,MIL,,Brayan Bello,Brandon Woodruff,,,,0.1191,11.9%,,NO PLAY,True,"Hitter-friendly park, but other factors favor UNDER; Weak pitching, but line already accounts for it; Strong value",UNDER,8.0,0.6191
+FULL GAME TOTAL,2026-04-06,COL,HOU,,Ryan Feltner,Cody Bolton,,,,0.1174,11.7%,,NO PLAY,False,"Hitter-friendly park, but other factors favor UNDER; High-scoring teams, but line is inflated; Elite SP matchup; Strong value",UNDER,10.5,0.6174
+FULL GAME TOTAL,2026-04-06,CWS,BAL,,Grant Taylor,TBD,,,,0.0882,8.8%,,NO PLAY,False,"Elite SPs, but line overreacts; Strong value",OVER,9.0,0.5882
+FULL GAME TOTAL,2026-04-06,TEX,SEA,,Jacob deGrom,Logan Gilbert,,,,0.0861,8.6%,,NO PLAY,False,Weak pitching matchup; Strong value,OVER,7.5,0.5861
+FULL GAME TOTAL,2026-04-06,SF,PHI,,Adrian Houser,Andrew Painter,,,,0.0648,6.5%,,NO PLAY,False,"Pitcher-friendly park, but other factors favor OVER; Low-scoring teams, but line is set too low; Elite SPs, but line overreacts",OVER,8.0,0.5648
+FULL GAME TOTAL,2026-04-06,WSH,STL,,Zack Littell,Andre Pallante,,,,0.0614,6.1%,,NO PLAY,False,"High-scoring teams, but line is inflated; Elite SP matchup",UNDER,8.0,0.5614
+FULL GAME TOTAL,2026-04-06,TB,CHC,,Shane McClanahan,Jameson Taillon,,,,0.054,5.4%,,NO PLAY,False,Elite SP matchup,UNDER,7.5,0.554
+FULL GAME TOTAL,2026-04-06,TOR,LAD,,Max Scherzer,Justin Wrobleski,,,,0.0495,4.9%,,NO PLAY,False,Standard play,UNDER,8.5,0.5495
+FULL GAME TOTAL,2026-04-06,LAA,ATL,,José Soriano,Chris Sale,,,,0.0455,4.5%,,NO PLAY,False,"Elite SPs, but line overreacts",OVER,7.5,0.5455
+FULL GAME TOTAL,2026-04-06,MIA,CIN,,Janson Junk,Brandon Williamson,,,,0.0431,4.3%,,NO PLAY,False,"Pitcher-friendly park favors UNDER; Weak pitching, but line already accounts for it",UNDER,8.0,0.5431
+FULL GAME TOTAL,2026-04-06,CLE,KC,,Tanner Bibee,Michael Wacha,,,,0.0325,3.2%,,NO PLAY,False,"Low-scoring teams, but line is set too low; Elite SPs, but line overreacts",OVER,7.5,0.5325
+FULL GAME TOTAL,2026-04-06,PIT,SD,,Bubba Chandler,Germán Márquez,,,,0.0252,2.5%,,NO PLAY,False,"Weak pitching, but line already accounts for it",UNDER,8.5,0.5252
+FULL GAME TOTAL,2026-04-06,MIN,DET,,Joe Ryan,Casey Mize,,,,0.0149,1.5%,,NO PLAY,False,"Elite SPs, but line overreacts",OVER,7.0,0.5149
+F5 TOTAL,2026-04-06,COL,HOU,,Ryan Feltner,Cody Bolton,,,,0.1802,18.0%,,HIGH,True,"Hitter-friendly park, but other factors favor UNDER; High-scoring teams, but line is inflated; Elite SP matchup; Strong value",UNDER,5.8,0.6802
+F5 TOTAL,2026-04-06,WSH,STL,,Zack Littell,Andre Pallante,,,,0.1211,12.1%,,LOW,False,"High-scoring teams, but line is inflated; Elite SP matchup; Strong value",UNDER,4.4,0.6211
+F5 TOTAL,2026-04-06,BOS,MIL,,Brayan Bello,Brandon Woodruff,,,,0.0824,8.2%,,NO PLAY,False,"Hitter-friendly park, but other factors favor UNDER; Weak pitching, but line already accounts for it; Strong value",UNDER,4.4,0.5824
+F5 TOTAL,2026-04-06,LAA,ATL,,José Soriano,Chris Sale,,,,0.0785,7.9%,,NO PLAY,False,Elite SP matchup,UNDER,4.1,0.5785
+F5 TOTAL,2026-04-06,TOR,LAD,,Max Scherzer,Justin Wrobleski,,,,0.067,6.7%,,NO PLAY,False,Standard play,UNDER,4.7,0.567
+F5 TOTAL,2026-04-06,TEX,SEA,,Jacob deGrom,Logan Gilbert,,,,0.0548,5.5%,,NO PLAY,False,"Weak pitching, but line already accounts for it",UNDER,4.1,0.5548
+F5 TOTAL,2026-04-06,CWS,BAL,,Grant Taylor,TBD,,,,0.0383,3.8%,,NO PLAY,False,"Elite SPs, but line overreacts",OVER,5.0,0.5383
+F5 TOTAL,2026-04-06,CLE,KC,,Tanner Bibee,Michael Wacha,,,,0.0378,3.8%,,NO PLAY,False,Low-scoring teams; Elite SP matchup,UNDER,4.1,0.5378
+F5 TOTAL,2026-04-06,PIT,SD,,Bubba Chandler,Germán Márquez,,,,0.029,2.9%,,NO PLAY,False,"Weak pitching, but line already accounts for it",UNDER,4.7,0.529
+F5 TOTAL,2026-04-06,MIN,DET,,Joe Ryan,Casey Mize,,,,0.0222,2.2%,,NO PLAY,False,Elite SP matchup,UNDER,3.9,0.5222
+F5 TOTAL,2026-04-06,SF,PHI,,Adrian Houser,Andrew Painter,,,,0.0211,2.1%,,NO PLAY,False,"Pitcher-friendly park, but other factors favor OVER; Low-scoring teams, but line is set too low; Elite SPs, but line overreacts",OVER,4.4,0.5211
+F5 TOTAL,2026-04-06,TB,CHC,,Shane McClanahan,Jameson Taillon,,,,0.0083,0.8%,,NO PLAY,False,Elite SP matchup,UNDER,4.1,0.5083
+F5 TOTAL,2026-04-06,MIA,CIN,,Janson Junk,Brandon Williamson,,,,0.0018,0.2%,,NO PLAY,False,"Pitcher-friendly park, but other factors favor OVER; Weak pitching matchup",OVER,4.4,0.5018
