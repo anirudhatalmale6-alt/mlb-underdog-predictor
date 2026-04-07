@@ -1,0 +1,35 @@
+bet_type,game_date,home_team,away_team,underdog_team,home_sp_name,away_sp_name,underdog_odds,market_implied_prob,model_win_prob,edge,edge_pct,kelly_fraction,confidence,recommended,notes,pick,line,model_prob
+MONEYLINE,2026-04-07,COL,HOU,COL,Kyle Freeland,Mike Burrows,146.0,0.4065,0.6284,0.2219,22.2%,0.3739,HIGH,True,Underdog SP has better ERA; Strong value play; Home underdog,,,
+MONEYLINE,2026-04-07,BOS,MIL,MIL,Garrett Crochet,Jacob Misiorowski,133.0,0.4292,0.6356,0.2064,20.6%,0.3617,HIGH,False,Underdog SP has better ERA; Favorite on 3L skid; Strong value play,,,
+MONEYLINE,2026-04-07,SF,PHI,SF,Robbie Ray,Cristopher Sánchez,130.0,0.4348,0.6101,0.1753,17.5%,0.3102,HIGH,False,Facing elite SP; Underdog on 4L skid; Strong value play; Home underdog,,,
+MONEYLINE,2026-04-07,MIN,DET,MIN,Taj Bradley,Tarik Skubal,144.0,0.4098,0.3958,-0.014,-1.4%,0.0,NO PLAY,False,Facing elite SP; Home underdog,,,
+MONEYLINE,2026-04-07,PIT,SD,SD,Paul Skenes,Nick Pivetta,130.0,0.4348,0.388,-0.0468,-4.7%,0.0,NO PLAY,False,Underdog SP has better ERA,,,
+MONEYLINE,2026-04-07,NYM,ARI,ARI,Freddy Peralta,Zac Gallen,135.0,0.4255,0.2702,-0.1553,-15.5%,0.0,NO PLAY,False,Underdog SP has better ERA; Favorite on 3L skid,,,
+FULL GAME TOTAL,2026-04-07,TOR,LAD,,Kevin Gausman,Yoshinobu Yamamoto,,,,0.1486,14.9%,,LOW,True,"High-scoring teams, but line is inflated; Elite SP matchup; Strong value",UNDER,7.5,0.6486
+FULL GAME TOTAL,2026-04-07,BOS,MIL,,Garrett Crochet,Jacob Misiorowski,,,,0.1462,14.6%,,LOW,False,"Hitter-friendly park, but other factors favor UNDER; High-scoring teams, but line is inflated; Elite SP matchup; Strong value",UNDER,7.0,0.6462
+FULL GAME TOTAL,2026-04-07,COL,HOU,,Kyle Freeland,Mike Burrows,,,,0.0965,9.6%,,NO PLAY,False,"Hitter-friendly park, but other factors favor UNDER; High-scoring teams, but line is inflated; Strong value",UNDER,11.0,0.5965
+FULL GAME TOTAL,2026-04-07,TEX,SEA,,Nathan Eovaldi,George Kirby,,,,0.0897,9.0%,,NO PLAY,False,"Low-scoring teams, but line is set too low; Weak pitching matchup; Strong value",OVER,7.5,0.5897
+FULL GAME TOTAL,2026-04-07,WSH,STL,,Cade Cavalli,Matthew Liberatore,,,,0.0576,5.8%,,NO PLAY,False,"High-scoring teams, but line is inflated; Elite SP matchup",UNDER,7.5,0.5576
+FULL GAME TOTAL,2026-04-07,NYM,ARI,,Freddy Peralta,Zac Gallen,,,,0.0474,4.7%,,NO PLAY,False,Standard play,UNDER,7.0,0.5474
+FULL GAME TOTAL,2026-04-07,CLE,KC,,Gavin Williams,Noah Cameron,,,,0.041,4.1%,,NO PLAY,False,Low-scoring teams; Elite SP matchup,UNDER,6.5,0.541
+FULL GAME TOTAL,2026-04-07,SF,PHI,,Robbie Ray,Cristopher Sánchez,,,,0.0376,3.8%,,NO PLAY,False,Pitcher-friendly park favors UNDER; Low-scoring teams; Elite SP matchup,UNDER,7.0,0.5376
+FULL GAME TOTAL,2026-04-07,LAA,ATL,,Yusei Kikuchi,Reynaldo López,,,,0.0362,3.6%,,NO PLAY,False,Standard play,UNDER,8.5,0.5362
+FULL GAME TOTAL,2026-04-07,PIT,SD,,Paul Skenes,Nick Pivetta,,,,0.0352,3.5%,,NO PLAY,False,"Weak pitching, but line already accounts for it",UNDER,6.5,0.5352
+FULL GAME TOTAL,2026-04-07,TB,CHC,,Drew Rasmussen,Javier Assad,,,,0.034,3.4%,,NO PLAY,False,Elite SP matchup,UNDER,7.5,0.534
+FULL GAME TOTAL,2026-04-07,MIA,CIN,,Sandy Alcantara,Andrew Abbott,,,,0.0186,1.9%,,NO PLAY,False,Pitcher-friendly park favors UNDER; Elite SP matchup,UNDER,7.0,0.5186
+FULL GAME TOTAL,2026-04-07,MIN,DET,,Taj Bradley,Tarik Skubal,,,,0.0151,1.5%,,NO PLAY,False,"Elite SPs, but line overreacts",OVER,6.5,0.5151
+FULL GAME TOTAL,2026-04-07,CWS,BAL,,Shane Smith,Trevor Rogers,,,,0.008,0.8%,,NO PLAY,False,"Low-scoring teams; Weak pitching, but line already accounts for it",UNDER,7.0,0.508
+F5 TOTAL,2026-04-07,WSH,STL,,Cade Cavalli,Matthew Liberatore,,,,0.1708,17.1%,,MEDIUM,True,"High-scoring teams, but line is inflated; Elite SP matchup; Strong value",UNDER,4.1,0.6708
+F5 TOTAL,2026-04-07,TOR,LAD,,Kevin Gausman,Yoshinobu Yamamoto,,,,0.1196,12.0%,,NO PLAY,False,"High-scoring teams, but line is inflated; Elite SP matchup; Strong value",UNDER,4.1,0.6196
+F5 TOTAL,2026-04-07,BOS,MIL,,Garrett Crochet,Jacob Misiorowski,,,,0.1057,10.6%,,NO PLAY,False,"Hitter-friendly park, but other factors favor UNDER; High-scoring teams, but line is inflated; Elite SP matchup; Strong value",UNDER,3.9,0.6057
+F5 TOTAL,2026-04-07,COL,HOU,,Kyle Freeland,Mike Burrows,,,,0.0902,9.0%,,NO PLAY,False,"Hitter-friendly park, but other factors favor UNDER; High-scoring teams, but line is inflated; Strong value",UNDER,6.1,0.5902
+F5 TOTAL,2026-04-07,LAA,ATL,,Yusei Kikuchi,Reynaldo López,,,,0.0859,8.6%,,NO PLAY,False,Strong value,UNDER,4.7,0.5859
+F5 TOTAL,2026-04-07,MIA,CIN,,Sandy Alcantara,Andrew Abbott,,,,0.0803,8.0%,,NO PLAY,False,"Pitcher-friendly park, but other factors favor OVER; Elite SPs, but line overreacts; Strong value",OVER,3.9,0.5803
+F5 TOTAL,2026-04-07,CWS,BAL,,Shane Smith,Trevor Rogers,,,,0.077,7.7%,,NO PLAY,False,"Low-scoring teams, but line is set too low; Weak pitching matchup",OVER,3.9,0.577
+F5 TOTAL,2026-04-07,PIT,SD,,Paul Skenes,Nick Pivetta,,,,0.0716,7.2%,,NO PLAY,False,"Weak pitching, but line already accounts for it",UNDER,3.6,0.5716
+F5 TOTAL,2026-04-07,TB,CHC,,Drew Rasmussen,Javier Assad,,,,0.0614,6.1%,,NO PLAY,False,Elite SP matchup,UNDER,4.1,0.5614
+F5 TOTAL,2026-04-07,CLE,KC,,Gavin Williams,Noah Cameron,,,,0.0433,4.3%,,NO PLAY,False,Low-scoring teams; Elite SP matchup,UNDER,3.6,0.5433
+F5 TOTAL,2026-04-07,TEX,SEA,,Nathan Eovaldi,George Kirby,,,,0.0356,3.6%,,NO PLAY,False,"Low-scoring teams, but line is set too low; Weak pitching matchup",OVER,4.1,0.5356
+F5 TOTAL,2026-04-07,MIN,DET,,Taj Bradley,Tarik Skubal,,,,0.0346,3.5%,,NO PLAY,False,Elite SP matchup,UNDER,3.6,0.5346
+F5 TOTAL,2026-04-07,NYM,ARI,,Freddy Peralta,Zac Gallen,,,,0.008,0.8%,,NO PLAY,False,Standard play,UNDER,3.9,0.508
+F5 TOTAL,2026-04-07,SF,PHI,,Robbie Ray,Cristopher Sánchez,,,,0.001,0.1%,,NO PLAY,False,"Pitcher-friendly park, but other factors favor OVER; Low-scoring teams, but line is set too low; Elite SPs, but line overreacts",OVER,3.9,0.501

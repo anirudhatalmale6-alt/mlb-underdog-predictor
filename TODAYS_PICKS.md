@@ -1,6 +1,6 @@
-# MLB Picks - Monday, April 06, 2026
+# MLB Picks - Tuesday, April 07, 2026
 
-*Last updated: 2026-04-06 02:40 PM ET*
+*Last updated: 2026-04-07 03:01 PM ET*
 
 ## Moneyline Underdogs
 
@@ -11,9 +11,9 @@
 | Stat | Value |
 |------|-------|
 | Matchup | HOU @ COL |
-| Starting Pitchers | Cody Bolton vs Ryan Feltner |
-| Model Win Probability | 55.8% |
-| Edge Over Market | 15.2% |
+| Starting Pitchers | Mike Burrows vs Kyle Freeland |
+| Model Win Probability | 62.8% |
+| Edge Over Market | 22.2% |
 | Confidence | HIGH |
 | Notes | Underdog SP has better ERA; Strong value play; Home underdog |
 
@@ -25,7 +25,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIL @ BOS | Brandon Woodruff vs Brayan Bello | 8.0 | UNDER | 61.9% | 11.9% | NO PLAY | Hitter-friendly park, but other factors favor UNDER; Weak pitching, but line already accounts for it; Strong value |
+| LAD @ TOR | Yoshinobu Yamamoto vs Kevin Gausman | 7.5 | UNDER | 64.9% | 14.9% | LOW | High-scoring teams, but line is inflated; Elite SP matchup; Strong value |
 
 ---
 
@@ -35,7 +35,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| HOU @ COL | Cody Bolton vs Ryan Feltner | 5.8 | UNDER | 68.0% | 18.0% | HIGH | Hitter-friendly park, but other factors favor UNDER; High-scoring teams, but line is inflated; Elite SP matchup; Strong value |
+| STL @ WSH | Matthew Liberatore vs Cade Cavalli | 4.1 | UNDER | 67.1% | 17.1% | MEDIUM | High-scoring teams, but line is inflated; Elite SP matchup; Strong value |
 
 ---
 
