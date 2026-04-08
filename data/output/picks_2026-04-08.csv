@@ -1,0 +1,33 @@
+bet_type,game_date,home_team,away_team,underdog_team,home_sp_name,away_sp_name,underdog_odds,market_implied_prob,model_win_prob,edge,edge_pct,kelly_fraction,confidence,recommended,notes,pick,line,model_prob
+MONEYLINE,2026-04-08,TOR,LAD,TOR,Dylan Cease,Shohei Ohtani,132.0,0.431,0.7397,0.3087,30.9%,0.5425,HIGH,True,Facing elite SP; Underdog on 6L skid; Favorite on 5L skid; Strong value play; Home underdog,,,
+MONEYLINE,2026-04-08,COL,HOU,COL,Michael Lorenzen,Cristian Javier,133.0,0.4292,0.5476,0.1184,11.8%,0.2075,HIGH,False,Favorite on 3L skid; Strong value play; Home underdog,,,
+MONEYLINE,2026-04-08,MIN,DET,MIN,Bailey Ober,Framber Valdez,130.0,0.4348,0.5212,0.0864,8.6%,0.1529,MEDIUM,False,Facing elite SP; Favorite on 3L skid; Strong value play; Home underdog,,,
+MONEYLINE,2026-04-08,CWS,BAL,CWS,Sean Burke,Kyle Bradish,137.0,0.4219,0.4954,0.0735,7.3%,0.1271,MEDIUM,False,Underdog SP has better ERA; Good value; Home underdog,,,
+FULL GAME TOTAL,2026-04-08,COL,HOU,,Michael Lorenzen,Cristian Javier,,,,0.1064,10.6%,,NO PLAY,True,"Hitter-friendly park, but other factors favor UNDER; High-scoring teams, but line is inflated; Weak pitching, but line already accounts for it; Strong value",UNDER,11.5,0.6064
+FULL GAME TOTAL,2026-04-08,SF,PHI,,Tyler Mahle,Aaron Nola,,,,0.1043,10.4%,,NO PLAY,False,"Pitcher-friendly park, but other factors favor OVER; Low-scoring teams, but line is set too low; Weak pitching matchup; Strong value",OVER,8.0,0.6043
+FULL GAME TOTAL,2026-04-08,WSH,STL,,Miles Mikolas,Michael McGreevy,,,,0.1039,10.4%,,NO PLAY,False,"High-scoring teams, but line is inflated; Weak pitching, but line already accounts for it; Strong value",UNDER,8.5,0.6039
+FULL GAME TOTAL,2026-04-08,MIA,CIN,,Eury Pérez,Brady Singer,,,,0.0865,8.7%,,NO PLAY,False,"Pitcher-friendly park favors UNDER; Weak pitching, but line already accounts for it; Strong value",UNDER,7.5,0.5865
+FULL GAME TOTAL,2026-04-08,TOR,LAD,,Dylan Cease,Shohei Ohtani,,,,0.0839,8.4%,,NO PLAY,False,Elite SP matchup; Strong value,UNDER,7.5,0.5839
+FULL GAME TOTAL,2026-04-08,CWS,BAL,,Sean Burke,Kyle Bradish,,,,0.0669,6.7%,,NO PLAY,False,Low-scoring teams,UNDER,7.5,0.5669
+FULL GAME TOTAL,2026-04-08,LAA,ATL,,Reid Detmers,Grant Holmes,,,,0.064,6.4%,,NO PLAY,False,"Elite SPs, but line overreacts",OVER,8.5,0.564
+FULL GAME TOTAL,2026-04-08,MIN,DET,,Bailey Ober,Framber Valdez,,,,0.0637,6.4%,,NO PLAY,False,Standard play,OVER,8.0,0.5637
+FULL GAME TOTAL,2026-04-08,BOS,MIL,,Sonny Gray,Shane Drohan,,,,0.0514,5.1%,,NO PLAY,False,"Hitter-friendly park, but other factors favor UNDER",UNDER,7.0,0.5514
+FULL GAME TOTAL,2026-04-08,TB,CHC,,Joe Boyle,Colin Rea,,,,0.0389,3.9%,,NO PLAY,False,Standard play,UNDER,8.0,0.5389
+FULL GAME TOTAL,2026-04-08,TEX,SEA,,MacKenzie Gore,Bryan Woo,,,,0.0191,1.9%,,NO PLAY,False,"Low-scoring teams, but line is set too low; Elite SPs, but line overreacts",OVER,7.5,0.5191
+FULL GAME TOTAL,2026-04-08,NYM,ARI,,David Peterson,Ryne Nelson,,,,0.0183,1.8%,,NO PLAY,False,Weak pitching matchup,OVER,7.5,0.5183
+FULL GAME TOTAL,2026-04-08,CLE,KC,,Joey Cantillo,Cole Ragans,,,,0.0161,1.6%,,NO PLAY,False,Low-scoring teams; Elite SP matchup,UNDER,7.0,0.5161
+FULL GAME TOTAL,2026-04-08,PIT,SD,,Mitch Keller,Michael King,,,,0.0136,1.4%,,NO PLAY,False,"Elite SPs, but line overreacts",OVER,7.5,0.5136
+F5 TOTAL,2026-04-08,WSH,STL,,Miles Mikolas,Michael McGreevy,,,,0.1951,19.5%,,HIGH,True,"High-scoring teams, but line is inflated; Weak pitching, but line already accounts for it; Strong value",UNDER,4.7,0.6951
+F5 TOTAL,2026-04-08,TEX,SEA,,MacKenzie Gore,Bryan Woo,,,,0.1947,19.5%,,HIGH,False,"Low-scoring teams, but line is set too low; Elite SPs, but line overreacts; Strong value",OVER,4.1,0.6947
+F5 TOTAL,2026-04-08,TOR,LAD,,Dylan Cease,Shohei Ohtani,,,,0.1754,17.5%,,MEDIUM,False,Elite SP matchup; Strong value,UNDER,4.1,0.6754
+F5 TOTAL,2026-04-08,LAA,ATL,,Reid Detmers,Grant Holmes,,,,0.0967,9.7%,,NO PLAY,False,Elite SP matchup; Strong value,UNDER,4.7,0.5967
+F5 TOTAL,2026-04-08,SF,PHI,,Tyler Mahle,Aaron Nola,,,,0.0743,7.4%,,NO PLAY,False,"Pitcher-friendly park, but other factors favor OVER; Low-scoring teams, but line is set too low; Weak pitching matchup",OVER,4.4,0.5743
+F5 TOTAL,2026-04-08,MIA,CIN,,Eury Pérez,Brady Singer,,,,0.072,7.2%,,NO PLAY,False,"Pitcher-friendly park, but other factors favor OVER; Weak pitching matchup",OVER,4.1,0.572
+F5 TOTAL,2026-04-08,CLE,KC,,Joey Cantillo,Cole Ragans,,,,0.0719,7.2%,,NO PLAY,False,"Low-scoring teams, but line is set too low; Elite SPs, but line overreacts",OVER,3.9,0.5719
+F5 TOTAL,2026-04-08,CWS,BAL,,Sean Burke,Kyle Bradish,,,,0.07,7.0%,,NO PLAY,False,"Low-scoring teams, but line is set too low",OVER,4.1,0.57
+F5 TOTAL,2026-04-08,PIT,SD,,Mitch Keller,Michael King,,,,0.0657,6.6%,,NO PLAY,False,Elite SP matchup,UNDER,4.1,0.5657
+F5 TOTAL,2026-04-08,COL,HOU,,Michael Lorenzen,Cristian Javier,,,,0.0653,6.5%,,NO PLAY,False,"Hitter-friendly park, but other factors favor UNDER; High-scoring teams, but line is inflated; Weak pitching, but line already accounts for it",UNDER,6.3,0.5653
+F5 TOTAL,2026-04-08,BOS,MIL,,Sonny Gray,Shane Drohan,,,,0.0609,6.1%,,NO PLAY,False,"Hitter-friendly park, but other factors favor UNDER",UNDER,3.9,0.5609
+F5 TOTAL,2026-04-08,NYM,ARI,,David Peterson,Ryne Nelson,,,,0.0156,1.6%,,NO PLAY,False,Weak pitching matchup,OVER,4.1,0.5156
+F5 TOTAL,2026-04-08,TB,CHC,,Joe Boyle,Colin Rea,,,,0.0134,1.3%,,NO PLAY,False,Standard play,UNDER,4.4,0.5134
+F5 TOTAL,2026-04-08,MIN,DET,,Bailey Ober,Framber Valdez,,,,0.0086,0.9%,,NO PLAY,False,Standard play,UNDER,4.4,0.5086

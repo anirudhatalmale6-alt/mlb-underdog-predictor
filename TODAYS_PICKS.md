@@ -1,21 +1,21 @@
-# MLB Picks - Tuesday, April 07, 2026
+# MLB Picks - Wednesday, April 08, 2026
 
-*Last updated: 2026-04-07 03:01 PM ET*
+*Last updated: 2026-04-08 03:02 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-#### COL (+146.0)
+#### TOR (+132.0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | HOU @ COL |
-| Starting Pitchers | Mike Burrows vs Kyle Freeland |
-| Model Win Probability | 62.8% |
-| Edge Over Market | 22.2% |
+| Matchup | LAD @ TOR |
+| Starting Pitchers | Shohei Ohtani vs Dylan Cease |
+| Model Win Probability | 74.0% |
+| Edge Over Market | 30.9% |
 | Confidence | HIGH |
-| Notes | Underdog SP has better ERA; Strong value play; Home underdog |
+| Notes | Facing elite SP; Underdog on 6L skid; Favorite on 5L skid; Strong value play; Home underdog |
 
 ---
 
@@ -25,7 +25,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAD @ TOR | Yoshinobu Yamamoto vs Kevin Gausman | 7.5 | UNDER | 64.9% | 14.9% | LOW | High-scoring teams, but line is inflated; Elite SP matchup; Strong value |
+| HOU @ COL | Cristian Javier vs Michael Lorenzen | 11.5 | UNDER | 60.6% | 10.6% | NO PLAY | Hitter-friendly park, but other factors favor UNDER; High-scoring teams, but line is inflated; Weak pitching, but line already accounts for it; Strong value |
 
 ---
 
@@ -35,7 +35,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| STL @ WSH | Matthew Liberatore vs Cade Cavalli | 4.1 | UNDER | 67.1% | 17.1% | MEDIUM | High-scoring teams, but line is inflated; Elite SP matchup; Strong value |
+| STL @ WSH | Michael McGreevy vs Miles Mikolas | 4.7 | UNDER | 69.5% | 19.5% | HIGH | High-scoring teams, but line is inflated; Weak pitching, but line already accounts for it; Strong value |
 
 ---
 
