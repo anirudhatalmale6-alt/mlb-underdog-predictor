@@ -1,31 +1,21 @@
-# MLB Picks - Wednesday, April 08, 2026
+# MLB Picks - Thursday, April 09, 2026
 
-*Last updated: 2026-04-08 03:02 PM ET*
+*Last updated: 2026-04-09 03:13 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-#### TOR (+132.0)
+#### COL (+165.0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAD @ TOR |
-| Starting Pitchers | Shohei Ohtani vs Dylan Cease |
-| Model Win Probability | 74.0% |
-| Edge Over Market | 30.9% |
+| Matchup | COL @ SD |
+| Starting Pitchers | TBD vs Randy Vásquez |
+| Model Win Probability | 62.5% |
+| Edge Over Market | 24.8% |
 | Confidence | HIGH |
-| Notes | Facing elite SP; Underdog on 6L skid; Favorite on 5L skid; Strong value play; Home underdog |
-
----
-
-## Full Game Over/Under
-
-### RECOMMENDED PLAYS (1)
-
-| Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
-|---------|----------|------|------|-------------|------|------------|-------|
-| HOU @ COL | Cristian Javier vs Michael Lorenzen | 11.5 | UNDER | 60.6% | 10.6% | NO PLAY | Hitter-friendly park, but other factors favor UNDER; High-scoring teams, but line is inflated; Weak pitching, but line already accounts for it; Strong value |
+| Notes | Facing elite SP; Underdog on 4L skid; Strong value play |
 
 ---
 
@@ -35,7 +25,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| STL @ WSH | Michael McGreevy vs Miles Mikolas | 4.7 | UNDER | 69.5% | 19.5% | HIGH | High-scoring teams, but line is inflated; Weak pitching, but line already accounts for it; Strong value |
+| CWS @ KC | Anthony Kay vs Seth Lugo | 5.0 | OVER | 62.0% | 12.0% | NO PLAY | Low-scoring teams, but line is set too low; Elite SPs, but line overreacts; Strong value |
 
 ---
 

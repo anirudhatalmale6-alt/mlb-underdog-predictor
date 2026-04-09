@@ -1,0 +1,14 @@
+bet_type,game_date,home_team,away_team,underdog_team,home_sp_name,away_sp_name,underdog_odds,market_implied_prob,model_win_prob,edge,edge_pct,kelly_fraction,confidence,recommended,notes,pick,line,model_prob
+MONEYLINE,2026-04-09,SD,COL,COL,Randy Vásquez,TBD,165.0,0.3774,0.6255,0.2481,24.8%,0.3985,HIGH,True,Facing elite SP; Underdog on 4L skid; Strong value play,,,
+MONEYLINE,2026-04-09,KC,CWS,CWS,Seth Lugo,Anthony Kay,153.0,0.3953,0.5075,0.1122,11.2%,0.1856,HIGH,False,Facing elite SP; Strong value play,,,
+MONEYLINE,2026-04-09,NYM,ARI,ARI,Nolan McLean,Eduardo Rodriguez,139.0,0.4184,0.3097,-0.1087,-10.9%,0.0,NO PLAY,False,Underdog SP has better ERA,,,
+FULL GAME TOTAL,2026-04-09,KC,CWS,,Seth Lugo,Anthony Kay,,,,0.0679,6.8%,,NO PLAY,False,"Low-scoring teams, but line is set too low; Elite SPs, but line overreacts",OVER,9.0,0.5679
+FULL GAME TOTAL,2026-04-09,MIA,CIN,,Max Meyer,Rhett Lowder,,,,0.0541,5.4%,,NO PLAY,False,Pitcher-friendly park favors UNDER; Elite SP matchup,UNDER,8.0,0.5541
+FULL GAME TOTAL,2026-04-09,MIN,DET,,Mick Abel,Jack Flaherty,,,,0.0309,3.1%,,NO PLAY,False,"Weak pitching, but line already accounts for it",UNDER,8.0,0.5309
+FULL GAME TOTAL,2026-04-09,SD,COL,,Randy Vásquez,TBD,,,,0.0205,2.0%,,NO PLAY,False,Pitcher-friendly park favors UNDER; Elite SP matchup,UNDER,8.0,0.5205
+FULL GAME TOTAL,2026-04-09,NYM,ARI,,Nolan McLean,Eduardo Rodriguez,,,,0.0149,1.5%,,NO PLAY,False,"Elite SPs, but line overreacts",OVER,7.0,0.5149
+F5 TOTAL,2026-04-09,KC,CWS,,Seth Lugo,Anthony Kay,,,,0.1196,12.0%,,NO PLAY,True,"Low-scoring teams, but line is set too low; Elite SPs, but line overreacts; Strong value",OVER,5.0,0.6196
+F5 TOTAL,2026-04-09,SD,COL,,Randy Vásquez,TBD,,,,0.0545,5.4%,,NO PLAY,False,Pitcher-friendly park favors UNDER; Elite SP matchup,UNDER,4.4,0.5545
+F5 TOTAL,2026-04-09,MIA,CIN,,Max Meyer,Rhett Lowder,,,,0.044,4.4%,,NO PLAY,False,"Pitcher-friendly park, but other factors favor OVER; Elite SPs, but line overreacts",OVER,4.4,0.544
+F5 TOTAL,2026-04-09,NYM,ARI,,Nolan McLean,Eduardo Rodriguez,,,,0.025,2.5%,,NO PLAY,False,"Elite SPs, but line overreacts",OVER,3.9,0.525
+F5 TOTAL,2026-04-09,MIN,DET,,Mick Abel,Jack Flaherty,,,,0.0082,0.8%,,NO PLAY,False,"Weak pitching, but line already accounts for it",UNDER,4.4,0.5082
