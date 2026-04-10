@@ -1,0 +1,30 @@
+{
+  "model_name": "xgb_batter_hits",
+  "features": [
+    "hits_per_game_avg",
+    "hits_per_game_std",
+    "batting_avg",
+    "ab_per_game",
+    "recent_hits_trend",
+    "opp_sp_era",
+    "opp_sp_whip",
+    "opp_sp_hits_per_9",
+    "is_home",
+    "extra_base_pct",
+    "k_rate",
+    "bb_rate"
+  ],
+  "trained_on": "2026-04-10 04:24:52.817512",
+  "seasons": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "total_samples": 53516,
+  "accuracy": 0.5912,
+  "test_seasons": [
+    2023,
+    2024
+  ]
+}

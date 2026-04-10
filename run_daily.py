@@ -90,6 +90,30 @@ def main():
                     print(f"       {notes}")
                 print()
 
+    # ── Player Props ──
+    for key, label in [("pitcher_k", "PITCHER STRIKEOUT PROPS"), ("batter_hits", "BATTER HITS PROPS")]:
+        df = results.get(key, pd.DataFrame())
+        if df.empty:
+            continue
+        print(f"\n  {label}")
+        print(f"  {'─'*40}")
+        rec = df[df["recommended"]] if "recommended" in df.columns else pd.DataFrame()
+        if rec.empty:
+            print("  No recommended props plays today.")
+        else:
+            print(f"  {len(rec)} RECOMMENDED PLAY(S):\n")
+            for _, pick in rec.iterrows():
+                print(f"  {pick.get('player_name', '?')}")
+                print(f"       {pick.get('pick', '?')} ({pick.get('odds', '')})")
+                print(f"       {pick.get('away_team', '?')} @ {pick.get('home_team', '?')}")
+                print(f"       Prob: {pick.get('model_prob', 0):.1%} | "
+                      f"Edge: {pick.get('edge_pct', '')} | "
+                      f"Confidence: {pick.get('confidence', '')}")
+                notes = pick.get('notes', '')
+                if notes:
+                    print(f"       {notes}")
+                print()
+
     print(f"\n{'='*60}")
     print(f"  Output saved to data/output/picks_{target_date}.csv")
     print(f"{'='*60}")

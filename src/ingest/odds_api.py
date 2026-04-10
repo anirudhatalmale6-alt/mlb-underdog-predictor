@@ -164,6 +164,102 @@ def _parse_odds_response(data: list[dict]) -> list[dict]:
     return games
 
 
+def fetch_mlb_player_props(event_ids: list[str]) -> dict:
+    """
+    Fetch player prop odds for specific MLB events.
+    Returns {event_id: {pitcher_k: [...], batter_hits: [...]}}
+    """
+    if not ODDS_API_KEY:
+        return {}
+
+    results = {}
+    for eid in event_ids:
+        url = f"{ODDS_API_BASE}/sports/baseball_mlb/events/{eid}/odds"
+        params = {
+            "apiKey": ODDS_API_KEY,
+            "regions": ODDS_REGIONS,
+            "markets": "pitcher_strikeouts,batter_hits",
+            "oddsFormat": ODDS_FORMAT,
+        }
+        try:
+            resp = requests.get(url, params=params, timeout=15)
+            resp.raise_for_status()
+            data = resp.json()
+
+            pitcher_k_props = []
+            batter_hits_props = []
+
+            for bookmaker in data.get("bookmakers", []):
+                for market in bookmaker.get("markets", []):
+                    key = market.get("key")
+                    for outcome in market.get("outcomes", []):
+                        player = outcome.get("description", "")
+                        direction = outcome.get("name", "")  # Over/Under
+                        point = outcome.get("point", 0)
+                        price = outcome.get("price", 0)
+
+                        if key == "pitcher_strikeouts":
+                            pitcher_k_props.append({
+                                "player": player,
+                                "direction": direction,
+                                "line": point,
+                                "odds": price,
+                                "bookmaker": bookmaker.get("key", ""),
+                            })
+                        elif key == "batter_hits":
+                            batter_hits_props.append({
+                                "player": player,
+                                "direction": direction,
+                                "line": point,
+                                "odds": price,
+                                "bookmaker": bookmaker.get("key", ""),
+                            })
+
+            # Aggregate: consensus by player
+            results[eid] = {
+                "pitcher_k": _aggregate_props(pitcher_k_props),
+                "batter_hits": _aggregate_props(batter_hits_props),
+            }
+        except Exception as e:
+            log.warning(f"Error fetching props for event {eid}: {e}")
+
+    remaining = resp.headers.get("x-requests-remaining", "?") if 'resp' in dir() else "?"
+    log.info(f"Fetched props for {len(results)} events. API remaining: {remaining}")
+    return results
+
+
+def _aggregate_props(raw_props: list[dict]) -> list[dict]:
+    """Aggregate prop odds by player, taking median line and odds."""
+    from collections import defaultdict
+    by_player = defaultdict(lambda: {"over_odds": [], "under_odds": [], "lines": []})
+
+    for p in raw_props:
+        player = p["player"]
+        if p["direction"] == "Over":
+            by_player[player]["over_odds"].append(p["odds"])
+            by_player[player]["lines"].append(p["line"])
+        elif p["direction"] == "Under":
+            by_player[player]["under_odds"].append(p["odds"])
+
+    aggregated = []
+    for player, data in by_player.items():
+        if not data["lines"] or not data["over_odds"]:
+            continue
+        lines = sorted(data["lines"])
+        over_odds = sorted(data["over_odds"])
+        under_odds = sorted(data["under_odds"]) if data["under_odds"] else [-110]
+        mid = len(lines) // 2
+
+        aggregated.append({
+            "player": player,
+            "line": lines[mid],
+            "over_odds": over_odds[len(over_odds) // 2],
+            "under_odds": under_odds[len(under_odds) // 2],
+        })
+
+    return aggregated
+
+
 def load_latest_snapshot() -> Optional[list[dict]]:
     """Load the most recent odds snapshot from disk."""
     snapshot_dir = RAW_DIR / "odds_api"

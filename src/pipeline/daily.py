@@ -18,11 +18,14 @@ from src.ingest.mlb_statsapi import (
     get_schedule, get_pitcher_season_stats, get_pitcher_game_log,
     get_team_batting_stats, get_team_pitching_stats, get_standings,
 )
-from src.ingest.odds_api import fetch_mlb_odds
+from src.ingest.odds_api import fetch_mlb_odds, fetch_mlb_player_props
 from src.features.builder import build_feature_vector
+from src.features.props import build_pitcher_k_features, build_batter_hits_features
 from src.model.predict import generate_predictions
 from src.model.totals import predict_full_game_totals, predict_f5_totals
+from src.model.props import predict_pitcher_k_props, predict_batter_hits_props
 from src.model.registry import load_latest_model
+from src.ingest.props_collect import get_pitcher_game_log as get_pitcher_log_raw, get_team_strikeout_rate, get_batter_game_log as get_batter_log_raw
 from src.utils.odds_math import american_to_implied, remove_vig
 from src.utils.logging import get_logger
 
@@ -72,6 +75,8 @@ def run_daily_pipeline(target_date: date = None) -> dict:
         "moneyline": pd.DataFrame(),
         "full_game_total": pd.DataFrame(),
         "f5_total": pd.DataFrame(),
+        "pitcher_k": pd.DataFrame(),
+        "batter_hits": pd.DataFrame(),
     }
 
     # ── Moneyline Underdog Picks ──
@@ -114,6 +119,17 @@ def run_daily_pipeline(target_date: date = None) -> dict:
             except Exception as e:
                 log.warning(f"F5 total prediction error: {e}")
 
+    # ── Player Props ──
+    log.info("Step 4b: Fetching player props...")
+    try:
+        props_data = _build_props_features(schedule, matched_games, season)
+        if props_data.get("pitcher_k"):
+            results["pitcher_k"] = predict_pitcher_k_props(props_data["pitcher_k"])
+        if props_data.get("batter_hits"):
+            results["batter_hits"] = predict_batter_hits_props(props_data["batter_hits"])
+    except Exception as e:
+        log.warning(f"Player props error: {e}")
+
     # Step 5: Save output
     log.info("Step 5: Saving output...")
     _save_output(results, target_date)
@@ -132,6 +148,8 @@ def _empty_results():
         "moneyline": pd.DataFrame(),
         "full_game_total": pd.DataFrame(),
         "f5_total": pd.DataFrame(),
+        "pitcher_k": pd.DataFrame(),
+        "batter_hits": pd.DataFrame(),
     }
 
 
@@ -356,6 +374,174 @@ def _build_totals_features_live(game: dict, season: int, standings: dict) -> dic
     }
 
     return features
+
+
+def _build_props_features(schedule: list, matched_games: list, season: int) -> dict:
+    """
+    Build features for player props from live data + game logs.
+    Fetches prop lines from Odds API, then builds model features.
+    """
+    # Get event IDs from matched games
+    event_ids = [g.get("event_id") for g in matched_games if g.get("event_id")]
+    if not event_ids:
+        # Try to get event IDs from the odds API events endpoint
+        try:
+            import requests
+            r = requests.get(
+                f"https://api.the-odds-api.com/v4/sports/baseball_mlb/events/",
+                params={"apiKey": ODDS_API_KEY},
+                timeout=15,
+            )
+            r.raise_for_status()
+            events = r.json()
+            event_ids = [e["id"] for e in events]
+        except Exception as e:
+            log.warning(f"Could not fetch event IDs: {e}")
+            return {"pitcher_k": [], "batter_hits": []}
+
+    # Fetch player prop lines
+    props_by_event = fetch_mlb_player_props(event_ids)
+
+    pitcher_k_features = []
+    batter_hits_features = []
+
+    for game in matched_games:
+        eid = game.get("event_id", "")
+        home = game.get("home_team", "")
+        away = game.get("away_team", "")
+        game_date = game.get("game_date", "")
+
+        props = props_by_event.get(eid, {})
+
+        # ── Pitcher K props ──
+        for sp_side, opp_side in [("home", "away"), ("away", "home")]:
+            sp_id = game.get(f"{sp_side}_sp_id")
+            sp_name = game.get(f"{sp_side}_sp_name", "TBD")
+            opp_team = game.get(f"{opp_side}_team", "")
+            opp_team_id = ABBREV_TO_TEAM_ID.get(opp_team)
+
+            if not sp_id:
+                continue
+
+            # Get pitcher's game log for features
+            pitcher_log = get_pitcher_log_raw(sp_id, season)
+            if len(pitcher_log) < 5:
+                continue
+
+            opp_k_rate = get_team_strikeout_rate(opp_team_id, season) if opp_team_id else 0.22
+
+            features = build_pitcher_k_features(
+                pitcher_log, len(pitcher_log),  # Use all data (no look-ahead since it's live)
+                opp_k_rate=opp_k_rate,
+                is_home=(sp_side == "home"),
+                min_starts=5,
+            )
+            if features is None:
+                continue
+
+            # Find matching prop line
+            k_line = 0
+            k_over_odds = -110
+            k_under_odds = -110
+            for prop in props.get("pitcher_k", []):
+                if _name_match(prop["player"], sp_name):
+                    k_line = prop["line"]
+                    k_over_odds = prop["over_odds"]
+                    k_under_odds = prop["under_odds"]
+                    break
+
+            if k_line == 0:
+                # Use model estimate as proxy
+                k_line = round(features.get("k_per_start_avg", 5.5) - 0.5, 1)
+
+            features.update({
+                "game_date": game_date,
+                "home_team": home,
+                "away_team": away,
+                "pitcher_name": sp_name,
+                "pitcher_id": sp_id,
+                "k_line": k_line,
+                "k_over_odds": k_over_odds,
+                "k_under_odds": k_under_odds,
+            })
+            pitcher_k_features.append(features)
+
+        # ── Batter Hits props ──
+        for prop in props.get("batter_hits", []):
+            player_name = prop["player"]
+            # Build features for this batter
+            # We need to find the batter's ID - search through roster
+            batter_features = _build_batter_features_from_prop(
+                player_name, prop, game, season
+            )
+            if batter_features:
+                batter_hits_features.append(batter_features)
+
+    log.info(f"  Props: {len(pitcher_k_features)} pitcher K, {len(batter_hits_features)} batter hits")
+    return {"pitcher_k": pitcher_k_features, "batter_hits": batter_hits_features}
+
+
+def _build_batter_features_from_prop(player_name: str, prop: dict, game: dict, season: int) -> dict:
+    """Build batter hit features for a specific prop."""
+    import requests
+
+    # Search for player by name
+    try:
+        r = requests.get(
+            f"{MLB_API_BASE}/people/search?names={player_name}&sportId=1",
+            timeout=10,
+        )
+        if r.status_code != 200:
+            return None
+        people = r.json().get("people", [])
+        if not people:
+            return None
+        batter_id = people[0]["id"]
+    except Exception:
+        return None
+
+    blog = get_batter_log_raw(batter_id, season)
+    if len(blog) < 15:
+        return None
+
+    features = build_batter_hits_features(
+        blog, len(blog),
+        opp_sp_stats=None,
+        is_home=False,  # Approximate
+        min_games=15,
+    )
+    if features is None:
+        return None
+
+    features.update({
+        "game_date": game.get("game_date", ""),
+        "home_team": game.get("home_team", ""),
+        "away_team": game.get("away_team", ""),
+        "batter_name": player_name,
+        "batter_id": batter_id,
+        "hits_line": prop["line"],
+        "hits_over_odds": prop["over_odds"],
+        "hits_under_odds": prop["under_odds"],
+    })
+    return features
+
+
+def _name_match(prop_name: str, sp_name: str) -> bool:
+    """Fuzzy match player names between prop API and schedule."""
+    if not prop_name or not sp_name:
+        return False
+    # Normalize
+    pn = prop_name.lower().strip()
+    sn = sp_name.lower().strip()
+    if pn == sn:
+        return True
+    # Last name match
+    p_last = pn.split()[-1] if pn else ""
+    s_last = sn.split()[-1] if sn else ""
+    return p_last == s_last and len(p_last) > 2
+
+
+MLB_API_BASE = "https://statsapi.mlb.com/api/v1"
 
 
 def _save_output(results: dict, target_date: date):
