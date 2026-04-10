@@ -1,21 +1,31 @@
-# MLB Picks - Thursday, April 09, 2026
+# MLB Picks - Friday, April 10, 2026
 
-*Last updated: 2026-04-09 03:13 PM ET*
+*Last updated: 2026-04-10 04:27 AM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-#### COL (+165.0)
+#### LAA (+155.0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | COL @ SD |
-| Starting Pitchers | TBD vs Randy Vásquez |
-| Model Win Probability | 62.5% |
-| Edge Over Market | 24.8% |
+| Matchup | LAA @ CIN |
+| Starting Pitchers | Jack Kochanowicz vs Chase Burns |
+| Model Win Probability | 64.5% |
+| Edge Over Market | 25.3% |
 | Confidence | HIGH |
-| Notes | Facing elite SP; Underdog on 4L skid; Strong value play |
+| Notes | Facing elite SP; Strong value play |
+
+---
+
+## Full Game Over/Under
+
+### RECOMMENDED PLAYS (1)
+
+| Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
+|---------|----------|------|------|-------------|------|------------|-------|
+| HOU @ SEA | Tatsuya Imai vs Emerson Hancock | 7.5 | UNDER | 70.7% | 20.7% | HIGH | Pitcher-friendly park favors UNDER; Elite SP matchup; Strong value |
 
 ---
 
@@ -25,7 +35,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CWS @ KC | Anthony Kay vs Seth Lugo | 5.0 | OVER | 62.0% | 12.0% | NO PLAY | Low-scoring teams, but line is set too low; Elite SPs, but line overreacts; Strong value |
+| CLE @ ATL | Slade Cecconi vs Bryce Elder | 4.7 | UNDER | 69.2% | 19.2% | HIGH | Elite SP matchup; Strong value |
 
 ---
 
@@ -44,6 +54,11 @@
 - **Probability**: The model's confidence in its pick
 - **Edge**: How much the model disagrees with the 50/50 line (higher = more confident)
 
-**Confidence Levels:** HIGH (10%+ edge), MEDIUM (8-10%), LOW (6-8%)
+**Player Props:**
+- **Player**: The player and their matchup
+- **Pick**: OVER or UNDER the prop line (e.g., OVER 6.5 Ks)
+- **Odds**: The payout odds for the prop
+
+**Confidence Levels:** HIGH (12%+ edge), MEDIUM (10-12%), LOW (8-10%)
 
 *Disclaimer: This is a statistical model for informational purposes. Past performance does not guarantee future results. Gamble responsibly.*
