@@ -1,0 +1,9 @@
+{
+  "pitcher_k": {
+    "model_name": "xgb_pitcher_k",
+    "accuracy": 0.5692562481180368,
+    "total_samples": 6642,
+    "model_path": "/var/lib/freelancer/projects/40322719/mlb-predictor/models/xgb_pitcher_k_latest.joblib"
+  },
+  "batter_hits": null
+}

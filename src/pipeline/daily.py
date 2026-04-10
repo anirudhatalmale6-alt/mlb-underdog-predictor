@@ -423,10 +423,13 @@ def _build_props_features(schedule: list, matched_games: list, season: int) -> d
             if not sp_id:
                 continue
 
-            # Get pitcher's game log for features
+            # Get pitcher's game log for features (combine with prior season if needed)
             pitcher_log = get_pitcher_log_raw(sp_id, season)
             if len(pitcher_log) < 5:
-                continue
+                prior_log = get_pitcher_log_raw(sp_id, season - 1)
+                pitcher_log = prior_log + pitcher_log
+                if len(pitcher_log) < 5:
+                    continue
 
             opp_k_rate = get_team_strikeout_rate(opp_team_id, season) if opp_team_id else 0.22
 
@@ -502,7 +505,10 @@ def _build_batter_features_from_prop(player_name: str, prop: dict, game: dict, s
 
     blog = get_batter_log_raw(batter_id, season)
     if len(blog) < 15:
-        return None
+        prior_blog = get_batter_log_raw(batter_id, season - 1)
+        blog = prior_blog + blog
+        if len(blog) < 15:
+            return None
 
     features = build_batter_hits_features(
         blog, len(blog),

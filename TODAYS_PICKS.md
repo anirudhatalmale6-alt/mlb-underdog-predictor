@@ -1,6 +1,6 @@
 # MLB Picks - Friday, April 10, 2026
 
-*Last updated: 2026-04-10 04:27 AM ET*
+*Last updated: 2026-04-10 04:42 AM ET*
 
 ## Moneyline Underdogs
 
@@ -36,6 +36,17 @@
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
 | CLE @ ATL | Slade Cecconi vs Bryce Elder | 4.7 | UNDER | 69.2% | 19.2% | HIGH | Elite SP matchup; Strong value |
+
+---
+
+## Pitcher Strikeout Props
+
+### RECOMMENDED PLAYS (2)
+
+| Player | Pick | Odds | Probability | Edge | Confidence | Notes |
+|--------|------|------|-------------|------|------------|-------|
+| Walker Buehler (COL @ SD) | OVER 3.1 Ks | -110.0 | 84.8% | 34.8% | HIGH | Facing high-K team; Strong value |
+| J.T. Ginn (OAK @ NYM) | UNDER 4.5 Ks | -110.0 | 74.7% | 24.7% | HIGH | Strong value |
 
 ---
 
