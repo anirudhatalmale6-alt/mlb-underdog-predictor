@@ -1,19 +1,19 @@
 # MLB Picks - Friday, April 10, 2026
 
-*Last updated: 2026-04-10 04:42 AM ET*
+*Last updated: 2026-04-10 02:43 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-#### LAA (+155.0)
+#### LAA (+156.0)
 
 | Stat | Value |
 |------|-------|
 | Matchup | LAA @ CIN |
 | Starting Pitchers | Jack Kochanowicz vs Chase Burns |
-| Model Win Probability | 64.5% |
-| Edge Over Market | 25.3% |
+| Model Win Probability | 65.0% |
+| Edge Over Market | 25.9% |
 | Confidence | HIGH |
 | Notes | Facing elite SP; Strong value play |
 
