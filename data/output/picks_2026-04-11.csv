@@ -1,0 +1,60 @@
+bet_type,game_date,home_team,away_team,underdog_team,home_sp_name,away_sp_name,underdog_odds,market_implied_prob,model_win_prob,edge,edge_pct,kelly_fraction,confidence,recommended,notes,pick,line,model_prob,player_name,odds
+MONEYLINE,2026-04-11,LAD,TEX,TEX,Emmet Sheehan,Jack Leiter,159.0,0.3861,0.6439,0.2578,25.8%,0.4199,HIGH,True,Underdog SP has better ERA; Strong value play,,,,,
+MONEYLINE,2026-04-11,KC,CWS,CWS,Michael Wacha,Erick Fedde,162.0,0.3817,0.6219,0.2402,24.0%,0.3886,HIGH,False,Facing elite SP; Strong value play,,,,,
+MONEYLINE,2026-04-11,TB,NYY,TB,Nick Martinez,Max Fried,162.0,0.3817,0.5534,0.1717,17.2%,0.2777,HIGH,False,Facing elite SP; Favorite on 3L skid; Strong value play; Home underdog,,,,,
+MONEYLINE,2026-04-11,MIL,WSH,WSH,Kyle Harrison,Foster Griffin,150.0,0.4,0.412,0.012,1.2%,0.02,NO PLAY,False,Facing elite SP; Favorite on 3L skid,,,,,
+MONEYLINE,2026-04-11,SD,COL,COL,Germán Márquez,Ryan Feltner,140.0,0.4167,0.383,-0.0337,-3.4%,0.0,NO PLAY,False,Underdog SP has better ERA; Favorite on 3L skid,,,,,
+FULL GAME TOTAL,2026-04-11,MIL,WSH,,Kyle Harrison,Foster Griffin,,,,0.2578,25.8%,,HIGH,True,"High-scoring teams, but line is inflated; Elite SP matchup; Strong value",UNDER,8.0,0.7578,,
+FULL GAME TOTAL,2026-04-11,SEA,HOU,,Luis Castillo,Lance McCullers Jr.,,,,0.2247,22.5%,,HIGH,False,Pitcher-friendly park favors UNDER; Elite SP matchup; Strong value,UNDER,7.5,0.7247,,
+FULL GAME TOTAL,2026-04-11,LAD,TEX,,Emmet Sheehan,Jack Leiter,,,,0.1608,16.1%,,MEDIUM,False,"High-scoring teams, but line is inflated; Weak pitching, but line already accounts for it; Strong value",UNDER,8.5,0.6608,,
+FULL GAME TOTAL,2026-04-11,ATL,CLE,,Martín Pérez,Parker Messick,,,,0.1335,13.4%,,LOW,False,Elite SP matchup; Strong value,UNDER,8.0,0.6335,,
+FULL GAME TOTAL,2026-04-11,PHI,ARI,,Taijuan Walker,Brandon Pfaadt,,,,0.1246,12.5%,,LOW,False,Weak pitching matchup; Strong value,OVER,9.0,0.6246,,
+FULL GAME TOTAL,2026-04-11,BAL,SF,,Chris Bassitt,Logan Webb,,,,0.1221,12.2%,,LOW,False,"Low-scoring teams, but line is set too low; Weak pitching matchup; Strong value",OVER,7.5,0.6221,,
+FULL GAME TOTAL,2026-04-11,TB,NYY,,Nick Martinez,Max Fried,,,,0.0512,5.1%,,NO PLAY,False,"Elite SPs, but line overreacts",OVER,7.5,0.5512,,
+FULL GAME TOTAL,2026-04-11,CIN,LAA,,Brandon Williamson,George Klassen,,,,0.0474,4.7%,,NO PLAY,False,"Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Weak pitching matchup",OVER,9.0,0.5474,,
+FULL GAME TOTAL,2026-04-11,DET,MIA,,Casey Mize,Janson Junk,,,,0.0266,2.7%,,NO PLAY,False,Standard play,UNDER,7.5,0.5266,,
+FULL GAME TOTAL,2026-04-11,KC,CWS,,Michael Wacha,Erick Fedde,,,,0.0205,2.1%,,NO PLAY,False,"Low-scoring teams, but line is set too low; Elite SPs, but line overreacts",OVER,9.0,0.5205,,
+FULL GAME TOTAL,2026-04-11,STL,BOS,,Kyle Leahy,Ranger Suarez,,,,0.0154,1.5%,,NO PLAY,False,"Weak pitching, but line already accounts for it",UNDER,8.0,0.5154,,
+FULL GAME TOTAL,2026-04-11,SD,COL,,Germán Márquez,Ryan Feltner,,,,0.0115,1.1%,,NO PLAY,False,Pitcher-friendly park favors UNDER,UNDER,8.5,0.5115,,
+FULL GAME TOTAL,2026-04-11,TOR,MIN,,Eric Lauer,Joe Ryan,,,,0.0065,0.7%,,NO PLAY,False,Standard play,UNDER,8.0,0.5065,,
+FULL GAME TOTAL,2026-04-11,CHC,PIT,,Edward Cabrera,Braxton Ashcraft,,,,0.0004,0.0%,,NO PLAY,False,"Elite SPs, but line overreacts",OVER,6.5,0.5004,,
+F5 TOTAL,2026-04-11,ATL,CLE,,Martín Pérez,Parker Messick,,,,0.2347,23.5%,,HIGH,True,Elite SP matchup; Strong value,UNDER,4.4,0.7347,,
+F5 TOTAL,2026-04-11,MIL,WSH,,Kyle Harrison,Foster Griffin,,,,0.2004,20.0%,,HIGH,False,"High-scoring teams, but line is inflated; Elite SP matchup; Strong value",UNDER,4.4,0.7004,,
+F5 TOTAL,2026-04-11,KC,CWS,,Michael Wacha,Erick Fedde,,,,0.1677,16.8%,,MEDIUM,False,"Low-scoring teams, but line is set too low; Elite SPs, but line overreacts; Strong value",OVER,5.0,0.6677,,
+F5 TOTAL,2026-04-11,SEA,HOU,,Luis Castillo,Lance McCullers Jr.,,,,0.1549,15.5%,,MEDIUM,False,Pitcher-friendly park favors UNDER; Elite SP matchup; Strong value,UNDER,4.1,0.6549,,
+F5 TOTAL,2026-04-11,LAD,TEX,,Emmet Sheehan,Jack Leiter,,,,0.1187,11.9%,,NO PLAY,False,"High-scoring teams, but line is inflated; Weak pitching, but line already accounts for it; Strong value",UNDER,4.7,0.6187,,
+F5 TOTAL,2026-04-11,TB,NYY,,Nick Martinez,Max Fried,,,,0.0982,9.8%,,NO PLAY,False,"Elite SPs, but line overreacts; Strong value",OVER,4.1,0.5982,,
+F5 TOTAL,2026-04-11,BAL,SF,,Chris Bassitt,Logan Webb,,,,0.0786,7.9%,,NO PLAY,False,"Low-scoring teams, but line is set too low; Weak pitching matchup",OVER,4.1,0.5786,,
+F5 TOTAL,2026-04-11,DET,MIA,,Casey Mize,Janson Junk,,,,0.0716,7.2%,,NO PLAY,False,Standard play,UNDER,4.1,0.5716,,
+F5 TOTAL,2026-04-11,SD,COL,,Germán Márquez,Ryan Feltner,,,,0.0576,5.8%,,NO PLAY,False,Pitcher-friendly park favors UNDER,UNDER,4.7,0.5576,,
+F5 TOTAL,2026-04-11,CIN,LAA,,Brandon Williamson,George Klassen,,,,0.0547,5.5%,,NO PLAY,False,"Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Weak pitching matchup",OVER,5.0,0.5547,,
+F5 TOTAL,2026-04-11,CHC,PIT,,Edward Cabrera,Braxton Ashcraft,,,,0.0498,5.0%,,NO PLAY,False,Elite SP matchup,UNDER,3.6,0.5498,,
+F5 TOTAL,2026-04-11,STL,BOS,,Kyle Leahy,Ranger Suarez,,,,0.018,1.8%,,NO PLAY,False,Weak pitching matchup,OVER,4.4,0.518,,
+F5 TOTAL,2026-04-11,TOR,MIN,,Eric Lauer,Joe Ryan,,,,0.0088,0.9%,,NO PLAY,False,Standard play,UNDER,4.4,0.5088,,
+F5 TOTAL,2026-04-11,PHI,ARI,,Taijuan Walker,Brandon Pfaadt,,,,0.0007,0.1%,,NO PLAY,False,Weak pitching matchup,OVER,5.0,0.5007,,
+PITCHER K,2026-04-11,TOR,MIN,,,,,,,0.3088,30.9%,,HIGH,True,Strong value,UNDER 5.8 Ks,5.8,0.8088,Joe Ryan,-110.0
+PITCHER K,2026-04-11,SD,COL,,,,,,,0.2892,28.9%,,HIGH,True,Facing high-K team; Strong value,OVER 2.6 Ks,2.6,0.7892,Germán Márquez,-110.0
+PITCHER K,2026-04-11,LAD,TEX,,,,,,,0.2515,25.1%,,HIGH,False,Strong value,UNDER 4.8 Ks,4.8,0.7515,Jack Leiter,-110.0
+PITCHER K,2026-04-11,ATL,CLE,,,,,,,0.244,24.4%,,HIGH,False,Strong value,UNDER 4.9 Ks,4.9,0.744,Parker Messick,-110.0
+PITCHER K,2026-04-11,SEA,HOU,,,,,,,0.1969,19.7%,,HIGH,False,Strong value,UNDER 4.6 Ks,4.6,0.6969,Luis Castillo,-110.0
+PITCHER K,2026-04-11,DET,MIA,,,,,,,0.1923,19.2%,,HIGH,False,Facing high-K team; Strong value,OVER 3.1 Ks,3.1,0.6923,Janson Junk,-110.0
+PITCHER K,2026-04-11,NYM,OAK,,,,,,,0.187,18.7%,,HIGH,False,Strong value,UNDER 5.0 Ks,5.0,0.687,Jacob Lopez,-110.0
+PITCHER K,2026-04-11,TOR,MIN,,,,,,,0.1763,17.6%,,HIGH,False,Facing high-K team; Strong value,OVER 4.4 Ks,4.4,0.6763,Eric Lauer,-110.0
+PITCHER K,2026-04-11,TB,NYY,,,,,,,0.1728,17.3%,,HIGH,False,Facing high-K team; Strong value,OVER 3.6 Ks,3.6,0.6728,Nick Martinez,-110.0
+PITCHER K,2026-04-11,KC,CWS,,,,,,,0.1667,16.7%,,HIGH,False,Facing high-K team; Strong value,OVER 3.6 Ks,3.6,0.6667,Michael Wacha,-110.0
+PITCHER K,2026-04-11,MIL,WSH,,,,,,,0.1612,16.1%,,HIGH,False,Strong value,UNDER 4.9 Ks,4.9,0.6612,Kyle Harrison,-110.0
+PITCHER K,2026-04-11,TB,NYY,,,,,,,0.1555,15.5%,,HIGH,False,Strong value,UNDER 5.3 Ks,5.3,0.6555,Max Fried,-110.0
+PITCHER K,2026-04-11,DET,MIA,,,,,,,0.1491,14.9%,,HIGH,False,Strong value,UNDER 4.6 Ks,4.6,0.6491,Casey Mize,-110.0
+PITCHER K,2026-04-11,SEA,HOU,,,,,,,0.1269,12.7%,,HIGH,False,Facing high-K team; Strong value,OVER 4.2 Ks,4.2,0.6269,Lance McCullers Jr.,-110.0
+PITCHER K,2026-04-11,SD,COL,,,,,,,0.1223,12.2%,,HIGH,False,Low K average; Strong value,UNDER 3.2 Ks,3.2,0.6223,Ryan Feltner,-110.0
+PITCHER K,2026-04-11,ATL,CLE,,,,,,,0.1196,12.0%,,MEDIUM,False,Facing high-K team; Strong value,OVER 3.2 Ks,3.2,0.6196,Martín Pérez,-110.0
+PITCHER K,2026-04-11,CHC,PIT,,,,,,,0.0919,9.2%,,LOW,False,Facing high-K team,OVER 4.1 Ks,4.1,0.5919,Braxton Ashcraft,-110.0
+PITCHER K,2026-04-11,KC,CWS,,,,,,,0.0842,8.4%,,LOW,False,Facing high-K team,OVER 2.7 Ks,2.7,0.5842,Erick Fedde,-110.0
+PITCHER K,2026-04-11,NYM,OAK,,,,,,,0.0744,7.4%,,NO PLAY,False,Facing high-K team,OVER 4.7 Ks,4.7,0.5744,Kodai Senga,-110.0
+PITCHER K,2026-04-11,BAL,SF,,,,,,,0.0534,5.3%,,NO PLAY,False,Facing high-K team,OVER 6.0 Ks,6.0,0.5534,Logan Webb,-110.0
+PITCHER K,2026-04-11,PHI,ARI,,,,,,,0.049,4.9%,,NO PLAY,False,Facing high-K team,OVER 3.8 Ks,3.8,0.549,Brandon Pfaadt,-110.0
+PITCHER K,2026-04-11,LAD,TEX,,,,,,,0.0433,4.3%,,NO PLAY,False,Facing high-K team,OVER 5.4 Ks,5.4,0.5433,Emmet Sheehan,-110.0
+PITCHER K,2026-04-11,STL,BOS,,,,,,,0.0212,2.1%,,NO PLAY,False,Standard play,UNDER 5.1 Ks,5.1,0.5212,Ranger Suarez,-110.0
+PITCHER K,2026-04-11,BAL,SF,,,,,,,0.0169,1.7%,,NO PLAY,False,Standard play,UNDER 4.6 Ks,4.6,0.5169,Chris Bassitt,-110.0
+PITCHER K,2026-04-11,PHI,ARI,,,,,,,0.0168,1.7%,,NO PLAY,False,Low K average,UNDER 2.6 Ks,2.6,0.5168,Taijuan Walker,-110.0
+PITCHER K,2026-04-11,CHC,PIT,,,,,,,0.0026,0.3%,,NO PLAY,False,Standard play,UNDER 5.2 Ks,5.2,0.5026,Edward Cabrera,-110.0

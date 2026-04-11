@@ -1,21 +1,21 @@
-# MLB Picks - Friday, April 10, 2026
+# MLB Picks - Saturday, April 11, 2026
 
-*Last updated: 2026-04-10 02:43 PM ET*
+*Last updated: 2026-04-11 02:29 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-#### LAA (+156.0)
+#### TEX (+159.0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAA @ CIN |
-| Starting Pitchers | Jack Kochanowicz vs Chase Burns |
-| Model Win Probability | 65.0% |
-| Edge Over Market | 25.9% |
+| Matchup | TEX @ LAD |
+| Starting Pitchers | Jack Leiter vs Emmet Sheehan |
+| Model Win Probability | 64.4% |
+| Edge Over Market | 25.8% |
 | Confidence | HIGH |
-| Notes | Facing elite SP; Strong value play |
+| Notes | Underdog SP has better ERA; Strong value play |
 
 ---
 
@@ -25,7 +25,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| HOU @ SEA | Tatsuya Imai vs Emerson Hancock | 7.5 | UNDER | 70.7% | 20.7% | HIGH | Pitcher-friendly park favors UNDER; Elite SP matchup; Strong value |
+| WSH @ MIL | Foster Griffin vs Kyle Harrison | 8.0 | UNDER | 75.8% | 25.8% | HIGH | High-scoring teams, but line is inflated; Elite SP matchup; Strong value |
 
 ---
 
@@ -35,7 +35,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CLE @ ATL | Slade Cecconi vs Bryce Elder | 4.7 | UNDER | 69.2% | 19.2% | HIGH | Elite SP matchup; Strong value |
+| CLE @ ATL | Parker Messick vs Martín Pérez | 4.4 | UNDER | 73.5% | 23.5% | HIGH | Elite SP matchup; Strong value |
 
 ---
 
@@ -45,8 +45,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Walker Buehler (COL @ SD) | OVER 3.1 Ks | -110.0 | 84.8% | 34.8% | HIGH | Facing high-K team; Strong value |
-| J.T. Ginn (OAK @ NYM) | UNDER 4.5 Ks | -110.0 | 74.7% | 24.7% | HIGH | Strong value |
+| Joe Ryan (MIN @ TOR) | UNDER 5.8 Ks | -110.0 | 80.9% | 30.9% | HIGH | Strong value |
+| Germán Márquez (COL @ SD) | OVER 2.6 Ks | -110.0 | 78.9% | 28.9% | HIGH | Facing high-K team; Strong value |
 
 ---
 
