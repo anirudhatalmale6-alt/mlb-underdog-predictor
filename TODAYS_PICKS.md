@@ -1,6 +1,6 @@
 # MLB Picks - Sunday, April 12, 2026
 
-*Last updated: 2026-04-12 02:08 PM ET*
+*Last updated: 2026-04-12 02:39 PM ET*
 
 ## Moneyline Underdogs
 
@@ -45,7 +45,7 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Cam Schlittler (NYY @ TB) | UNDER 5.5 Ks | -114.0 | 87.9% | 37.9% | HIGH | Strong value |
+| Cam Schlittler (NYY @ TB) | UNDER 5.5 Ks | -112.0 | 87.9% | 37.9% | HIGH | Strong value |
 | Roki Sasaki (TEX @ LAD) | OVER 4.5 Ks | +100.0 | 81.0% | 31.0% | HIGH | Facing high-K team; Strong value |
 
 ---
@@ -56,8 +56,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Yordan Alvarez (HOU @ SEA) | UNDER 0.5 hits | +152.0 | 86.9% | 36.9% | HIGH | Strong value |
-| Ryan Kreidler (MIN @ TOR) | OVER 0.5 hits | +105.0 | 85.3% | 35.3% | HIGH | Strong value |
+| Yordan Alvarez (HOU @ SEA) | UNDER 0.5 hits | +158.0 | 86.9% | 36.9% | HIGH | Strong value |
+| Geraldo Perdomo (ARI @ PHI) | OVER 0.5 hits | -208.0 | 80.0% | 30.0% | HIGH | Strong value |
 
 ---
 
