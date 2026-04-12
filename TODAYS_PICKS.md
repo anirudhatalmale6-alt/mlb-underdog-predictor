@@ -1,21 +1,21 @@
-# MLB Picks - Friday, April 10, 2026
+# MLB Picks - Sunday, April 12, 2026
 
-*Last updated: 2026-04-10 04:42 AM ET*
+*Last updated: 2026-04-12 02:07 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-#### LAA (+155.0)
+#### CWS (+155.0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAA @ CIN |
-| Starting Pitchers | Jack Kochanowicz vs Chase Burns |
-| Model Win Probability | 64.5% |
-| Edge Over Market | 25.3% |
+| Matchup | CWS @ KC |
+| Starting Pitchers | Grant Taylor vs Noah Cameron |
+| Model Win Probability | 58.3% |
+| Edge Over Market | 19.1% |
 | Confidence | HIGH |
-| Notes | Facing elite SP; Strong value play |
+| Notes | Underdog SP has better ERA; Strong value play |
 
 ---
 
@@ -25,7 +25,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| HOU @ SEA | Tatsuya Imai vs Emerson Hancock | 7.5 | UNDER | 70.7% | 20.7% | HIGH | Pitcher-friendly park favors UNDER; Elite SP matchup; Strong value |
+| HOU @ SEA | TBD vs Logan Gilbert | 7.5 | UNDER | 73.9% | 23.9% | HIGH | Pitcher-friendly park favors UNDER; Strong value |
 
 ---
 
@@ -35,7 +35,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CLE @ ATL | Slade Cecconi vs Bryce Elder | 4.7 | UNDER | 69.2% | 19.2% | HIGH | Elite SP matchup; Strong value |
+| CLE @ ATL | Tanner Bibee vs Chris Sale | 4.1 | UNDER | 72.1% | 22.1% | HIGH | Strong value |
 
 ---
 
@@ -45,8 +45,19 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Walker Buehler (COL @ SD) | OVER 3.1 Ks | -110.0 | 84.8% | 34.8% | HIGH | Facing high-K team; Strong value |
-| J.T. Ginn (OAK @ NYM) | UNDER 4.5 Ks | -110.0 | 74.7% | 24.7% | HIGH | Strong value |
+| Cam Schlittler (NYY @ TB) | UNDER 5.5 Ks | -114.0 | 87.9% | 37.9% | HIGH | Strong value |
+| Roki Sasaki (TEX @ LAD) | OVER 4.5 Ks | +100.0 | 81.0% | 31.0% | HIGH | Facing high-K team; Strong value |
+
+---
+
+## Batter Hits Props
+
+### RECOMMENDED PLAYS (2)
+
+| Player | Pick | Odds | Probability | Edge | Confidence | Notes |
+|--------|------|------|-------------|------|------------|-------|
+| Yordan Alvarez (HOU @ SEA) | UNDER 0.5 hits | +152.0 | 86.9% | 36.9% | HIGH | Strong value |
+| Ryan Kreidler (MIN @ TOR) | OVER 0.5 hits | +105.0 | 85.3% | 35.3% | HIGH | Strong value |
 
 ---
 

@@ -170,6 +170,7 @@ def _match_games_with_odds(schedule: list[dict], odds_data: list[dict]) -> list[
         if key in odds_lookup:
             odds = odds_lookup[key]
             game.update({
+                "event_id": odds.get("event_id", ""),
                 "home_consensus_odds": odds["home_consensus_odds"],
                 "away_consensus_odds": odds["away_consensus_odds"],
                 "underdog": odds["underdog"],
@@ -190,6 +191,7 @@ def _match_games_with_odds(schedule: list[dict], odds_data: list[dict]) -> list[
                 odds_away_abbrev = TEAM_ABBREVS.get(odds.get("away_team", ""), "")
                 if odds_home_abbrev == home and odds_away_abbrev == away:
                     game.update({
+                        "event_id": odds.get("event_id", ""),
                         "home_consensus_odds": odds["home_consensus_odds"],
                         "away_consensus_odds": odds["away_consensus_odds"],
                         "underdog": odds["underdog"],
