@@ -1,19 +1,19 @@
-# MLB Picks - Sunday, April 12, 2026
+# MLB Picks - Monday, April 13, 2026
 
-*Last updated: 2026-04-12 02:39 PM ET*
+*Last updated: 2026-04-13 03:10 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-#### CWS (+155.0)
+#### CHC (+154.0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | CWS @ KC |
-| Starting Pitchers | Grant Taylor vs Noah Cameron |
-| Model Win Probability | 58.3% |
-| Edge Over Market | 19.1% |
+| Matchup | CHC @ PHI |
+| Starting Pitchers | Javier Assad vs Cristopher Sánchez |
+| Model Win Probability | 54.6% |
+| Edge Over Market | 15.2% |
 | Confidence | HIGH |
 | Notes | Underdog SP has better ERA; Strong value play |
 
@@ -25,7 +25,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| HOU @ SEA | TBD vs Logan Gilbert | 7.5 | UNDER | 73.9% | 23.9% | HIGH | Pitcher-friendly park favors UNDER; Strong value |
+| HOU @ SEA | Mike Burrows vs George Kirby | 7.5 | UNDER | 70.5% | 20.5% | HIGH | Pitcher-friendly park favors UNDER; Strong value |
 
 ---
 
@@ -35,7 +35,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CLE @ ATL | Tanner Bibee vs Chris Sale | 4.1 | UNDER | 72.1% | 22.1% | HIGH | Strong value |
+| HOU @ SEA | Mike Burrows vs George Kirby | 4.1 | UNDER | 61.6% | 11.6% | NO PLAY | Pitcher-friendly park favors UNDER; Strong value |
 
 ---
 
@@ -45,8 +45,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Cam Schlittler (NYY @ TB) | UNDER 5.5 Ks | -112.0 | 87.9% | 37.9% | HIGH | Strong value |
-| Roki Sasaki (TEX @ LAD) | OVER 4.5 Ks | +100.0 | 81.0% | 31.0% | HIGH | Facing high-K team; Strong value |
+| Eury Pérez (MIA @ ATL) | UNDER 4.8 Ks | -110.0 | 76.3% | 26.3% | HIGH | Strong value |
+| Paul Skenes (WSH @ PIT) | UNDER 6.5 Ks | -112.0 | 73.1% | 23.1% | HIGH | Strong value |
 
 ---
 
@@ -56,8 +56,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Yordan Alvarez (HOU @ SEA) | UNDER 0.5 hits | +158.0 | 86.9% | 36.9% | HIGH | Strong value |
-| Geraldo Perdomo (ARI @ PHI) | OVER 0.5 hits | -208.0 | 80.0% | 30.0% | HIGH | Strong value |
+| Ryan Kreidler (BOS @ MIN) | OVER 0.5 hits | +110.0 | 85.3% | 35.3% | HIGH | Strong value |
+| Yordan Alvarez (HOU @ SEA) | UNDER 0.5 hits | +167.0 | 84.4% | 34.4% | HIGH | Strong value |
 
 ---
 

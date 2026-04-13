@@ -1,0 +1,208 @@
+bet_type,game_date,home_team,away_team,underdog_team,home_sp_name,away_sp_name,underdog_odds,market_implied_prob,model_win_prob,edge,edge_pct,kelly_fraction,confidence,recommended,notes,pick,line,model_prob,player_name,odds
+MONEYLINE,2026-04-13,PHI,CHC,CHC,Cristopher Sánchez,Javier Assad,154.0,0.3937,0.5461,0.1524,15.2%,0.2514,HIGH,True,Underdog SP has better ERA; Strong value play,,,,,
+MONEYLINE,2026-04-13,MIN,BOS,MIN,Bailey Ober,Garrett Crochet,140.0,0.4167,0.5683,0.1517,15.2%,0.26,HIGH,False,Facing elite SP; Strong value play; Home underdog,,,,,
+MONEYLINE,2026-04-13,NYY,LAA,LAA,Will Warren,Yusei Kikuchi,163.0,0.3802,0.5267,0.1464,14.6%,0.2363,HIGH,False,Facing elite SP; Favorite on 5L skid; Strong value play,,,,,
+MONEYLINE,2026-04-13,LAD,NYM,NYM,Justin Wrobleski,David Peterson,142.0,0.4132,0.5589,0.1457,14.6%,0.2482,HIGH,False,Underdog on 5L skid; Strong value play,,,,,
+MONEYLINE,2026-04-13,PIT,WSH,WSH,Paul Skenes,Cade Cavalli,185.0,0.3509,0.3618,0.0109,1.1%,0.0168,NO PLAY,False,Underdog SP has better ERA,,,,,
+MONEYLINE,2026-04-13,SEA,HOU,HOU,George Kirby,Mike Burrows,145.0,0.4082,0.4054,-0.0027,-0.3%,0.0,NO PLAY,False,Underdog on 7L skid; Favorite on 3L skid,,,,,
+FULL GAME TOTAL,2026-04-13,SEA,HOU,,George Kirby,Mike Burrows,,,,0.2048,20.5%,,HIGH,True,Pitcher-friendly park favors UNDER; Strong value,UNDER,7.5,0.7048,,
+FULL GAME TOTAL,2026-04-13,PIT,WSH,,Paul Skenes,Cade Cavalli,,,,0.141,14.1%,,LOW,False,"High-scoring teams, but line is inflated; Strong value",UNDER,7.5,0.641,,
+FULL GAME TOTAL,2026-04-13,LAD,NYM,,Justin Wrobleski,David Peterson,,,,0.0974,9.7%,,NO PLAY,False,"Weak pitching, but line already accounts for it; Strong value",UNDER,8.5,0.5974,,
+FULL GAME TOTAL,2026-04-13,NYY,LAA,,Will Warren,Yusei Kikuchi,,,,0.0573,5.7%,,NO PLAY,False,Hitter-friendly park favors OVER,OVER,9.5,0.5573,,
+FULL GAME TOTAL,2026-04-13,ATL,MIA,,Grant Holmes,Eury Pérez,,,,0.0379,3.8%,,NO PLAY,False,Standard play,UNDER,8.5,0.5379,,
+FULL GAME TOTAL,2026-04-13,PHI,CHC,,Cristopher Sánchez,Javier Assad,,,,0.0217,2.2%,,NO PLAY,False,"Elite SPs, but line overreacts",OVER,8.0,0.5217,,
+FULL GAME TOTAL,2026-04-13,STL,CLE,,Matthew Liberatore,Gavin Williams,,,,0.019,1.9%,,NO PLAY,False,Elite SP matchup,UNDER,8.0,0.519,,
+FULL GAME TOTAL,2026-04-13,MIN,BOS,,Bailey Ober,Garrett Crochet,,,,0.0058,0.6%,,NO PLAY,False,Standard play,UNDER,7.5,0.5058,,
+FULL GAME TOTAL,2026-04-13,BAL,ARI,,TBD,Ryne Nelson,,,,0.0024,0.2%,,NO PLAY,False,Standard play,OVER,8.5,0.5024,,
+F5 TOTAL,2026-04-13,SEA,HOU,,George Kirby,Mike Burrows,,,,0.1164,11.6%,,NO PLAY,True,Pitcher-friendly park favors UNDER; Strong value,UNDER,4.1,0.6164,,
+F5 TOTAL,2026-04-13,ATL,MIA,,Grant Holmes,Eury Pérez,,,,0.0819,8.2%,,NO PLAY,False,Strong value,UNDER,4.7,0.5819,,
+F5 TOTAL,2026-04-13,PHI,CHC,,Cristopher Sánchez,Javier Assad,,,,0.0777,7.8%,,NO PLAY,False,"Elite SPs, but line overreacts",OVER,4.4,0.5777,,
+F5 TOTAL,2026-04-13,LAD,NYM,,Justin Wrobleski,David Peterson,,,,0.0776,7.8%,,NO PLAY,False,"Weak pitching, but line already accounts for it",UNDER,4.7,0.5776,,
+F5 TOTAL,2026-04-13,PIT,WSH,,Paul Skenes,Cade Cavalli,,,,0.0644,6.4%,,NO PLAY,False,"High-scoring teams, but line is inflated",UNDER,4.1,0.5644,,
+F5 TOTAL,2026-04-13,MIN,BOS,,Bailey Ober,Garrett Crochet,,,,0.0252,2.5%,,NO PLAY,False,Standard play,OVER,4.1,0.5252,,
+F5 TOTAL,2026-04-13,STL,CLE,,Matthew Liberatore,Gavin Williams,,,,0.0215,2.1%,,NO PLAY,False,"Elite SPs, but line overreacts",OVER,4.4,0.5215,,
+F5 TOTAL,2026-04-13,NYY,LAA,,Will Warren,Yusei Kikuchi,,,,0.0181,1.8%,,NO PLAY,False,"Hitter-friendly park, but other factors favor UNDER",UNDER,5.2,0.5181,,
+F5 TOTAL,2026-04-13,BAL,ARI,,TBD,Ryne Nelson,,,,0.0006,0.1%,,NO PLAY,False,Standard play,UNDER,4.7,0.5006,,
+PITCHER K,2026-04-13,ATL,MIA,,,,,,,0.2628,26.3%,,HIGH,True,Strong value,UNDER 4.8 Ks,4.8,0.7628,Eury Pérez,-110.0
+PITCHER K,2026-04-13,PIT,WSH,,,,,,,0.2307,23.1%,,HIGH,True,Strong value,UNDER 6.5 Ks,6.5,0.7307,Paul Skenes,-112.0
+PITCHER K,2026-04-13,SEA,HOU,,,,,,,0.1267,12.7%,,HIGH,False,Strong value,UNDER 5.5 Ks,5.5,0.6267,George Kirby,-120.0
+PITCHER K,2026-04-13,BAL,ARI,,,,,,,0.1192,11.9%,,MEDIUM,False,Facing high-K team; Strong value,OVER 4.5 Ks,4.5,0.6192,Ryne Nelson,-154.0
+PITCHER K,2026-04-13,NYY,LAA,,,,,,,0.1143,11.4%,,MEDIUM,False,Facing high-K team; Strong value,OVER 5.5 Ks,5.5,0.6143,Will Warren,-130.0
+PITCHER K,2026-04-13,LAD,NYM,,,,,,,0.111,11.1%,,MEDIUM,False,Low K average; Strong value,UNDER 4.5 Ks,4.5,0.611,David Peterson,100.0
+PITCHER K,2026-04-13,PHI,CHC,,,,,,,0.0981,9.8%,,LOW,False,Standard play,UNDER 6.2 Ks,6.2,0.5981,Cristopher Sánchez,-110.0
+PITCHER K,2026-04-13,STL,CLE,,,,,,,0.0812,8.1%,,LOW,False,Standard play,UNDER 6.5 Ks,6.5,0.5812,Gavin Williams,-148.0
+PITCHER K,2026-04-13,PIT,WSH,,,,,,,0.0685,6.8%,,NO PLAY,False,Facing high-K team,OVER 3.5 Ks,3.5,0.5685,Cade Cavalli,-161.0
+PITCHER K,2026-04-13,OAK,TEX,,,,,,,0.0673,6.7%,,NO PLAY,False,Facing high-K team,OVER 5.4 Ks,5.4,0.5673,Nathan Eovaldi,-110.0
+PITCHER K,2026-04-13,OAK,TEX,,,,,,,0.0605,6.1%,,NO PLAY,False,Facing high-K team,OVER 3.9 Ks,3.9,0.5605,Luis Severino,-110.0
+PITCHER K,2026-04-13,SEA,HOU,,,,,,,0.0565,5.7%,,NO PLAY,False,Facing high-K team,OVER 4.5 Ks,4.5,0.5565,Mike Burrows,-140.0
+PITCHER K,2026-04-13,STL,CLE,,,,,,,0.0501,5.0%,,NO PLAY,False,Low K average,UNDER 3.5 Ks,3.5,0.5501,Matthew Liberatore,-102.0
+PITCHER K,2026-04-13,MIN,BOS,,,,,,,0.0401,4.0%,,NO PLAY,False,Standard play,UNDER 7.5 Ks,7.5,0.5401,Garrett Crochet,-112.0
+PITCHER K,2026-04-13,PHI,CHC,,,,,,,0.0275,2.8%,,NO PLAY,False,Facing high-K team,OVER 3.5 Ks,3.5,0.5275,Javier Assad,-154.0
+PITCHER K,2026-04-13,ATL,MIA,,,,,,,0.026,2.6%,,NO PLAY,False,Standard play,UNDER 5.5 Ks,5.5,0.526,Grant Holmes,110.0
+PITCHER K,2026-04-13,NYY,LAA,,,,,,,0.0177,1.8%,,NO PLAY,False,Facing high-K team,OVER 5.5 Ks,5.5,0.5177,Yusei Kikuchi,106.0
+PITCHER K,2026-04-13,MIN,BOS,,,,,,,0.0111,1.1%,,NO PLAY,False,Low K average,UNDER 4.5 Ks,4.5,0.5111,Bailey Ober,-145.0
+BATTER HITS,2026-04-13,MIN,BOS,,,,,,,0.3531,35.3%,,HIGH,True,Strong value,OVER 0.5 hits,0.5,0.8531,Ryan Kreidler,110.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.344,34.4%,,HIGH,True,Strong value,UNDER 0.5 hits,0.5,0.844,Yordan Alvarez,167.0
+BATTER HITS,2026-04-13,LAD,NYM,,,,,,,0.3199,32.0%,,HIGH,False,Cold streak; Strong value,UNDER 0.5 hits,0.5,0.8199,Andy Pages,170.0
+BATTER HITS,2026-04-13,BAL,ARI,,,,,,,0.3188,31.9%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.8188,Geraldo Perdomo,-210.0
+BATTER HITS,2026-04-13,PHI,CHC,,,,,,,0.3161,31.6%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.8161,Michael Busch,-150.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.2998,30.0%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.7998,Matt Olson,130.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.2961,29.6%,,HIGH,False,Cold streak; Strong value,UNDER 1.5 hits,1.5,0.7961,Xavier Edwards,-225.0
+BATTER HITS,2026-04-13,MIN,BOS,,,,,,,0.2932,29.3%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.7932,Willson Contreras,168.0
+BATTER HITS,2026-04-13,LAD,NYM,,,,,,,0.2915,29.1%,,HIGH,False,Hot streak; Strong value,OVER 0.5 hits,0.5,0.7915,Alex Freeland,-127.0
+BATTER HITS,2026-04-13,BAL,ARI,,,,,,,0.2836,28.4%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.7836,Corbin Carroll,184.0
+BATTER HITS,2026-04-13,STL,CLE,,,,,,,0.2744,27.4%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.7744,Brayan Rocchio,-161.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.2716,27.2%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.7716,Otto Lopez,169.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.2585,25.8%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.7585,Jakob Marsee,-213.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.2554,25.5%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.7554,Jo Adell,147.0
+BATTER HITS,2026-04-13,BAL,ARI,,,,,,,0.2425,24.2%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.7425,Taylor Ward,155.0
+BATTER HITS,2026-04-13,STL,CLE,,,,,,,0.2384,23.8%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.7384,David Fry,-155.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.2339,23.4%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.7339,Mauricio Dubon,120.0
+BATTER HITS,2026-04-13,PHI,CHC,,,,,,,0.2268,22.7%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.7268,Dansby Swanson,-156.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.2243,22.4%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.7243,James Wood,119.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.2235,22.4%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.7235,Oneil Cruz,195.0
+BATTER HITS,2026-04-13,LAD,NYM,,,,,,,0.2155,21.6%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.7155,Mark Vientos,-161.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.2141,21.4%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.7141,Ozzie Albies,121.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.2082,20.8%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.7082,Drake Baldwin,157.0
+BATTER HITS,2026-04-13,STL,CLE,,,,,,,0.2015,20.1%,,HIGH,False,Hot streak; Strong value,OVER 0.5 hits,0.5,0.7015,Jose Ramirez,-270.0
+BATTER HITS,2026-04-13,STL,CLE,,,,,,,0.2008,20.1%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.7008,Victor Scott II,-115.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.1964,19.6%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6964,Randal Grichuk,-167.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.1957,19.6%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6957,Mike Yastrzemski,-129.0
+BATTER HITS,2026-04-13,LAD,NYM,,,,,,,0.1938,19.4%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6938,Tyrone Taylor,-112.0
+BATTER HITS,2026-04-13,BAL,ARI,,,,,,,0.1931,19.3%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6931,Tim Tawa,-154.0
+BATTER HITS,2026-04-13,STL,CLE,,,,,,,0.1913,19.1%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.6913,Jordan Walker,140.0
+BATTER HITS,2026-04-13,LAD,NYM,,,,,,,0.1857,18.6%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6857,Marcus Semien,-147.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.1841,18.4%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6841,Nasim Nunez,-107.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.183,18.3%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.683,Agustín Ramírez,-195.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.1802,18.0%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6802,Yainer Diaz,-160.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.177,17.7%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.677,Marcell Ozuna,-196.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.1728,17.3%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6728,Jorge Soler,-148.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.1645,16.4%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.6645,Carlos Correa,143.0
+BATTER HITS,2026-04-13,PHI,CHC,,,,,,,0.1639,16.4%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6639,Pete Crow-Armstrong,-135.0
+BATTER HITS,2026-04-13,MIN,BOS,,,,,,,0.1618,16.2%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6618,Caleb Durbin,-208.0
+BATTER HITS,2026-04-13,MIN,BOS,,,,,,,0.1609,16.1%,,HIGH,False,Cold streak; Strong value,UNDER 0.5 hits,0.5,0.6609,Wilyer Abreu,169.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.1592,15.9%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6592,Taylor Trammell,128.0
+BATTER HITS,2026-04-13,MIN,BOS,,,,,,,0.1536,15.4%,,HIGH,False,Hot streak; Strong value,OVER 0.5 hits,0.5,0.6536,Trevor Story,-195.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.1521,15.2%,,HIGH,False,Hot streak; Strong value,OVER 0.5 hits,0.5,0.6521,Julio Rodriguez,-227.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.1515,15.1%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6515,Henry Davis,-137.0
+BATTER HITS,2026-04-13,MIN,BOS,,,,,,,0.1498,15.0%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6498,Matt Wallner,100.0
+BATTER HITS,2026-04-13,STL,CLE,,,,,,,0.1497,15.0%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.6497,Angel Martinez,190.0
+BATTER HITS,2026-04-13,PHI,CHC,,,,,,,0.1488,14.9%,,HIGH,False,Strong value,UNDER 1.5 hits,1.5,0.6488,Nico Hoerner,-191.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.1482,14.8%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.6482,Cam Smith,134.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.148,14.8%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.648,Graham Pauley,-137.0
+BATTER HITS,2026-04-13,BAL,ARI,,,,,,,0.1475,14.7%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6475,Pete Alonso,-233.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.1474,14.7%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6474,Jorbit Vivas,-115.0
+BATTER HITS,2026-04-13,PHI,CHC,,,,,,,0.1453,14.5%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6453,Matt Shaw,-150.0
+BATTER HITS,2026-04-13,STL,CLE,,,,,,,0.1437,14.4%,,HIGH,False,Hot streak; Strong value,OVER 0.5 hits,0.5,0.6437,Austin Hedges,-114.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.1427,14.3%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6427,Cal Raleigh,-153.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.1416,14.2%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.6416,Connor Norby,116.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.1396,14.0%,,HIGH,False,Hot streak; Strong value,OVER 0.5 hits,0.5,0.6396,Jorge Mateo,-115.0
+BATTER HITS,2026-04-13,STL,CLE,,,,,,,0.1391,13.9%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6391,Ivan Herrera,-208.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.1385,13.8%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.6385,Daylen Lile,140.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.1382,13.8%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.6382,Jose Altuve,160.0
+BATTER HITS,2026-04-13,BAL,ARI,,,,,,,0.1381,13.8%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6381,Colton Cowser,-127.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.1376,13.8%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6376,Travis d'Arnaud,-154.0
+BATTER HITS,2026-04-13,STL,CLE,,,,,,,0.1361,13.6%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6361,Nolan Gorman,-115.0
+BATTER HITS,2026-04-13,MIN,BOS,,,,,,,0.1355,13.5%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.6355,Josh Bell,127.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.1348,13.5%,,HIGH,False,Strong value,UNDER 1.5 hits,1.5,0.6348,Jeremy Pena,185.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.1343,13.4%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.6343,Ronald Acuna Jr.,175.0
+BATTER HITS,2026-04-13,BAL,ARI,,,,,,,0.1343,13.4%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6343,Coby Mayo,-141.0
+BATTER HITS,2026-04-13,PHI,CHC,,,,,,,0.1324,13.2%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.6324,Bryce Harper,200.0
+BATTER HITS,2026-04-13,BAL,ARI,,,,,,,0.1323,13.2%,,HIGH,False,Strong value,UNDER 1.5 hits,1.5,0.6323,Gunnar Henderson,190.0
+BATTER HITS,2026-04-13,BAL,ARI,,,,,,,0.1322,13.2%,,HIGH,False,Strong value,UNDER 0.5 hits,0.5,0.6322,Jeremiah Jackson,124.0
+BATTER HITS,2026-04-13,LAD,NYM,,,,,,,0.1268,12.7%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.6268,Kyle Tucker,-204.0
+BATTER HITS,2026-04-13,BAL,ARI,,,,,,,0.125,12.5%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.625,Ketel Marte,-263.0
+BATTER HITS,2026-04-13,BAL,ARI,,,,,,,0.125,12.5%,,HIGH,False,Strong value,OVER 0.5 hits,0.5,0.625,Dylan Beavers,-160.0
+BATTER HITS,2026-04-13,BAL,ARI,,,,,,,0.1235,12.3%,,HIGH,False,Hot streak; Strong value,OVER 0.5 hits,0.5,0.6235,Jorge Barrosa,-139.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.12,12.0%,,MEDIUM,False,Strong value,OVER 0.5 hits,0.5,0.62,Giancarlo Stanton,-200.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.1179,11.8%,,MEDIUM,False,Strong value,OVER 0.5 hits,0.5,0.6179,Oswald Peraza,-122.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.1179,11.8%,,MEDIUM,False,Strong value,OVER 0.5 hits,0.5,0.6179,Jose Tena,-115.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.1171,11.7%,,MEDIUM,False,High BA; Strong value,OVER 0.5 hits,0.5,0.6171,Brendan Donovan,-227.0
+BATTER HITS,2026-04-13,LAD,NYM,,,,,,,0.1122,11.2%,,MEDIUM,False,Strong value,OVER 0.5 hits,0.5,0.6122,Francisco Lindor,-200.0
+BATTER HITS,2026-04-13,STL,CLE,,,,,,,0.1115,11.1%,,MEDIUM,False,Strong value,OVER 0.5 hits,0.5,0.6115,Pedro Pages,-123.0
+BATTER HITS,2026-04-13,PHI,CHC,,,,,,,0.1104,11.0%,,MEDIUM,False,Strong value,OVER 0.5 hits,0.5,0.6104,Adolis Garcia,-185.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.1069,10.7%,,MEDIUM,False,Strong value,OVER 0.5 hits,0.5,0.6069,Brady House,-159.0
+BATTER HITS,2026-04-13,STL,CLE,,,,,,,0.1065,10.6%,,MEDIUM,False,Strong value,OVER 0.5 hits,0.5,0.6065,JJ Wetherholt,-182.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.1055,10.5%,,MEDIUM,False,Strong value,UNDER 0.5 hits,0.5,0.6055,Zach Neto,166.0
+BATTER HITS,2026-04-13,BAL,ARI,,,,,,,0.1028,10.3%,,MEDIUM,False,Strong value,OVER 0.5 hits,0.5,0.6028,Alek Thomas,-169.0
+BATTER HITS,2026-04-13,LAD,NYM,,,,,,,0.1018,10.2%,,MEDIUM,False,Strong value,OVER 0.5 hits,0.5,0.6018,Miguel Rojas,-143.0
+BATTER HITS,2026-04-13,PHI,CHC,,,,,,,0.1017,10.2%,,MEDIUM,False,Strong value,OVER 0.5 hits,0.5,0.6017,Brandon Marsh,-198.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.1,10.0%,,MEDIUM,False,Strong value,OVER 0.5 hits,0.5,0.6,Jose Caballero,-143.0
+BATTER HITS,2026-04-13,PHI,CHC,,,,,,,0.0959,9.6%,,LOW,False,Standard play,OVER 0.5 hits,0.5,0.5959,Alec Bohm,-185.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.0953,9.5%,,LOW,False,Standard play,OVER 0.5 hits,0.5,0.5953,Amed Rosario,-220.0
+BATTER HITS,2026-04-13,STL,CLE,,,,,,,0.0949,9.5%,,LOW,False,Standard play,OVER 0.5 hits,0.5,0.5949,Masyn Winn,-160.0
+BATTER HITS,2026-04-13,STL,CLE,,,,,,,0.0947,9.5%,,LOW,False,Standard play,UNDER 0.5 hits,0.5,0.5947,Rhys Hoskins,128.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.0945,9.4%,,LOW,False,Standard play,OVER 0.5 hits,0.5,0.5945,Michael Harris II,-163.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.0944,9.4%,,LOW,False,Standard play,UNDER 0.5 hits,0.5,0.5944,CJ Abrams,114.0
+BATTER HITS,2026-04-13,LAD,NYM,,,,,,,0.0938,9.4%,,LOW,False,Standard play,UNDER 0.5 hits,0.5,0.5938,Will Smith,175.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.0914,9.1%,,LOW,False,Standard play,OVER 0.5 hits,0.5,0.5914,Luis Garcia Jr.,-200.0
+BATTER HITS,2026-04-13,STL,CLE,,,,,,,0.0913,9.1%,,LOW,False,Standard play,UNDER 0.5 hits,0.5,0.5913,Thomas Saggese,123.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.0911,9.1%,,LOW,False,Standard play,OVER 0.5 hits,0.5,0.5911,Aaron Judge,-256.0
+BATTER HITS,2026-04-13,MIN,BOS,,,,,,,0.0907,9.1%,,LOW,False,Standard play,OVER 0.5 hits,0.5,0.5907,Luke Keaschall,-175.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.09,9.0%,,LOW,False,Standard play,OVER 0.5 hits,0.5,0.59,Mike Trout,-161.0
+BATTER HITS,2026-04-13,MIN,BOS,,,,,,,0.0896,9.0%,,LOW,False,Standard play,OVER 0.5 hits,0.5,0.5896,Victor Caratini,-130.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.0882,8.8%,,LOW,False,Hot streak,OVER 0.5 hits,0.5,0.5882,Luke Raley,-110.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.0875,8.8%,,LOW,False,Standard play,OVER 0.5 hits,0.5,0.5875,Heriberto Hernandez,-130.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.0874,8.7%,,LOW,False,Standard play,OVER 0.5 hits,0.5,0.5874,Owen Caissie,-149.0
+BATTER HITS,2026-04-13,STL,CLE,,,,,,,0.0871,8.7%,,LOW,False,Standard play,OVER 0.5 hits,0.5,0.5871,Alec Burleson,-204.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.0865,8.7%,,LOW,False,Standard play,OVER 0.5 hits,0.5,0.5865,Josh Naylor,-190.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.0837,8.4%,,LOW,False,Standard play,OVER 0.5 hits,0.5,0.5837,Cody Bellinger,-217.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.0835,8.3%,,LOW,False,Standard play,OVER 0.5 hits,0.5,0.5835,Liam Hicks,-186.0
+BATTER HITS,2026-04-13,LAD,NYM,,,,,,,0.083,8.3%,,LOW,False,Standard play,UNDER 0.5 hits,0.5,0.583,Teoscar Hernandez,165.0
+BATTER HITS,2026-04-13,BAL,ARI,,,,,,,0.0811,8.1%,,LOW,False,Hot streak,OVER 0.5 hits,0.5,0.5811,Leody Taveras,-189.0
+BATTER HITS,2026-04-13,PHI,CHC,,,,,,,0.0807,8.1%,,LOW,False,Standard play,UNDER 1.5 hits,1.5,0.5807,Trea Turner,-244.0
+BATTER HITS,2026-04-13,PHI,CHC,,,,,,,0.0779,7.8%,,NO PLAY,False,Standard play,UNDER 0.5 hits,0.5,0.5779,Carson Kelly,150.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.0774,7.7%,,NO PLAY,False,Standard play,OVER 1.5 hits,1.5,0.5774,Paul Goldschmidt,195.0
+BATTER HITS,2026-04-13,STL,CLE,,,,,,,0.0763,7.6%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5763,Jose Fermin,-150.0
+BATTER HITS,2026-04-13,MIN,BOS,,,,,,,0.0762,7.6%,,NO PLAY,False,Standard play,UNDER 0.5 hits,0.5,0.5762,Brooks Lee,110.0
+BATTER HITS,2026-04-13,LAD,NYM,,,,,,,0.0752,7.5%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5752,Brett Baty,-135.0
+BATTER HITS,2026-04-13,MIN,BOS,,,,,,,0.0732,7.3%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5732,Carlos Narvaez,-156.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.0694,6.9%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5694,Yoan Moncada,-145.0
+BATTER HITS,2026-04-13,BAL,ARI,,,,,,,0.0685,6.9%,,NO PLAY,False,Standard play,UNDER 0.5 hits,0.5,0.5685,Adrian Del Castillo,124.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.066,6.6%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.566,J.P. Crawford,-128.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.0654,6.5%,,NO PLAY,False,Standard play,UNDER 0.5 hits,0.5,0.5654,Randy Arozarena,109.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.0652,6.5%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5652,Josh Lowe,-154.0
+BATTER HITS,2026-04-13,LAD,NYM,,,,,,,0.0632,6.3%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5632,Freddie Freeman,-222.0
+BATTER HITS,2026-04-13,PHI,CHC,,,,,,,0.0627,6.3%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5627,Kyle Schwarber,-182.0
+BATTER HITS,2026-04-13,MIN,BOS,,,,,,,0.0613,6.1%,,NO PLAY,False,Standard play,UNDER 0.5 hits,0.5,0.5613,Ceddanne Rafaela,125.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.0603,6.0%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5603,Spencer Horwitz,-164.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.0586,5.9%,,NO PLAY,False,Standard play,UNDER 0.5 hits,0.5,0.5586,Joey Loperfido,100.0
+BATTER HITS,2026-04-13,PHI,CHC,,,,,,,0.0581,5.8%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5581,J.T. Realmuto,-192.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.058,5.8%,,NO PLAY,False,High BA,OVER 0.5 hits,0.5,0.558,Dominic Canzone,-130.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.0572,5.7%,,NO PLAY,False,Standard play,UNDER 0.5 hits,0.5,0.5572,Nick Yorke,182.0
+BATTER HITS,2026-04-13,MIN,BOS,,,,,,,0.0565,5.6%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5565,Marcelo Mayer,-164.0
+BATTER HITS,2026-04-13,PHI,CHC,,,,,,,0.0547,5.5%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5547,Bryson Stott,-171.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.0535,5.3%,,NO PLAY,False,Standard play,UNDER 0.5 hits,0.5,0.5535,Ryan O'Hearn,163.0
+BATTER HITS,2026-04-13,MIN,BOS,,,,,,,0.0533,5.3%,,NO PLAY,False,Cold streak,UNDER 0.5 hits,0.5,0.5533,Roman Anthony,165.0
+BATTER HITS,2026-04-13,MIN,BOS,,,,,,,0.0524,5.2%,,NO PLAY,False,Standard play,UNDER 0.5 hits,0.5,0.5524,Ryan Jeffers,125.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.0507,5.1%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5507,Isaac Paredes,-160.0
+BATTER HITS,2026-04-13,PHI,CHC,,,,,,,0.0493,4.9%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5493,Miguel Amaya,-115.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.0474,4.7%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5474,Cole Young,-120.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.046,4.6%,,NO PLAY,False,Hot streak,OVER 0.5 hits,0.5,0.546,Austin Riley,-180.0
+BATTER HITS,2026-04-13,MIN,BOS,,,,,,,0.0449,4.5%,,NO PLAY,False,Standard play,UNDER 0.5 hits,0.5,0.5449,Byron Buxton,138.0
+BATTER HITS,2026-04-13,SEA,HOU,,,,,,,0.0438,4.4%,,NO PLAY,False,Cold streak,UNDER 0.5 hits,0.5,0.5438,Christian Walker,130.0
+BATTER HITS,2026-04-13,PHI,CHC,,,,,,,0.043,4.3%,,NO PLAY,False,Low BA,UNDER 0.5 hits,0.5,0.543,Alex Bregman,163.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.0425,4.2%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5425,Nolan Schanuel,-204.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.0411,4.1%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5411,Austin Wells,-132.0
+BATTER HITS,2026-04-13,BAL,ARI,,,,,,,0.0411,4.1%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5411,Nolan Arenado,-204.0
+BATTER HITS,2026-04-13,LAD,NYM,,,,,,,0.0383,3.8%,,NO PLAY,False,Standard play,UNDER 0.5 hits,0.5,0.5383,Luis Robert Jr.,148.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.0381,3.8%,,NO PLAY,False,High BA,OVER 0.5 hits,0.5,0.5381,Dominic Smith,-139.0
+BATTER HITS,2026-04-13,BAL,ARI,,,,,,,0.0351,3.5%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5351,Samuel Basallo,-190.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.0325,3.2%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5325,Jazz Chisholm Jr.,-175.0
+BATTER HITS,2026-04-13,STL,CLE,,,,,,,0.0323,3.2%,,NO PLAY,False,Standard play,UNDER 1.5 hits,1.5,0.5323,Steven Kwan,-238.0
+BATTER HITS,2026-04-13,PHI,CHC,,,,,,,0.0307,3.1%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5307,Seiya Suzuki,-200.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.0289,2.9%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5289,Nick Gonzales,-220.0
+BATTER HITS,2026-04-13,LAD,NYM,,,,,,,0.028,2.8%,,NO PLAY,False,Standard play,UNDER 0.5 hits,0.5,0.528,Jorge Polanco,143.0
+BATTER HITS,2026-04-13,MIN,BOS,,,,,,,0.0277,2.8%,,NO PLAY,False,High BA,OVER 0.5 hits,0.5,0.5277,Austin Martin,-175.0
+BATTER HITS,2026-04-13,LAD,NYM,,,,,,,0.0258,2.6%,,NO PLAY,False,Standard play,UNDER 0.5 hits,0.5,0.5258,Shohei Ohtani,198.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.0243,2.4%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5243,Keibert Ruiz,-141.0
+BATTER HITS,2026-04-13,LAD,NYM,,,,,,,0.0232,2.3%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5232,Francisco Alvarez,-140.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.021,2.1%,,NO PLAY,False,Standard play,UNDER 0.5 hits,0.5,0.521,Bryan Reynolds,175.0
+BATTER HITS,2026-04-13,MIN,BOS,,,,,,,0.02,2.0%,,NO PLAY,False,Standard play,UNDER 0.5 hits,0.5,0.52,Jarren Duran,178.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.0161,1.6%,,NO PLAY,False,Standard play,UNDER 0.5 hits,0.5,0.5161,Jacob Young,107.0
+BATTER HITS,2026-04-13,PHI,CHC,,,,,,,0.0156,1.6%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5156,Ian Happ,-152.0
+BATTER HITS,2026-04-13,ATL,MIA,,,,,,,0.0129,1.3%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5129,Javier Sanoja,-175.0
+BATTER HITS,2026-04-13,LAD,NYM,,,,,,,0.0123,1.2%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.5123,Bo Bichette,-235.0
+BATTER HITS,2026-04-13,LAD,NYM,,,,,,,0.0099,1.0%,,NO PLAY,False,Cold streak,UNDER 0.5 hits,0.5,0.5099,Santiago Espinal,150.0
+BATTER HITS,2026-04-13,PIT,WSH,,,,,,,0.0092,0.9%,,NO PLAY,False,Standard play,UNDER 0.5 hits,0.5,0.5092,Brandon Lowe,150.0
+BATTER HITS,2026-04-13,NYY,LAA,,,,,,,0.004,0.4%,,NO PLAY,False,Standard play,OVER 0.5 hits,0.5,0.504,Logan O'Hoppe,-130.0
