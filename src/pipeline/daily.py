@@ -18,12 +18,14 @@ from src.ingest.mlb_statsapi import (
     get_schedule, get_pitcher_season_stats, get_pitcher_game_log,
     get_team_batting_stats, get_team_pitching_stats, get_standings,
 )
-from src.ingest.odds_api import fetch_mlb_odds, fetch_mlb_player_props
+from src.ingest.odds_api import fetch_mlb_odds, fetch_mlb_player_props, fetch_first_inning_odds
 from src.features.builder import build_feature_vector
 from src.features.props import build_pitcher_k_features, build_batter_hits_features
 from src.model.predict import generate_predictions
 from src.model.totals import predict_full_game_totals, predict_f5_totals
 from src.model.props import predict_pitcher_k_props, predict_batter_hits_props
+from src.model.first_inning import predict_first_inning_ml, predict_first_inning_total
+from src.features.first_inning import FIRST_INNING_FEATURES
 from src.model.registry import load_latest_model
 from src.ingest.props_collect import get_pitcher_game_log as get_pitcher_log_raw, get_team_strikeout_rate, get_batter_game_log as get_batter_log_raw
 from src.utils.odds_math import american_to_implied, remove_vig
@@ -75,6 +77,8 @@ def run_daily_pipeline(target_date: date = None) -> dict:
         "moneyline": pd.DataFrame(),
         "full_game_total": pd.DataFrame(),
         "f5_total": pd.DataFrame(),
+        "i1_ml": [],
+        "i1_total": [],
         "pitcher_k": pd.DataFrame(),
         "batter_hits": pd.DataFrame(),
     }
@@ -130,15 +134,29 @@ def run_daily_pipeline(target_date: date = None) -> dict:
     except Exception as e:
         log.warning(f"Player props error: {e}")
 
+    # ── 1st Inning Markets ──
+    log.info("Step 4c: Fetching 1st inning odds and building features...")
+    try:
+        i1_data = _build_first_inning_features(matched_games, season, standings)
+        if i1_data:
+            results["i1_ml"] = predict_first_inning_ml(i1_data)
+            results["i1_total"] = predict_first_inning_total(i1_data)
+    except Exception as e:
+        log.warning(f"1st inning error: {e}")
+
     # Step 5: Save output
     log.info("Step 5: Saving output...")
     _save_output(results, target_date)
 
     # Log summary
-    for bet_type, df in results.items():
-        if not df.empty:
-            rec = df[df["recommended"]].shape[0] if "recommended" in df.columns else 0
-            log.info(f"  {bet_type}: {len(df)} picks, {rec} recommended")
+    for bet_type, data in results.items():
+        if isinstance(data, list):
+            if data:
+                rec = sum(1 for p in data if p.get("recommended"))
+                log.info(f"  {bet_type}: {len(data)} picks, {rec} recommended")
+        elif isinstance(data, pd.DataFrame) and not data.empty:
+            rec = data[data["recommended"]].shape[0] if "recommended" in data.columns else 0
+            log.info(f"  {bet_type}: {len(data)} picks, {rec} recommended")
 
     return results
 
@@ -148,6 +166,8 @@ def _empty_results():
         "moneyline": pd.DataFrame(),
         "full_game_total": pd.DataFrame(),
         "f5_total": pd.DataFrame(),
+        "i1_ml": [],
+        "i1_total": [],
         "pitcher_k": pd.DataFrame(),
         "batter_hits": pd.DataFrame(),
     }
@@ -552,15 +572,145 @@ def _name_match(prop_name: str, sp_name: str) -> bool:
 MLB_API_BASE = "https://statsapi.mlb.com/api/v1"
 
 
+def _build_first_inning_features(matched_games: list, season: int, standings: dict) -> list[dict]:
+    """Build features for 1st inning predictions using live SP data."""
+    # Get event IDs for 1st inning odds
+    event_ids = [g.get("event_id") for g in matched_games if g.get("event_id")]
+    i1_odds = {}
+    if event_ids:
+        try:
+            i1_odds = fetch_first_inning_odds(event_ids)
+        except Exception as e:
+            log.warning(f"Could not fetch 1st inning odds: {e}")
+
+    features_list = []
+    for game in matched_games:
+        home = game.get("home_team", "")
+        away = game.get("away_team", "")
+        eid = game.get("event_id", "")
+
+        # Get SP stats for both teams
+        home_sp_id = game.get("home_sp_id")
+        away_sp_id = game.get("away_sp_id")
+
+        home_sp_stats = _get_sp_stats_for_i1(home_sp_id, season) if home_sp_id else {}
+        away_sp_stats = _get_sp_stats_for_i1(away_sp_id, season) if away_sp_id else {}
+
+        # Get team rolling stats from standings
+        home_stand = standings.get(home, {})
+        away_stand = standings.get(away, {})
+
+        home_rpg = home_stand.get("rpg", 4.5)
+        away_rpg = away_stand.get("rpg", 4.5)
+        home_rapg = home_stand.get("rapg", 4.5)
+        away_rapg = away_stand.get("rapg", 4.5)
+        home_win_pct = home_stand.get("win_pct", 0.5)
+        away_win_pct = away_stand.get("win_pct", 0.5)
+
+        pf = PARK_FACTORS.get(home, 100) / 100.0
+
+        features = {
+            "game_date": game.get("game_date", ""),
+            "home_team": home,
+            "away_team": away,
+            "event_id": eid,
+            "home_sp_name": game.get("home_sp_name", "TBD"),
+            "away_sp_name": game.get("away_sp_name", "TBD"),
+            # SP stats
+            "home_sp_era": home_sp_stats.get("era", home_rapg),
+            "away_sp_era": away_sp_stats.get("era", away_rapg),
+            "home_sp_whip": home_sp_stats.get("whip", 1.30),
+            "away_sp_whip": away_sp_stats.get("whip", 1.30),
+            "home_sp_k_per_9": home_sp_stats.get("k_per_9", 8.5),
+            "away_sp_k_per_9": away_sp_stats.get("k_per_9", 8.5),
+            "home_sp_bb_per_9": home_sp_stats.get("bb_per_9", 3.2),
+            "away_sp_bb_per_9": away_sp_stats.get("bb_per_9", 3.2),
+            "home_sp_hr_per_9": home_sp_stats.get("hr_per_9", 1.2),
+            "away_sp_hr_per_9": away_sp_stats.get("hr_per_9", 1.2),
+            # 1st inning specific (approximate from team+SP data)
+            "home_1st_inn_rpg": home_rpg / 9.0,
+            "away_1st_inn_rpg": away_rpg / 9.0,
+            "home_1st_inn_rapg": home_rapg / 9.0,
+            "away_1st_inn_rapg": away_rapg / 9.0,
+            "home_1st_inn_scored_pct": min(0.35, home_rpg / 15.0),
+            "away_1st_inn_scored_pct": min(0.35, away_rpg / 15.0),
+            "home_1st_inn_allowed_pct": min(0.35, home_rapg / 15.0),
+            "away_1st_inn_allowed_pct": min(0.35, away_rapg / 15.0),
+            # Team offensive
+            "home_rpg": home_rpg,
+            "away_rpg": away_rpg,
+            "home_ops": 0.720 + (home_rpg - 4.5) * 0.03,
+            "away_ops": 0.720 + (away_rpg - 4.5) * 0.03,
+            # Combined
+            "combined_1st_inn_rpg": (home_rpg + away_rpg) / 9.0,
+            "combined_1st_inn_score_pct": min(0.50, (home_rpg + away_rpg) / 30.0),
+            "park_factor": pf,
+            "sp_era_combined": (home_sp_stats.get("era", 4.5) + away_sp_stats.get("era", 4.5)) / 2,
+            "sp_whip_combined": (home_sp_stats.get("whip", 1.30) + away_sp_stats.get("whip", 1.30)) / 2,
+            # Momentum
+            "home_win_pct": home_win_pct,
+            "away_win_pct": away_win_pct,
+        }
+
+        # Add 1st inning odds if available
+        eid_odds = i1_odds.get(eid, {})
+        if "ml" in eid_odds:
+            features["i1_home_odds"] = eid_odds["ml"]["home_odds"]
+            features["i1_away_odds"] = eid_odds["ml"]["away_odds"]
+        if "total" in eid_odds:
+            features["i1_over_odds"] = eid_odds["total"]["over_odds"]
+            features["i1_under_odds"] = eid_odds["total"]["under_odds"]
+
+        features_list.append(features)
+
+    log.info(f"  1st inning: {len(features_list)} games with features, {len(i1_odds)} with odds")
+    return features_list
+
+
+def _get_sp_stats_for_i1(sp_id: int, season: int) -> dict:
+    """Get SP stats relevant to 1st inning prediction."""
+    try:
+        stats = get_pitcher_season_stats(sp_id, season)
+        if not stats:
+            # Try prior season
+            stats = get_pitcher_season_stats(sp_id, season - 1)
+        if not stats:
+            return {}
+
+        ip = stats.get("inningsPitched", "0")
+        ip = float(ip) if ip else 0
+        era = float(stats.get("era", "4.50"))
+        whip = float(stats.get("whip", "1.30"))
+        ks = int(stats.get("strikeOuts", 0))
+        bbs = int(stats.get("baseOnBalls", 0))
+        hrs = int(stats.get("homeRuns", 0))
+
+        k_per_9 = (ks / ip * 9) if ip > 0 else 8.5
+        bb_per_9 = (bbs / ip * 9) if ip > 0 else 3.2
+        hr_per_9 = (hrs / ip * 9) if ip > 0 else 1.2
+
+        return {
+            "era": era,
+            "whip": whip,
+            "k_per_9": k_per_9,
+            "bb_per_9": bb_per_9,
+            "hr_per_9": hr_per_9,
+        }
+    except Exception:
+        return {}
+
+
 def _save_output(results: dict, target_date: date):
     """Save all predictions to CSV and JSON."""
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     date_str = target_date.strftime("%Y-%m-%d")
 
     all_picks = []
-    for bet_type, df in results.items():
-        if not df.empty:
-            all_picks.append(df)
+    for bet_type, data in results.items():
+        if isinstance(data, list) and data:
+            all_picks.append(pd.DataFrame(data))
+        elif isinstance(data, pd.DataFrame) and not data.empty:
+            all_picks.append(data)
 
     if all_picks:
         combined = pd.concat(all_picks, ignore_index=True)

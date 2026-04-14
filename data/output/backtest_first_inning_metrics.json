@@ -1,0 +1,10 @@
+{
+  "first_inning_ml": {
+    "accuracy": 0.5204,
+    "test_games": 4433
+  },
+  "first_inning_total": {
+    "accuracy": 0.4927,
+    "test_games": 9689
+  }
+}

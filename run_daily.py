@@ -31,8 +31,11 @@ def main():
     log.info(f"Running daily pipeline for {target_date}...")
     results = run_daily_pipeline(target_date)
 
-    # results is a dict: {'moneyline': df, 'full_game_total': df, 'f5_total': df}
-    has_any = any(not df.empty for df in results.values())
+    # results is a dict with DataFrames and lists
+    has_any = any(
+        (isinstance(v, list) and v) or (isinstance(v, pd.DataFrame) and not v.empty)
+        for v in results.values()
+    )
     if not has_any:
         print(f"\nNo picks for {target_date}.")
         return
@@ -83,6 +86,31 @@ def main():
                 print(f"  {pick.get('away_team', '?')} @ {pick.get('home_team', '?')}")
                 print(f"       {pick.get('pick', '?')} {pick.get('line', '?')} | "
                       f"Prob: {pick.get('model_prob', 0):.1%} | "
+                      f"Edge: {pick.get('edge_pct', '')} | "
+                      f"Confidence: {pick.get('confidence', '')}")
+                notes = pick.get('notes', '')
+                if notes:
+                    print(f"       {notes}")
+                print()
+
+    # ── 1st Inning Markets ──
+    for key, label in [("i1_ml", "1ST INNING MONEYLINE"), ("i1_total", "1ST INNING TOTAL")]:
+        picks = results.get(key, [])
+        if not picks:
+            continue
+        print(f"\n  {label}")
+        print(f"  {'─'*40}")
+        rec = [p for p in picks if p.get("recommended")]
+        if not rec:
+            print("  No recommended 1st inning plays today.")
+        else:
+            print(f"  {len(rec)} RECOMMENDED PLAY(S):\n")
+            for pick in rec:
+                print(f"  {pick.get('away_team', '?')} @ {pick.get('home_team', '?')}")
+                pick_str = pick.get('pick', '?')
+                odds_str = f" ({pick.get('odds', '')})" if pick.get('odds') else ""
+                print(f"       {pick_str}{odds_str}")
+                print(f"       Prob: {pick.get('model_prob', 0):.1%} | "
                       f"Edge: {pick.get('edge_pct', '')} | "
                       f"Confidence: {pick.get('confidence', '')}")
                 notes = pick.get('notes', '')

@@ -260,6 +260,86 @@ def _aggregate_props(raw_props: list[dict]) -> list[dict]:
     return aggregated
 
 
+def fetch_first_inning_odds(event_ids: list[str]) -> dict:
+    """
+    Fetch 1st inning ML and totals odds for MLB events.
+    Returns {event_id: {ml: {home_odds, away_odds}, total: {line, over_odds, under_odds}}}
+    """
+    if not ODDS_API_KEY:
+        return {}
+
+    results = {}
+    for eid in event_ids:
+        url = f"{ODDS_API_BASE}/sports/baseball_mlb/events/{eid}/odds"
+        params = {
+            "apiKey": ODDS_API_KEY,
+            "regions": ODDS_REGIONS,
+            "markets": "h2h_1st_1_innings,totals_1st_1_innings",
+            "oddsFormat": ODDS_FORMAT,
+        }
+        try:
+            resp = requests.get(url, params=params, timeout=15)
+            resp.raise_for_status()
+            data = resp.json()
+
+            home_team = data.get("home_team", "")
+            away_team = data.get("away_team", "")
+
+            ml_home_odds = []
+            ml_away_odds = []
+            total_over_odds = []
+            total_under_odds = []
+            total_lines = []
+
+            for bookmaker in data.get("bookmakers", []):
+                for market in bookmaker.get("markets", []):
+                    key = market.get("key")
+                    outcomes = {o["name"]: o for o in market.get("outcomes", [])}
+
+                    if key == "h2h_1st_1_innings":
+                        if home_team in outcomes:
+                            ml_home_odds.append(outcomes[home_team]["price"])
+                        if away_team in outcomes:
+                            ml_away_odds.append(outcomes[away_team]["price"])
+
+                    elif key == "totals_1st_1_innings":
+                        if "Over" in outcomes:
+                            total_over_odds.append(outcomes["Over"]["price"])
+                            total_lines.append(outcomes["Over"].get("point", 0.5))
+                        if "Under" in outcomes:
+                            total_under_odds.append(outcomes["Under"]["price"])
+
+            event_odds = {}
+            if ml_home_odds and ml_away_odds:
+                ml_home_odds.sort()
+                ml_away_odds.sort()
+                mid = len(ml_home_odds) // 2
+                event_odds["ml"] = {
+                    "home_odds": ml_home_odds[mid],
+                    "away_odds": ml_away_odds[mid],
+                }
+            if total_over_odds and total_under_odds:
+                total_over_odds.sort()
+                total_under_odds.sort()
+                total_lines.sort()
+                mid = len(total_over_odds) // 2
+                event_odds["total"] = {
+                    "line": total_lines[mid] if total_lines else 0.5,
+                    "over_odds": total_over_odds[mid],
+                    "under_odds": total_under_odds[mid],
+                }
+
+            if event_odds:
+                results[eid] = event_odds
+
+        except Exception as e:
+            log.warning(f"Error fetching 1st inning odds for event {eid}: {e}")
+
+    remaining = resp.headers.get("x-requests-remaining", "?") if 'resp' in dir() else "?"
+    log.info(f"Fetched 1st inning odds for {len(results)} events. API remaining: {remaining}")
+    return results
+
+
 def load_latest_snapshot() -> Optional[list[dict]]:
     """Load the most recent odds snapshot from disk."""
     snapshot_dir = RAW_DIR / "odds_api"
