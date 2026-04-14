@@ -1,35 +1,19 @@
-<<<<<<< HEAD
-# MLB Picks - Monday, April 13, 2026
-
-*Last updated: 2026-04-13 03:10 PM ET*
-=======
 # MLB Picks - Tuesday, April 14, 2026
 
-*Last updated: 2026-04-14 02:28 PM ET*
->>>>>>> fcd5f10 (Add 1st inning markets: moneyline and total over/under 0.5 runs)
+*Last updated: 2026-04-14 03:10 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-<<<<<<< HEAD
-#### CHC (+154.0)
-
-| Stat | Value |
-|------|-------|
-| Matchup | CHC @ PHI |
-| Starting Pitchers | Javier Assad vs Cristopher Sánchez |
-| Model Win Probability | 54.6% |
-=======
-#### NYM (+174.0)
+#### NYM (+170.0)
 
 | Stat | Value |
 |------|-------|
 | Matchup | NYM @ LAD |
 | Starting Pitchers | Nolan McLean vs Yoshinobu Yamamoto |
-| Model Win Probability | 51.7% |
->>>>>>> fcd5f10 (Add 1st inning markets: moneyline and total over/under 0.5 runs)
-| Edge Over Market | 15.2% |
+| Model Win Probability | 52.0% |
+| Edge Over Market | 15.0% |
 | Confidence | HIGH |
 | Notes | Facing elite SP; Underdog on 6L skid; Strong value play |
 
@@ -41,11 +25,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-<<<<<<< HEAD
-| HOU @ SEA | Mike Burrows vs George Kirby | 7.5 | UNDER | 70.5% | 20.5% | HIGH | Pitcher-friendly park favors UNDER; Strong value |
-=======
 | WSH @ PIT | Miles Mikolas vs Mitch Keller | 9.5 | UNDER | 72.5% | 22.5% | HIGH | High-scoring teams, but line is inflated; Weak pitching, but line already accounts for it; Strong value |
->>>>>>> fcd5f10 (Add 1st inning markets: moneyline and total over/under 0.5 runs)
 
 ---
 
@@ -55,9 +35,6 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-<<<<<<< HEAD
-| HOU @ SEA | Mike Burrows vs George Kirby | 4.1 | UNDER | 61.6% | 11.6% | NO PLAY | Pitcher-friendly park favors UNDER; Strong value |
-=======
 | SF @ CIN | Robbie Ray vs Brady Singer | 5.0 | OVER | 70.4% | 20.4% | HIGH | Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Strong value |
 
 ---
@@ -80,7 +57,6 @@
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
 | NYM @ LAD | Nolan McLean vs Yoshinobu Yamamoto | OVER 0.5 | +115.0 | 58.5% | 12.0% | LOW | Strong value |
->>>>>>> fcd5f10 (Add 1st inning markets: moneyline and total over/under 0.5 runs)
 
 ---
 
@@ -90,13 +66,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-<<<<<<< HEAD
-| Eury Pérez (MIA @ ATL) | UNDER 4.8 Ks | -110.0 | 76.3% | 26.3% | HIGH | Strong value |
-| Paul Skenes (WSH @ PIT) | UNDER 6.5 Ks | -112.0 | 73.1% | 23.1% | HIGH | Strong value |
-=======
 | Jacob Misiorowski (TOR @ MIL) | UNDER 6.5 Ks | -107.0 | 86.0% | 36.0% | HIGH | Strong value |
 | Bryan Woo (SEA @ SD) | UNDER 5.5 Ks | +104.0 | 69.8% | 19.8% | HIGH | Strong value |
->>>>>>> fcd5f10 (Add 1st inning markets: moneyline and total over/under 0.5 runs)
 
 ---
 
@@ -106,13 +77,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-<<<<<<< HEAD
-| Ryan Kreidler (BOS @ MIN) | OVER 0.5 hits | +110.0 | 85.3% | 35.3% | HIGH | Strong value |
-| Yordan Alvarez (HOU @ SEA) | UNDER 0.5 hits | +167.0 | 84.4% | 34.4% | HIGH | Strong value |
-=======
-| TJ Friedl (SF @ CIN) | OVER 0.5 hits | -161.0 | 86.0% | 36.0% | HIGH | Strong value |
+| TJ Friedl (SF @ CIN) | OVER 0.5 hits | -159.0 | 86.0% | 36.0% | HIGH | Strong value |
 | Andy Pages (NYM @ LAD) | UNDER 0.5 hits | +137.0 | 85.3% | 35.3% | HIGH | Cold streak; Strong value |
->>>>>>> fcd5f10 (Add 1st inning markets: moneyline and total over/under 0.5 runs)
 
 ---
 
