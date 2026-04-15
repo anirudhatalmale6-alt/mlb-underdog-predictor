@@ -1,21 +1,21 @@
-# MLB Picks - Tuesday, April 14, 2026
+# MLB Picks - Wednesday, April 15, 2026
 
-*Last updated: 2026-04-14 03:10 PM ET*
+*Last updated: 2026-04-15 03:03 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-#### NYM (+170.0)
+#### NYM (+179.0)
 
 | Stat | Value |
 |------|-------|
 | Matchup | NYM @ LAD |
-| Starting Pitchers | Nolan McLean vs Yoshinobu Yamamoto |
-| Model Win Probability | 52.0% |
-| Edge Over Market | 15.0% |
+| Starting Pitchers | Clay Holmes vs Shohei Ohtani |
+| Model Win Probability | 55.8% |
+| Edge Over Market | 19.9% |
 | Confidence | HIGH |
-| Notes | Facing elite SP; Underdog on 6L skid; Strong value play |
+| Notes | Facing elite SP; Underdog on 7L skid; Strong value play |
 
 ---
 
@@ -25,7 +25,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| WSH @ PIT | Miles Mikolas vs Mitch Keller | 9.5 | UNDER | 72.5% | 22.5% | HIGH | High-scoring teams, but line is inflated; Weak pitching, but line already accounts for it; Strong value |
+| WSH @ PIT | Jake Irvin vs Mason Montgomery | 9.5 | UNDER | 74.0% | 24.0% | HIGH | High-scoring teams, but line is inflated; Weak pitching, but line already accounts for it; Strong value |
 
 ---
 
@@ -35,28 +35,17 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SF @ CIN | Robbie Ray vs Brady Singer | 5.0 | OVER | 70.4% | 20.4% | HIGH | Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Strong value |
+| SF @ CIN | Tyler Mahle vs Rhett Lowder | 5.2 | OVER | 69.6% | 19.6% | HIGH | Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Strong value |
 
 ---
 
 ## 1st Inning Moneyline
 
-### RECOMMENDED PLAYS (2)
-
-| Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
-|---------|----------|------|------|-------------|------|------------|-------|
-| NYM @ LAD | Nolan McLean vs Yoshinobu Yamamoto | NYM | +130.0 | 60.1% | 16.7% | HIGH | Elite pitching matchup; Strong value |
-| TEX @ OAK | MacKenzie Gore vs Jeffrey Springs | TEX | -110.0 | 61.2% | 8.8% | LOW | Elite pitching matchup |
-
----
-
-## 1st Inning Over/Under
-
 ### RECOMMENDED PLAYS (1)
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| NYM @ LAD | Nolan McLean vs Yoshinobu Yamamoto | OVER 0.5 | +115.0 | 58.5% | 12.0% | LOW | Strong value |
+| WSH @ PIT | Jake Irvin vs Mason Montgomery | PIT | -110.0 | 61.0% | 8.6% | LOW | Standard play |
 
 ---
 
@@ -66,8 +55,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Jacob Misiorowski (TOR @ MIL) | UNDER 6.5 Ks | -107.0 | 86.0% | 36.0% | HIGH | Strong value |
-| Bryan Woo (SEA @ SD) | UNDER 5.5 Ks | +104.0 | 69.8% | 19.8% | HIGH | Strong value |
+| Kyle Bradish (ARI @ BAL) | UNDER 5.5 Ks | -137.0 | 80.5% | 30.5% | HIGH | Strong value |
+| Randy Vásquez (SEA @ SD) | OVER 2.7 Ks | -110.0 | 75.0% | 25.0% | HIGH | Facing high-K team; Strong value |
 
 ---
 
@@ -77,8 +66,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| TJ Friedl (SF @ CIN) | OVER 0.5 hits | -159.0 | 86.0% | 36.0% | HIGH | Strong value |
-| Andy Pages (NYM @ LAD) | UNDER 0.5 hits | +137.0 | 85.3% | 35.3% | HIGH | Cold streak; Strong value |
+| Ben Rice (LAA @ NYY) | UNDER 0.5 hits | +180.0 | 90.0% | 40.0% | HIGH | Strong value |
+| Maverick Handley (ARI @ BAL) | OVER 1.5 hits | +550.0 | 89.2% | 39.2% | HIGH | Strong value |
 
 ---
 
