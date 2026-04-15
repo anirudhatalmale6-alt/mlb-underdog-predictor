@@ -164,68 +164,130 @@ def _parse_odds_response(data: list[dict]) -> list[dict]:
     return games
 
 
-def fetch_mlb_player_props(event_ids: list[str]) -> dict:
+def fetch_mlb_event_markets(event_ids: list[str]) -> dict:
     """
-    Fetch player prop odds for specific MLB events.
-    Returns {event_id: {pitcher_k: [...], batter_hits: [...]}}
+    Fetch ALL event-level markets (props + 1st inning) in a single call per event.
+    Combines pitcher_strikeouts, batter_hits, h2h_1st_1_innings, totals_1st_1_innings.
+    Returns {event_id: {pitcher_k: [...], batter_hits: [...], i1_ml: {...}, i1_total: {...}}}
     """
     if not ODDS_API_KEY:
         return {}
 
+    ALL_MARKETS = "pitcher_strikeouts,batter_hits,h2h_1st_1_innings,totals_1st_1_innings"
+    remaining = "?"
     results = {}
     for eid in event_ids:
         url = f"{ODDS_API_BASE}/sports/baseball_mlb/events/{eid}/odds"
         params = {
             "apiKey": ODDS_API_KEY,
             "regions": ODDS_REGIONS,
-            "markets": "pitcher_strikeouts,batter_hits",
+            "markets": ALL_MARKETS,
             "oddsFormat": ODDS_FORMAT,
         }
         try:
             resp = requests.get(url, params=params, timeout=15)
+            remaining = resp.headers.get("x-requests-remaining", "?")
             resp.raise_for_status()
             data = resp.json()
 
+            home_team = data.get("home_team", "")
+            away_team = data.get("away_team", "")
+
             pitcher_k_props = []
             batter_hits_props = []
+            ml_home_odds = []
+            ml_away_odds = []
+            total_over_odds = []
+            total_under_odds = []
+            total_lines = []
 
             for bookmaker in data.get("bookmakers", []):
                 for market in bookmaker.get("markets", []):
                     key = market.get("key")
-                    for outcome in market.get("outcomes", []):
-                        player = outcome.get("description", "")
-                        direction = outcome.get("name", "")  # Over/Under
-                        point = outcome.get("point", 0)
-                        price = outcome.get("price", 0)
 
-                        if key == "pitcher_strikeouts":
+                    if key == "pitcher_strikeouts":
+                        for outcome in market.get("outcomes", []):
                             pitcher_k_props.append({
-                                "player": player,
-                                "direction": direction,
-                                "line": point,
-                                "odds": price,
-                                "bookmaker": bookmaker.get("key", ""),
-                            })
-                        elif key == "batter_hits":
-                            batter_hits_props.append({
-                                "player": player,
-                                "direction": direction,
-                                "line": point,
-                                "odds": price,
+                                "player": outcome.get("description", ""),
+                                "direction": outcome.get("name", ""),
+                                "line": outcome.get("point", 0),
+                                "odds": outcome.get("price", 0),
                                 "bookmaker": bookmaker.get("key", ""),
                             })
 
-            # Aggregate: consensus by player
-            results[eid] = {
+                    elif key == "batter_hits":
+                        for outcome in market.get("outcomes", []):
+                            batter_hits_props.append({
+                                "player": outcome.get("description", ""),
+                                "direction": outcome.get("name", ""),
+                                "line": outcome.get("point", 0),
+                                "odds": outcome.get("price", 0),
+                                "bookmaker": bookmaker.get("key", ""),
+                            })
+
+                    elif key == "h2h_1st_1_innings":
+                        outcomes = {o["name"]: o for o in market.get("outcomes", [])}
+                        if home_team in outcomes:
+                            ml_home_odds.append(outcomes[home_team]["price"])
+                        if away_team in outcomes:
+                            ml_away_odds.append(outcomes[away_team]["price"])
+
+                    elif key == "totals_1st_1_innings":
+                        outcomes = {o["name"]: o for o in market.get("outcomes", [])}
+                        if "Over" in outcomes:
+                            total_over_odds.append(outcomes["Over"]["price"])
+                            total_lines.append(outcomes["Over"].get("point", 0.5))
+                        if "Under" in outcomes:
+                            total_under_odds.append(outcomes["Under"]["price"])
+
+            event_data = {
                 "pitcher_k": _aggregate_props(pitcher_k_props),
                 "batter_hits": _aggregate_props(batter_hits_props),
             }
-        except Exception as e:
-            log.warning(f"Error fetching props for event {eid}: {e}")
 
-    remaining = resp.headers.get("x-requests-remaining", "?") if 'resp' in dir() else "?"
-    log.info(f"Fetched props for {len(results)} events. API remaining: {remaining}")
+            # 1st inning ML
+            if ml_home_odds and ml_away_odds:
+                ml_home_odds.sort()
+                ml_away_odds.sort()
+                mid = len(ml_home_odds) // 2
+                event_data["i1_ml"] = {
+                    "home_odds": ml_home_odds[mid],
+                    "away_odds": ml_away_odds[mid],
+                }
+
+            # 1st inning total
+            if total_over_odds and total_under_odds:
+                total_over_odds.sort()
+                total_under_odds.sort()
+                total_lines.sort()
+                mid = len(total_over_odds) // 2
+                event_data["i1_total"] = {
+                    "line": total_lines[mid] if total_lines else 0.5,
+                    "over_odds": total_over_odds[mid],
+                    "under_odds": total_under_odds[mid],
+                }
+
+            results[eid] = event_data
+
+        except Exception as e:
+            log.warning(f"Error fetching markets for event {eid}: {e}")
+
+    log.info(f"Fetched event markets for {len(results)} events. API remaining: {remaining}")
     return results
+
+
+def fetch_mlb_player_props(event_ids: list[str]) -> dict:
+    """
+    Fetch player prop odds for specific MLB events.
+    Returns {event_id: {pitcher_k: [...], batter_hits: [...]}}
+    Wrapper around fetch_mlb_event_markets for backwards compatibility.
+    """
+    all_markets = fetch_mlb_event_markets(event_ids)
+    # Strip out 1st inning data, keep only props
+    return {
+        eid: {"pitcher_k": data.get("pitcher_k", []), "batter_hits": data.get("batter_hits", [])}
+        for eid, data in all_markets.items()
+    }
 
 
 def _aggregate_props(raw_props: list[dict]) -> list[dict]:

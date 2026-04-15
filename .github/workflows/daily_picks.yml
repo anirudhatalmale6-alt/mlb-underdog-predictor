@@ -2,8 +2,9 @@ name: Daily MLB Picks
 
 on:
   schedule:
-    # Run at 10:00 AM ET (14:00 UTC) every day during MLB season (March-October)
-    - cron: '0 14 * 3-10 *'
+    # Run at 10:30 AM ET (14:30 UTC) every day during MLB season (March-October)
+    # Staggered 30min after NBA to avoid API quota conflicts
+    - cron: '30 14 * 3-10 *'
   workflow_dispatch:  # Allow manual trigger
 
 env:

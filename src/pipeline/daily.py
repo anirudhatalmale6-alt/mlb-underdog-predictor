@@ -18,7 +18,7 @@ from src.ingest.mlb_statsapi import (
     get_schedule, get_pitcher_season_stats, get_pitcher_game_log,
     get_team_batting_stats, get_team_pitching_stats, get_standings,
 )
-from src.ingest.odds_api import fetch_mlb_odds, fetch_mlb_player_props, fetch_first_inning_odds
+from src.ingest.odds_api import fetch_mlb_odds, fetch_mlb_event_markets
 from src.features.builder import build_feature_vector
 from src.features.props import build_pitcher_k_features, build_batter_hits_features
 from src.model.predict import generate_predictions
@@ -123,10 +123,27 @@ def run_daily_pipeline(target_date: date = None) -> dict:
             except Exception as e:
                 log.warning(f"F5 total prediction error: {e}")
 
-    # ── Player Props ──
-    log.info("Step 4b: Fetching player props...")
+    # ── Fetch all event-level markets in one batch (props + 1st inning) ──
+    # Only fetch for games with known starting pitchers to save API quota
+    log.info("Step 4b: Fetching event markets (props + 1st inning)...")
+    event_ids = [
+        g.get("event_id") for g in matched_games
+        if g.get("event_id") and g.get("home_sp_id")
+    ]
+    all_event_markets = {}
+    if event_ids:
+        try:
+            all_event_markets = fetch_mlb_event_markets(event_ids)
+        except Exception as e:
+            log.warning(f"Event markets fetch error: {e}")
+
+    # ── Player Props (using pre-fetched data) ──
     try:
-        props_data = _build_props_features(schedule, matched_games, season)
+        props_by_event = {
+            eid: {"pitcher_k": d.get("pitcher_k", []), "batter_hits": d.get("batter_hits", [])}
+            for eid, d in all_event_markets.items()
+        }
+        props_data = _build_props_features(schedule, matched_games, season, props_by_event)
         if props_data.get("pitcher_k"):
             results["pitcher_k"] = predict_pitcher_k_props(props_data["pitcher_k"])
         if props_data.get("batter_hits"):
@@ -134,10 +151,14 @@ def run_daily_pipeline(target_date: date = None) -> dict:
     except Exception as e:
         log.warning(f"Player props error: {e}")
 
-    # ── 1st Inning Markets ──
-    log.info("Step 4c: Fetching 1st inning odds and building features...")
+    # ── 1st Inning Markets (using pre-fetched data) ──
     try:
-        i1_data = _build_first_inning_features(matched_games, season, standings)
+        i1_odds = {
+            eid: {k: v for k, v in d.items() if k.startswith("i1_")}
+            for eid, d in all_event_markets.items()
+            if d.get("i1_ml") or d.get("i1_total")
+        }
+        i1_data = _build_first_inning_features(matched_games, season, standings, i1_odds)
         if i1_data:
             results["i1_ml"] = predict_first_inning_ml(i1_data)
             results["i1_total"] = predict_first_inning_total(i1_data)
@@ -398,31 +419,13 @@ def _build_totals_features_live(game: dict, season: int, standings: dict) -> dic
     return features
 
 
-def _build_props_features(schedule: list, matched_games: list, season: int) -> dict:
+def _build_props_features(schedule: list, matched_games: list, season: int, props_by_event: dict = None) -> dict:
     """
     Build features for player props from live data + game logs.
-    Fetches prop lines from Odds API, then builds model features.
+    Uses pre-fetched props_by_event if provided, otherwise returns empty.
     """
-    # Get event IDs from matched games
-    event_ids = [g.get("event_id") for g in matched_games if g.get("event_id")]
-    if not event_ids:
-        # Try to get event IDs from the odds API events endpoint
-        try:
-            import requests
-            r = requests.get(
-                f"https://api.the-odds-api.com/v4/sports/baseball_mlb/events/",
-                params={"apiKey": ODDS_API_KEY},
-                timeout=15,
-            )
-            r.raise_for_status()
-            events = r.json()
-            event_ids = [e["id"] for e in events]
-        except Exception as e:
-            log.warning(f"Could not fetch event IDs: {e}")
-            return {"pitcher_k": [], "batter_hits": []}
-
-    # Fetch player prop lines
-    props_by_event = fetch_mlb_player_props(event_ids)
+    if not props_by_event:
+        return {"pitcher_k": [], "batter_hits": []}
 
     pitcher_k_features = []
     batter_hits_features = []
@@ -572,16 +575,10 @@ def _name_match(prop_name: str, sp_name: str) -> bool:
 MLB_API_BASE = "https://statsapi.mlb.com/api/v1"
 
 
-def _build_first_inning_features(matched_games: list, season: int, standings: dict) -> list[dict]:
+def _build_first_inning_features(matched_games: list, season: int, standings: dict, i1_odds: dict = None) -> list[dict]:
     """Build features for 1st inning predictions using live SP data."""
-    # Get event IDs for 1st inning odds
-    event_ids = [g.get("event_id") for g in matched_games if g.get("event_id")]
-    i1_odds = {}
-    if event_ids:
-        try:
-            i1_odds = fetch_first_inning_odds(event_ids)
-        except Exception as e:
-            log.warning(f"Could not fetch 1st inning odds: {e}")
+    if i1_odds is None:
+        i1_odds = {}
 
     features_list = []
     for game in matched_games:
