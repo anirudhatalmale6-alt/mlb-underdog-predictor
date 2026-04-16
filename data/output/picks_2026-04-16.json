@@ -985,7 +985,7 @@
     "pick":"OVER 3.5 Ks",
     "line":"3.5",
     "model_prob":0.7667,
-    "odds":-120.0,
+    "odds":-118.0,
     "player_name":"Walker Buehler"
   },
   {
@@ -1008,7 +1008,7 @@
     "pick":"UNDER 3.5 Ks",
     "line":"3.5",
     "model_prob":0.739,
-    "odds":-127.0,
+    "odds":-125.0,
     "player_name":"Brandon Sproat"
   },
   {
@@ -1031,7 +1031,7 @@
     "pick":"UNDER 6.5 Ks",
     "line":"6.5",
     "model_prob":0.7076,
-    "odds":-134.0,
+    "odds":-135.0,
     "player_name":"Chase Burns"
   },
   {
@@ -1054,7 +1054,7 @@
     "pick":"OVER 4.5 Ks",
     "line":"4.5",
     "model_prob":0.6404,
-    "odds":-135.0,
+    "odds":-132.0,
     "player_name":"Steven Matz"
   },
   {
@@ -1077,7 +1077,7 @@
     "pick":"UNDER 4.5 Ks",
     "line":"4.5",
     "model_prob":0.6356,
-    "odds":110.0,
+    "odds":108.0,
     "player_name":"Shane Baz"
   },
   {
@@ -1146,7 +1146,7 @@
     "pick":"OVER 5.5 Ks",
     "line":"5.5",
     "model_prob":0.5914,
-    "odds":-132.0,
+    "odds":-130.0,
     "player_name":"Parker Messick"
   },
   {
@@ -1261,7 +1261,7 @@
     "pick":"UNDER 4.5 Ks",
     "line":"4.5",
     "model_prob":0.5078,
-    "odds":-173.0,
+    "odds":-171.0,
     "player_name":"Patrick Corbin"
   },
   {
@@ -1284,7 +1284,7 @@
     "pick":"OVER 5.5 Ks",
     "line":"5.5",
     "model_prob":0.5003,
-    "odds":-121.0,
+    "odds":-122.0,
     "player_name":"Kris Bubic"
   },
   {
@@ -1514,7 +1514,7 @@
     "pick":"UNDER 0.5 hits",
     "line":"0.5",
     "model_prob":0.7703,
-    "odds":189.0,
+    "odds":186.0,
     "player_name":"Yandy Diaz"
   },
   {
@@ -1537,7 +1537,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.7701,
-    "odds":-189.0,
+    "odds":-185.0,
     "player_name":"Trent Grisham"
   },
   {
@@ -1629,7 +1629,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.7476,
-    "odds":-139.0,
+    "odds":-135.0,
     "player_name":"Brenton Doyle"
   },
   {
@@ -1652,7 +1652,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.7443,
-    "odds":-233.0,
+    "odds":-235.0,
     "player_name":"Salvador Perez"
   },
   {
@@ -1675,7 +1675,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.7436,
-    "odds":-140.0,
+    "odds":-135.0,
     "player_name":"David Hamilton"
   },
   {
@@ -1744,7 +1744,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.7377,
-    "odds":-135.0,
+    "odds":-137.0,
     "player_name":"Rece Hinds"
   },
   {
@@ -1767,7 +1767,7 @@
     "pick":"UNDER 0.5 hits",
     "line":"0.5",
     "model_prob":0.7376,
-    "odds":170.0,
+    "odds":175.0,
     "player_name":"Ryan O'Hearn"
   },
   {
@@ -1790,7 +1790,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.7376,
-    "odds":-172.0,
+    "odds":-169.0,
     "player_name":"Andrew Benintendi"
   },
   {
@@ -1882,7 +1882,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.7276,
-    "odds":-169.0,
+    "odds":-172.0,
     "player_name":"Everson Pereira"
   },
   {
@@ -1928,7 +1928,7 @@
     "pick":"UNDER 0.5 hits",
     "line":"0.5",
     "model_prob":0.7272,
-    "odds":155.0,
+    "odds":166.0,
     "player_name":"Daulton Varsho"
   },
   {
@@ -1974,7 +1974,7 @@
     "pick":"UNDER 0.5 hits",
     "line":"0.5",
     "model_prob":0.72,
-    "odds":160.0,
+    "odds":162.0,
     "player_name":"Elly De La Cruz"
   },
   {
@@ -2043,7 +2043,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.7079,
-    "odds":-233.0,
+    "odds":-227.0,
     "player_name":"Chase Meidroth"
   },
   {
@@ -2135,7 +2135,7 @@
     "pick":"UNDER 0.5 hits",
     "line":"0.5",
     "model_prob":0.6941,
-    "odds":119.0,
+    "odds":115.0,
     "player_name":"Angel Martinez"
   },
   {
@@ -2181,7 +2181,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.6921,
-    "odds":-208.0,
+    "odds":-213.0,
     "player_name":"Yainer Diaz"
   },
   {
@@ -2572,7 +2572,7 @@
     "pick":"OVER 1.5 hits",
     "line":"1.5",
     "model_prob":0.6677,
-    "odds":206.0,
+    "odds":205.0,
     "player_name":"Luis Rengifo"
   },
   {
@@ -2595,7 +2595,7 @@
     "pick":"UNDER 0.5 hits",
     "line":"0.5",
     "model_prob":0.6634,
-    "odds":-109.0,
+    "odds":-108.0,
     "player_name":"Daniel Schneemann"
   },
   {
@@ -2687,7 +2687,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.6598,
-    "odds":-154.0,
+    "odds":-161.0,
     "player_name":"Nick Fortes"
   },
   {
@@ -2710,7 +2710,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.6581,
-    "odds":-238.0,
+    "odds":-240.0,
     "player_name":"Julio Rodriguez"
   },
   {
@@ -2871,7 +2871,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.6376,
-    "odds":-147.0,
+    "odds":-149.0,
     "player_name":"Travis d'Arnaud"
   },
   {
@@ -3032,7 +3032,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.6304,
-    "odds":-133.0,
+    "odds":-135.0,
     "player_name":"Cole Young"
   },
   {
@@ -3055,7 +3055,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.6271,
-    "odds":-143.0,
+    "odds":-147.0,
     "player_name":"Coby Mayo"
   },
   {
@@ -3124,7 +3124,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.626,
-    "odds":-204.0,
+    "odds":-200.0,
     "player_name":"Marcell Ozuna"
   },
   {
@@ -3147,7 +3147,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.6246,
-    "odds":-154.0,
+    "odds":-149.0,
     "player_name":"Jose Caballero"
   },
   {
@@ -3285,7 +3285,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.6154,
-    "odds":-172.0,
+    "odds":-169.0,
     "player_name":"Ke'Bryan Hayes"
   },
   {
@@ -3354,7 +3354,7 @@
     "pick":"OVER 1.5 hits",
     "line":"1.5",
     "model_prob":0.6089,
-    "odds":164.0,
+    "odds":167.0,
     "player_name":"Nick Gonzales"
   },
   {
@@ -3377,7 +3377,7 @@
     "pick":"UNDER 0.5 hits",
     "line":"0.5",
     "model_prob":0.6086,
-    "odds":145.0,
+    "odds":140.0,
     "player_name":"Eugenio Suarez"
   },
   {
@@ -3400,7 +3400,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.6077,
-    "odds":-159.0,
+    "odds":-160.0,
     "player_name":"Wenceel Perez"
   },
   {
@@ -3492,7 +3492,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.6017,
-    "odds":-215.0,
+    "odds":-220.0,
     "player_name":"Ben Williamson"
   },
   {
@@ -3630,7 +3630,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.5958,
-    "odds":-222.0,
+    "odds":-217.0,
     "player_name":"Jose Ramirez"
   },
   {
@@ -3722,7 +3722,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.5932,
-    "odds":-189.0,
+    "odds":-185.0,
     "player_name":"Carter Jensen"
   },
   {
@@ -3768,7 +3768,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.5883,
-    "odds":-125.0,
+    "odds":-128.0,
     "player_name":"Josh Lowe"
   },
   {
@@ -3814,7 +3814,7 @@
     "pick":"OVER 1.5 hits",
     "line":"1.5",
     "model_prob":0.5833,
-    "odds":164.0,
+    "odds":167.0,
     "player_name":"Bobby Witt Jr."
   },
   {
@@ -3906,7 +3906,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.5782,
-    "odds":-161.0,
+    "odds":-164.0,
     "player_name":"Troy Johnston"
   },
   {
@@ -3929,7 +3929,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.5769,
-    "odds":-172.0,
+    "odds":-175.0,
     "player_name":"Hunter Goodman"
   },
   {
@@ -3952,7 +3952,7 @@
     "pick":"UNDER 0.5 hits",
     "line":"0.5",
     "model_prob":0.5768,
-    "odds":136.0,
+    "odds":135.0,
     "player_name":"Jonny Deluca"
   },
   {
@@ -4113,7 +4113,7 @@
     "pick":"OVER 1.5 hits",
     "line":"1.5",
     "model_prob":0.567,
-    "odds":174.0,
+    "odds":178.0,
     "player_name":"Maikel Garcia"
   },
   {
@@ -4159,7 +4159,7 @@
     "pick":"OVER 1.5 hits",
     "line":"1.5",
     "model_prob":0.5655,
-    "odds":195.0,
+    "odds":200.0,
     "player_name":"Luis Garcia Jr."
   },
   {
@@ -4205,7 +4205,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.5611,
-    "odds":-164.0,
+    "odds":-165.0,
     "player_name":"Joey Ortiz"
   },
   {
@@ -4228,7 +4228,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.5588,
-    "odds":-200.0,
+    "odds":-204.0,
     "player_name":"Amed Rosario"
   },
   {
@@ -4251,7 +4251,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.5578,
-    "odds":-154.0,
+    "odds":-161.0,
     "player_name":"Spencer Steer"
   },
   {
@@ -4274,7 +4274,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.5552,
-    "odds":-250.0,
+    "odds":-256.0,
     "player_name":"Cody Bellinger"
   },
   {
@@ -4297,7 +4297,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.555,
-    "odds":-147.0,
+    "odds":-145.0,
     "player_name":"Jorbit Vivas"
   },
   {
@@ -4320,7 +4320,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.554,
-    "odds":-167.0,
+    "odds":-164.0,
     "player_name":"Johnathan Rodriguez"
   },
   {
@@ -4458,7 +4458,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.5383,
-    "odds":-235.0,
+    "odds":-230.0,
     "player_name":"Gunnar Henderson"
   },
   {
@@ -4550,7 +4550,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.5325,
-    "odds":-164.0,
+    "odds":-161.0,
     "player_name":"Joey Bart"
   },
   {
@@ -4573,7 +4573,7 @@
     "pick":"UNDER 0.5 hits",
     "line":"0.5",
     "model_prob":0.5312,
-    "odds":142.0,
+    "odds":140.0,
     "player_name":"Jacob Young"
   },
   {
@@ -4619,7 +4619,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.5275,
-    "odds":-220.0,
+    "odds":-217.0,
     "player_name":"Zach Neto"
   },
   {
@@ -4711,7 +4711,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.5213,
-    "odds":-244.0,
+    "odds":-233.0,
     "player_name":"Steven Kwan"
   },
   {
@@ -4872,7 +4872,7 @@
     "pick":"OVER 0.5 hits",
     "line":"0.5",
     "model_prob":0.511,
-    "odds":-200.0,
+    "odds":-196.0,
     "player_name":"Jung Hoo Lee"
   },
   {

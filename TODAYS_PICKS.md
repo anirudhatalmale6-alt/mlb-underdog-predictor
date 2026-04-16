@@ -1,6 +1,6 @@
 # MLB Picks - Thursday, April 16, 2026
 
-*Last updated: 2026-04-16 04:00 PM ET*
+*Last updated: 2026-04-16 04:04 PM ET*
 
 ## Moneyline Underdogs
 
@@ -56,7 +56,7 @@
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
 | Luis Castillo (SEA @ SD) | UNDER 4.5 Ks | +100.0 | 77.9% | 27.9% | HIGH | Strong value |
-| Walker Buehler (SEA @ SD) | OVER 3.5 Ks | -120.0 | 76.7% | 26.7% | HIGH | Facing high-K team; Strong value |
+| Walker Buehler (SEA @ SD) | OVER 3.5 Ks | -118.0 | 76.7% | 26.7% | HIGH | Facing high-K team; Strong value |
 
 ---
 
