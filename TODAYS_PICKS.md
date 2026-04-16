@@ -1,21 +1,21 @@
 # MLB Picks - Thursday, April 16, 2026
 
-*Last updated: 2026-04-16 04:04 PM ET*
+*Last updated: 2026-04-16 08:40 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-#### COL (+145.0)
+#### COL (+144.0)
 
 | Stat | Value |
 |------|-------|
 | Matchup | COL @ HOU |
 | Starting Pitchers | Juan Mejia vs Ryan Weiss |
-| Model Win Probability | 62.1% |
-| Edge Over Market | 21.2% |
+| Model Win Probability | 62.9% |
+| Edge Over Market | 21.9% |
 | Confidence | HIGH |
-| Notes | Underdog SP has better ERA; Underdog on 6L skid; Strong value play |
+| Notes | Underdog SP has better ERA; Underdog on 6L skid; Strong value play; Favorite is travel-fatigued; Underdog is travel-fatigued |
 
 ---
 
@@ -25,7 +25,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| WSH @ PIT | Foster Griffin vs Braxton Ashcraft | 8.5 | UNDER | 65.0% | 15.0% | LOW | High-scoring teams, but line is inflated; Elite SP matchup; Strong value |
+| TB @ CWS | Steven Matz vs Jordan Leasure | 5.5 | OVER | 58.8% | 8.8% | NO PLAY | Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -35,7 +35,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SF @ CIN | Landen Roupp vs Chase Burns | 4.4 | OVER | 68.8% | 18.8% | HIGH | Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Elite SPs, but line overreacts; Strong value |
+| SEA @ SD | Luis Castillo vs Walker Buehler | 4.7 | UNDER | 59.2% | 9.2% | NO PLAY | Pitcher-friendly park favors UNDER; Weak pitching, but line already accounts for it; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -45,7 +45,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TOR @ MIL | Patrick Corbin vs Brandon Sproat | MIL | -110.0 | 61.3% | 8.9% | LOW | Standard play |
+| WSH @ PIT | Foster Griffin vs Braxton Ashcraft | WSH | -110.0 | 61.2% | 8.9% | LOW | Elite pitching matchup |
 
 ---
 
@@ -55,8 +55,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Luis Castillo (SEA @ SD) | UNDER 4.5 Ks | +100.0 | 77.9% | 27.9% | HIGH | Strong value |
-| Walker Buehler (SEA @ SD) | OVER 3.5 Ks | -118.0 | 76.7% | 26.7% | HIGH | Facing high-K team; Strong value |
+| Chase Burns (SF @ CIN) | UNDER 6.1 Ks | -110.0 | 78.1% | 28.2% | HIGH | Strong value |
+| Luis Castillo (SEA @ SD) | UNDER 4.5 Ks | +102.0 | 77.9% | 27.9% | HIGH | Strong value |
 
 ---
 
@@ -66,8 +66,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| William Contreras (TOR @ MIL) | UNDER 0.5 hits | +180.0 | 79.6% | 29.6% | HIGH | Strong value |
-| Sam Huff (BAL @ CLE) | OVER 0.5 hits | -125.0 | 79.6% | 29.6% | HIGH | Strong value |
+| Luke Raley (SEA @ SD) | UNDER 0.5 hits | +112.0 | 79.2% | 29.2% | HIGH | Strong value |
+| Yordan Alvarez (COL @ HOU) | UNDER 1.5 hits | -245.0 | 79.0% | 29.0% | HIGH | Strong value |
 
 ---
 
