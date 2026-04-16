@@ -1,21 +1,41 @@
 # MLB Picks - Thursday, April 16, 2026
 
-*Last updated: 2026-04-16 03:51 PM ET*
+*Last updated: 2026-04-16 04:00 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-#### ??? (0)
+#### COL (+145.0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | TOR @ MIL |
-| Starting Pitchers | Patrick Corbin vs Brandon Sproat |
-| Model Win Probability | 0 |
-| Edge Over Market | 8.9% |
-| Confidence | LOW |
-| Notes | Standard play |
+| Matchup | COL @ HOU |
+| Starting Pitchers | Juan Mejia vs Ryan Weiss |
+| Model Win Probability | 62.1% |
+| Edge Over Market | 21.2% |
+| Confidence | HIGH |
+| Notes | Underdog SP has better ERA; Underdog on 6L skid; Strong value play |
+
+---
+
+## Full Game Over/Under
+
+### RECOMMENDED PLAYS (1)
+
+| Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
+|---------|----------|------|------|-------------|------|------------|-------|
+| WSH @ PIT | Foster Griffin vs Braxton Ashcraft | 8.5 | UNDER | 65.0% | 15.0% | LOW | High-scoring teams, but line is inflated; Elite SP matchup; Strong value |
+
+---
+
+## First 5 Innings Over/Under
+
+### RECOMMENDED PLAYS (1)
+
+| Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
+|---------|----------|------|------|-------------|------|------------|-------|
+| SF @ CIN | Landen Roupp vs Chase Burns | 4.4 | OVER | 68.8% | 18.8% | HIGH | Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Elite SPs, but line overreacts; Strong value |
 
 ---
 
@@ -25,7 +45,29 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TOR @ MIL | Patrick Corbin vs Brandon Sproat | MIL | -110 | 61.3% | 8.9% | LOW | Standard play |
+| TOR @ MIL | Patrick Corbin vs Brandon Sproat | MIL | -110.0 | 61.3% | 8.9% | LOW | Standard play |
+
+---
+
+## Pitcher Strikeout Props
+
+### RECOMMENDED PLAYS (2)
+
+| Player | Pick | Odds | Probability | Edge | Confidence | Notes |
+|--------|------|------|-------------|------|------------|-------|
+| Luis Castillo (SEA @ SD) | UNDER 4.5 Ks | +100.0 | 77.9% | 27.9% | HIGH | Strong value |
+| Walker Buehler (SEA @ SD) | OVER 3.5 Ks | -120.0 | 76.7% | 26.7% | HIGH | Facing high-K team; Strong value |
+
+---
+
+## Batter Hits Props
+
+### RECOMMENDED PLAYS (2)
+
+| Player | Pick | Odds | Probability | Edge | Confidence | Notes |
+|--------|------|------|-------------|------|------------|-------|
+| William Contreras (TOR @ MIL) | UNDER 0.5 hits | +180.0 | 79.6% | 29.6% | HIGH | Strong value |
+| Sam Huff (BAL @ CLE) | OVER 0.5 hits | -125.0 | 79.6% | 29.6% | HIGH | Strong value |
 
 ---
 
