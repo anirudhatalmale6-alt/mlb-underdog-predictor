@@ -41,6 +41,17 @@ def fetch_mlb_odds(include_totals: bool = True) -> list[dict]:
     }
 
     resp = requests.get(url, params=params, timeout=30)
+
+    # Graceful fallback when API quota is exhausted
+    if resp.status_code in (401, 429):
+        log.warning(f"Odds API returned {resp.status_code} — quota likely exhausted. Trying cached snapshot...")
+        cached = load_latest_snapshot()
+        if cached:
+            log.info(f"Loaded {len(cached)} games from cached odds snapshot")
+            return cached
+        log.error("No cached snapshot available. Cannot proceed.")
+        resp.raise_for_status()
+
     resp.raise_for_status()
 
     # Log remaining quota
@@ -187,6 +198,9 @@ def fetch_mlb_event_markets(event_ids: list[str]) -> dict:
         try:
             resp = requests.get(url, params=params, timeout=15)
             remaining = resp.headers.get("x-requests-remaining", "?")
+            if resp.status_code in (401, 429):
+                log.warning(f"Odds API quota exhausted fetching event {eid}. Skipping remaining events.")
+                break
             resp.raise_for_status()
             data = resp.json()
 
