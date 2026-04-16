@@ -1,41 +1,21 @@
-# MLB Picks - Wednesday, April 15, 2026
+# MLB Picks - Thursday, April 16, 2026
 
-*Last updated: 2026-04-15 03:03 PM ET*
+*Last updated: 2026-04-16 03:51 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-#### NYM (+179.0)
+#### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | NYM @ LAD |
-| Starting Pitchers | Clay Holmes vs Shohei Ohtani |
-| Model Win Probability | 55.8% |
-| Edge Over Market | 19.9% |
-| Confidence | HIGH |
-| Notes | Facing elite SP; Underdog on 7L skid; Strong value play |
-
----
-
-## Full Game Over/Under
-
-### RECOMMENDED PLAYS (1)
-
-| Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
-|---------|----------|------|------|-------------|------|------------|-------|
-| WSH @ PIT | Jake Irvin vs Mason Montgomery | 9.5 | UNDER | 74.0% | 24.0% | HIGH | High-scoring teams, but line is inflated; Weak pitching, but line already accounts for it; Strong value |
-
----
-
-## First 5 Innings Over/Under
-
-### RECOMMENDED PLAYS (1)
-
-| Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
-|---------|----------|------|------|-------------|------|------------|-------|
-| SF @ CIN | Tyler Mahle vs Rhett Lowder | 5.2 | OVER | 69.6% | 19.6% | HIGH | Hitter-friendly park favors OVER; Low-scoring teams, but line is set too low; Strong value |
+| Matchup | TOR @ MIL |
+| Starting Pitchers | Patrick Corbin vs Brandon Sproat |
+| Model Win Probability | 0 |
+| Edge Over Market | 8.9% |
+| Confidence | LOW |
+| Notes | Standard play |
 
 ---
 
@@ -45,29 +25,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| WSH @ PIT | Jake Irvin vs Mason Montgomery | PIT | -110.0 | 61.0% | 8.6% | LOW | Standard play |
-
----
-
-## Pitcher Strikeout Props
-
-### RECOMMENDED PLAYS (2)
-
-| Player | Pick | Odds | Probability | Edge | Confidence | Notes |
-|--------|------|------|-------------|------|------------|-------|
-| Kyle Bradish (ARI @ BAL) | UNDER 5.5 Ks | -137.0 | 80.5% | 30.5% | HIGH | Strong value |
-| Randy Vásquez (SEA @ SD) | OVER 2.7 Ks | -110.0 | 75.0% | 25.0% | HIGH | Facing high-K team; Strong value |
-
----
-
-## Batter Hits Props
-
-### RECOMMENDED PLAYS (2)
-
-| Player | Pick | Odds | Probability | Edge | Confidence | Notes |
-|--------|------|------|-------------|------|------------|-------|
-| Ben Rice (LAA @ NYY) | UNDER 0.5 hits | +180.0 | 90.0% | 40.0% | HIGH | Strong value |
-| Maverick Handley (ARI @ BAL) | OVER 1.5 hits | +550.0 | 89.2% | 39.2% | HIGH | Strong value |
+| TOR @ MIL | Patrick Corbin vs Brandon Sproat | MIL | -110 | 61.3% | 8.9% | LOW | Standard play |
 
 ---
 
