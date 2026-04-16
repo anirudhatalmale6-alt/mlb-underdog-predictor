@@ -49,8 +49,8 @@ def fetch_mlb_odds(include_totals: bool = True) -> list[dict]:
         if cached:
             log.info(f"Loaded {len(cached)} games from cached odds snapshot")
             return cached
-        log.error("No cached snapshot available. Cannot proceed.")
-        resp.raise_for_status()
+        log.error("No cached snapshot available. Returning empty odds list.")
+        return []
 
     resp.raise_for_status()
 
