@@ -145,4 +145,18 @@ def _generate_notes(game: dict, model_prob: float, edge: float) -> str:
     if game.get("underdog_is_home", 0) == 1:
         notes.append("Home underdog")
 
+    # Travel / fatigue notes
+    fav_fatigue = game.get("fav_fatigue_score", 0)
+    ud_fatigue = game.get("ud_fatigue_score", 0)
+    if fav_fatigue > 0.4:
+        notes.append("Favorite is travel-fatigued")
+    if ud_fatigue > 0.4:
+        notes.append("Underdog is travel-fatigued")
+    fav_travel = game.get("fav_travel_dist", 0)
+    ud_travel = game.get("ud_travel_dist", 0)
+    if fav_travel > 1500:
+        notes.append("Favorite traveled cross-country")
+    if ud_travel > 1500:
+        notes.append("Underdog traveled cross-country")
+
     return "; ".join(notes) if notes else "Standard play"

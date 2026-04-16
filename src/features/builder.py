@@ -13,6 +13,7 @@ from src.features.pitcher import compute_pitcher_features, _default_pitcher_feat
 from src.features.team_batting import compute_batting_features, _default_batting_features
 from src.features.bullpen import compute_bullpen_features, _default_bullpen_features
 from src.features.momentum import compute_momentum_features, _default_momentum_features
+from src.features.fatigue import FATIGUE_FEATURE_COLUMNS, _default_fatigue_features
 from src.utils.logging import get_logger
 
 log = get_logger(__name__)
@@ -52,6 +53,11 @@ FEATURE_COLUMNS = [
     "park_factor", "underdog_is_home",
     # Market
     "underdog_odds", "implied_prob_market",
+    # Travel / fatigue
+    "ud_fatigue_score", "fav_fatigue_score", "delta_fatigue",
+    "ud_travel_dist", "fav_travel_dist",
+    "ud_road_streak", "fav_road_streak",
+    "ud_rest_advantage", "fav_rest_advantage",
 ]
 
 
@@ -72,6 +78,8 @@ def build_feature_vector(
     underdog_side: str = "away",
     underdog_odds: int = 150,
     market_implied_prob: float = 0.4,
+    underdog_fatigue: dict = None,
+    favorite_fatigue: dict = None,
 ) -> dict:
     """
     Build a complete feature vector for one game.
@@ -176,6 +184,19 @@ def build_feature_vector(
         "underdog_odds": underdog_odds,
         "implied_prob_market": market_implied_prob,
     }
+
+    # Travel / fatigue
+    ud_fat = underdog_fatigue or _default_fatigue_features()
+    fav_fat = favorite_fatigue or _default_fatigue_features()
+    features["ud_fatigue_score"] = ud_fat["fatigue_score"]
+    features["fav_fatigue_score"] = fav_fat["fatigue_score"]
+    features["delta_fatigue"] = ud_fat["fatigue_score"] - fav_fat["fatigue_score"]
+    features["ud_travel_dist"] = ud_fat["travel_dist_miles"]
+    features["fav_travel_dist"] = fav_fat["travel_dist_miles"]
+    features["ud_road_streak"] = ud_fat["road_game_streak"]
+    features["fav_road_streak"] = fav_fat["road_game_streak"]
+    features["ud_rest_advantage"] = ud_fat["had_day_off"]
+    features["fav_rest_advantage"] = fav_fat["had_day_off"]
 
     return features
 

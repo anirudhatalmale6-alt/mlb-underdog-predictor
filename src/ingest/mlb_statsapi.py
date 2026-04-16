@@ -72,6 +72,49 @@ def get_schedule(game_date: date) -> list[dict]:
     return games
 
 
+def get_team_recent_schedule(team_id: int, game_date: date, lookback_days: int = 5) -> list[dict]:
+    """
+    Get a team's recent schedule (last N days) to detect travel situations.
+    Returns list of dicts with date, venue, home/away status, game time.
+    """
+    start = game_date - timedelta(days=lookback_days)
+    end = game_date - timedelta(days=1)  # Exclude today
+
+    data = _get("schedule", {
+        "sportId": MLB_SPORT_ID,
+        "teamId": team_id,
+        "startDate": start.strftime("%Y-%m-%d"),
+        "endDate": end.strftime("%Y-%m-%d"),
+        "hydrate": "team,venue",
+    })
+
+    recent = []
+    for date_entry in data.get("dates", []):
+        for game in date_entry.get("games", []):
+            if game.get("gameType") != "R":
+                continue
+            status = game.get("status", {}).get("detailedState", "")
+            if status not in ("Final", "Completed Early", "Game Over"):
+                continue
+
+            home_team = game.get("teams", {}).get("home", {}).get("team", {})
+            home_id = home_team.get("id")
+            is_home = (home_id == team_id)
+            venue = game.get("venue", {}).get("name", "")
+            game_dt = game.get("gameDate", "")  # ISO format with time
+            home_abbrev = TEAM_ID_TO_ABBREV.get(home_id, "")
+
+            recent.append({
+                "date": date_entry.get("date", ""),
+                "is_home": is_home,
+                "venue": venue,
+                "home_team": home_abbrev,
+                "game_datetime": game_dt,
+            })
+
+    return sorted(recent, key=lambda x: x["date"])
+
+
 def get_game_results(game_date: date) -> list[dict]:
     """Get final scores for games on a date (for historical data)."""
     data = _get("schedule", {

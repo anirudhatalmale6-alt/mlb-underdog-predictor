@@ -232,4 +232,15 @@ def _generate_notes(game: dict, over_prob: float, edge: float, bet_type: str) ->
     if edge >= 0.08:
         notes.append("Strong value")
 
+    # Travel / fatigue notes
+    home_fatigue = game.get("home_fatigue_score", 0)
+    away_fatigue = game.get("away_fatigue_score", 0)
+    if home_fatigue > 0.4 or away_fatigue > 0.4:
+        if home_fatigue > 0.4 and away_fatigue > 0.4:
+            notes.append("Both teams travel-fatigued")
+        elif home_fatigue > 0.4:
+            notes.append("Home team travel-fatigued")
+        else:
+            notes.append("Away team travel-fatigued")
+
     return "; ".join(notes) if notes else "Standard play"

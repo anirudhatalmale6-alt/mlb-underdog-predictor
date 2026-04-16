@@ -17,6 +17,7 @@ from config.settings import (
 from src.ingest.mlb_statsapi import (
     get_schedule, get_pitcher_season_stats, get_pitcher_game_log,
     get_team_batting_stats, get_team_pitching_stats, get_standings,
+    get_team_recent_schedule,
 )
 from src.ingest.odds_api import fetch_mlb_odds, fetch_mlb_event_markets
 from src.features.builder import build_feature_vector
@@ -26,6 +27,7 @@ from src.model.totals import predict_full_game_totals, predict_f5_totals
 from src.model.props import predict_pitcher_k_props, predict_batter_hits_props
 from src.model.first_inning import predict_first_inning_ml, predict_first_inning_total
 from src.features.first_inning import FIRST_INNING_FEATURES
+from src.features.fatigue import compute_fatigue_features
 from src.model.registry import load_latest_model
 from src.ingest.props_collect import get_pitcher_game_log as get_pitcher_log_raw, get_team_strikeout_rate, get_batter_game_log as get_batter_log_raw
 from src.utils.odds_math import american_to_implied, remove_vig
@@ -73,6 +75,27 @@ def run_daily_pipeline(target_date: date = None) -> dict:
     log.info("Step 4: Fetching standings and building features...")
     standings = get_standings(season, as_of_date=target_date)
 
+    # Pre-fetch travel/fatigue data for all teams playing today
+    log.info("  Fetching travel/fatigue data...")
+    fatigue_cache = {}
+    teams_seen = set()
+    for game in matched_games:
+        for side in ("home", "away"):
+            team = game.get(f"{side}_team")
+            team_id = game.get(f"{side}_team_id")
+            if team and team_id and team not in teams_seen:
+                teams_seen.add(team)
+                try:
+                    recent = get_team_recent_schedule(team_id, target_date)
+                    venue = game.get("venue", "")
+                    is_home = (side == "home")
+                    fatigue_cache[team] = compute_fatigue_features(
+                        recent, team, today_venue=venue, is_home_today=is_home
+                    )
+                except Exception as e:
+                    log.warning(f"Fatigue fetch failed for {team}: {e}")
+    log.info(f"  Fetched fatigue data for {len(fatigue_cache)} teams")
+
     results = {
         "moneyline": pd.DataFrame(),
         "full_game_total": pd.DataFrame(),
@@ -90,7 +113,7 @@ def run_daily_pipeline(target_date: date = None) -> dict:
         ml_features = []
         for game in qualifying_ml:
             try:
-                features = _build_ml_features(game, season, standings)
+                features = _build_ml_features(game, season, standings, fatigue_cache)
                 if features:
                     ml_features.append(features)
             except Exception as e:
@@ -106,7 +129,7 @@ def run_daily_pipeline(target_date: date = None) -> dict:
         totals_features = []
         for game in games_with_totals:
             try:
-                features = _build_totals_features_live(game, season, standings)
+                features = _build_totals_features_live(game, season, standings, fatigue_cache)
                 if features:
                     totals_features.append(features)
             except Exception as e:
@@ -265,7 +288,7 @@ def _normalize_team_pair(home: str, away: str):
     return None
 
 
-def _build_ml_features(game: dict, season: int, standings: dict) -> dict:
+def _build_ml_features(game: dict, season: int, standings: dict, fatigue_cache: dict = None) -> dict:
     """Build moneyline underdog features (existing logic)."""
     home = game["home_team"]
     away = game["away_team"]
@@ -296,6 +319,11 @@ def _build_ml_features(game: dict, season: int, standings: dict) -> dict:
     ud_standings = standings.get(ud_team, {})
     fav_standings = standings.get(fav_team, {})
 
+    # Fatigue data
+    fc = fatigue_cache or {}
+    ud_fatigue = fc.get(ud_team)
+    fav_fatigue = fc.get(fav_team)
+
     features = build_feature_vector(
         underdog_sp_season=ud_sp_stats,
         favorite_sp_season=fav_sp_stats,
@@ -313,6 +341,8 @@ def _build_ml_features(game: dict, season: int, standings: dict) -> dict:
         underdog_side=underdog_side,
         underdog_odds=game.get("underdog_odds", 150),
         market_implied_prob=game.get("market_implied_prob", 0.4),
+        underdog_fatigue=ud_fatigue,
+        favorite_fatigue=fav_fatigue,
     )
 
     features["game_date"] = game.get("game_date", "")
@@ -325,7 +355,7 @@ def _build_ml_features(game: dict, season: int, standings: dict) -> dict:
     return features
 
 
-def _build_totals_features_live(game: dict, season: int, standings: dict) -> dict:
+def _build_totals_features_live(game: dict, season: int, standings: dict, fatigue_cache: dict = None) -> dict:
     """Build totals features from live game data."""
     home = game["home_team"]
     away = game["away_team"]
@@ -415,6 +445,16 @@ def _build_totals_features_live(game: dict, season: int, standings: dict) -> dic
         "away_sp_name": game.get("away_sp_name", "TBD"),
         "total_line": game.get("total_line", 0),
     }
+
+    # Travel / fatigue features for totals
+    fc = fatigue_cache or {}
+    home_fat = fc.get(home, {})
+    away_fat = fc.get(away, {})
+    features["home_fatigue_score"] = home_fat.get("fatigue_score", 0)
+    features["away_fatigue_score"] = away_fat.get("fatigue_score", 0)
+    features["combined_fatigue"] = features["home_fatigue_score"] + features["away_fatigue_score"]
+    features["home_travel_dist"] = home_fat.get("travel_dist_miles", 0)
+    features["away_travel_dist"] = away_fat.get("travel_dist_miles", 0)
 
     return features
 
