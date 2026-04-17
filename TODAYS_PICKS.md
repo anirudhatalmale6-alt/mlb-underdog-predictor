@@ -1,21 +1,21 @@
-# MLB Picks - Thursday, April 16, 2026
+# MLB Picks - Friday, April 17, 2026
 
-*Last updated: 2026-04-16 08:40 PM ET*
+*Last updated: 2026-04-17 03:39 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-#### COL (+144.0)
+#### WSH (+134.0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | COL @ HOU |
-| Starting Pitchers | Juan Mejia vs Ryan Weiss |
-| Model Win Probability | 62.9% |
-| Edge Over Market | 21.9% |
-| Confidence | HIGH |
-| Notes | Underdog SP has better ERA; Underdog on 6L skid; Strong value play; Favorite is travel-fatigued; Underdog is travel-fatigued |
+| Matchup | SF @ WSH |
+| Starting Pitchers | Logan Webb vs Zack Littell |
+| Model Win Probability | 49.1% |
+| Edge Over Market | 6.4% |
+| Confidence | MEDIUM |
+| Notes | Underdog SP has better ERA; Good value; Home underdog; Favorite is travel-fatigued; Underdog is travel-fatigued |
 
 ---
 
@@ -25,7 +25,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TB @ CWS | Steven Matz vs Jordan Leasure | 5.5 | OVER | 58.8% | 8.8% | NO PLAY | Strong value; Both teams travel-fatigued |
+| TB @ PIT | Nick Martinez vs Bubba Chandler | 8.5 | UNDER | 61.1% | 11.1% | NO PLAY | High-scoring teams, but line is inflated; Elite SP matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -35,17 +35,28 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SEA @ SD | Luis Castillo vs Walker Buehler | 4.7 | UNDER | 59.2% | 9.2% | NO PLAY | Pitcher-friendly park favors UNDER; Weak pitching, but line already accounts for it; Strong value; Both teams travel-fatigued |
+| TEX @ SEA | Jacob deGrom vs Logan Gilbert | 3.6 | UNDER | 58.7% | 8.7% | NO PLAY | Pitcher-friendly park favors UNDER; Strong value; Both teams travel-fatigued |
 
 ---
 
 ## 1st Inning Moneyline
 
+### RECOMMENDED PLAYS (2)
+
+| Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
+|---------|----------|------|------|-------------|------|------------|-------|
+| TOR @ ARI | Eric Lauer vs Michael Soroka | ARI | -110.0 | 62.9% | 10.5% | LOW | Strong value |
+| SD @ LAA | Matt Waldron vs José Soriano | LAA | -110.0 | 61.5% | 9.1% | LOW | Standard play |
+
+---
+
+## 1st Inning Over/Under
+
 ### RECOMMENDED PLAYS (1)
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| WSH @ PIT | Foster Griffin vs Braxton Ashcraft | WSH | -110.0 | 61.2% | 8.9% | LOW | Elite pitching matchup |
+| LAD @ COL | Tyler Glasnow vs Tomoyuki Sugano | OVER 0.5 | -110.0 | 60.9% | 8.5% | LOW | Hitter-friendly park |
 
 ---
 
@@ -55,8 +66,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Chase Burns (SF @ CIN) | UNDER 6.1 Ks | -110.0 | 78.1% | 28.2% | HIGH | Strong value |
-| Luis Castillo (SEA @ SD) | UNDER 4.5 Ks | +102.0 | 77.9% | 27.9% | HIGH | Strong value |
+| Michael Soroka (TOR @ ARI) | UNDER 4.5 Ks | +111.0 | 78.8% | 28.8% | HIGH | Strong value |
+| Bubba Chandler (TB @ PIT) | UNDER 4.5 Ks | -110.0 | 77.1% | 27.1% | HIGH | Strong value |
 
 ---
 
@@ -66,8 +77,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Luke Raley (SEA @ SD) | UNDER 0.5 hits | +112.0 | 79.2% | 29.2% | HIGH | Strong value |
-| Yordan Alvarez (COL @ HOU) | UNDER 1.5 hits | -245.0 | 79.0% | 29.0% | HIGH | Strong value |
+| Nathan Church (STL @ HOU) | OVER 0.5 hits | -165.0 | 85.9% | 35.9% | HIGH | Hot streak; Strong value |
+| Michael Busch (NYM @ CHC) | OVER 0.5 hits | -215.0 | 84.9% | 34.9% | HIGH | Strong value |
 
 ---
 
