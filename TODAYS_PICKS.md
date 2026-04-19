@@ -1,21 +1,21 @@
-# MLB Picks - Saturday, April 18, 2026
+# MLB Picks - Sunday, April 19, 2026
 
-*Last updated: 2026-04-18 03:08 PM ET*
+*Last updated: 2026-04-19 03:08 PM ET*
 
 ## Moneyline Underdogs
 
 ### RECOMMENDED PLAYS (1)
 
-#### COL (+240.0)
+#### COL (+199.0)
 
 | Stat | Value |
 |------|-------|
 | Matchup | LAD @ COL |
-| Starting Pitchers | Emmet Sheehan vs Ryan Feltner |
-| Model Win Probability | 47.5% |
-| Edge Over Market | 18.1% |
+| Starting Pitchers | Roki Sasaki vs Michael Lorenzen |
+| Model Win Probability | 59.8% |
+| Edge Over Market | 26.4% |
 | Confidence | HIGH |
-| Notes | Favorite on 4L skid; Strong value play; Home underdog; Underdog is travel-fatigued |
+| Notes | Strong value play; Home underdog; Favorite is travel-fatigued; Underdog is travel-fatigued |
 
 ---
 
@@ -25,7 +25,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| KC @ NYY | Noah Cameron vs Will Warren | 8.0 | OVER | 58.9% | 8.9% | NO PLAY | Hitter-friendly park favors OVER; Elite SPs, but line overreacts; Strong value; Both teams travel-fatigued |
+| TB @ PIT | Shane McClanahan vs Mitch Keller | 7.5 | UNDER | 58.7% | 8.6% | NO PLAY | High-scoring teams, but line is inflated; Elite SP matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -35,7 +35,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CIN @ MIN | Andrew Abbott vs Taj Bradley | 4.4 | UNDER | 61.4% | 11.4% | NO PLAY | Strong value; Away team travel-fatigued |
+| SF @ WSH | Robbie Ray vs PJ Poulin | 4.7 | UNDER | 59.6% | 9.6% | NO PLAY | Elite SP matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -45,7 +45,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TOR @ ARI | Max Scherzer vs Zac Gallen | ARI | -110.0 | 62.1% | 9.7% | LOW | Standard play |
+| BAL @ CLE | Trevor Rogers vs Joey Cantillo | BAL | -110.0 | 61.2% | 8.8% | LOW | Elite pitching matchup |
 
 ---
 
@@ -55,8 +55,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Paul Skenes (TB @ PIT) | UNDER 6.5 Ks | -135.0 | 77.8% | 27.7% | HIGH | Strong value |
-| Cristopher Sánchez (ATL @ PHI) | UNDER 6.2 Ks | -110.0 | 77.6% | 27.6% | HIGH | Strong value |
+| Jacob Misiorowski (MIL @ MIA) | UNDER 6.5 Ks | -140.0 | 82.5% | 32.5% | HIGH | Strong value |
+| Roki Sasaki (LAD @ COL) | OVER 4.5 Ks | -144.0 | 70.5% | 20.5% | HIGH | Facing high-K team; Strong value |
 
 ---
 
@@ -66,8 +66,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Ryan Kreidler (CIN @ MIN) | OVER 0.5 hits | -105.0 | 85.6% | 35.6% | HIGH | Strong value |
-| Michael Busch (NYM @ CHC) | OVER 0.5 hits | -157.0 | 83.6% | 33.6% | HIGH | Hot streak; Strong value |
+| Leo Rivas (TEX @ SEA) | OVER 0.5 hits | -108.0 | 86.9% | 36.9% | HIGH | Strong value |
+| Ryan McMahon (KC @ NYY) | OVER 0.5 hits | +110.0 | 85.3% | 35.3% | HIGH | Strong value |
 
 ---
 
