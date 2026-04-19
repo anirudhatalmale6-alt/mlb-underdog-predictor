@@ -1,23 +1,6 @@
 # MLB Picks - Sunday, April 19, 2026
 
-*Last updated: 2026-04-19 03:08 PM ET*
-
-## Moneyline Underdogs
-
-### RECOMMENDED PLAYS (1)
-
-#### COL (+199.0)
-
-| Stat | Value |
-|------|-------|
-| Matchup | LAD @ COL |
-| Starting Pitchers | Roki Sasaki vs Michael Lorenzen |
-| Model Win Probability | 59.8% |
-| Edge Over Market | 26.4% |
-| Confidence | HIGH |
-| Notes | Strong value play; Home underdog; Favorite is travel-fatigued; Underdog is travel-fatigued |
-
----
+*Last updated: 2026-04-19 11:43 PM ET*
 
 ## Full Game Over/Under
 
@@ -25,27 +8,18 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TB @ PIT | Shane McClanahan vs Mitch Keller | 7.5 | UNDER | 58.7% | 8.6% | NO PLAY | High-scoring teams, but line is inflated; Elite SP matchup; Strong value; Both teams travel-fatigued |
-
----
-
-## First 5 Innings Over/Under
-
-### RECOMMENDED PLAYS (1)
-
-| Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
-|---------|----------|------|------|-------------|------|------------|-------|
-| SF @ WSH | Robbie Ray vs PJ Poulin | 4.7 | UNDER | 59.6% | 9.6% | NO PLAY | Elite SP matchup; Strong value; Both teams travel-fatigued |
+| DET @ BOS | Framber Valdez vs Garrett Crochet | 8.5 | OVER | 60.9% | 10.9% | NO PLAY | Hitter-friendly park favors OVER; Weak pitching matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
 ## 1st Inning Moneyline
 
-### RECOMMENDED PLAYS (1)
+### RECOMMENDED PLAYS (2)
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| BAL @ CLE | Trevor Rogers vs Joey Cantillo | BAL | -110.0 | 61.2% | 8.8% | LOW | Elite pitching matchup |
+| KC @ NYY | Cole Ragans vs Ryan Weathers | NYY | -110.0 | 61.7% | 9.4% | LOW | Standard play |
+| DET @ BOS | Framber Valdez vs Garrett Crochet | DET | -110.0 | 60.4% | 8.0% | LOW | Standard play |
 
 ---
 
@@ -55,8 +29,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Jacob Misiorowski (MIL @ MIA) | UNDER 6.5 Ks | -140.0 | 82.5% | 32.5% | HIGH | Strong value |
-| Roki Sasaki (LAD @ COL) | OVER 4.5 Ks | -144.0 | 70.5% | 20.5% | HIGH | Facing high-K team; Strong value |
+| Jacob Misiorowski (MIL @ MIA) | UNDER 7.9 Ks | -110.0 | 83.2% | 33.2% | HIGH | Strong value |
+| Robbie Ray (SF @ WSH) | UNDER 5.7 Ks | -110.0 | 79.5% | 29.5% | HIGH | Strong value |
 
 ---
 
@@ -66,8 +40,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Leo Rivas (TEX @ SEA) | OVER 0.5 hits | -108.0 | 86.9% | 36.9% | HIGH | Strong value |
-| Ryan McMahon (KC @ NYY) | OVER 0.5 hits | +110.0 | 85.3% | 35.3% | HIGH | Strong value |
+| Dominic Smith (ATL @ PHI) | UNDER 0.5 hits | +130.0 | 75.9% | 25.9% | HIGH | Strong value |
+| Drake Baldwin (ATL @ PHI) | UNDER 0.5 hits | +105.0 | 74.2% | 24.2% | HIGH | Strong value |
 
 ---
 
