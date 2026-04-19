@@ -65,6 +65,10 @@ def generate_predictions(
         decimal_odds = odds_to_decimal(underdog_odds)
         kelly = calculate_kelly(model_prob, decimal_odds)
 
+        # Handicapping filters — disqualify picks that violate proven rules
+        filter_reason = _apply_handicapping_filters(game)
+        passes_filters = (filter_reason is None)
+
         pick = {
             "bet_type": "MONEYLINE",
             "game_date": game.get("game_date", str(date.today())),
@@ -80,9 +84,11 @@ def generate_predictions(
             "edge_pct": f"{edge * 100:.1f}%",
             "kelly_fraction": round(kelly, 4),
             "confidence": _confidence_label(edge),
-            "recommended": edge >= EDGE_THRESHOLD,
+            "recommended": edge >= EDGE_THRESHOLD and passes_filters,
             "notes": _generate_notes(game, model_prob, edge),
         }
+        if not passes_filters:
+            pick["notes"] += f"; FILTERED: {filter_reason}"
         results.append(pick)
 
     results_df = pd.DataFrame(results)
@@ -98,6 +104,49 @@ def generate_predictions(
     log.info(f"Generated {len(results_df)} predictions, {recommended} recommended picks")
 
     return results_df
+
+
+def _apply_handicapping_filters(game: dict) -> str:
+    """
+    Apply handicapping filters to disqualify bad picks.
+    Returns None if pick passes all filters, or a reason string if filtered out.
+    """
+    # Underdog win pct below .450 — team is too weak
+    ud_win_pct = game.get("ud_mom_win_pct", 0.5)
+    if ud_win_pct < 0.450:
+        return "Underdog win% below .450"
+
+    # Don't bet against teams above .550 — favorite is too strong
+    fav_win_pct = game.get("fav_mom_win_pct", 0.5)
+    if fav_win_pct > 0.550:
+        return "Favorite win% above .550"
+
+    # Don't bet against a pitcher with ERA under 2.00 — elite arm
+    fav_sp_era = game.get("fav_sp_era", 4.5)
+    if fav_sp_era < 2.00 and fav_sp_era > 0:
+        return "Facing pitcher with ERA under 2.00"
+
+    # Don't bet on a pitcher with ERA over 4.00 — unreliable
+    ud_sp_era = game.get("ud_sp_era", 4.5)
+    if ud_sp_era > 4.00:
+        return "Underdog pitcher ERA over 4.00"
+
+    # Underdog has won less than 4 of last 10
+    ud_last10 = game.get("ud_mom_last10_pct", 0.5)
+    if ud_last10 < 0.40:
+        return "Underdog won less than 4 of last 10"
+
+    # Underdog on 4+ game losing streak
+    ud_streak = game.get("ud_mom_streak", 0)
+    if ud_streak <= -4:
+        return "Underdog on 4+ game losing streak"
+
+    # Minimum +125 odds
+    ud_odds = game.get("underdog_odds", 150)
+    if ud_odds < 125:
+        return "Odds below +125"
+
+    return None
 
 
 def _confidence_label(edge: float) -> str:

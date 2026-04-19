@@ -34,7 +34,7 @@ MLB_API_BASE = "https://statsapi.mlb.com/api/v1"
 MLB_SPORT_ID = 1  # MLB
 
 # ── Underdog Criteria ────────────────────────────────────────────────────
-MIN_UNDERDOG_ODDS = int(os.getenv("MIN_UNDERDOG_ODDS", "130"))
+MIN_UNDERDOG_ODDS = int(os.getenv("MIN_UNDERDOG_ODDS", "125"))
 MAX_UNDERDOG_ODDS = int(os.getenv("MAX_UNDERDOG_ODDS", "250"))
 
 # ── Model Settings ───────────────────────────────────────────────────────
