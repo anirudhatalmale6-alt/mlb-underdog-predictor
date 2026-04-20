@@ -1,6 +1,6 @@
 # MLB Picks - Monday, April 20, 2026
 
-*Last updated: 2026-04-20 03:13 AM ET*
+*Last updated: 2026-04-20 04:00 AM ET*
 
 ## Run Line (+1.5)
 
@@ -8,7 +8,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| ATL @ WSH | Bryce Elder vs Jake Irvin | WSH +1.5 | +103.0 | 87.4% | 38.1% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
+| ATL @ WSH | Bryce Elder vs Jake Irvin | WSH +1.5 | +102.0 | 87.4% | 37.9% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
 
 ---
 
@@ -32,6 +32,17 @@
 
 ---
 
+## 1st Inning Moneyline
+
+### RECOMMENDED PLAYS (2)
+
+| Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
+|---------|----------|------|------|-------------|------|------------|-------|
+| OAK @ SEA | J.T. Ginn vs Emerson Hancock | OAK | -110.0 | 56.8% | 4.5% | NO PLAY | Elite pitching matchup |
+| HOU @ CLE | Spencer Arrighetti vs Slade Cecconi | HOU | -110.0 | 56.4% | 4.0% | NO PLAY | Elite pitching matchup |
+
+---
+
 ## Pitcher Strikeout Props
 
 ### RECOMMENDED PLAYS (2)
@@ -49,8 +60,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
+| Will Smith (LAD @ COL) | UNDER 1.5 hits | -180.0 | 83.4% | 33.4% | HIGH | Strong value |
 | Michael Busch (PHI @ CHC) | OVER 0.5 hits | -174.0 | 81.4% | 31.4% | HIGH | Hot streak; Strong value |
-| Kyle Manzardo (HOU @ CLE) | OVER 0.5 hits | -137.0 | 79.3% | 29.3% | HIGH | Hot streak; Strong value |
 
 ---
 
