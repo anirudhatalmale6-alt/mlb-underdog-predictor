@@ -154,7 +154,8 @@ def _predict(
     probs = raw_probs * (1 - DAMPEN) + 0.5 * DAMPEN
 
     MAX_PICKS = 2
-    MIN_EDGE = 0.08
+    # 1st inning ML gets plus money odds, so lower edge threshold is still profitable
+    MIN_EDGE = 0.03 if bet_type == "1ST INN ML" else 0.08
 
     results = []
     for i, game in enumerate(games):
