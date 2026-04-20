@@ -66,6 +66,7 @@ def generate_picks_page(target_date: date = None):
     f5_picks = [p for p in picks if p.get("bet_type") == "F5 TOTAL" and p.get("recommended")]
     pk_picks = [p for p in picks if p.get("bet_type") == "PITCHER K" and p.get("recommended")]
     bh_picks = [p for p in picks if p.get("bet_type") == "BATTER HITS" and p.get("recommended")]
+    rl_picks = [p for p in picks if p.get("bet_type") == "RUN LINE" and p.get("recommended")]
     i1_ml_picks = [p for p in picks if p.get("bet_type") == "1ST INN ML" and p.get("recommended")]
     i1_total_picks = [p for p in picks if p.get("bet_type") == "1ST INN TOTAL" and p.get("recommended")]
 
@@ -78,6 +79,10 @@ def generate_picks_page(target_date: date = None):
     # ── Moneyline Underdog Section ──
     if ml_picks:
         _render_moneyline_section(lines, ml_picks)
+
+    # ── Run Line Section ──
+    if rl_picks:
+        _render_run_line_section(lines, rl_picks)
 
     # ── Full Game Totals Section ──
     if fg_picks:
@@ -101,7 +106,7 @@ def generate_picks_page(target_date: date = None):
     if bh_picks:
         _render_props_section(lines, bh_picks, "Batter Hits Props")
 
-    if not ml_picks and not fg_picks and not f5_picks and not pk_picks and not bh_picks and not i1_ml_picks and not i1_total_picks:
+    if not ml_picks and not rl_picks and not fg_picks and not f5_picks and not pk_picks and not bh_picks and not i1_ml_picks and not i1_total_picks:
         lines.append("## No Recommended Plays Today")
         lines.append("")
         lines.append("Games are on the schedule but no picks met the model's edge threshold today.")
@@ -116,6 +121,11 @@ def generate_picks_page(target_date: date = None):
     lines.append("- **Odds**: The moneyline payout (e.g., +150 means $100 bet wins $150)")
     lines.append("- **Win Probability**: The model's estimated chance of this underdog winning")
     lines.append("- **Edge**: How much higher the model's probability is vs what the odds imply (positive = value bet)")
+    lines.append("")
+    lines.append("**Run Line (+1.5):**")
+    lines.append("- **Pick**: The underdog team +1.5 runs (covers if they win or lose by 1)")
+    lines.append("- **Odds**: The payout odds for the run line bet")
+    lines.append("- **Cover Prob**: The model's estimated chance the underdog covers +1.5")
     lines.append("")
     lines.append("**Totals (Over/Under):**")
     lines.append("- **Line**: The sportsbook's projected total runs for the game")
@@ -140,8 +150,8 @@ def generate_picks_page(target_date: date = None):
     with open(output_path, "w") as f:
         f.write("\n".join(lines))
 
-    total = len(ml_picks) + len(fg_picks) + len(f5_picks) + len(i1_ml_picks) + len(i1_total_picks) + len(pk_picks) + len(bh_picks)
-    print(f"Wrote {total} picks ({len(ml_picks)} ML, {len(fg_picks)} FG, {len(f5_picks)} F5, {len(i1_ml_picks)} 1st ML, {len(i1_total_picks)} 1st Total, {len(pk_picks)} K props, {len(bh_picks)} hits props) to {output_path}")
+    total = len(ml_picks) + len(rl_picks) + len(fg_picks) + len(f5_picks) + len(i1_ml_picks) + len(i1_total_picks) + len(pk_picks) + len(bh_picks)
+    print(f"Wrote {total} picks ({len(ml_picks)} ML, {len(rl_picks)} RL, {len(fg_picks)} FG, {len(f5_picks)} F5, {len(i1_ml_picks)} 1st ML, {len(i1_total_picks)} 1st Total, {len(pk_picks)} K props, {len(bh_picks)} hits props) to {output_path}")
 
 
 def _render_moneyline_section(lines: list, picks: list):
@@ -180,6 +190,39 @@ def _render_moneyline_section(lines: list, picks: list):
             if notes:
                 lines.append(f"| Notes | {notes} |")
             lines.append("")
+
+    lines.append("---")
+    lines.append("")
+
+
+def _render_run_line_section(lines: list, picks: list):
+    """Render the run line (+1.5) picks section."""
+    lines.append("## Run Line (+1.5)")
+    lines.append("")
+
+    if picks:
+        lines.append(f"### RECOMMENDED PLAYS ({len(picks)})")
+        lines.append("")
+        lines.append("| Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |")
+        lines.append("|---------|----------|------|------|------------|------|------------|-------|")
+
+        for p in picks:
+            home = p.get("home_team", "")
+            away = p.get("away_team", "")
+            home_sp = p.get("home_sp_name", "TBD")
+            away_sp = p.get("away_sp_name", "TBD")
+            pick = p.get("pick", "?")
+            odds = p.get("odds", 0)
+            prob = p.get("model_prob", 0)
+            edge = p.get("edge_pct", "")
+            conf = p.get("confidence", "")
+            notes = p.get("notes", "")
+            prob_str = f"{prob:.1%}" if isinstance(prob, float) else str(prob)
+            odds_str = f"+{odds}" if isinstance(odds, (int, float)) and odds > 0 else str(odds)
+
+            lines.append(f"| {away} @ {home} | {away_sp} vs {home_sp} | {pick} | {odds_str} | {prob_str} | {edge} | {conf} | {notes} |")
+
+        lines.append("")
 
     lines.append("---")
     lines.append("")

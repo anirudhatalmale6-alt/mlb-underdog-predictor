@@ -149,6 +149,129 @@ def _apply_handicapping_filters(game: dict) -> str:
     return None
 
 
+def generate_run_line_predictions(
+    games_with_features: list[dict],
+    model=None,
+    metadata: dict = None,
+) -> pd.DataFrame:
+    """
+    Generate run line (+1.5) predictions for underdog teams.
+    Uses the ML model's win probability + historical one-run-loss rate
+    to estimate the underdog's cover probability on +1.5.
+    """
+    if model is None:
+        model, metadata = load_latest_model()
+
+    if not games_with_features:
+        return pd.DataFrame()
+
+    feature_cols = metadata.get("features", FEATURE_COLUMNS)
+    available_cols = [c for c in feature_cols if c in games_with_features[0]]
+
+    df = pd.DataFrame(games_with_features)
+    X = df[available_cols].fillna(0)
+    raw_probs = model.predict_proba(X)[:, 1]
+
+    DAMPEN = 0.30
+    ONE_RUN_LOSS_RATE = 0.15  # ~15% of games are decided by exactly 1 run for the loser
+
+    results = []
+    for i, game in enumerate(games_with_features):
+        raw_prob = float(raw_probs[i])
+        market_prior = american_to_implied(game.get("underdog_odds", 150))
+        win_prob = raw_prob * (1 - DAMPEN) + market_prior * DAMPEN
+
+        # P(cover +1.5) = P(win) + P(lose by exactly 1)
+        # Estimate one-run-loss probability: higher when teams are close in skill
+        lose_prob = 1 - win_prob
+        one_run_loss_prob = lose_prob * ONE_RUN_LOSS_RATE / (1 - win_prob) if win_prob < 0.95 else 0.02
+        one_run_loss_prob = min(one_run_loss_prob, 0.18)  # cap
+        cover_prob = win_prob + one_run_loss_prob
+
+        # Get spread odds for the underdog
+        has_spread = game.get("has_spread", False)
+        if has_spread:
+            underdog_side = game.get("underdog", "away")
+            if underdog_side == "home":
+                # Home is underdog, home_spread_line should be +1.5
+                spread_odds = game.get("home_spread_odds", -150)
+            else:
+                # Away is underdog, away gets +1.5
+                spread_odds = game.get("away_spread_odds", -150)
+        else:
+            spread_odds = -150  # default
+
+        market_cover_prob = american_to_implied(spread_odds)
+        edge = cover_prob - market_cover_prob
+        decimal_odds = odds_to_decimal(spread_odds)
+        kelly = calculate_kelly(cover_prob, decimal_odds)
+
+        pick = {
+            "bet_type": "RUN LINE",
+            "game_date": game.get("game_date", str(date.today())),
+            "home_team": game.get("home_team", ""),
+            "away_team": game.get("away_team", ""),
+            "underdog_team": game.get("underdog_team", ""),
+            "home_sp_name": game.get("home_sp_name", "TBD"),
+            "away_sp_name": game.get("away_sp_name", "TBD"),
+            "pick": f"{game.get('underdog_team', '???')} +1.5",
+            "odds": spread_odds,
+            "underdog_odds": game.get("underdog_odds", 150),
+            "market_implied_prob": round(market_cover_prob, 4),
+            "model_prob": round(cover_prob, 4),
+            "edge": round(edge, 4),
+            "edge_pct": f"{edge * 100:.1f}%",
+            "kelly_fraction": round(kelly, 4),
+            "confidence": _rl_confidence_label(edge),
+            "recommended": edge >= 0.06 and has_spread,
+            "notes": _generate_rl_notes(game, cover_prob, win_prob, edge),
+        }
+        results.append(pick)
+
+    results_df = pd.DataFrame(results).sort_values("edge", ascending=False)
+    # Cap at top 1 recommended
+    rec_mask = results_df["recommended"]
+    if rec_mask.sum() > 1:
+        rec_indices = results_df[rec_mask].index[:1]
+        results_df.loc[~results_df.index.isin(rec_indices), "recommended"] = False
+
+    recommended = results_df[results_df["recommended"]].shape[0]
+    log.info(f"Generated {len(results_df)} run line predictions, {recommended} recommended")
+    return results_df
+
+
+def _rl_confidence_label(edge: float) -> str:
+    if edge >= 0.12:
+        return "HIGH"
+    elif edge >= 0.08:
+        return "MEDIUM"
+    elif edge >= 0.06:
+        return "LOW"
+    else:
+        return "NO PLAY"
+
+
+def _generate_rl_notes(game: dict, cover_prob: float, win_prob: float, edge: float) -> str:
+    notes = []
+    if win_prob > 0.45:
+        notes.append("Strong ML probability boosts +1.5 cover")
+    if edge >= 0.10:
+        notes.append("Strong value on run line")
+
+    ud_streak = game.get("ud_mom_streak", 0)
+    if ud_streak >= 3:
+        notes.append(f"Underdog on {ud_streak}W streak")
+
+    fav_fatigue = game.get("fav_fatigue_score", 0)
+    if fav_fatigue > 0.4:
+        notes.append("Favorite is travel-fatigued")
+
+    if game.get("underdog_is_home", 0) == 1:
+        notes.append("Home underdog")
+
+    return "; ".join(notes) if notes else "Standard run line play"
+
+
 def _confidence_label(edge: float) -> str:
     """Convert edge to a human-readable confidence label."""
     if edge >= 0.10:

@@ -22,7 +22,7 @@ from src.ingest.mlb_statsapi import (
 from src.ingest.odds_api import fetch_mlb_odds, fetch_mlb_event_markets
 from src.features.builder import build_feature_vector
 from src.features.props import build_pitcher_k_features, build_batter_hits_features
-from src.model.predict import generate_predictions
+from src.model.predict import generate_predictions, generate_run_line_predictions
 from src.model.totals import predict_full_game_totals, predict_f5_totals
 from src.model.props import predict_pitcher_k_props, predict_batter_hits_props
 from src.model.first_inning import predict_first_inning_ml, predict_first_inning_total
@@ -98,6 +98,7 @@ def run_daily_pipeline(target_date: date = None) -> dict:
 
     results = {
         "moneyline": pd.DataFrame(),
+        "run_line": pd.DataFrame(),
         "full_game_total": pd.DataFrame(),
         "f5_total": pd.DataFrame(),
         "i1_ml": [],
@@ -121,6 +122,27 @@ def run_daily_pipeline(target_date: date = None) -> dict:
 
         if ml_features:
             results["moneyline"] = generate_predictions(ml_features)
+
+    # ── Run Line (+1.5) Picks ──
+    games_with_spread = [g for g in matched_games if g.get("has_spread") and g.get("is_qualifying")]
+    if games_with_spread:
+        log.info(f"  {len(games_with_spread)} games with run line odds")
+        rl_features = []
+        for game in games_with_spread:
+            try:
+                features = _build_ml_features(game, season, standings, fatigue_cache)
+                if features:
+                    # Pass through spread data
+                    features["has_spread"] = game.get("has_spread", False)
+                    features["home_spread_line"] = game.get("home_spread_line", -1.5)
+                    features["home_spread_odds"] = game.get("home_spread_odds", -150)
+                    features["away_spread_odds"] = game.get("away_spread_odds", -150)
+                    rl_features.append(features)
+            except Exception as e:
+                log.warning(f"Failed RL features for {game.get('home_team')} vs {game.get('away_team')}: {e}")
+
+        if rl_features:
+            results["run_line"] = generate_run_line_predictions(rl_features)
 
     # ── Totals Picks (all games with total lines) ──
     games_with_totals = [g for g in matched_games if g.get("has_total")]
@@ -208,6 +230,7 @@ def run_daily_pipeline(target_date: date = None) -> dict:
 def _empty_results():
     return {
         "moneyline": pd.DataFrame(),
+        "run_line": pd.DataFrame(),
         "full_game_total": pd.DataFrame(),
         "f5_total": pd.DataFrame(),
         "i1_ml": [],
@@ -246,6 +269,10 @@ def _match_games_with_odds(schedule: list[dict], odds_data: list[dict]) -> list[
                 "total_line": odds.get("total_line", 0),
                 "over_odds": odds.get("over_odds", -110),
                 "under_odds": odds.get("under_odds", -110),
+                "has_spread": odds.get("has_spread", False),
+                "home_spread_line": odds.get("home_spread_line", -1.5),
+                "home_spread_odds": odds.get("home_spread_odds", -150),
+                "away_spread_odds": odds.get("away_spread_odds", -150),
             })
         else:
             # Try fuzzy match
@@ -267,6 +294,10 @@ def _match_games_with_odds(schedule: list[dict], odds_data: list[dict]) -> list[
                         "total_line": odds.get("total_line", 0),
                         "over_odds": odds.get("over_odds", -110),
                         "under_odds": odds.get("under_odds", -110),
+                        "has_spread": odds.get("has_spread", False),
+                        "home_spread_line": odds.get("home_spread_line", -1.5),
+                        "home_spread_odds": odds.get("home_spread_odds", -150),
+                        "away_spread_odds": odds.get("away_spread_odds", -150),
                     })
                     found = True
                     break
@@ -274,6 +305,7 @@ def _match_games_with_odds(schedule: list[dict], odds_data: list[dict]) -> list[
             if not found:
                 game["is_qualifying"] = False
                 game["has_total"] = False
+                game["has_spread"] = False
 
         matched.append(game)
 

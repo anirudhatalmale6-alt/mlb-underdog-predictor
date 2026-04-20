@@ -30,7 +30,7 @@ def fetch_mlb_odds(include_totals: bool = True) -> list[dict]:
         log.error("ODDS_API_KEY not set. Cannot fetch live odds.")
         return []
 
-    markets = "h2h,totals" if include_totals else ODDS_MARKETS
+    markets = "h2h,totals,spreads" if include_totals else ODDS_MARKETS
 
     url = f"{ODDS_API_BASE}/sports/baseball_mlb/odds/"
     params = {
@@ -85,6 +85,9 @@ def _parse_odds_response(data: list[dict]) -> list[dict]:
         total_points_list = []
         over_odds_list = []
         under_odds_list = []
+        home_spread_odds = []
+        away_spread_odds = []
+        spread_points = []
 
         for bookmaker in event.get("bookmakers", []):
             for market in bookmaker.get("markets", []):
@@ -101,6 +104,12 @@ def _parse_odds_response(data: list[dict]) -> list[dict]:
                         total_points_list.append(outcomes["Over"].get("point", 0))
                         over_odds_list.append(outcomes["Over"]["price"])
                         under_odds_list.append(outcomes["Under"]["price"])
+
+                elif key == "spreads":
+                    if home_team in outcomes and away_team in outcomes:
+                        home_spread_odds.append(outcomes[home_team]["price"])
+                        away_spread_odds.append(outcomes[away_team]["price"])
+                        spread_points.append(outcomes[home_team].get("point", 0))
 
         if not home_odds_list or not away_odds_list:
             continue
@@ -166,6 +175,19 @@ def _parse_odds_response(data: list[dict]) -> list[dict]:
             game["has_total"] = True
         else:
             game["has_total"] = False
+
+        # Spread / run line consensus
+        if home_spread_odds and away_spread_odds and spread_points:
+            home_spread_odds.sort()
+            away_spread_odds.sort()
+            spread_points.sort()
+            smid = len(spread_points) // 2
+            game["home_spread_line"] = spread_points[smid]
+            game["home_spread_odds"] = home_spread_odds[smid]
+            game["away_spread_odds"] = away_spread_odds[smid]
+            game["has_spread"] = True
+        else:
+            game["has_spread"] = False
 
         games.append(game)
 
