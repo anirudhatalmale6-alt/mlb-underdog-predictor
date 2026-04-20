@@ -1,6 +1,6 @@
 # MLB Picks - Monday, April 20, 2026
 
-*Last updated: 2026-04-20 04:00 AM ET*
+*Last updated: 2026-04-20 03:54 PM ET*
 
 ## Run Line (+1.5)
 
@@ -8,7 +8,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| ATL @ WSH | Bryce Elder vs Jake Irvin | WSH +1.5 | +102.0 | 87.4% | 37.9% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
+| ATL @ WSH | Bryce Elder vs Jake Irvin | WSH +1.5 | +100.0 | 87.6% | 37.6% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| HOU @ CLE | Spencer Arrighetti vs Slade Cecconi | 8.0 | UNDER | 63.5% | 13.5% | LOW | Elite SP matchup; Strong value; Both teams travel-fatigued |
+| HOU @ CLE | Spencer Arrighetti vs Slade Cecconi | 7.5 | UNDER | 63.5% | 13.5% | LOW | Elite SP matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -49,8 +49,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Michael McGreevy (STL @ MIA) | UNDER 2.8 Ks | -110.0 | 68.7% | 18.7% | HIGH | Low K average; Strong value |
-| Bryce Elder (ATL @ WSH) | UNDER 4.5 Ks | -174.0 | 67.7% | 17.7% | HIGH | Low K average; Strong value |
+| Michael McGreevy (STL @ MIA) | UNDER 3.5 Ks | -166.0 | 68.7% | 18.7% | HIGH | Low K average; Strong value |
+| Bryce Elder (ATL @ WSH) | UNDER 4.5 Ks | -162.0 | 67.7% | 17.7% | HIGH | Low K average; Strong value |
 
 ---
 
@@ -60,8 +60,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Will Smith (LAD @ COL) | UNDER 1.5 hits | -180.0 | 83.4% | 33.4% | HIGH | Strong value |
-| Michael Busch (PHI @ CHC) | OVER 0.5 hits | -174.0 | 81.4% | 31.4% | HIGH | Hot streak; Strong value |
+| Will Smith (LAD @ COL) | UNDER 1.5 hits | -179.0 | 83.4% | 33.4% | HIGH | Strong value |
+| Jakob Marsee (STL @ MIA) | OVER 0.5 hits | -230.0 | 81.6% | 31.6% | HIGH | Strong value |
 
 ---
 
