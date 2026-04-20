@@ -1,6 +1,16 @@
-# MLB Picks - Sunday, April 19, 2026
+# MLB Picks - Monday, April 20, 2026
 
-*Last updated: 2026-04-19 11:43 PM ET*
+*Last updated: 2026-04-20 03:13 AM ET*
+
+## Run Line (+1.5)
+
+### RECOMMENDED PLAYS (1)
+
+| Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
+|---------|----------|------|------|------------|------|------------|-------|
+| ATL @ WSH | Bryce Elder vs Jake Irvin | WSH +1.5 | +103.0 | 87.4% | 38.1% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
+
+---
 
 ## Full Game Over/Under
 
@@ -8,18 +18,17 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| DET @ BOS | Framber Valdez vs Garrett Crochet | 8.5 | OVER | 60.9% | 10.9% | NO PLAY | Hitter-friendly park favors OVER; Weak pitching matchup; Strong value; Both teams travel-fatigued |
+| HOU @ CLE | Spencer Arrighetti vs Slade Cecconi | 8.0 | UNDER | 63.5% | 13.5% | LOW | Elite SP matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
-## 1st Inning Moneyline
+## First 5 Innings Over/Under
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (1)
 
-| Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
+| Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| KC @ NYY | Cole Ragans vs Ryan Weathers | NYY | -110.0 | 61.7% | 9.4% | LOW | Standard play |
-| DET @ BOS | Framber Valdez vs Garrett Crochet | DET | -110.0 | 60.4% | 8.0% | LOW | Standard play |
+| ATL @ WSH | Bryce Elder vs Jake Irvin | 4.4 | UNDER | 60.6% | 10.6% | NO PLAY | High-scoring teams, but line is inflated; Elite SP matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -29,8 +38,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Jacob Misiorowski (MIL @ MIA) | UNDER 7.9 Ks | -110.0 | 83.2% | 33.2% | HIGH | Strong value |
-| Robbie Ray (SF @ WSH) | UNDER 5.7 Ks | -110.0 | 79.5% | 29.5% | HIGH | Strong value |
+| Michael McGreevy (STL @ MIA) | UNDER 2.8 Ks | -110.0 | 68.7% | 18.7% | HIGH | Low K average; Strong value |
+| Bryce Elder (ATL @ WSH) | UNDER 4.5 Ks | -174.0 | 67.7% | 17.7% | HIGH | Low K average; Strong value |
 
 ---
 
@@ -40,8 +49,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Dominic Smith (ATL @ PHI) | UNDER 0.5 hits | +130.0 | 75.9% | 25.9% | HIGH | Strong value |
-| Drake Baldwin (ATL @ PHI) | UNDER 0.5 hits | +105.0 | 74.2% | 24.2% | HIGH | Strong value |
+| Michael Busch (PHI @ CHC) | OVER 0.5 hits | -174.0 | 81.4% | 31.4% | HIGH | Hot streak; Strong value |
+| Kyle Manzardo (HOU @ CLE) | OVER 0.5 hits | -137.0 | 79.3% | 29.3% | HIGH | Hot streak; Strong value |
 
 ---
 
@@ -53,6 +62,11 @@
 - **Odds**: The moneyline payout (e.g., +150 means $100 bet wins $150)
 - **Win Probability**: The model's estimated chance of this underdog winning
 - **Edge**: How much higher the model's probability is vs what the odds imply (positive = value bet)
+
+**Run Line (+1.5):**
+- **Pick**: The underdog team +1.5 runs (covers if they win or lose by 1)
+- **Odds**: The payout odds for the run line bet
+- **Cover Prob**: The model's estimated chance the underdog covers +1.5
 
 **Totals (Over/Under):**
 - **Line**: The sportsbook's projected total runs for the game
