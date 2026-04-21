@@ -1,6 +1,6 @@
 # MLB Picks - Tuesday, April 21, 2026
 
-*Last updated: 2026-04-21 03:54 AM ET*
+*Last updated: 2026-04-21 03:54 PM ET*
 
 ## Run Line (+1.5)
 
@@ -8,7 +8,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| MIN @ NYM | Simeon Woods Richardson vs Nolan McLean | MIN +1.5 | -145.0 | 69.9% | 10.7% | MEDIUM | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued |
+| MIN @ NYM | Simeon Woods Richardson vs Nolan McLean | MIN +1.5 | -151.0 | 71.2% | 11.0% | MEDIUM | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued |
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| HOU @ CLE | Ryan Weiss vs Parker Messick | 8.0 | UNDER | 63.6% | 13.6% | LOW | Strong value; Both teams travel-fatigued |
+| HOU @ CLE | Ryan Weiss vs Parker Messick | 8.5 | UNDER | 63.6% | 13.6% | LOW | Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -49,8 +49,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Chase Burns (CIN @ TB) | UNDER 5.5 Ks | -111.0 | 85.8% | 35.8% | HIGH | Strong value |
-| Jesús Luzardo (PHI @ CHC) | UNDER 5.5 Ks | +128.0 | 74.0% | 24.0% | HIGH | Strong value |
+| Chase Burns (CIN @ TB) | UNDER 5.5 Ks | -128.0 | 85.8% | 35.8% | HIGH | Strong value |
+| Jesús Luzardo (PHI @ CHC) | UNDER 6.5 Ks | +118.0 | 74.0% | 24.0% | HIGH | Strong value |
 
 ---
 
@@ -60,8 +60,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Michael Busch (PHI @ CHC) | OVER 0.5 hits | -143.0 | 84.1% | 34.1% | HIGH | Strong value |
-| Jordan Walker (STL @ MIA) | UNDER 1.5 hits | -259.0 | 83.6% | 33.6% | HIGH | Strong value |
+| Ryan McMahon (NYY @ BOS) | OVER 0.5 hits | +100.0 | 85.6% | 35.6% | HIGH | Strong value |
+| Michael Busch (PHI @ CHC) | OVER 0.5 hits | -147.0 | 84.1% | 34.1% | HIGH | Strong value |
 
 ---
 
