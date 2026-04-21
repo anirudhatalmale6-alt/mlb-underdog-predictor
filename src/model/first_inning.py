@@ -199,7 +199,7 @@ def _predict(
                 "model_prob": round(pick_prob, 4),
                 "edge": round(edge, 4),
                 "edge_pct": f"{edge * 100:.1f}%",
-                "confidence": _confidence_label(edge),
+                "confidence": _confidence_label(edge, bet_type),
                 "recommended": False,  # Set later after sorting
                 "notes": _generate_ml_notes(game, pick_team, edge),
             })
@@ -238,7 +238,7 @@ def _predict(
                 "model_prob": round(pick_prob, 4),
                 "edge": round(edge, 4),
                 "edge_pct": f"{edge * 100:.1f}%",
-                "confidence": _confidence_label(edge),
+                "confidence": _confidence_label(edge, bet_type),
                 "recommended": False,
                 "notes": _generate_total_notes(game, is_over, edge),
             })
@@ -254,15 +254,26 @@ def _predict(
     return results
 
 
-def _confidence_label(edge: float) -> str:
-    if edge >= 0.15:
-        return "HIGH"
-    elif edge >= 0.12:
-        return "MEDIUM"
-    elif edge >= 0.08:
-        return "LOW"
+def _confidence_label(edge: float, bet_type: str = "") -> str:
+    if bet_type == "1ST INN ML":
+        # Lower thresholds for 1st inning ML (plus money odds = smaller edge still profitable)
+        if edge >= 0.06:
+            return "HIGH"
+        elif edge >= 0.04:
+            return "MEDIUM"
+        elif edge >= 0.03:
+            return "LOW"
+        else:
+            return "NO PLAY"
     else:
-        return "NO PLAY"
+        if edge >= 0.15:
+            return "HIGH"
+        elif edge >= 0.12:
+            return "MEDIUM"
+        elif edge >= 0.08:
+            return "LOW"
+        else:
+            return "NO PLAY"
 
 
 def _generate_ml_notes(game: dict, pick_team: str, edge: float) -> str:
