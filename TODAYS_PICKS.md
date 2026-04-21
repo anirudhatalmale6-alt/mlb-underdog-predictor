@@ -1,6 +1,6 @@
-# MLB Picks - Monday, April 20, 2026
+# MLB Picks - Tuesday, April 21, 2026
 
-*Last updated: 2026-04-20 03:54 PM ET*
+*Last updated: 2026-04-21 03:54 AM ET*
 
 ## Run Line (+1.5)
 
@@ -8,7 +8,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| ATL @ WSH | Bryce Elder vs Jake Irvin | WSH +1.5 | +100.0 | 87.6% | 37.6% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
+| MIN @ NYM | Simeon Woods Richardson vs Nolan McLean | MIN +1.5 | -145.0 | 69.9% | 10.7% | MEDIUM | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued |
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| HOU @ CLE | Spencer Arrighetti vs Slade Cecconi | 7.5 | UNDER | 63.5% | 13.5% | LOW | Elite SP matchup; Strong value; Both teams travel-fatigued |
+| HOU @ CLE | Ryan Weiss vs Parker Messick | 8.0 | UNDER | 63.6% | 13.6% | LOW | Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| ATL @ WSH | Bryce Elder vs Jake Irvin | 4.4 | UNDER | 60.6% | 10.6% | NO PLAY | High-scoring teams, but line is inflated; Elite SP matchup; Strong value; Both teams travel-fatigued |
+| SD @ COL | Randy Vásquez vs TBD | 6.1 | OVER | 62.1% | 12.1% | LOW | Hitter-friendly park favors OVER; Elite SPs, but line overreacts; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -38,8 +38,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| OAK @ SEA | J.T. Ginn vs Emerson Hancock | OAK | -110.0 | 56.8% | 4.5% | NO PLAY | Elite pitching matchup |
-| HOU @ CLE | Spencer Arrighetti vs Slade Cecconi | HOU | -110.0 | 56.4% | 4.0% | NO PLAY | Elite pitching matchup |
+| MIL @ DET | Kyle Harrison vs Keider Montero | MIL | -110.0 | 62.7% | 10.3% | HIGH | Elite pitching matchup; Strong value |
+| CWS @ ARI | Sean Burke vs Merrill Kelly | ARI | -110.0 | 61.7% | 9.3% | HIGH | Standard play |
 
 ---
 
@@ -49,8 +49,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Michael McGreevy (STL @ MIA) | UNDER 3.5 Ks | -166.0 | 68.7% | 18.7% | HIGH | Low K average; Strong value |
-| Bryce Elder (ATL @ WSH) | UNDER 4.5 Ks | -162.0 | 67.7% | 17.7% | HIGH | Low K average; Strong value |
+| Chase Burns (CIN @ TB) | UNDER 5.5 Ks | -111.0 | 85.8% | 35.8% | HIGH | Strong value |
+| Jesús Luzardo (PHI @ CHC) | UNDER 5.5 Ks | +128.0 | 74.0% | 24.0% | HIGH | Strong value |
 
 ---
 
@@ -60,8 +60,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Will Smith (LAD @ COL) | UNDER 1.5 hits | -179.0 | 83.4% | 33.4% | HIGH | Strong value |
-| Jakob Marsee (STL @ MIA) | OVER 0.5 hits | -230.0 | 81.6% | 31.6% | HIGH | Strong value |
+| Michael Busch (PHI @ CHC) | OVER 0.5 hits | -143.0 | 84.1% | 34.1% | HIGH | Strong value |
+| Jordan Walker (STL @ MIA) | UNDER 1.5 hits | -259.0 | 83.6% | 33.6% | HIGH | Strong value |
 
 ---
 
