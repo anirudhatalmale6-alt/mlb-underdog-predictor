@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, April 21, 2026
+# MLB Picks - Wednesday, April 22, 2026
 
-*Last updated: 2026-04-21 03:54 PM ET*
+*Last updated: 2026-04-22 03:54 PM ET*
 
 ## Run Line (+1.5)
 
@@ -8,7 +8,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| MIN @ NYM | Simeon Woods Richardson vs Nolan McLean | MIN +1.5 | -151.0 | 71.2% | 11.0% | MEDIUM | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued |
+| SD @ COL | Walker Buehler vs Tomoyuki Sugano | COL +1.5 | -110.0 | 73.8% | 21.4% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| HOU @ CLE | Ryan Weiss vs Parker Messick | 8.5 | UNDER | 63.6% | 13.6% | LOW | Strong value; Both teams travel-fatigued |
+| LAD @ SF | Shohei Ohtani vs Tyler Mahle | 7.5 | UNDER | 69.7% | 19.7% | HIGH | Pitcher-friendly park favors UNDER; Strong value; Away team travel-fatigued |
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SD @ COL | Randy Vásquez vs TBD | 6.1 | OVER | 62.1% | 12.1% | LOW | Hitter-friendly park favors OVER; Elite SPs, but line overreacts; Strong value; Both teams travel-fatigued |
+| LAD @ SF | Shohei Ohtani vs Tyler Mahle | 4.1 | UNDER | 61.6% | 11.6% | NO PLAY | Pitcher-friendly park favors UNDER; Strong value; Away team travel-fatigued |
 
 ---
 
@@ -38,8 +38,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIL @ DET | Kyle Harrison vs Keider Montero | MIL | -110.0 | 62.7% | 10.3% | HIGH | Elite pitching matchup; Strong value |
-| CWS @ ARI | Sean Burke vs Merrill Kelly | ARI | -110.0 | 61.7% | 9.3% | HIGH | Standard play |
+| HOU @ CLE | Peter Lambert vs Tanner Bibee | CLE | -110.0 | 58.9% | 6.5% | HIGH | Standard play |
+| PIT @ TEX | Braxton Ashcraft vs Jack Leiter | PIT | -110.0 | 58.8% | 6.4% | HIGH | Standard play |
 
 ---
 
@@ -49,8 +49,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Chase Burns (CIN @ TB) | UNDER 5.5 Ks | -128.0 | 85.8% | 35.8% | HIGH | Strong value |
-| Jesús Luzardo (PHI @ CHC) | UNDER 6.5 Ks | +118.0 | 74.0% | 24.0% | HIGH | Strong value |
+| José Soriano (TOR @ LAA) | UNDER 5.5 Ks | -113.0 | 88.5% | 38.5% | HIGH | Facing low-K team; Strong value |
+| Zack Littell (ATL @ WSH) | UNDER 3.5 Ks | -137.0 | 76.8% | 26.8% | HIGH | Low K average; Strong value |
 
 ---
 
@@ -60,8 +60,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Ryan McMahon (NYY @ BOS) | OVER 0.5 hits | +100.0 | 85.6% | 35.6% | HIGH | Strong value |
-| Michael Busch (PHI @ CHC) | OVER 0.5 hits | -147.0 | 84.1% | 34.1% | HIGH | Strong value |
+| Jakob Marsee (STL @ MIA) | OVER 0.5 hits | -210.0 | 84.0% | 34.1% | HIGH | Strong value |
+| Jordan Beck (SD @ COL) | OVER 0.5 hits | -190.0 | 83.4% | 33.4% | HIGH | Hot streak; Strong value |
 
 ---
 
