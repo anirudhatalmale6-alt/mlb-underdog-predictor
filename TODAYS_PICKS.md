@@ -1,6 +1,23 @@
-# MLB Picks - Wednesday, April 22, 2026
+# MLB Picks - Thursday, April 23, 2026
 
-*Last updated: 2026-04-22 03:54 PM ET*
+*Last updated: 2026-04-23 04:20 PM ET*
+
+## Moneyline Underdogs
+
+### RECOMMENDED PLAYS (1)
+
+#### PIT (+135.0)
+
+| Stat | Value |
+|------|-------|
+| Matchup | PIT @ TEX |
+| Starting Pitchers | Bubba Chandler vs Jacob deGrom |
+| Model Win Probability | 53.1% |
+| Edge Over Market | 10.5% |
+| Confidence | HIGH |
+| Notes | Facing elite SP; Strong value play; Favorite is travel-fatigued; Underdog is travel-fatigued |
+
+---
 
 ## Run Line (+1.5)
 
@@ -8,7 +25,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| SD @ COL | Walker Buehler vs Tomoyuki Sugano | COL +1.5 | -110.0 | 73.8% | 21.4% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
+| SD @ COL | Matt Waldron vs Ryan Feltner | COL +1.5 | +100.0 | 69.1% | 19.1% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
 
 ---
 
@@ -18,7 +35,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAD @ SF | Shohei Ohtani vs Tyler Mahle | 7.5 | UNDER | 69.7% | 19.7% | HIGH | Pitcher-friendly park favors UNDER; Strong value; Away team travel-fatigued |
+| ATL @ WSH | JR Ritchie vs Cade Cavalli | 9.5 | UNDER | 63.0% | 13.1% | LOW | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -28,7 +45,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAD @ SF | Shohei Ohtani vs Tyler Mahle | 4.1 | UNDER | 61.6% | 11.6% | NO PLAY | Pitcher-friendly park favors UNDER; Strong value; Away team travel-fatigued |
+| LAD @ SF | Tyler Glasnow vs Logan Webb | 4.1 | UNDER | 64.3% | 14.3% | LOW | Pitcher-friendly park favors UNDER; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -38,8 +55,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| HOU @ CLE | Peter Lambert vs Tanner Bibee | CLE | -110.0 | 58.9% | 6.5% | HIGH | Standard play |
-| PIT @ TEX | Braxton Ashcraft vs Jack Leiter | PIT | -110.0 | 58.8% | 6.4% | HIGH | Standard play |
+| MIN @ NYM | Joe Ryan vs Christian Scott | MIN | -110.0 | 57.5% | 5.1% | MEDIUM | Standard play |
+| LAD @ SF | Tyler Glasnow vs Logan Webb | LAD | -110.0 | 56.5% | 4.1% | MEDIUM | Standard play |
 
 ---
 
@@ -49,8 +66,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| José Soriano (TOR @ LAA) | UNDER 5.5 Ks | -113.0 | 88.5% | 38.5% | HIGH | Facing low-K team; Strong value |
-| Zack Littell (ATL @ WSH) | UNDER 3.5 Ks | -137.0 | 76.8% | 26.8% | HIGH | Low K average; Strong value |
+| Cristopher Sánchez (PHI @ CHC) | UNDER 7.3 Ks | -110.0 | 82.7% | 32.7% | HIGH | Strong value |
+| Cam Schlittler (NYY @ BOS) | UNDER 6.5 Ks | -158.0 | 77.2% | 27.2% | HIGH | Strong value |
 
 ---
 
@@ -60,8 +77,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Jakob Marsee (STL @ MIA) | OVER 0.5 hits | -210.0 | 84.0% | 34.1% | HIGH | Strong value |
-| Jordan Beck (SD @ COL) | OVER 0.5 hits | -190.0 | 83.4% | 33.4% | HIGH | Hot streak; Strong value |
+| Edgar Quero (CWS @ ARI) | OVER 0.5 hits | -182.0 | 78.6% | 28.6% | HIGH | Strong value |
+| Colt Keith (MIL @ DET) | UNDER 0.5 hits | +146.0 | 78.5% | 28.4% | HIGH | Strong value |
 
 ---
 
