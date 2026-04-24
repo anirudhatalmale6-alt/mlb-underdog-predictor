@@ -1,6 +1,6 @@
 # MLB Picks - Friday, April 24, 2026
 
-*Last updated: 2026-04-24 02:28 AM ET*
+*Last updated: 2026-04-24 03:49 PM ET*
 
 ## Run Line (+1.5)
 
@@ -8,7 +8,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| CHC @ LAD | Jameson Taillon vs Emmet Sheehan | CHC +1.5 | -145.0 | 78.5% | 19.3% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued |
+| SEA @ STL | George Kirby vs Andre Pallante | STL +1.5 | +118.0 | 69.8% | 23.9% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CHC @ LAD | Jameson Taillon vs Emmet Sheehan | 9.5 | UNDER | 69.2% | 19.2% | HIGH | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
+| CHC @ LAD | Jameson Taillon vs Emmet Sheehan | 9.0 | UNDER | 69.2% | 19.2% | HIGH | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CHC @ LAD | Jameson Taillon vs Emmet Sheehan | 5.2 | UNDER | 64.3% | 14.3% | LOW | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
+| CHC @ LAD | Jameson Taillon vs Emmet Sheehan | 5.0 | UNDER | 64.3% | 14.3% | LOW | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -49,9 +49,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Gavin Williams (CLE @ TOR) | UNDER 5.5 Ks | -120.0 | 89.0% | 39.0% | HIGH | Strong value |
-| Taj Bradley (MIN @ TB) | UNDER 6.3 Ks | -110.0 | 84.4% | 34.4% | HIGH | Strong value |
-| Will Warren (NYY @ HOU) | UNDER 4.5 Ks | +110.0 | 71.5% | 21.6% | HIGH | Strong value |
+| Gavin Williams (CLE @ TOR) | UNDER 5.5 Ks | -130.0 | 89.0% | 39.0% | HIGH | Strong value |
+| Taj Bradley (MIN @ TB) | UNDER 5.5 Ks | -159.0 | 84.4% | 34.4% | HIGH | Strong value |
+| Will Warren (NYY @ HOU) | UNDER 5.5 Ks | -152.0 | 71.5% | 21.6% | HIGH | Strong value |
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Ryan McMahon (NYY @ HOU) | OVER 0.5 hits | -115.0 | 85.6% | 35.6% | HIGH | Strong value |
-| Kyle Manzardo (CLE @ TOR) | OVER 0.5 hits | -137.0 | 82.9% | 32.9% | HIGH | Strong value |
-| Dominic Smith (PHI @ ATL) | UNDER 0.5 hits | +132.0 | 81.9% | 31.9% | HIGH | Strong value |
+| Ryan McMahon (NYY @ HOU) | OVER 0.5 hits | -102.0 | 85.6% | 35.6% | HIGH | Strong value |
+| Leo Rivas (SEA @ STL) | OVER 0.5 hits | -137.0 | 85.0% | 35.0% | HIGH | Strong value |
+| Kyle Manzardo (CLE @ TOR) | OVER 0.5 hits | -146.0 | 82.9% | 32.9% | HIGH | Strong value |
 
 ---
 
