@@ -1,23 +1,6 @@
-# MLB Picks - Thursday, April 23, 2026
+# MLB Picks - Friday, April 24, 2026
 
-*Last updated: 2026-04-23 04:20 PM ET*
-
-## Moneyline Underdogs
-
-### RECOMMENDED PLAYS (1)
-
-#### PIT (+135.0)
-
-| Stat | Value |
-|------|-------|
-| Matchup | PIT @ TEX |
-| Starting Pitchers | Bubba Chandler vs Jacob deGrom |
-| Model Win Probability | 53.1% |
-| Edge Over Market | 10.5% |
-| Confidence | HIGH |
-| Notes | Facing elite SP; Strong value play; Favorite is travel-fatigued; Underdog is travel-fatigued |
-
----
+*Last updated: 2026-04-24 02:28 AM ET*
 
 ## Run Line (+1.5)
 
@@ -25,7 +8,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| SD @ COL | Matt Waldron vs Ryan Feltner | COL +1.5 | +100.0 | 69.1% | 19.1% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
+| CHC @ LAD | Jameson Taillon vs Emmet Sheehan | CHC +1.5 | -145.0 | 78.5% | 19.3% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued |
 
 ---
 
@@ -35,7 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| ATL @ WSH | JR Ritchie vs Cade Cavalli | 9.5 | UNDER | 63.0% | 13.1% | LOW | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
+| CHC @ LAD | Jameson Taillon vs Emmet Sheehan | 9.5 | UNDER | 69.2% | 19.2% | HIGH | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -45,7 +28,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAD @ SF | Tyler Glasnow vs Logan Webb | 4.1 | UNDER | 64.3% | 14.3% | LOW | Pitcher-friendly park favors UNDER; Strong value; Both teams travel-fatigued |
+| CHC @ LAD | Jameson Taillon vs Emmet Sheehan | 5.2 | UNDER | 64.3% | 14.3% | LOW | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -55,30 +38,32 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIN @ NYM | Joe Ryan vs Christian Scott | MIN | -110.0 | 57.5% | 5.1% | MEDIUM | Standard play |
-| LAD @ SF | Tyler Glasnow vs Logan Webb | LAD | -110.0 | 56.5% | 4.1% | MEDIUM | Standard play |
+| PHI @ ATL | Andrew Painter vs Grant Holmes | ATL | -110.0 | 64.2% | 11.8% | HIGH | Strong value |
+| COL @ NYM | Michael Lorenzen vs Freddy Peralta | NYM | -110.0 | 60.2% | 7.8% | HIGH | Standard play |
 
 ---
 
 ## Pitcher Strikeout Props
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (3)
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Cristopher Sánchez (PHI @ CHC) | UNDER 7.3 Ks | -110.0 | 82.7% | 32.7% | HIGH | Strong value |
-| Cam Schlittler (NYY @ BOS) | UNDER 6.5 Ks | -158.0 | 77.2% | 27.2% | HIGH | Strong value |
+| Gavin Williams (CLE @ TOR) | UNDER 5.5 Ks | -120.0 | 89.0% | 39.0% | HIGH | Strong value |
+| Taj Bradley (MIN @ TB) | UNDER 6.3 Ks | -110.0 | 84.4% | 34.4% | HIGH | Strong value |
+| Will Warren (NYY @ HOU) | UNDER 4.5 Ks | +110.0 | 71.5% | 21.6% | HIGH | Strong value |
 
 ---
 
 ## Batter Hits Props
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (3)
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Edgar Quero (CWS @ ARI) | OVER 0.5 hits | -182.0 | 78.6% | 28.6% | HIGH | Strong value |
-| Colt Keith (MIL @ DET) | UNDER 0.5 hits | +146.0 | 78.5% | 28.4% | HIGH | Strong value |
+| Ryan McMahon (NYY @ HOU) | OVER 0.5 hits | -115.0 | 85.6% | 35.6% | HIGH | Strong value |
+| Kyle Manzardo (CLE @ TOR) | OVER 0.5 hits | -137.0 | 82.9% | 32.9% | HIGH | Strong value |
+| Dominic Smith (PHI @ ATL) | UNDER 0.5 hits | +132.0 | 81.9% | 31.9% | HIGH | Strong value |
 
 ---
 
