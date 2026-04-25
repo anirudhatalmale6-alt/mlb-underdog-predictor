@@ -1,6 +1,23 @@
-# MLB Picks - Friday, April 24, 2026
+# MLB Picks - Saturday, April 25, 2026
 
-*Last updated: 2026-04-24 03:49 PM ET*
+*Last updated: 2026-04-25 03:10 PM ET*
+
+## Moneyline Underdogs
+
+### RECOMMENDED PLAYS (1)
+
+#### STL (+125.0)
+
+| Stat | Value |
+|------|-------|
+| Matchup | SEA @ STL |
+| Starting Pitchers | Bryan Woo vs Matthew Liberatore |
+| Model Win Probability | 58.5% |
+| Edge Over Market | 14.1% |
+| Confidence | HIGH |
+| Notes | Facing elite SP; Strong value play; Home underdog |
+
+---
 
 ## Run Line (+1.5)
 
@@ -8,7 +25,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| SEA @ STL | George Kirby vs Andre Pallante | STL +1.5 | +118.0 | 69.8% | 23.9% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
+| SEA @ STL | Bryan Woo vs Matthew Liberatore | STL +1.5 | +115.0 | 73.5% | 27.0% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Home underdog |
 
 ---
 
@@ -18,7 +35,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CHC @ LAD | Jameson Taillon vs Emmet Sheehan | 9.0 | UNDER | 69.2% | 19.2% | HIGH | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
+| CHC @ LAD | Colin Rea vs Roki Sasaki | 9.5 | UNDER | 66.2% | 16.2% | MEDIUM | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -28,7 +45,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CHC @ LAD | Jameson Taillon vs Emmet Sheehan | 5.0 | UNDER | 64.3% | 14.3% | LOW | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
+| CHC @ LAD | Colin Rea vs Roki Sasaki | 5.2 | UNDER | 63.5% | 13.5% | LOW | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -38,8 +55,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| PHI @ ATL | Andrew Painter vs Grant Holmes | ATL | -110.0 | 64.2% | 11.8% | HIGH | Strong value |
-| COL @ NYM | Michael Lorenzen vs Freddy Peralta | NYM | -110.0 | 60.2% | 7.8% | HIGH | Standard play |
+| BOS @ BAL | Garrett Crochet vs Trevor Rogers | BAL | -110.0 | 62.7% | 10.3% | HIGH | Strong value |
+| PHI @ ATL | Zack Wheeler vs Bryce Elder | PHI | -110.0 | 58.4% | 6.0% | HIGH | Elite pitching matchup |
 
 ---
 
@@ -49,9 +66,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Gavin Williams (CLE @ TOR) | UNDER 5.5 Ks | -130.0 | 89.0% | 39.0% | HIGH | Strong value |
-| Taj Bradley (MIN @ TB) | UNDER 5.5 Ks | -159.0 | 84.4% | 34.4% | HIGH | Strong value |
-| Will Warren (NYY @ HOU) | UNDER 5.5 Ks | -152.0 | 71.5% | 21.6% | HIGH | Strong value |
+| Joey Cantillo (CLE @ TOR) | UNDER 4.5 Ks | -113.0 | 87.6% | 37.6% | HIGH | Facing low-K team; Strong value |
+| Zack Wheeler (PHI @ ATL) | UNDER 5.5 Ks | -130.0 | 78.5% | 28.5% | HIGH | Strong value |
+| Robbie Ray (MIA @ SF) | UNDER 5.5 Ks | +115.0 | 73.7% | 23.7% | HIGH | Strong value |
 
 ---
 
@@ -61,9 +78,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Ryan McMahon (NYY @ HOU) | OVER 0.5 hits | -102.0 | 85.6% | 35.6% | HIGH | Strong value |
-| Leo Rivas (SEA @ STL) | OVER 0.5 hits | -137.0 | 85.0% | 35.0% | HIGH | Strong value |
-| Kyle Manzardo (CLE @ TOR) | OVER 0.5 hits | -146.0 | 82.9% | 32.9% | HIGH | Strong value |
+| Ryan McMahon (NYY @ HOU) | OVER 0.5 hits | -137.0 | 87.1% | 37.1% | HIGH | Strong value |
+| Leo Rivas (SEA @ STL) | OVER 0.5 hits | -122.0 | 86.0% | 36.0% | HIGH | Strong value |
+| Shay Whitcomb (NYY @ HOU) | OVER 0.5 hits | -128.0 | 84.7% | 34.7% | HIGH | Strong value |
 
 ---
 
