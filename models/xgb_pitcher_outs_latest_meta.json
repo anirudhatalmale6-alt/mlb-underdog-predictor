@@ -1,0 +1,19 @@
+{
+  "model_name": "xgb_pitcher_outs",
+  "features": [
+    "outs_per_start_avg",
+    "outs_per_start_std",
+    "ip_per_start",
+    "pitches_per_start",
+    "pitches_per_ip",
+    "k_rate",
+    "bb_rate",
+    "hits_per_9",
+    "recent_outs_trend",
+    "era",
+    "whip",
+    "is_home"
+  ],
+  "trained_on": "2026-04-26 14:44:16.582332",
+  "accuracy": 0.5522
+}

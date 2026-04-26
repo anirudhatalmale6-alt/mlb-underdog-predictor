@@ -206,7 +206,7 @@ def fetch_mlb_event_markets(event_ids: list[str]) -> dict:
     if not ODDS_API_KEY:
         return {}
 
-    ALL_MARKETS = "pitcher_strikeouts,batter_hits,h2h_1st_1_innings,totals_1st_1_innings"
+    ALL_MARKETS = "pitcher_strikeouts,pitcher_outs,batter_hits,h2h_1st_1_innings,totals_1st_1_innings"
     remaining = "?"
     results = {}
     for eid in event_ids:
@@ -230,6 +230,7 @@ def fetch_mlb_event_markets(event_ids: list[str]) -> dict:
             away_team = data.get("away_team", "")
 
             pitcher_k_props = []
+            pitcher_outs_props = []
             batter_hits_props = []
             ml_home_odds = []
             ml_away_odds = []
@@ -244,6 +245,16 @@ def fetch_mlb_event_markets(event_ids: list[str]) -> dict:
                     if key == "pitcher_strikeouts":
                         for outcome in market.get("outcomes", []):
                             pitcher_k_props.append({
+                                "player": outcome.get("description", ""),
+                                "direction": outcome.get("name", ""),
+                                "line": outcome.get("point", 0),
+                                "odds": outcome.get("price", 0),
+                                "bookmaker": bookmaker.get("key", ""),
+                            })
+
+                    elif key == "pitcher_outs":
+                        for outcome in market.get("outcomes", []):
+                            pitcher_outs_props.append({
                                 "player": outcome.get("description", ""),
                                 "direction": outcome.get("name", ""),
                                 "line": outcome.get("point", 0),
@@ -278,6 +289,7 @@ def fetch_mlb_event_markets(event_ids: list[str]) -> dict:
 
             event_data = {
                 "pitcher_k": _aggregate_props(pitcher_k_props),
+                "pitcher_outs": _aggregate_props(pitcher_outs_props),
                 "batter_hits": _aggregate_props(batter_hits_props),
             }
 
@@ -321,7 +333,7 @@ def fetch_mlb_player_props(event_ids: list[str]) -> dict:
     all_markets = fetch_mlb_event_markets(event_ids)
     # Strip out 1st inning data, keep only props
     return {
-        eid: {"pitcher_k": data.get("pitcher_k", []), "batter_hits": data.get("batter_hits", [])}
+        eid: {"pitcher_k": data.get("pitcher_k", []), "pitcher_outs": data.get("pitcher_outs", []), "batter_hits": data.get("batter_hits", [])}
         for eid, data in all_markets.items()
     }
 

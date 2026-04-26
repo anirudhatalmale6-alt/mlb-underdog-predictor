@@ -21,10 +21,10 @@ from src.ingest.mlb_statsapi import (
 )
 from src.ingest.odds_api import fetch_mlb_odds, fetch_mlb_event_markets
 from src.features.builder import build_feature_vector
-from src.features.props import build_pitcher_k_features, build_batter_hits_features
+from src.features.props import build_pitcher_k_features, build_batter_hits_features, build_pitcher_outs_features
 from src.model.predict import generate_predictions, generate_run_line_predictions
 from src.model.totals import predict_full_game_totals, predict_f5_totals
-from src.model.props import predict_pitcher_k_props, predict_batter_hits_props
+from src.model.props import predict_pitcher_k_props, predict_batter_hits_props, predict_pitcher_outs_props
 from src.model.first_inning import predict_first_inning_ml, predict_first_inning_total
 from src.features.first_inning import FIRST_INNING_FEATURES
 from src.features.fatigue import compute_fatigue_features
@@ -104,6 +104,7 @@ def run_daily_pipeline(target_date: date = None) -> dict:
         "i1_ml": [],
         "i1_total": [],
         "pitcher_k": pd.DataFrame(),
+        "pitcher_outs": pd.DataFrame(),
         "batter_hits": pd.DataFrame(),
     }
 
@@ -185,12 +186,18 @@ def run_daily_pipeline(target_date: date = None) -> dict:
     # ── Player Props (using pre-fetched data) ──
     try:
         props_by_event = {
-            eid: {"pitcher_k": d.get("pitcher_k", []), "batter_hits": d.get("batter_hits", [])}
+            eid: {
+                "pitcher_k": d.get("pitcher_k", []),
+                "pitcher_outs": d.get("pitcher_outs", []),
+                "batter_hits": d.get("batter_hits", []),
+            }
             for eid, d in all_event_markets.items()
         }
         props_data = _build_props_features(schedule, matched_games, season, props_by_event)
         if props_data.get("pitcher_k"):
             results["pitcher_k"] = predict_pitcher_k_props(props_data["pitcher_k"])
+        if props_data.get("pitcher_outs"):
+            results["pitcher_outs"] = predict_pitcher_outs_props(props_data["pitcher_outs"])
         if props_data.get("batter_hits"):
             results["batter_hits"] = predict_batter_hits_props(props_data["batter_hits"])
     except Exception as e:
@@ -236,6 +243,7 @@ def _empty_results():
         "i1_ml": [],
         "i1_total": [],
         "pitcher_k": pd.DataFrame(),
+        "pitcher_outs": pd.DataFrame(),
         "batter_hits": pd.DataFrame(),
     }
 
@@ -497,9 +505,10 @@ def _build_props_features(schedule: list, matched_games: list, season: int, prop
     Uses pre-fetched props_by_event if provided, otherwise returns empty.
     """
     if not props_by_event:
-        return {"pitcher_k": [], "batter_hits": []}
+        return {"pitcher_k": [], "pitcher_outs": [], "batter_hits": []}
 
     pitcher_k_features = []
+    pitcher_outs_features = []
     batter_hits_features = []
 
     for game in matched_games:
@@ -510,7 +519,7 @@ def _build_props_features(schedule: list, matched_games: list, season: int, prop
 
         props = props_by_event.get(eid, {})
 
-        # ── Pitcher K props ──
+        # ── Pitcher K + Outs props ──
         for sp_side, opp_side in [("home", "away"), ("away", "home")]:
             sp_id = game.get(f"{sp_side}_sp_id")
             sp_name = game.get(f"{sp_side}_sp_name", "TBD")
@@ -530,55 +539,82 @@ def _build_props_features(schedule: list, matched_games: list, season: int, prop
 
             opp_k_rate = get_team_strikeout_rate(opp_team_id, season) if opp_team_id else 0.22
 
-            features = build_pitcher_k_features(
-                pitcher_log, len(pitcher_log),  # Use all data (no look-ahead since it's live)
+            # K features
+            k_features = build_pitcher_k_features(
+                pitcher_log, len(pitcher_log),
                 opp_k_rate=opp_k_rate,
                 is_home=(sp_side == "home"),
                 min_starts=5,
             )
-            if features is None:
-                continue
+            if k_features is not None:
+                k_line = 0
+                k_over_odds = -110
+                k_under_odds = -110
+                for prop in props.get("pitcher_k", []):
+                    if _name_match(prop["player"], sp_name):
+                        k_line = prop["line"]
+                        k_over_odds = prop["over_odds"]
+                        k_under_odds = prop["under_odds"]
+                        break
 
-            # Find matching prop line
-            k_line = 0
-            k_over_odds = -110
-            k_under_odds = -110
-            for prop in props.get("pitcher_k", []):
-                if _name_match(prop["player"], sp_name):
-                    k_line = prop["line"]
-                    k_over_odds = prop["over_odds"]
-                    k_under_odds = prop["under_odds"]
-                    break
+                if k_line == 0:
+                    k_line = round(k_features.get("k_per_start_avg", 5.5) - 0.5, 1)
 
-            if k_line == 0:
-                # Use model estimate as proxy
-                k_line = round(features.get("k_per_start_avg", 5.5) - 0.5, 1)
+                k_features.update({
+                    "game_date": game_date,
+                    "home_team": home,
+                    "away_team": away,
+                    "pitcher_name": sp_name,
+                    "pitcher_id": sp_id,
+                    "k_line": k_line,
+                    "k_over_odds": k_over_odds,
+                    "k_under_odds": k_under_odds,
+                })
+                pitcher_k_features.append(k_features)
 
-            features.update({
-                "game_date": game_date,
-                "home_team": home,
-                "away_team": away,
-                "pitcher_name": sp_name,
-                "pitcher_id": sp_id,
-                "k_line": k_line,
-                "k_over_odds": k_over_odds,
-                "k_under_odds": k_under_odds,
-            })
-            pitcher_k_features.append(features)
+            # Outs recorded features (reuses same pitcher_log)
+            outs_features = build_pitcher_outs_features(
+                pitcher_log, len(pitcher_log),
+                is_home=(sp_side == "home"),
+                min_starts=5,
+            )
+            if outs_features is not None:
+                outs_line = 0
+                outs_over_odds = -110
+                outs_under_odds = -110
+                for prop in props.get("pitcher_outs", []):
+                    if _name_match(prop["player"], sp_name):
+                        outs_line = prop["line"]
+                        outs_over_odds = prop["over_odds"]
+                        outs_under_odds = prop["under_odds"]
+                        break
+
+                if outs_line == 0:
+                    outs_line = round(outs_features.get("outs_per_start_avg", 15) - 0.5, 1)
+
+                outs_features.update({
+                    "game_date": game_date,
+                    "home_team": home,
+                    "away_team": away,
+                    "pitcher_name": sp_name,
+                    "pitcher_id": sp_id,
+                    "outs_line": outs_line,
+                    "outs_over_odds": outs_over_odds,
+                    "outs_under_odds": outs_under_odds,
+                })
+                pitcher_outs_features.append(outs_features)
 
         # ── Batter Hits props ──
         for prop in props.get("batter_hits", []):
             player_name = prop["player"]
-            # Build features for this batter
-            # We need to find the batter's ID - search through roster
             batter_features = _build_batter_features_from_prop(
                 player_name, prop, game, season
             )
             if batter_features:
                 batter_hits_features.append(batter_features)
 
-    log.info(f"  Props: {len(pitcher_k_features)} pitcher K, {len(batter_hits_features)} batter hits")
-    return {"pitcher_k": pitcher_k_features, "batter_hits": batter_hits_features}
+    log.info(f"  Props: {len(pitcher_k_features)} pitcher K, {len(pitcher_outs_features)} pitcher outs, {len(batter_hits_features)} batter hits")
+    return {"pitcher_k": pitcher_k_features, "pitcher_outs": pitcher_outs_features, "batter_hits": batter_hits_features}
 
 
 def _build_batter_features_from_prop(player_name: str, prop: dict, game: dict, season: int) -> dict:

@@ -65,6 +65,7 @@ def generate_picks_page(target_date: date = None):
     fg_picks = [p for p in picks if p.get("bet_type") == "FULL GAME TOTAL" and p.get("recommended")]
     f5_picks = [p for p in picks if p.get("bet_type") == "F5 TOTAL" and p.get("recommended")]
     pk_picks = [p for p in picks if p.get("bet_type") == "PITCHER K" and p.get("recommended")]
+    po_picks = [p for p in picks if p.get("bet_type") == "PITCHER OUTS" and p.get("recommended")]
     bh_picks = [p for p in picks if p.get("bet_type") == "BATTER HITS" and p.get("recommended")]
     rl_picks = [p for p in picks if p.get("bet_type") == "RUN LINE" and p.get("recommended")]
     i1_ml_picks = [p for p in picks if p.get("bet_type") == "1ST INN ML" and p.get("recommended")]
@@ -103,10 +104,13 @@ def generate_picks_page(target_date: date = None):
     if pk_picks:
         _render_props_section(lines, pk_picks, "Pitcher Strikeout Props")
 
+    if po_picks:
+        _render_props_section(lines, po_picks, "Pitcher Outs Recorded Props")
+
     if bh_picks:
         _render_props_section(lines, bh_picks, "Batter Hits Props")
 
-    if not ml_picks and not rl_picks and not fg_picks and not f5_picks and not pk_picks and not bh_picks and not i1_ml_picks and not i1_total_picks:
+    if not ml_picks and not rl_picks and not fg_picks and not f5_picks and not pk_picks and not po_picks and not bh_picks and not i1_ml_picks and not i1_total_picks:
         lines.append("## No Recommended Plays Today")
         lines.append("")
         lines.append("Games are on the schedule but no picks met the model's edge threshold today.")
@@ -150,8 +154,8 @@ def generate_picks_page(target_date: date = None):
     with open(output_path, "w") as f:
         f.write("\n".join(lines))
 
-    total = len(ml_picks) + len(rl_picks) + len(fg_picks) + len(f5_picks) + len(i1_ml_picks) + len(i1_total_picks) + len(pk_picks) + len(bh_picks)
-    print(f"Wrote {total} picks ({len(ml_picks)} ML, {len(rl_picks)} RL, {len(fg_picks)} FG, {len(f5_picks)} F5, {len(i1_ml_picks)} 1st ML, {len(i1_total_picks)} 1st Total, {len(pk_picks)} K props, {len(bh_picks)} hits props) to {output_path}")
+    total = len(ml_picks) + len(rl_picks) + len(fg_picks) + len(f5_picks) + len(i1_ml_picks) + len(i1_total_picks) + len(pk_picks) + len(po_picks) + len(bh_picks)
+    print(f"Wrote {total} picks ({len(ml_picks)} ML, {len(rl_picks)} RL, {len(fg_picks)} FG, {len(f5_picks)} F5, {len(i1_ml_picks)} 1st ML, {len(i1_total_picks)} 1st Total, {len(pk_picks)} K props, {len(po_picks)} outs props, {len(bh_picks)} hits props) to {output_path}")
 
 
 def _render_moneyline_section(lines: list, picks: list):

@@ -26,8 +26,8 @@ from src.ingest.props_collect import (
     get_batter_game_log, get_team_strikeout_rate,
 )
 from src.features.props import (
-    PITCHER_K_FEATURES, BATTER_HITS_FEATURES,
-    build_pitcher_k_features, build_batter_hits_features,
+    PITCHER_K_FEATURES, BATTER_HITS_FEATURES, PITCHER_OUTS_FEATURES,
+    build_pitcher_k_features, build_batter_hits_features, build_pitcher_outs_features,
 )
 from src.utils.logging import get_logger
 
@@ -98,6 +98,67 @@ def collect_pitcher_k_dataset(seasons: list[int]) -> pd.DataFrame:
 
     df = pd.DataFrame(all_rows)
     log.info(f"Total pitcher K samples: {len(df)}")
+    return df
+
+
+def collect_pitcher_outs_dataset(seasons: list[int]) -> pd.DataFrame:
+    """Collect pitcher outs recorded dataset across multiple seasons."""
+    all_rows = []
+
+    def ip_to_outs(ip: float) -> int:
+        full = int(ip)
+        partial = ip - full
+        return full * 3 + round(partial * 10)
+
+    for season in seasons:
+        log.info(f"Collecting pitcher outs data for {season}...")
+        games = get_season_starters(season)
+
+        pitcher_games = {}
+        for g in games:
+            for side in ["home", "away"]:
+                sp_id = g.get(f"{side}_sp_id")
+                if sp_id:
+                    pitcher_games.setdefault(sp_id, []).append(g)
+
+        pitcher_ids = [pid for pid, gs in pitcher_games.items() if len(gs) >= 8]
+        log.info(f"  {len(pitcher_ids)} qualified pitchers (8+ starts)")
+
+        for i, pid in enumerate(pitcher_ids):
+            if i % 50 == 0:
+                log.info(f"  Processing pitcher {i+1}/{len(pitcher_ids)}...")
+
+            game_log = get_pitcher_game_log(pid, season)
+            if len(game_log) < 6:
+                continue
+
+            for idx in range(5, len(game_log)):
+                game = game_log[idx]
+
+                features = build_pitcher_outs_features(
+                    game_log, idx,
+                    is_home=game.get("is_home", False),
+                    min_starts=5,
+                )
+                if features is None:
+                    continue
+
+                actual_outs = ip_to_outs(game["ip"])
+                prior_ips = [g["ip"] for g in game_log[:idx]]
+                prior_outs = [ip_to_outs(ip) for ip in prior_ips]
+                proxy_line = np.mean(prior_outs[-10:])
+
+                features["actual_outs"] = actual_outs
+                features["proxy_line"] = round(proxy_line, 1)
+                features["went_over"] = 1 if actual_outs > proxy_line else 0
+                features["season"] = season
+                features["pitcher_id"] = pid
+                features["game_date"] = game["date"]
+
+                all_rows.append(features)
+
+    df = pd.DataFrame(all_rows)
+    log.info(f"Total pitcher outs samples: {len(df)}")
     return df
 
 
@@ -287,6 +348,20 @@ def main():
         log.error("No pitcher K data collected")
         k_results = None
 
+    # ── Pitcher Outs Recorded ──
+    log.info("\n--- PITCHER OUTS RECORDED ---")
+    o_df = collect_pitcher_outs_dataset(SEASONS)
+
+    if not o_df.empty:
+        o_results = walk_forward_train(
+            o_df, PITCHER_OUTS_FEATURES, "went_over",
+            "xgb_pitcher_outs", TEST_SEASONS,
+        )
+        log.info(f"Pitcher Outs model: {o_results['accuracy']:.1%} accuracy")
+    else:
+        log.error("No pitcher outs data collected")
+        o_results = None
+
     # ── Batter Hits ──
     log.info("\n--- BATTER HITS ---")
     h_df = collect_batter_hits_dataset(SEASONS)
@@ -307,12 +382,15 @@ def main():
     log.info("=" * 60)
     if k_results:
         log.info(f"  Pitcher Strikeouts: {k_results['accuracy']:.1%} ({k_results['total_samples']} samples)")
+    if o_results:
+        log.info(f"  Pitcher Outs:       {o_results['accuracy']:.1%} ({o_results['total_samples']} samples)")
     if h_results:
         log.info(f"  Batter Hits:        {h_results['accuracy']:.1%} ({h_results['total_samples']} samples)")
 
     # Save metrics
     metrics = {
         "pitcher_k": k_results,
+        "pitcher_outs": o_results,
         "batter_hits": h_results,
     }
     with open(OUTPUT_DIR / "backtest_props_metrics.json", "w") as f:

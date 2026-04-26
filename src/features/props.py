@@ -155,3 +155,83 @@ def build_batter_hits_features(
         "k_rate": sum(ks) / max(total_ab, 1),
         "bb_rate": sum(bbs) / max(total_ab + sum(bbs), 1),
     }
+
+
+# ── Pitcher Outs Recorded Features ────────────────────────────────────
+
+PITCHER_OUTS_FEATURES = [
+    "outs_per_start_avg",     # Rolling avg outs per start
+    "outs_per_start_std",     # Consistency
+    "ip_per_start",           # Average innings per start
+    "pitches_per_start",      # Pitch count tendency (more pitches = deeper into game)
+    "pitches_per_ip",         # Efficiency (fewer pitches per IP = goes deeper)
+    "k_rate",                 # K/BF rate (efficient outs)
+    "bb_rate",                # Walk rate (inefficient = shorter outings)
+    "hits_per_9",             # Hits allowed rate (traffic = shorter outings)
+    "recent_outs_trend",      # Last 3 starts vs season avg
+    "era",                    # ERA (quality proxy)
+    "whip",                   # WHIP (baserunners = shorter outings)
+    "is_home",                # Home pitchers tend to go slightly deeper
+]
+
+
+def build_pitcher_outs_features(
+    pitcher_log: list[dict],
+    game_index: int,
+    is_home: bool = False,
+    min_starts: int = 5,
+) -> Optional[dict]:
+    """
+    Build features for pitcher outs recorded prediction.
+    Outs recorded = IP converted to outs (e.g., 6.0 IP = 18 outs, 5.2 IP = 17 outs).
+    Uses only data BEFORE game_index (no look-ahead).
+    """
+    prior_starts = pitcher_log[:game_index]
+    if len(prior_starts) < min_starts:
+        return None
+
+    def ip_to_outs(ip: float) -> int:
+        full = int(ip)
+        partial = ip - full
+        return full * 3 + round(partial * 10)
+
+    ips = [g["ip"] for g in prior_starts]
+    outs = [ip_to_outs(ip) for ip in ips]
+    pitches = [g["pitches"] for g in prior_starts]
+    ks = [g["strikeouts"] for g in prior_starts]
+    bfs = [g["batters_faced"] for g in prior_starts]
+    walks = [g["walks"] for g in prior_starts]
+    hits = [g["hits"] for g in prior_starts]
+    ers = [g["earned_runs"] for g in prior_starts]
+
+    total_ip = sum(ips)
+    total_bf = sum(bfs)
+    total_k = sum(ks)
+    total_walks = sum(walks)
+    total_hits = sum(hits)
+
+    era = (sum(ers) / max(total_ip, 1)) * 9
+    whip = (total_walks + total_hits) / max(total_ip, 1)
+    k_rate = total_k / max(total_bf, 1)
+    bb_rate = total_walks / max(total_bf, 1)
+    hits_per_9 = (total_hits / max(total_ip, 1)) * 9
+    pitches_per_ip = sum(pitches) / max(total_ip, 1)
+
+    recent_3 = outs[-3:] if len(outs) >= 3 else outs
+    recent_outs_avg = np.mean(recent_3)
+    season_outs_avg = np.mean(outs)
+
+    return {
+        "outs_per_start_avg": season_outs_avg,
+        "outs_per_start_std": np.std(outs) if len(outs) > 1 else 3.0,
+        "ip_per_start": np.mean(ips),
+        "pitches_per_start": np.mean(pitches),
+        "pitches_per_ip": pitches_per_ip,
+        "k_rate": k_rate,
+        "bb_rate": bb_rate,
+        "hits_per_9": hits_per_9,
+        "recent_outs_trend": recent_outs_avg - season_outs_avg,
+        "era": era,
+        "whip": whip,
+        "is_home": 1 if is_home else 0,
+    }
