@@ -123,16 +123,16 @@
     "home_sp_name":"Chris Sale",
     "away_sp_name":"Aaron Nola",
     "underdog_odds":155.0,
-    "market_implied_prob":0.5745,
+    "market_implied_prob":0.5763,
     "model_win_prob":null,
-    "edge":0.0231,
-    "edge_pct":"2.3%",
-    "kelly_fraction":0.0542,
+    "edge":0.0213,
+    "edge_pct":"2.1%",
+    "kelly_fraction":0.0502,
     "confidence":"NO PLAY",
     "recommended":false,
     "notes":"Favorite is travel-fatigued",
     "pick":"PHI +1.5",
-    "odds":-135.0,
+    "odds":-136.0,
     "model_prob":0.5975,
     "line":null,
     "player_name":null
@@ -1581,7 +1581,7 @@
     "recommended":true,
     "notes":"Strong value",
     "pick":"OVER 3.5 Ks",
-    "odds":-113.0,
+    "odds":-112.0,
     "model_prob":0.8405,
     "line":"3.5",
     "player_name":"Simeon Woods Richardson"
@@ -1604,7 +1604,7 @@
     "recommended":true,
     "notes":"Strong value",
     "pick":"UNDER 5.5 Ks",
-    "odds":114.0,
+    "odds":-150.0,
     "model_prob":0.7777,
     "line":"5.5",
     "player_name":"Shota Imanaga"
@@ -1627,7 +1627,7 @@
     "recommended":true,
     "notes":"Strong value",
     "pick":"UNDER 3.5 Ks",
-    "odds":-115.0,
+    "odds":-119.0,
     "model_prob":0.7718,
     "line":"3.5",
     "player_name":"Michael King"
@@ -1650,7 +1650,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 3.5 Ks",
-    "odds":-157.0,
+    "odds":-160.0,
     "model_prob":0.7658,
     "line":"3.5",
     "player_name":"Rhett Lowder"
@@ -1673,7 +1673,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 5.5 Ks",
-    "odds":-160.0,
+    "odds":-159.0,
     "model_prob":0.7377,
     "line":"5.5",
     "player_name":"Aaron Nola"
@@ -1765,7 +1765,7 @@
     "recommended":false,
     "notes":"Facing high-K team; Strong value",
     "pick":"OVER 3.5 Ks",
-    "odds":-106.0,
+    "odds":-110.0,
     "model_prob":0.6715,
     "line":"3.5",
     "player_name":"Michael McGreevy"
@@ -1880,7 +1880,7 @@
     "recommended":false,
     "notes":"Low K average; Strong value",
     "pick":"UNDER 3.5 Ks",
-    "odds":-105.0,
+    "odds":-104.0,
     "model_prob":0.6398,
     "line":"3.5",
     "player_name":"Slade Cecconi"
@@ -2018,7 +2018,7 @@
     "recommended":false,
     "notes":"Facing high-K team",
     "pick":"OVER 3.5 Ks",
-    "odds":-136.0,
+    "odds":-138.0,
     "model_prob":0.5747,
     "line":"3.5",
     "player_name":"Justin Wrobleski"
@@ -2041,7 +2041,7 @@
     "recommended":false,
     "notes":"Facing high-K team",
     "pick":"OVER 4.5 Ks",
-    "odds":105.0,
+    "odds":120.0,
     "model_prob":0.5736,
     "line":"4.5",
     "player_name":"Keider Montero"
@@ -2110,7 +2110,7 @@
     "recommended":false,
     "notes":"Facing high-K team",
     "pick":"OVER 5.5 Ks",
-    "odds":-114.0,
+    "odds":-115.0,
     "model_prob":0.5335,
     "line":"5.5",
     "player_name":"Spencer Arrighetti"
@@ -2248,7 +2248,7 @@
     "recommended":true,
     "notes":"Strong value",
     "pick":"OVER 14.5 outs",
-    "odds":-115.0,
+    "odds":-114.0,
     "model_prob":0.9777,
     "line":"14.5",
     "player_name":"Ryne Nelson"
@@ -2316,10 +2316,10 @@
     "confidence":"HIGH",
     "recommended":false,
     "notes":"Strong value",
-    "pick":"OVER 17.5 outs",
-    "odds":-110.0,
+    "pick":"OVER 16.5 outs",
+    "odds":-124.0,
     "model_prob":0.8894,
-    "line":"17.5",
+    "line":"16.5",
     "player_name":"Kyle Bradish"
   },
   {
@@ -2455,7 +2455,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 15.5 outs",
-    "odds":100.0,
+    "odds":-105.0,
     "model_prob":0.6899,
     "line":"15.5",
     "player_name":"Justin Wrobleski"
@@ -2570,7 +2570,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 14.5 outs",
-    "odds":-135.0,
+    "odds":-120.0,
     "model_prob":0.6101,
     "line":"14.5",
     "player_name":"Michael King"
@@ -2616,7 +2616,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"OVER 14.5 outs",
-    "odds":-200.0,
+    "odds":-175.0,
     "model_prob":0.5913,
     "line":"14.5",
     "player_name":"Patrick Corbin"
@@ -2662,7 +2662,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"OVER 17.5 outs",
-    "odds":-106.0,
+    "odds":-110.0,
     "model_prob":0.577,
     "line":"17.5",
     "player_name":"Slade Cecconi"
@@ -2777,7 +2777,7 @@
     "recommended":false,
     "notes":"Efficient pitcher",
     "pick":"OVER 18.5 outs",
-    "odds":120.0,
+    "odds":116.0,
     "model_prob":0.5538,
     "line":"18.5",
     "player_name":"Chris Sale"
@@ -2892,7 +2892,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"OVER 16.5 outs",
-    "odds":-122.0,
+    "odds":-107.0,
     "model_prob":0.5005,
     "line":"16.5",
     "player_name":"Rhett Lowder"
@@ -2938,7 +2938,7 @@
     "recommended":true,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-112.0,
+    "odds":-103.0,
     "model_prob":0.8251,
     "line":"0.5",
     "player_name":"Hunter Feduccia"
@@ -3007,7 +3007,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 1.5 hits",
-    "odds":178.0,
+    "odds":182.0,
     "model_prob":0.8056,
     "line":"1.5",
     "player_name":"Jake Cronenworth"
@@ -3214,7 +3214,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 0.5 hits",
-    "odds":173.0,
+    "odds":175.0,
     "model_prob":0.7618,
     "line":"0.5",
     "player_name":"Matt Olson"
@@ -3306,7 +3306,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 0.5 hits",
-    "odds":-102.0,
+    "odds":-101.0,
     "model_prob":0.7555,
     "line":"0.5",
     "player_name":"Daniel Schneemann"
@@ -3444,7 +3444,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 0.5 hits",
-    "odds":166.0,
+    "odds":167.0,
     "model_prob":0.7465,
     "line":"0.5",
     "player_name":"Riley Greene"
@@ -3490,7 +3490,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-157.0,
+    "odds":-162.0,
     "model_prob":0.7461,
     "line":"0.5",
     "player_name":"Kyle Manzardo"
@@ -3513,7 +3513,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-130.0,
+    "odds":-127.0,
     "model_prob":0.7449,
     "line":"0.5",
     "player_name":"Matt Wallner"
@@ -3536,7 +3536,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 0.5 hits",
-    "odds":169.0,
+    "odds":171.0,
     "model_prob":0.7441,
     "line":"0.5",
     "player_name":"Nick Gonzales"
@@ -3582,7 +3582,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-147.0,
+    "odds":-143.0,
     "model_prob":0.7416,
     "line":"0.5",
     "player_name":"Jorge Mateo"
@@ -3697,7 +3697,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-155.0,
+    "odds":-152.0,
     "model_prob":0.7312,
     "line":"0.5",
     "player_name":"Cedric Mullins"
@@ -3720,7 +3720,7 @@
     "recommended":false,
     "notes":"Hot streak; Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-160.0,
+    "odds":-165.0,
     "model_prob":0.7294,
     "line":"0.5",
     "player_name":"David Fry"
@@ -3812,7 +3812,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 1.5 hits",
-    "odds":-250.0,
+    "odds":180.0,
     "model_prob":0.7179,
     "line":"1.5",
     "player_name":"Nolan Arenado"
@@ -3835,7 +3835,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 1.5 hits",
-    "odds":-222.0,
+    "odds":-227.0,
     "model_prob":0.7156,
     "line":"1.5",
     "player_name":"Nico Hoerner"
@@ -3858,7 +3858,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 0.5 hits",
-    "odds":188.0,
+    "odds":183.0,
     "model_prob":0.7145,
     "line":"0.5",
     "player_name":"Elly De La Cruz"
@@ -3973,7 +3973,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 1.5 hits",
-    "odds":-152.0,
+    "odds":-154.0,
     "model_prob":0.7107,
     "line":"1.5",
     "player_name":"Miguel Andujar"
@@ -4042,7 +4042,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 1.5 hits",
-    "odds":-238.0,
+    "odds":-240.0,
     "model_prob":0.7059,
     "line":"1.5",
     "player_name":"Junior Caminero"
@@ -4088,7 +4088,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 0.5 hits",
-    "odds":172.0,
+    "odds":175.0,
     "model_prob":0.7042,
     "line":"0.5",
     "player_name":"Ozzie Albies"
@@ -4157,7 +4157,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 1.5 hits",
-    "odds":109.0,
+    "odds":106.0,
     "model_prob":0.6973,
     "line":"1.5",
     "player_name":"Manny Machado"
@@ -4184,6 +4184,29 @@
     "model_prob":0.6968,
     "line":"0.5",
     "player_name":"Max Muncy"
+  },
+  {
+    "bet_type":"BATTER HITS",
+    "game_date":"2026-04-26",
+    "home_team":"ATL",
+    "away_team":"PHI",
+    "underdog_team":null,
+    "home_sp_name":null,
+    "away_sp_name":null,
+    "underdog_odds":null,
+    "market_implied_prob":null,
+    "model_win_prob":null,
+    "edge":0.1966,
+    "edge_pct":"19.7%",
+    "kelly_fraction":null,
+    "confidence":"HIGH",
+    "recommended":false,
+    "notes":"Strong value",
+    "pick":"OVER 0.5 hits",
+    "odds":-109.0,
+    "model_prob":0.6966,
+    "line":"0.5",
+    "player_name":"Dylan Moore"
   },
   {
     "bet_type":"BATTER HITS",
@@ -4226,7 +4249,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 1.5 hits",
-    "odds":-238.0,
+    "odds":-244.0,
     "model_prob":0.6918,
     "line":"1.5",
     "player_name":"Ernie Clement"
@@ -4318,7 +4341,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-123.0,
+    "odds":-125.0,
     "model_prob":0.6878,
     "line":"0.5",
     "player_name":"Taylor Walls"
@@ -4364,7 +4387,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 1.5 hits",
-    "odds":-200.0,
+    "odds":-196.0,
     "model_prob":0.6871,
     "line":"1.5",
     "player_name":"Ildemaro Vargas"
@@ -4387,7 +4410,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 1.5 hits",
-    "odds":-250.0,
+    "odds":-256.0,
     "model_prob":0.6851,
     "line":"1.5",
     "player_name":"Vladimir Guerrero Jr."
@@ -4479,7 +4502,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 1.5 hits",
-    "odds":-250.0,
+    "odds":-235.0,
     "model_prob":0.6809,
     "line":"1.5",
     "player_name":"Yandy Diaz"
@@ -4525,7 +4548,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 1.5 hits",
-    "odds":103.0,
+    "odds":100.0,
     "model_prob":0.6804,
     "line":"1.5",
     "player_name":"Jackson Merrill"
@@ -4571,7 +4594,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-182.0,
+    "odds":-160.0,
     "model_prob":0.6769,
     "line":"0.5",
     "player_name":"Dansby Swanson"
@@ -4640,7 +4663,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 1.5 hits",
-    "odds":-250.0,
+    "odds":-256.0,
     "model_prob":0.6748,
     "line":"1.5",
     "player_name":"Luis Arraez"
@@ -4740,29 +4763,6 @@
   {
     "bet_type":"BATTER HITS",
     "game_date":"2026-04-26",
-    "home_team":"MIL",
-    "away_team":"PIT",
-    "underdog_team":null,
-    "home_sp_name":null,
-    "away_sp_name":null,
-    "underdog_odds":null,
-    "market_implied_prob":null,
-    "model_win_prob":null,
-    "edge":0.1718,
-    "edge_pct":"17.2%",
-    "kelly_fraction":null,
-    "confidence":"HIGH",
-    "recommended":false,
-    "notes":"Strong value",
-    "pick":"OVER 0.5 hits",
-    "odds":-137.0,
-    "model_prob":0.6718,
-    "line":"0.5",
-    "player_name":"Joey Ortiz"
-  },
-  {
-    "bet_type":"BATTER HITS",
-    "game_date":"2026-04-26",
     "home_team":"CWS",
     "away_team":"WSH",
     "underdog_team":null,
@@ -4782,6 +4782,29 @@
     "model_prob":0.6718,
     "line":"0.5",
     "player_name":"Jose Tena"
+  },
+  {
+    "bet_type":"BATTER HITS",
+    "game_date":"2026-04-26",
+    "home_team":"MIL",
+    "away_team":"PIT",
+    "underdog_team":null,
+    "home_sp_name":null,
+    "away_sp_name":null,
+    "underdog_odds":null,
+    "market_implied_prob":null,
+    "model_win_prob":null,
+    "edge":0.1718,
+    "edge_pct":"17.2%",
+    "kelly_fraction":null,
+    "confidence":"HIGH",
+    "recommended":false,
+    "notes":"Strong value",
+    "pick":"OVER 0.5 hits",
+    "odds":-135.0,
+    "model_prob":0.6718,
+    "line":"0.5",
+    "player_name":"Joey Ortiz"
   },
   {
     "bet_type":"BATTER HITS",
@@ -4847,7 +4870,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-152.0,
+    "odds":-150.0,
     "model_prob":0.6636,
     "line":"0.5",
     "player_name":"Eli White"
@@ -4870,7 +4893,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 1.5 hits",
-    "odds":180.0,
+    "odds":220.0,
     "model_prob":0.6622,
     "line":"1.5",
     "player_name":"Ronald Acuna Jr."
@@ -4893,7 +4916,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-134.0,
+    "odds":-135.0,
     "model_prob":0.6605,
     "line":"0.5",
     "player_name":"Rafael Marchan"
@@ -5154,29 +5177,6 @@
   {
     "bet_type":"BATTER HITS",
     "game_date":"2026-04-26",
-    "home_team":"TOR",
-    "away_team":"CLE",
-    "underdog_team":null,
-    "home_sp_name":null,
-    "away_sp_name":null,
-    "underdog_odds":null,
-    "market_implied_prob":null,
-    "model_win_prob":null,
-    "edge":0.1458,
-    "edge_pct":"14.6%",
-    "kelly_fraction":null,
-    "confidence":"HIGH",
-    "recommended":false,
-    "notes":"Strong value",
-    "pick":"OVER 1.5 hits",
-    "odds":390.0,
-    "model_prob":0.6458,
-    "line":"1.5",
-    "player_name":"George Valera"
-  },
-  {
-    "bet_type":"BATTER HITS",
-    "game_date":"2026-04-26",
     "home_team":"SF",
     "away_team":"MIA",
     "underdog_team":null,
@@ -5215,7 +5215,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 1.5 hits",
-    "odds":-217.0,
+    "odds":-208.0,
     "model_prob":0.6438,
     "line":"1.5",
     "player_name":"Julio Rodriguez"
@@ -5261,7 +5261,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-165.0,
+    "odds":-162.0,
     "model_prob":0.6429,
     "line":"0.5",
     "player_name":"Trevor Larnach"
@@ -5307,7 +5307,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-210.0,
+    "odds":-200.0,
     "model_prob":0.6384,
     "line":"0.5",
     "player_name":"Alec Bohm"
@@ -5330,7 +5330,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-180.0,
+    "odds":-185.0,
     "model_prob":0.6376,
     "line":"0.5",
     "player_name":"Austin Riley"
@@ -5422,7 +5422,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-105.0,
+    "odds":-114.0,
     "model_prob":0.6353,
     "line":"0.5",
     "player_name":"Davis Schneider"
@@ -5445,7 +5445,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 0.5 hits",
-    "odds":130.0,
+    "odds":128.0,
     "model_prob":0.6342,
     "line":"0.5",
     "player_name":"Liam Hicks"
@@ -5514,33 +5514,10 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-222.0,
+    "odds":-220.0,
     "model_prob":0.6325,
     "line":"0.5",
     "player_name":"Shohei Ohtani"
-  },
-  {
-    "bet_type":"BATTER HITS",
-    "game_date":"2026-04-26",
-    "home_team":"SF",
-    "away_team":"MIA",
-    "underdog_team":null,
-    "home_sp_name":null,
-    "away_sp_name":null,
-    "underdog_odds":null,
-    "market_implied_prob":null,
-    "model_win_prob":null,
-    "edge":0.1324,
-    "edge_pct":"13.2%",
-    "kelly_fraction":null,
-    "confidence":"HIGH",
-    "recommended":false,
-    "notes":"Strong value",
-    "pick":"UNDER 0.5 hits",
-    "odds":166.0,
-    "model_prob":0.6324,
-    "line":"0.5",
-    "player_name":"Casey Schmitt"
   },
   {
     "bet_type":"BATTER HITS",
@@ -5568,6 +5545,29 @@
   {
     "bet_type":"BATTER HITS",
     "game_date":"2026-04-26",
+    "home_team":"SF",
+    "away_team":"MIA",
+    "underdog_team":null,
+    "home_sp_name":null,
+    "away_sp_name":null,
+    "underdog_odds":null,
+    "market_implied_prob":null,
+    "model_win_prob":null,
+    "edge":0.1324,
+    "edge_pct":"13.2%",
+    "kelly_fraction":null,
+    "confidence":"HIGH",
+    "recommended":false,
+    "notes":"Strong value",
+    "pick":"UNDER 0.5 hits",
+    "odds":166.0,
+    "model_prob":0.6324,
+    "line":"0.5",
+    "player_name":"Casey Schmitt"
+  },
+  {
+    "bet_type":"BATTER HITS",
+    "game_date":"2026-04-26",
     "home_team":"BAL",
     "away_team":"BOS",
     "underdog_team":null,
@@ -5583,7 +5583,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-137.0,
+    "odds":-134.0,
     "model_prob":0.6302,
     "line":"0.5",
     "player_name":"Weston Wilson"
@@ -5629,7 +5629,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 0.5 hits",
-    "odds":161.0,
+    "odds":163.0,
     "model_prob":0.6299,
     "line":"0.5",
     "player_name":"Angel Martinez"
@@ -5652,7 +5652,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 1.5 hits",
-    "odds":167.0,
+    "odds":160.0,
     "model_prob":0.6296,
     "line":"1.5",
     "player_name":"Trea Turner"
@@ -5698,7 +5698,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-107.0,
+    "odds":-109.0,
     "model_prob":0.6279,
     "line":"0.5",
     "player_name":"Owen Caissie"
@@ -5744,7 +5744,7 @@
     "recommended":false,
     "notes":"Cold streak; Strong value",
     "pick":"UNDER 0.5 hits",
-    "odds":162.0,
+    "odds":164.0,
     "model_prob":0.6234,
     "line":"0.5",
     "player_name":"Freddie Freeman"
@@ -5790,7 +5790,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 0.5 hits",
-    "odds":121.0,
+    "odds":120.0,
     "model_prob":0.6221,
     "line":"0.5",
     "player_name":"Brooks Lee"
@@ -5813,7 +5813,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-150.0,
+    "odds":-154.0,
     "model_prob":0.622,
     "line":"0.5",
     "player_name":"Adam Frazier"
@@ -5836,7 +5836,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-190.0,
+    "odds":-189.0,
     "model_prob":0.6194,
     "line":"0.5",
     "player_name":"Lenyn Sosa"
@@ -5859,7 +5859,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-200.0,
+    "odds":-196.0,
     "model_prob":0.6193,
     "line":"0.5",
     "player_name":"Jesus Sanchez"
@@ -6043,7 +6043,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-152.0,
+    "odds":-156.0,
     "model_prob":0.6112,
     "line":"0.5",
     "player_name":"Luisangel Acuna"
@@ -6135,7 +6135,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-182.0,
+    "odds":-186.0,
     "model_prob":0.608,
     "line":"0.5",
     "player_name":"Jose Altuve"
@@ -6158,7 +6158,7 @@
     "recommended":false,
     "notes":"Cold streak; Strong value",
     "pick":"UNDER 1.5 hits",
-    "odds":-169.0,
+    "odds":-162.0,
     "model_prob":0.6079,
     "line":"1.5",
     "player_name":"Corbin Carroll"
@@ -6181,10 +6181,33 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"OVER 0.5 hits",
-    "odds":-175.0,
+    "odds":-178.0,
     "model_prob":0.6073,
     "line":"0.5",
     "player_name":"Starling Marte"
+  },
+  {
+    "bet_type":"BATTER HITS",
+    "game_date":"2026-04-26",
+    "home_team":"SF",
+    "away_team":"MIA",
+    "underdog_team":null,
+    "home_sp_name":null,
+    "away_sp_name":null,
+    "underdog_odds":null,
+    "market_implied_prob":null,
+    "model_win_prob":null,
+    "edge":0.1045,
+    "edge_pct":"10.5%",
+    "kelly_fraction":null,
+    "confidence":"MEDIUM",
+    "recommended":false,
+    "notes":"Strong value",
+    "pick":"UNDER 0.5 hits",
+    "odds":149.0,
+    "model_prob":0.6045,
+    "line":"0.5",
+    "player_name":"Kyle Stowers"
   },
   {
     "bet_type":"BATTER HITS",
@@ -6208,29 +6231,6 @@
     "model_prob":0.6045,
     "line":"0.5",
     "player_name":"Cody Bellinger"
-  },
-  {
-    "bet_type":"BATTER HITS",
-    "game_date":"2026-04-26",
-    "home_team":"SF",
-    "away_team":"MIA",
-    "underdog_team":null,
-    "home_sp_name":null,
-    "away_sp_name":null,
-    "underdog_odds":null,
-    "market_implied_prob":null,
-    "model_win_prob":null,
-    "edge":0.1045,
-    "edge_pct":"10.5%",
-    "kelly_fraction":null,
-    "confidence":"MEDIUM",
-    "recommended":false,
-    "notes":"Strong value",
-    "pick":"UNDER 0.5 hits",
-    "odds":150.0,
-    "model_prob":0.6045,
-    "line":"0.5",
-    "player_name":"Kyle Stowers"
   },
   {
     "bet_type":"BATTER HITS",
@@ -6273,7 +6273,7 @@
     "recommended":false,
     "notes":"Strong value",
     "pick":"UNDER 0.5 hits",
-    "odds":122.0,
+    "odds":119.0,
     "model_prob":0.6032,
     "line":"0.5",
     "player_name":"Adolis Garcia"
@@ -6388,7 +6388,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"UNDER 0.5 hits",
-    "odds":130.0,
+    "odds":125.0,
     "model_prob":0.5915,
     "line":"0.5",
     "player_name":"Cole Young"
@@ -6526,7 +6526,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"OVER 0.5 hits",
-    "odds":-203.0,
+    "odds":-200.0,
     "model_prob":0.5836,
     "line":"0.5",
     "player_name":"Will Smith"
@@ -6549,7 +6549,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"OVER 0.5 hits",
-    "odds":-167.0,
+    "odds":-172.0,
     "model_prob":0.5817,
     "line":"0.5",
     "player_name":"Ben Williamson"
@@ -6595,7 +6595,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"UNDER 0.5 hits",
-    "odds":124.0,
+    "odds":127.0,
     "model_prob":0.5793,
     "line":"0.5",
     "player_name":"Brayan Rocchio"
@@ -6641,7 +6641,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"OVER 0.5 hits",
-    "odds":-150.0,
+    "odds":-140.0,
     "model_prob":0.5776,
     "line":"0.5",
     "player_name":"Edmundo Sosa"
@@ -6664,7 +6664,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"OVER 0.5 hits",
-    "odds":-166.0,
+    "odds":-165.0,
     "model_prob":0.5768,
     "line":"0.5",
     "player_name":"Kyle Tucker"
@@ -6825,7 +6825,7 @@
     "recommended":false,
     "notes":"Low BA",
     "pick":"UNDER 0.5 hits",
-    "odds":145.0,
+    "odds":150.0,
     "model_prob":0.5726,
     "line":"0.5",
     "player_name":"Nathaniel Lowe"
@@ -6879,29 +6879,6 @@
   {
     "bet_type":"BATTER HITS",
     "game_date":"2026-04-26",
-    "home_team":"HOU",
-    "away_team":"NYY",
-    "underdog_team":null,
-    "home_sp_name":null,
-    "away_sp_name":null,
-    "underdog_odds":null,
-    "market_implied_prob":null,
-    "model_win_prob":null,
-    "edge":0.0703,
-    "edge_pct":"7.0%",
-    "kelly_fraction":null,
-    "confidence":"NO PLAY",
-    "recommended":false,
-    "notes":"Hot streak",
-    "pick":"OVER 0.5 hits",
-    "odds":-160.0,
-    "model_prob":0.5703,
-    "line":"0.5",
-    "player_name":"Jazz Chisholm Jr."
-  },
-  {
-    "bet_type":"BATTER HITS",
-    "game_date":"2026-04-26",
     "home_team":"MIL",
     "away_team":"PIT",
     "underdog_team":null,
@@ -6921,6 +6898,29 @@
     "model_prob":0.5703,
     "line":"0.5",
     "player_name":"Nick Yorke"
+  },
+  {
+    "bet_type":"BATTER HITS",
+    "game_date":"2026-04-26",
+    "home_team":"HOU",
+    "away_team":"NYY",
+    "underdog_team":null,
+    "home_sp_name":null,
+    "away_sp_name":null,
+    "underdog_odds":null,
+    "market_implied_prob":null,
+    "model_win_prob":null,
+    "edge":0.0703,
+    "edge_pct":"7.0%",
+    "kelly_fraction":null,
+    "confidence":"NO PLAY",
+    "recommended":false,
+    "notes":"Hot streak",
+    "pick":"OVER 0.5 hits",
+    "odds":-160.0,
+    "model_prob":0.5703,
+    "line":"0.5",
+    "player_name":"Jazz Chisholm Jr."
   },
   {
     "bet_type":"BATTER HITS",
@@ -6963,7 +6963,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"OVER 0.5 hits",
-    "odds":-186.0,
+    "odds":-189.0,
     "model_prob":0.5663,
     "line":"0.5",
     "player_name":"Mauricio Dubon"
@@ -7009,7 +7009,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"UNDER 1.5 hits",
-    "odds":-157.0,
+    "odds":-154.0,
     "model_prob":0.5639,
     "line":"1.5",
     "player_name":"Ketel Marte"
@@ -7147,7 +7147,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"UNDER 0.5 hits",
-    "odds":132.0,
+    "odds":135.0,
     "model_prob":0.5585,
     "line":"0.5",
     "player_name":"Kazuma Okamoto"
@@ -7170,7 +7170,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"UNDER 0.5 hits",
-    "odds":150.0,
+    "odds":146.0,
     "model_prob":0.558,
     "line":"0.5",
     "player_name":"Bryce Harper"
@@ -7239,7 +7239,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"OVER 0.5 hits",
-    "odds":-233.0,
+    "odds":-235.0,
     "model_prob":0.557,
     "line":"0.5",
     "player_name":"Zach Neto"
@@ -7262,7 +7262,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"UNDER 0.5 hits",
-    "odds":156.0,
+    "odds":157.0,
     "model_prob":0.5565,
     "line":"0.5",
     "player_name":"Jo Adell"
@@ -7423,7 +7423,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"OVER 0.5 hits",
-    "odds":-132.0,
+    "odds":-130.0,
     "model_prob":0.5464,
     "line":"0.5",
     "player_name":"Brandon Lockridge"
@@ -7561,7 +7561,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"UNDER 0.5 hits",
-    "odds":177.0,
+    "odds":175.0,
     "model_prob":0.539,
     "line":"0.5",
     "player_name":"Maikel Garcia"
@@ -7584,7 +7584,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"OVER 0.5 hits",
-    "odds":-190.0,
+    "odds":-239.0,
     "model_prob":0.5376,
     "line":"0.5",
     "player_name":"Chase DeLauter"
@@ -7676,7 +7676,7 @@
     "recommended":false,
     "notes":"Low BA",
     "pick":"UNDER 0.5 hits",
-    "odds":113.0,
+    "odds":112.0,
     "model_prob":0.5333,
     "line":"0.5",
     "player_name":"Isaac Paredes"
@@ -7814,7 +7814,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"OVER 0.5 hits",
-    "odds":-213.0,
+    "odds":-215.0,
     "model_prob":0.5303,
     "line":"0.5",
     "player_name":"Brice Turang"
@@ -7860,7 +7860,7 @@
     "recommended":false,
     "notes":"Low BA",
     "pick":"UNDER 0.5 hits",
-    "odds":115.0,
+    "odds":116.0,
     "model_prob":0.5295,
     "line":"0.5",
     "player_name":"Konnor Griffin"
@@ -7883,7 +7883,7 @@
     "recommended":false,
     "notes":"Cold streak",
     "pick":"UNDER 0.5 hits",
-    "odds":127.0,
+    "odds":128.0,
     "model_prob":0.5278,
     "line":"0.5",
     "player_name":"Oneil Cruz"
@@ -7906,7 +7906,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"OVER 0.5 hits",
-    "odds":-123.0,
+    "odds":-122.0,
     "model_prob":0.5269,
     "line":"0.5",
     "player_name":"Garrett Mitchell"
@@ -7975,7 +7975,7 @@
     "recommended":false,
     "notes":"Low BA",
     "pick":"UNDER 0.5 hits",
-    "odds":136.0,
+    "odds":137.0,
     "model_prob":0.5246,
     "line":"0.5",
     "player_name":"Spencer Torkelson"
@@ -8021,7 +8021,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"OVER 0.5 hits",
-    "odds":-141.0,
+    "odds":-140.0,
     "model_prob":0.5232,
     "line":"0.5",
     "player_name":"JJ Bleday"
@@ -8113,7 +8113,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"UNDER 0.5 hits",
-    "odds":175.0,
+    "odds":177.0,
     "model_prob":0.5194,
     "line":"0.5",
     "player_name":"William Contreras"
@@ -8182,7 +8182,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"OVER 0.5 hits",
-    "odds":-169.0,
+    "odds":-172.0,
     "model_prob":0.5182,
     "line":"0.5",
     "player_name":"Ramon Urias"
@@ -8274,7 +8274,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"UNDER 0.5 hits",
-    "odds":146.0,
+    "odds":145.0,
     "model_prob":0.5079,
     "line":"0.5",
     "player_name":"Ian Happ"
@@ -8297,7 +8297,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"OVER 1.5 hits",
-    "odds":-102.0,
+    "odds":-103.0,
     "model_prob":0.5075,
     "line":"1.5",
     "player_name":"Fernando Tatis Jr."
@@ -8343,7 +8343,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"OVER 0.5 hits",
-    "odds":-125.0,
+    "odds":-120.0,
     "model_prob":0.5054,
     "line":"0.5",
     "player_name":"Kyle Schwarber"
@@ -8389,7 +8389,7 @@
     "recommended":false,
     "notes":"Low BA",
     "pick":"UNDER 0.5 hits",
-    "odds":132.0,
+    "odds":135.0,
     "model_prob":0.5033,
     "line":"0.5",
     "player_name":"Yainer Diaz"
@@ -8412,7 +8412,7 @@
     "recommended":false,
     "notes":"Standard play",
     "pick":"UNDER 0.5 hits",
-    "odds":137.0,
+    "odds":136.0,
     "model_prob":0.5014,
     "line":"0.5",
     "player_name":"Matt Shaw"

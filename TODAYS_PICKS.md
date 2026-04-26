@@ -1,6 +1,6 @@
 # MLB Picks - Sunday, April 26, 2026
 
-*Last updated: 2026-04-26 02:50 PM ET*
+*Last updated: 2026-04-26 03:11 PM ET*
 
 ## Full Game Over/Under
 
@@ -39,9 +39,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Simeon Woods Richardson (MIN @ TB) | OVER 3.5 Ks | -113.0 | 84.0% | 34.1% | HIGH | Strong value |
-| Shota Imanaga (CHC @ LAD) | UNDER 5.5 Ks | +114.0 | 77.8% | 27.8% | HIGH | Strong value |
-| Michael King (SD @ ARI) | UNDER 3.5 Ks | -115.0 | 77.2% | 27.2% | HIGH | Strong value |
+| Simeon Woods Richardson (MIN @ TB) | OVER 3.5 Ks | -112.0 | 84.0% | 34.1% | HIGH | Strong value |
+| Shota Imanaga (CHC @ LAD) | UNDER 5.5 Ks | -150.0 | 77.8% | 27.8% | HIGH | Strong value |
+| Michael King (SD @ ARI) | UNDER 3.5 Ks | -119.0 | 77.2% | 27.2% | HIGH | Strong value |
 
 ---
 
@@ -51,7 +51,7 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Ryne Nelson (SD @ ARI) | OVER 14.5 outs | -115.0 | 97.8% | 47.8% | HIGH | Strong value |
+| Ryne Nelson (SD @ ARI) | OVER 14.5 outs | -114.0 | 97.8% | 47.8% | HIGH | Strong value |
 | Kyle Harrison (PIT @ MIL) | OVER 14.5 outs | -165.0 | 94.6% | 44.6% | HIGH | Strong value |
 | Carmen Mlodzinski (PIT @ MIL) | OVER 15.5 outs | +115.0 | 92.6% | 42.6% | HIGH | Strong value |
 
@@ -64,7 +64,7 @@
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
 | Ben Rice (NYY @ HOU) | UNDER 0.5 hits | +150.0 | 85.8% | 35.8% | HIGH | Strong value |
-| Hunter Feduccia (MIN @ TB) | OVER 0.5 hits | -112.0 | 82.5% | 32.5% | HIGH | Strong value |
+| Hunter Feduccia (MIN @ TB) | OVER 0.5 hits | -103.0 | 82.5% | 32.5% | HIGH | Strong value |
 | Leo Rivas (SEA @ STL) | OVER 0.5 hits | -117.0 | 82.1% | 32.1% | HIGH | Strong value |
 
 ---
