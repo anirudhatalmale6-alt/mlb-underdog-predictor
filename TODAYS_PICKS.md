@@ -1,33 +1,6 @@
-# MLB Picks - Saturday, April 25, 2026
+# MLB Picks - Sunday, April 26, 2026
 
-*Last updated: 2026-04-25 03:10 PM ET*
-
-## Moneyline Underdogs
-
-### RECOMMENDED PLAYS (1)
-
-#### STL (+125.0)
-
-| Stat | Value |
-|------|-------|
-| Matchup | SEA @ STL |
-| Starting Pitchers | Bryan Woo vs Matthew Liberatore |
-| Model Win Probability | 58.5% |
-| Edge Over Market | 14.1% |
-| Confidence | HIGH |
-| Notes | Facing elite SP; Strong value play; Home underdog |
-
----
-
-## Run Line (+1.5)
-
-### RECOMMENDED PLAYS (1)
-
-| Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
-|---------|----------|------|------|------------|------|------------|-------|
-| SEA @ STL | Bryan Woo vs Matthew Liberatore | STL +1.5 | +115.0 | 73.5% | 27.0% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Home underdog |
-
----
+*Last updated: 2026-04-26 02:50 PM ET*
 
 ## Full Game Over/Under
 
@@ -35,7 +8,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CHC @ LAD | Colin Rea vs Roki Sasaki | 9.5 | UNDER | 66.2% | 16.2% | MEDIUM | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
+| CHC @ LAD | Shota Imanaga vs Justin Wrobleski | 9.0 | UNDER | 71.7% | 21.7% | HIGH | High-scoring teams, but line is inflated; Elite SP matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -45,7 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CHC @ LAD | Colin Rea vs Roki Sasaki | 5.2 | UNDER | 63.5% | 13.5% | LOW | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
+| CHC @ LAD | Shota Imanaga vs Justin Wrobleski | 5.0 | UNDER | 65.5% | 15.5% | MEDIUM | High-scoring teams, but line is inflated; Elite SP matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -55,8 +28,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| BOS @ BAL | Garrett Crochet vs Trevor Rogers | BAL | -110.0 | 62.7% | 10.3% | HIGH | Strong value |
-| PHI @ ATL | Zack Wheeler vs Bryce Elder | PHI | -110.0 | 58.4% | 6.0% | HIGH | Elite pitching matchup |
+| MIN @ TB | Simeon Woods Richardson vs Jesse Scholtens | TB | -110.0 | 63.0% | 10.7% | HIGH | Strong value |
+| PHI @ ATL | Aaron Nola vs Chris Sale | ATL | -110.0 | 62.5% | 10.2% | HIGH | Strong value |
 
 ---
 
@@ -66,9 +39,21 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Joey Cantillo (CLE @ TOR) | UNDER 4.5 Ks | -113.0 | 87.6% | 37.6% | HIGH | Facing low-K team; Strong value |
-| Zack Wheeler (PHI @ ATL) | UNDER 5.5 Ks | -130.0 | 78.5% | 28.5% | HIGH | Strong value |
-| Robbie Ray (MIA @ SF) | UNDER 5.5 Ks | +115.0 | 73.7% | 23.7% | HIGH | Strong value |
+| Simeon Woods Richardson (MIN @ TB) | OVER 3.5 Ks | -113.0 | 84.0% | 34.1% | HIGH | Strong value |
+| Shota Imanaga (CHC @ LAD) | UNDER 5.5 Ks | +114.0 | 77.8% | 27.8% | HIGH | Strong value |
+| Michael King (SD @ ARI) | UNDER 3.5 Ks | -115.0 | 77.2% | 27.2% | HIGH | Strong value |
+
+---
+
+## Pitcher Outs Recorded Props
+
+### RECOMMENDED PLAYS (3)
+
+| Player | Pick | Odds | Probability | Edge | Confidence | Notes |
+|--------|------|------|-------------|------|------------|-------|
+| Ryne Nelson (SD @ ARI) | OVER 14.5 outs | -115.0 | 97.8% | 47.8% | HIGH | Strong value |
+| Kyle Harrison (PIT @ MIL) | OVER 14.5 outs | -165.0 | 94.6% | 44.6% | HIGH | Strong value |
+| Carmen Mlodzinski (PIT @ MIL) | OVER 15.5 outs | +115.0 | 92.6% | 42.6% | HIGH | Strong value |
 
 ---
 
@@ -78,9 +63,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Ryan McMahon (NYY @ HOU) | OVER 0.5 hits | -137.0 | 87.1% | 37.1% | HIGH | Strong value |
-| Leo Rivas (SEA @ STL) | OVER 0.5 hits | -122.0 | 86.0% | 36.0% | HIGH | Strong value |
-| Shay Whitcomb (NYY @ HOU) | OVER 0.5 hits | -128.0 | 84.7% | 34.7% | HIGH | Strong value |
+| Ben Rice (NYY @ HOU) | UNDER 0.5 hits | +150.0 | 85.8% | 35.8% | HIGH | Strong value |
+| Hunter Feduccia (MIN @ TB) | OVER 0.5 hits | -112.0 | 82.5% | 32.5% | HIGH | Strong value |
+| Leo Rivas (SEA @ STL) | OVER 0.5 hits | -117.0 | 82.1% | 32.1% | HIGH | Strong value |
 
 ---
 
