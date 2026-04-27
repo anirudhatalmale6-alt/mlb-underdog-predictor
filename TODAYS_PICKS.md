@@ -1,6 +1,6 @@
-# MLB Picks - Sunday, April 26, 2026
+# MLB Picks - Monday, April 27, 2026
 
-*Last updated: 2026-04-26 03:11 PM ET*
+*Last updated: 2026-04-27 04:05 PM ET*
 
 ## Full Game Over/Under
 
@@ -8,7 +8,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CHC @ LAD | Shota Imanaga vs Justin Wrobleski | 9.0 | UNDER | 71.7% | 21.7% | HIGH | High-scoring teams, but line is inflated; Elite SP matchup; Strong value; Both teams travel-fatigued |
+| MIA @ LAD | Chris Paddack vs Yoshinobu Yamamoto | 8.5 | UNDER | 65.1% | 15.1% | MEDIUM | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CHC @ LAD | Shota Imanaga vs Justin Wrobleski | 5.0 | UNDER | 65.5% | 15.5% | MEDIUM | High-scoring teams, but line is inflated; Elite SP matchup; Strong value; Both teams travel-fatigued |
+| STL @ PIT | Dustin May vs Mason Montgomery | 4.4 | UNDER | 62.7% | 12.7% | LOW | Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -28,8 +28,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIN @ TB | Simeon Woods Richardson vs Jesse Scholtens | TB | -110.0 | 63.0% | 10.7% | HIGH | Strong value |
-| PHI @ ATL | Aaron Nola vs Chris Sale | ATL | -110.0 | 62.5% | 10.2% | HIGH | Strong value |
+| LAA @ CWS | Jack Kochanowicz vs Anthony Kay | LAA | -110.0 | 57.6% | 5.3% | MEDIUM | Standard play |
+| SEA @ MIN | Luis Castillo vs Connor Prielipp | MIN | -110.0 | 56.7% | 4.3% | MEDIUM | Standard play |
 
 ---
 
@@ -39,9 +39,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Simeon Woods Richardson (MIN @ TB) | OVER 3.5 Ks | -112.0 | 84.0% | 34.1% | HIGH | Strong value |
-| Shota Imanaga (CHC @ LAD) | UNDER 5.5 Ks | -150.0 | 77.8% | 27.8% | HIGH | Strong value |
-| Michael King (SD @ ARI) | UNDER 3.5 Ks | -119.0 | 77.2% | 27.2% | HIGH | Strong value |
+| Ranger Suarez (BOS @ TOR) | UNDER 3.5 Ks | +120.0 | 76.5% | 26.5% | HIGH | Low K average; Strong value |
+| Jack Kochanowicz (LAA @ CWS) | OVER 3.5 Ks | -120.0 | 74.6% | 24.6% | HIGH | Facing high-K team; Strong value |
+| Steven Matz (TB @ CLE) | UNDER 4.5 Ks | -172.0 | 73.7% | 23.7% | HIGH | Strong value |
 
 ---
 
@@ -51,9 +51,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Ryne Nelson (SD @ ARI) | OVER 14.5 outs | -114.0 | 97.8% | 47.8% | HIGH | Strong value |
-| Kyle Harrison (PIT @ MIL) | OVER 14.5 outs | -165.0 | 94.6% | 44.6% | HIGH | Strong value |
-| Carmen Mlodzinski (PIT @ MIL) | OVER 15.5 outs | +115.0 | 92.6% | 42.6% | HIGH | Strong value |
+| Max Fried (NYY @ TEX) | UNDER 18.5 outs | -150.0 | 87.9% | 37.9% | HIGH | Strong value |
+| Luis Castillo (SEA @ MIN) | OVER 15.5 outs | -122.0 | 86.1% | 36.0% | HIGH | Strong value |
+| Steven Matz (TB @ CLE) | OVER 15.5 outs | +135.0 | 82.5% | 32.5% | HIGH | Strong value |
 
 ---
 
@@ -63,9 +63,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Ben Rice (NYY @ HOU) | UNDER 0.5 hits | +150.0 | 85.8% | 35.8% | HIGH | Strong value |
-| Hunter Feduccia (MIN @ TB) | OVER 0.5 hits | -103.0 | 82.5% | 32.5% | HIGH | Strong value |
-| Leo Rivas (SEA @ STL) | OVER 0.5 hits | -117.0 | 82.1% | 32.1% | HIGH | Strong value |
+| Jake Cronenworth (CHC @ SD) | OVER 0.5 hits | +100.0 | 81.4% | 31.4% | HIGH | Strong value |
+| Moisés Ballesteros (CHC @ SD) | UNDER 0.5 hits | +122.0 | 79.8% | 29.8% | HIGH | Strong value |
+| Josh Smith (NYY @ TEX) | OVER 1.5 hits | +350.0 | 79.5% | 29.5% | HIGH | Strong value |
 
 ---
 
