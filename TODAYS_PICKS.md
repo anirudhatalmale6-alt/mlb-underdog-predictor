@@ -1,6 +1,16 @@
-# MLB Picks - Monday, April 27, 2026
+# MLB Picks - Tuesday, April 28, 2026
 
-*Last updated: 2026-04-27 04:05 PM ET*
+*Last updated: 2026-04-28 04:15 PM ET*
+
+## Run Line (+1.5)
+
+### RECOMMENDED PLAYS (1)
+
+| Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
+|---------|----------|------|------|------------|------|------------|-------|
+| MIA @ LAD | Janson Junk vs Shohei Ohtani | MIA +1.5 | +110.0 | 64.4% | 16.8% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued |
+
+---
 
 ## Full Game Over/Under
 
@@ -8,7 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIA @ LAD | Chris Paddack vs Yoshinobu Yamamoto | 8.5 | UNDER | 65.1% | 15.1% | MEDIUM | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
+| DET @ ATL | Casey Mize vs Martín Pérez | 8.5 | UNDER | 69.2% | 19.2% | HIGH | High-scoring teams, but line is inflated; Elite SP matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -18,7 +28,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| STL @ PIT | Dustin May vs Mason Montgomery | 4.4 | UNDER | 62.7% | 12.7% | LOW | Strong value; Both teams travel-fatigued |
+| STL @ PIT | Kyle Leahy vs TBD | 4.7 | UNDER | 62.0% | 12.0% | LOW | Weak pitching, but line already accounts for it; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -28,8 +38,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAA @ CWS | Jack Kochanowicz vs Anthony Kay | LAA | -110.0 | 57.6% | 5.3% | MEDIUM | Standard play |
-| SEA @ MIN | Luis Castillo vs Connor Prielipp | MIN | -110.0 | 56.7% | 4.3% | MEDIUM | Standard play |
+| LAA @ CWS | José Soriano vs Davis Martin | LAA | -110.0 | 59.1% | 6.7% | HIGH | Elite pitching matchup |
+| DET @ ATL | Casey Mize vs Martín Pérez | DET | -110.0 | 58.4% | 6.0% | HIGH | Elite pitching matchup |
 
 ---
 
@@ -39,9 +49,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Ranger Suarez (BOS @ TOR) | UNDER 3.5 Ks | +120.0 | 76.5% | 26.5% | HIGH | Low K average; Strong value |
-| Jack Kochanowicz (LAA @ CWS) | OVER 3.5 Ks | -120.0 | 74.6% | 24.6% | HIGH | Facing high-K team; Strong value |
-| Steven Matz (TB @ CLE) | UNDER 4.5 Ks | -172.0 | 73.7% | 23.7% | HIGH | Strong value |
+| Casey Mize (DET @ ATL) | UNDER 4.5 Ks | -105.0 | 81.0% | 30.9% | HIGH | Strong value |
+| Tyler Mahle (SF @ PHI) | UNDER 4.5 Ks | -119.0 | 77.8% | 27.8% | HIGH | Strong value |
+| Tanner Bibee (TB @ CLE) | UNDER 4.5 Ks | -110.0 | 71.0% | 21.0% | HIGH | Low K average; Strong value |
 
 ---
 
@@ -51,9 +61,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Max Fried (NYY @ TEX) | UNDER 18.5 outs | -150.0 | 87.9% | 37.9% | HIGH | Strong value |
-| Luis Castillo (SEA @ MIN) | OVER 15.5 outs | -122.0 | 86.1% | 36.0% | HIGH | Strong value |
-| Steven Matz (TB @ CLE) | OVER 15.5 outs | +135.0 | 82.5% | 32.5% | HIGH | Strong value |
+| Kai-Wei Teng (HOU @ BAL) | OVER 10.1 outs | -110.0 | 97.1% | 47.1% | HIGH | Strong value |
+| Walker Buehler (CHC @ SD) | OVER 14.5 outs | -150.0 | 94.7% | 44.7% | HIGH | Strong value |
+| Shohei Ohtani (MIA @ LAD) | OVER 18.5 outs | +133.0 | 86.1% | 36.1% | HIGH | Strong value |
 
 ---
 
@@ -63,9 +73,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Jake Cronenworth (CHC @ SD) | OVER 0.5 hits | +100.0 | 81.4% | 31.4% | HIGH | Strong value |
-| Moisés Ballesteros (CHC @ SD) | UNDER 0.5 hits | +122.0 | 79.8% | 29.8% | HIGH | Strong value |
-| Josh Smith (NYY @ TEX) | OVER 1.5 hits | +350.0 | 79.5% | 29.5% | HIGH | Strong value |
+| Leo Rivas (SEA @ MIN) | OVER 0.5 hits | -118.0 | 84.9% | 34.9% | HIGH | Strong value |
+| Jake Cronenworth (CHC @ SD) | OVER 0.5 hits | -123.0 | 81.4% | 31.4% | HIGH | Strong value |
+| TJ Friedl (COL @ CIN) | OVER 0.5 hits | -217.0 | 80.3% | 30.3% | HIGH | Hot streak; Strong value |
 
 ---
 
