@@ -1,6 +1,6 @@
 # MLB Picks - Tuesday, April 28, 2026
 
-*Last updated: 2026-04-28 04:15 PM ET*
+*Last updated: 2026-04-28 06:22 PM ET*
 
 ## Run Line (+1.5)
 
@@ -49,9 +49,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Casey Mize (DET @ ATL) | UNDER 4.5 Ks | -105.0 | 81.0% | 30.9% | HIGH | Strong value |
-| Tyler Mahle (SF @ PHI) | UNDER 4.5 Ks | -119.0 | 77.8% | 27.8% | HIGH | Strong value |
-| Tanner Bibee (TB @ CLE) | UNDER 4.5 Ks | -110.0 | 71.0% | 21.0% | HIGH | Low K average; Strong value |
+| Casey Mize (DET @ ATL) | UNDER 4.5 Ks | -105.0 | 81.0% | 30.9% | HIGH | Strong value; Starter confirmed |
+| Tyler Mahle (SF @ PHI) | UNDER 4.5 Ks | -119.0 | 77.8% | 27.8% | HIGH | Strong value; Starter confirmed |
+| Tanner Bibee (TB @ CLE) | UNDER 4.5 Ks | -110.0 | 71.0% | 21.0% | HIGH | Low K average; Strong value; Starter confirmed |
 
 ---
 
@@ -61,21 +61,19 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Kai-Wei Teng (HOU @ BAL) | OVER 10.1 outs | -110.0 | 97.1% | 47.1% | HIGH | Strong value |
-| Walker Buehler (CHC @ SD) | OVER 14.5 outs | -150.0 | 94.7% | 44.7% | HIGH | Strong value |
-| Shohei Ohtani (MIA @ LAD) | OVER 18.5 outs | +133.0 | 86.1% | 36.1% | HIGH | Strong value |
+| Kai-Wei Teng (HOU @ BAL) | OVER 10.1 outs | -110.0 | 97.1% | 47.1% | HIGH | Strong value; Starter confirmed |
+| Walker Buehler (CHC @ SD) | OVER 14.5 outs | -150.0 | 94.7% | 44.7% | HIGH | Strong value; Starter confirmed |
+| Shohei Ohtani (MIA @ LAD) | OVER 18.5 outs | +133.0 | 86.1% | 36.1% | HIGH | Strong value; Starter confirmed |
 
 ---
 
 ## Batter Hits Props
 
-### RECOMMENDED PLAYS (3)
+### RECOMMENDED PLAYS (1)
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Leo Rivas (SEA @ MIN) | OVER 0.5 hits | -118.0 | 84.9% | 34.9% | HIGH | Strong value |
 | Jake Cronenworth (CHC @ SD) | OVER 0.5 hits | -123.0 | 81.4% | 31.4% | HIGH | Strong value |
-| TJ Friedl (COL @ CIN) | OVER 0.5 hits | -217.0 | 80.3% | 30.3% | HIGH | Hot streak; Strong value |
 
 ---
 
