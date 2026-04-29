@@ -1,6 +1,6 @@
 # MLB Picks - Wednesday, April 29, 2026
 
-*Last updated: 2026-04-29 04:02 PM ET*
+*Last updated: 2026-04-29 06:16 PM ET*
 
 ## Run Line (+1.5)
 
@@ -49,9 +49,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Chris Bassitt (HOU @ BAL) | OVER 4.5 Ks | +115.0 | 84.7% | 34.7% | HIGH | Strong value |
-| Tarik Skubal (DET @ ATL) | UNDER 6.5 Ks | -138.0 | 82.0% | 32.0% | HIGH | Strong value |
-| Gavin Williams (TB @ CLE) | UNDER 5.5 Ks | -102.0 | 76.1% | 26.1% | HIGH | Strong value |
+| Chris Bassitt (HOU @ BAL) | OVER 4.5 Ks | +115.0 | 84.7% | 34.7% | HIGH | Strong value; Starter confirmed |
+| Tarik Skubal (DET @ ATL) | UNDER 6.5 Ks | -138.0 | 82.0% | 32.0% | HIGH | Strong value; Starter confirmed |
+| Gavin Williams (TB @ CLE) | UNDER 5.5 Ks | -102.0 | 76.1% | 26.1% | HIGH | Strong value; Starter confirmed |
 
 ---
 
@@ -61,21 +61,20 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Chris Bassitt (HOU @ BAL) | OVER 12.3 outs | -110.0 | 98.1% | 48.1% | HIGH | Strong value |
-| Brayan Bello (BOS @ TOR) | OVER 16.5 outs | -115.0 | 97.6% | 47.6% | HIGH | Strong value |
-| Tyler Glasnow (MIA @ LAD) | UNDER 17.5 outs | +127.0 | 90.5% | 40.5% | HIGH | Strong value |
+| Chris Bassitt (HOU @ BAL) | OVER 12.3 outs | -110.0 | 98.1% | 48.1% | HIGH | Strong value; Starter confirmed |
+| Brayan Bello (BOS @ TOR) | OVER 16.5 outs | -115.0 | 97.6% | 47.6% | HIGH | Strong value; Starter confirmed |
+| Tyler Glasnow (MIA @ LAD) | UNDER 17.5 outs | +127.0 | 90.5% | 40.5% | HIGH | Strong value; Starter confirmed |
 
 ---
 
 ## Batter Hits Props
 
-### RECOMMENDED PLAYS (3)
+### RECOMMENDED PLAYS (2)
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Leo Rivas (SEA @ MIN) | OVER 1.5 hits | +425.0 | 86.5% | 36.5% | HIGH | Strong value |
-| TJ Friedl (COL @ CIN) | OVER 0.5 hits | -208.0 | 82.5% | 32.5% | HIGH | Hot streak; Strong value |
-| Xavier Edwards (MIA @ LAD) | UNDER 0.5 hits | +145.0 | 82.0% | 32.0% | HIGH | Strong value |
+| TJ Friedl (COL @ CIN) | OVER 0.5 hits | -208.0 | 82.5% | 32.5% | HIGH | Hot streak; Strong value; In starting lineup |
+| Xavier Edwards (MIA @ LAD) | UNDER 0.5 hits | +145.0 | 82.0% | 32.0% | HIGH | Strong value; In starting lineup |
 
 ---
 
