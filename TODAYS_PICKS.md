@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, April 28, 2026
+# MLB Picks - Wednesday, April 29, 2026
 
-*Last updated: 2026-04-28 06:22 PM ET*
+*Last updated: 2026-04-29 04:02 PM ET*
 
 ## Run Line (+1.5)
 
@@ -8,7 +8,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| MIA @ LAD | Janson Junk vs Shohei Ohtani | MIA +1.5 | +110.0 | 64.4% | 16.8% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued |
+| COL @ CIN | Tomoyuki Sugano vs Brandon Williamson | COL +1.5 | -160.0 | 74.3% | 12.7% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line |
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| DET @ ATL | Casey Mize vs Martín Pérez | 8.5 | UNDER | 69.2% | 19.2% | HIGH | High-scoring teams, but line is inflated; Elite SP matchup; Strong value; Both teams travel-fatigued |
+| DET @ ATL | Tarik Skubal vs JR Ritchie | 8.5 | UNDER | 69.3% | 19.3% | HIGH | High-scoring teams, but line is inflated; Elite SP matchup; Strong value; Away team travel-fatigued |
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| STL @ PIT | Kyle Leahy vs TBD | 4.7 | UNDER | 62.0% | 12.0% | LOW | Weak pitching, but line already accounts for it; Strong value; Both teams travel-fatigued |
+| MIA @ LAD | Sandy Alcantara vs Tyler Glasnow | 4.7 | UNDER | 61.8% | 11.8% | NO PLAY | Elite SP matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -38,8 +38,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAA @ CWS | José Soriano vs Davis Martin | LAA | -110.0 | 59.1% | 6.7% | HIGH | Elite pitching matchup |
-| DET @ ATL | Casey Mize vs Martín Pérez | DET | -110.0 | 58.4% | 6.0% | HIGH | Elite pitching matchup |
+| MIA @ LAD | Sandy Alcantara vs Tyler Glasnow | MIA | -110.0 | 63.5% | 11.2% | HIGH | Elite pitching matchup; Strong value |
+| SF @ PHI | Logan Webb vs Cristopher Sánchez | PHI | -110.0 | 61.9% | 9.5% | HIGH | Standard play |
 
 ---
 
@@ -49,9 +49,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Casey Mize (DET @ ATL) | UNDER 4.5 Ks | -105.0 | 81.0% | 30.9% | HIGH | Strong value; Starter confirmed |
-| Tyler Mahle (SF @ PHI) | UNDER 4.5 Ks | -119.0 | 77.8% | 27.8% | HIGH | Strong value; Starter confirmed |
-| Tanner Bibee (TB @ CLE) | UNDER 4.5 Ks | -110.0 | 71.0% | 21.0% | HIGH | Low K average; Strong value; Starter confirmed |
+| Chris Bassitt (HOU @ BAL) | OVER 4.5 Ks | +115.0 | 84.7% | 34.7% | HIGH | Strong value |
+| Tarik Skubal (DET @ ATL) | UNDER 6.5 Ks | -138.0 | 82.0% | 32.0% | HIGH | Strong value |
+| Gavin Williams (TB @ CLE) | UNDER 5.5 Ks | -102.0 | 76.1% | 26.1% | HIGH | Strong value |
 
 ---
 
@@ -61,19 +61,21 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Kai-Wei Teng (HOU @ BAL) | OVER 10.1 outs | -110.0 | 97.1% | 47.1% | HIGH | Strong value; Starter confirmed |
-| Walker Buehler (CHC @ SD) | OVER 14.5 outs | -150.0 | 94.7% | 44.7% | HIGH | Strong value; Starter confirmed |
-| Shohei Ohtani (MIA @ LAD) | OVER 18.5 outs | +133.0 | 86.1% | 36.1% | HIGH | Strong value; Starter confirmed |
+| Chris Bassitt (HOU @ BAL) | OVER 12.3 outs | -110.0 | 98.1% | 48.1% | HIGH | Strong value |
+| Brayan Bello (BOS @ TOR) | OVER 16.5 outs | -115.0 | 97.6% | 47.6% | HIGH | Strong value |
+| Tyler Glasnow (MIA @ LAD) | UNDER 17.5 outs | +127.0 | 90.5% | 40.5% | HIGH | Strong value |
 
 ---
 
 ## Batter Hits Props
 
-### RECOMMENDED PLAYS (1)
+### RECOMMENDED PLAYS (3)
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Jake Cronenworth (CHC @ SD) | OVER 0.5 hits | -123.0 | 81.4% | 31.4% | HIGH | Strong value |
+| Leo Rivas (SEA @ MIN) | OVER 1.5 hits | +425.0 | 86.5% | 36.5% | HIGH | Strong value |
+| TJ Friedl (COL @ CIN) | OVER 0.5 hits | -208.0 | 82.5% | 32.5% | HIGH | Hot streak; Strong value |
+| Xavier Edwards (MIA @ LAD) | UNDER 0.5 hits | +145.0 | 82.0% | 32.0% | HIGH | Strong value |
 
 ---
 
