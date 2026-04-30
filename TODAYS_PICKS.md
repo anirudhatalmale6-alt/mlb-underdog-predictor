@@ -1,6 +1,6 @@
-# MLB Picks - Wednesday, April 29, 2026
+# MLB Picks - Thursday, April 30, 2026
 
-*Last updated: 2026-04-29 06:16 PM ET*
+*Last updated: 2026-04-30 03:52 PM ET*
 
 ## Run Line (+1.5)
 
@@ -8,7 +8,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| COL @ CIN | Tomoyuki Sugano vs Brandon Williamson | COL +1.5 | -160.0 | 74.3% | 12.7% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line |
+| COL @ CIN | Michael Lorenzen vs Andrew Abbott | COL +1.5 | -148.0 | 71.9% | 12.2% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued |
 
 ---
 
@@ -18,17 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| DET @ ATL | Tarik Skubal vs JR Ritchie | 8.5 | UNDER | 69.3% | 19.3% | HIGH | High-scoring teams, but line is inflated; Elite SP matchup; Strong value; Away team travel-fatigued |
-
----
-
-## First 5 Innings Over/Under
-
-### RECOMMENDED PLAYS (1)
-
-| Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
-|---------|----------|------|------|-------------|------|------------|-------|
-| MIA @ LAD | Sandy Alcantara vs Tyler Glasnow | 4.7 | UNDER | 61.8% | 11.8% | NO PLAY | Elite SP matchup; Strong value; Both teams travel-fatigued |
+| DET @ ATL | Framber Valdez vs Bryce Elder | 9.0 | UNDER | 67.7% | 17.7% | MEDIUM | High-scoring teams, but line is inflated; Elite SP matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -38,8 +28,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIA @ LAD | Sandy Alcantara vs Tyler Glasnow | MIA | -110.0 | 63.5% | 11.2% | HIGH | Elite pitching matchup; Strong value |
 | SF @ PHI | Logan Webb vs Cristopher Sánchez | PHI | -110.0 | 61.9% | 9.5% | HIGH | Standard play |
+| WSH @ NYM | Miles Mikolas vs Freddy Peralta | NYM | -110.0 | 60.4% | 8.0% | HIGH | Standard play |
 
 ---
 
@@ -49,9 +39,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Chris Bassitt (HOU @ BAL) | OVER 4.5 Ks | +115.0 | 84.7% | 34.7% | HIGH | Strong value; Starter confirmed |
-| Tarik Skubal (DET @ ATL) | UNDER 6.5 Ks | -138.0 | 82.0% | 32.0% | HIGH | Strong value; Starter confirmed |
-| Gavin Williams (TB @ CLE) | UNDER 5.5 Ks | -102.0 | 76.1% | 26.1% | HIGH | Strong value; Starter confirmed |
+| Chris Bassitt (HOU @ BAL) | OVER 1.5 Ks | -110.0 | 84.7% | 34.7% | HIGH | Strong value |
+| Miles Mikolas (WSH @ NYM) | UNDER 3.5 Ks | -133.0 | 68.1% | 18.1% | HIGH | Low K average; Strong value |
+| Andrew Abbott (COL @ CIN) | OVER 4.5 Ks | -158.0 | 67.9% | 17.9% | HIGH | Facing high-K team; Strong value |
 
 ---
 
@@ -61,20 +51,21 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Chris Bassitt (HOU @ BAL) | OVER 12.3 outs | -110.0 | 98.1% | 48.1% | HIGH | Strong value; Starter confirmed |
-| Brayan Bello (BOS @ TOR) | OVER 16.5 outs | -115.0 | 97.6% | 47.6% | HIGH | Strong value; Starter confirmed |
-| Tyler Glasnow (MIA @ LAD) | UNDER 17.5 outs | +127.0 | 90.5% | 40.5% | HIGH | Strong value; Starter confirmed |
+| Chris Bassitt (HOU @ BAL) | OVER 12.3 outs | -110.0 | 98.1% | 48.1% | HIGH | Strong value |
+| Michael Lorenzen (COL @ CIN) | OVER 15.5 outs | -115.0 | 88.7% | 38.7% | HIGH | Strong value |
+| Paul Skenes (STL @ PIT) | OVER 18.5 outs | +115.0 | 80.7% | 30.7% | HIGH | Strong value |
 
 ---
 
 ## Batter Hits Props
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (3)
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| TJ Friedl (COL @ CIN) | OVER 0.5 hits | -208.0 | 82.5% | 32.5% | HIGH | Hot streak; Strong value; In starting lineup |
-| Xavier Edwards (MIA @ LAD) | UNDER 0.5 hits | +145.0 | 82.0% | 32.0% | HIGH | Strong value; In starting lineup |
+| TJ Friedl (COL @ CIN) | OVER 0.5 hits | -190.0 | 84.2% | 34.2% | HIGH | Strong value |
+| Ildemaro Vargas (ARI @ MIL) | UNDER 0.5 hits | +131.0 | 79.3% | 29.3% | HIGH | Strong value |
+| Juan Soto (WSH @ NYM) | UNDER 0.5 hits | +180.0 | 78.9% | 28.9% | HIGH | Strong value |
 
 ---
 
