@@ -1,6 +1,6 @@
 # MLB Picks - Thursday, April 30, 2026
 
-*Last updated: 2026-04-30 03:52 PM ET*
+*Last updated: 2026-04-30 06:15 PM ET*
 
 ## Run Line (+1.5)
 
@@ -35,25 +35,23 @@
 
 ## Pitcher Strikeout Props
 
-### RECOMMENDED PLAYS (3)
+### RECOMMENDED PLAYS (2)
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Chris Bassitt (HOU @ BAL) | OVER 1.5 Ks | -110.0 | 84.7% | 34.7% | HIGH | Strong value |
-| Miles Mikolas (WSH @ NYM) | UNDER 3.5 Ks | -133.0 | 68.1% | 18.1% | HIGH | Low K average; Strong value |
-| Andrew Abbott (COL @ CIN) | OVER 4.5 Ks | -158.0 | 67.9% | 17.9% | HIGH | Facing high-K team; Strong value |
+| Miles Mikolas (WSH @ NYM) | UNDER 3.5 Ks | -133.0 | 68.1% | 18.1% | HIGH | Low K average; Strong value; Starter confirmed |
+| Andrew Abbott (COL @ CIN) | OVER 4.5 Ks | -158.0 | 67.9% | 17.9% | HIGH | Facing high-K team; Strong value; Starter confirmed |
 
 ---
 
 ## Pitcher Outs Recorded Props
 
-### RECOMMENDED PLAYS (3)
+### RECOMMENDED PLAYS (2)
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Chris Bassitt (HOU @ BAL) | OVER 12.3 outs | -110.0 | 98.1% | 48.1% | HIGH | Strong value |
-| Michael Lorenzen (COL @ CIN) | OVER 15.5 outs | -115.0 | 88.7% | 38.7% | HIGH | Strong value |
-| Paul Skenes (STL @ PIT) | OVER 18.5 outs | +115.0 | 80.7% | 30.7% | HIGH | Strong value |
+| Michael Lorenzen (COL @ CIN) | OVER 15.5 outs | -115.0 | 88.7% | 38.7% | HIGH | Strong value; Starter confirmed |
+| Paul Skenes (STL @ PIT) | OVER 18.5 outs | +115.0 | 80.7% | 30.7% | HIGH | Strong value; Starter confirmed |
 
 ---
 
@@ -63,9 +61,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| TJ Friedl (COL @ CIN) | OVER 0.5 hits | -190.0 | 84.2% | 34.2% | HIGH | Strong value |
-| Ildemaro Vargas (ARI @ MIL) | UNDER 0.5 hits | +131.0 | 79.3% | 29.3% | HIGH | Strong value |
-| Juan Soto (WSH @ NYM) | UNDER 0.5 hits | +180.0 | 78.9% | 28.9% | HIGH | Strong value |
+| TJ Friedl (COL @ CIN) | OVER 0.5 hits | -190.0 | 84.2% | 34.2% | HIGH | Strong value; In starting lineup |
+| Ildemaro Vargas (ARI @ MIL) | UNDER 0.5 hits | +131.0 | 79.3% | 29.3% | HIGH | Strong value; In starting lineup |
+| Juan Soto (WSH @ NYM) | UNDER 0.5 hits | +180.0 | 78.9% | 28.9% | HIGH | Strong value; In starting lineup |
 
 ---
 
