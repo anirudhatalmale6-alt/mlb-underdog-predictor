@@ -1,6 +1,6 @@
-# MLB Picks - Thursday, April 30, 2026
+# MLB Picks - Friday, May 01, 2026
 
-*Last updated: 2026-04-30 06:15 PM ET*
+*Last updated: 2026-05-01 03:07 PM ET*
 
 ## Run Line (+1.5)
 
@@ -8,7 +8,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| COL @ CIN | Michael Lorenzen vs Andrew Abbott | COL +1.5 | -148.0 | 71.9% | 12.2% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued |
+| LAD @ STL | Emmet Sheehan vs Matthew Liberatore | STL +1.5 | -105.0 | 69.2% | 17.9% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
 
 ---
 
@@ -18,7 +18,17 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| DET @ ATL | Framber Valdez vs Bryce Elder | 9.0 | UNDER | 67.7% | 17.7% | MEDIUM | High-scoring teams, but line is inflated; Elite SP matchup; Strong value; Both teams travel-fatigued |
+| LAD @ STL | Emmet Sheehan vs Matthew Liberatore | 8.5 | UNDER | 64.0% | 14.0% | LOW | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
+
+---
+
+## First 5 Innings Over/Under
+
+### RECOMMENDED PLAYS (1)
+
+| Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
+|---------|----------|------|------|-------------|------|------------|-------|
+| SF @ TB | Robbie Ray vs Shane McClanahan | 4.1 | UNDER | 63.4% | 13.4% | LOW | Elite SP matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -28,30 +38,32 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SF @ PHI | Logan Webb vs Cristopher Sánchez | PHI | -110.0 | 61.9% | 9.5% | HIGH | Standard play |
-| WSH @ NYM | Miles Mikolas vs Freddy Peralta | NYM | -110.0 | 60.4% | 8.0% | HIGH | Standard play |
+| CIN @ PIT | Brady Singer vs Mitch Keller | PIT | -110.0 | 63.8% | 11.4% | HIGH | Strong value |
+| NYM @ LAA | Christian Scott vs Walbert Urena | LAA | -110.0 | 59.3% | 6.9% | HIGH | Standard play |
 
 ---
 
 ## Pitcher Strikeout Props
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (3)
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Miles Mikolas (WSH @ NYM) | UNDER 3.5 Ks | -133.0 | 68.1% | 18.1% | HIGH | Low K average; Strong value; Starter confirmed |
-| Andrew Abbott (COL @ CIN) | OVER 4.5 Ks | -158.0 | 67.9% | 17.9% | HIGH | Facing high-K team; Strong value; Starter confirmed |
+| Robbie Ray (SF @ TB) | UNDER 5.5 Ks | -156.0 | 76.3% | 26.3% | HIGH | Strong value |
+| Germán Márquez (CWS @ SD) | OVER 2.9 Ks | -110.0 | 73.3% | 23.3% | HIGH | Facing high-K team; Strong value |
+| Jacob Misiorowski (MIL @ WSH) | UNDER 6.5 Ks | +111.0 | 73.1% | 23.1% | HIGH | Strong value |
 
 ---
 
 ## Pitcher Outs Recorded Props
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (3)
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Michael Lorenzen (COL @ CIN) | OVER 15.5 outs | -115.0 | 88.7% | 38.7% | HIGH | Strong value; Starter confirmed |
-| Paul Skenes (STL @ PIT) | OVER 18.5 outs | +115.0 | 80.7% | 30.7% | HIGH | Strong value; Starter confirmed |
+| Jack Flaherty (TEX @ DET) | OVER 14.5 outs | -160.0 | 94.9% | 44.9% | HIGH | Strong value |
+| Cole Ragans (KC @ SEA) | OVER 16.5 outs | -118.0 | 91.0% | 41.0% | HIGH | Strong value |
+| J.T. Ginn (CLE @ OAK) | OVER 13.4 outs | -110.0 | 89.3% | 39.3% | HIGH | Strong value |
 
 ---
 
@@ -61,9 +73,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| TJ Friedl (COL @ CIN) | OVER 0.5 hits | -190.0 | 84.2% | 34.2% | HIGH | Strong value; In starting lineup |
-| Ildemaro Vargas (ARI @ MIL) | UNDER 0.5 hits | +131.0 | 79.3% | 29.3% | HIGH | Strong value; In starting lineup |
-| Juan Soto (WSH @ NYM) | UNDER 0.5 hits | +180.0 | 78.9% | 28.9% | HIGH | Strong value; In starting lineup |
+| Leo Rivas (KC @ SEA) | OVER 0.5 hits | +113.0 | 86.5% | 36.5% | HIGH | Strong value |
+| Austin Wells (BAL @ NYY) | OVER 0.5 hits | -116.0 | 81.2% | 31.2% | HIGH | Strong value |
+| J.P. Crawford (KC @ SEA) | OVER 0.5 hits | -125.0 | 80.9% | 30.9% | HIGH | Strong value |
 
 ---
 
