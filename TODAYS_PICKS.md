@@ -1,6 +1,6 @@
 # MLB Picks - Friday, May 01, 2026
 
-*Last updated: 2026-05-01 03:07 PM ET*
+*Last updated: 2026-05-01 06:03 PM ET*
 
 ## Run Line (+1.5)
 
@@ -49,9 +49,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Robbie Ray (SF @ TB) | UNDER 5.5 Ks | -156.0 | 76.3% | 26.3% | HIGH | Strong value |
-| Germán Márquez (CWS @ SD) | OVER 2.9 Ks | -110.0 | 73.3% | 23.3% | HIGH | Facing high-K team; Strong value |
-| Jacob Misiorowski (MIL @ WSH) | UNDER 6.5 Ks | +111.0 | 73.1% | 23.1% | HIGH | Strong value |
+| Robbie Ray (SF @ TB) | UNDER 5.5 Ks | -156.0 | 76.3% | 26.3% | HIGH | Strong value; Starter confirmed |
+| Germán Márquez (CWS @ SD) | OVER 2.9 Ks | -110.0 | 73.3% | 23.3% | HIGH | Facing high-K team; Strong value; Starter confirmed |
+| Jacob Misiorowski (MIL @ WSH) | UNDER 6.5 Ks | +111.0 | 73.1% | 23.1% | HIGH | Strong value; Starter confirmed |
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Jack Flaherty (TEX @ DET) | OVER 14.5 outs | -160.0 | 94.9% | 44.9% | HIGH | Strong value |
-| Cole Ragans (KC @ SEA) | OVER 16.5 outs | -118.0 | 91.0% | 41.0% | HIGH | Strong value |
-| J.T. Ginn (CLE @ OAK) | OVER 13.4 outs | -110.0 | 89.3% | 39.3% | HIGH | Strong value |
+| Jack Flaherty (TEX @ DET) | OVER 14.5 outs | -160.0 | 94.9% | 44.9% | HIGH | Strong value; Starter confirmed |
+| Cole Ragans (KC @ SEA) | OVER 16.5 outs | -118.0 | 91.0% | 41.0% | HIGH | Strong value; Starter confirmed |
+| J.T. Ginn (CLE @ OAK) | OVER 13.4 outs | -110.0 | 89.3% | 39.3% | HIGH | Strong value; Starter confirmed |
 
 ---
 
