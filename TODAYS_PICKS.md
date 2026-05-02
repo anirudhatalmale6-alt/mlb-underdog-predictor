@@ -1,6 +1,6 @@
 # MLB Picks - Saturday, May 02, 2026
 
-*Last updated: 2026-05-02 03:01 PM ET*
+*Last updated: 2026-05-02 05:51 PM ET*
 
 ## Run Line (+1.5)
 
@@ -49,8 +49,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Connelly Early (HOU @ BOS) | UNDER 4.5 Ks | -123.0 | 76.7% | 26.7% | HIGH | Low K average; Strong value |
-| Landen Roupp (SF @ TB) | UNDER 4.5 Ks | +105.0 | 72.2% | 22.2% | HIGH | Strong value |
+| Connelly Early (HOU @ BOS) | UNDER 4.5 Ks | -123.0 | 76.7% | 26.7% | HIGH | Low K average; Strong value; Starter confirmed |
+| Landen Roupp (SF @ TB) | UNDER 4.5 Ks | +105.0 | 72.2% | 22.2% | HIGH | Strong value; Starter confirmed |
 
 ---
 
@@ -60,8 +60,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Carmen Mlodzinski (CIN @ PIT) | OVER 14.5 outs | -165.0 | 96.4% | 46.4% | HIGH | Strong value |
-| Roki Sasaki (LAD @ STL) | OVER 15.5 outs | +126.0 | 96.4% | 46.4% | HIGH | Strong value |
+| Carmen Mlodzinski (CIN @ PIT) | OVER 14.5 outs | -165.0 | 96.4% | 46.4% | HIGH | Strong value; Starter confirmed |
+| Roki Sasaki (LAD @ STL) | OVER 15.5 outs | +126.0 | 96.4% | 46.4% | HIGH | Strong value; Starter confirmed |
 
 ---
 
@@ -72,7 +72,7 @@
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
 | Leo Rivas (KC @ SEA) | OVER 0.5 hits | -104.0 | 86.1% | 36.1% | HIGH | Strong value |
-| Ben Rice (BAL @ NYY) | UNDER 0.5 hits | +175.0 | 83.2% | 33.1% | HIGH | Strong value |
+| Ben Rice (BAL @ NYY) | UNDER 0.5 hits | +175.0 | 83.2% | 33.1% | HIGH | Strong value; In starting lineup |
 
 ---
 
