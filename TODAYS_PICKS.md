@@ -1,6 +1,6 @@
-# MLB Picks - Friday, May 01, 2026
+# MLB Picks - Saturday, May 02, 2026
 
-*Last updated: 2026-05-01 06:03 PM ET*
+*Last updated: 2026-05-02 03:01 PM ET*
 
 ## Run Line (+1.5)
 
@@ -8,7 +8,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| LAD @ STL | Emmet Sheehan vs Matthew Liberatore | STL +1.5 | -105.0 | 69.2% | 17.9% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
+| CWS @ SD | Sean Burke vs Michael King | CWS +1.5 | -136.0 | 70.5% | 12.8% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line |
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAD @ STL | Emmet Sheehan vs Matthew Liberatore | 8.5 | UNDER | 64.0% | 14.0% | LOW | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
+| ATL @ COL | Chris Sale vs TBD | 10.0 | OVER | 64.9% | 14.9% | LOW | Hitter-friendly park favors OVER; Elite SPs, but line overreacts; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SF @ TB | Robbie Ray vs Shane McClanahan | 4.1 | UNDER | 63.4% | 13.4% | LOW | Elite SP matchup; Strong value; Both teams travel-fatigued |
+| TEX @ DET | Kumar Rocker vs Keider Montero | 4.7 | UNDER | 63.2% | 13.2% | LOW | Strong value; Home team travel-fatigued |
 
 ---
 
@@ -38,44 +38,41 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CIN @ PIT | Brady Singer vs Mitch Keller | PIT | -110.0 | 63.8% | 11.4% | HIGH | Strong value |
-| NYM @ LAA | Christian Scott vs Walbert Urena | LAA | -110.0 | 59.3% | 6.9% | HIGH | Standard play |
+| ARI @ CHC | Ryne Nelson vs Shota Imanaga | CHC | -110.0 | 61.6% | 9.2% | HIGH | Standard play |
+| BAL @ NYY | Kyle Bradish vs Ryan Weathers | NYY | -110.0 | 59.9% | 7.5% | HIGH | Standard play |
 
 ---
 
 ## Pitcher Strikeout Props
 
-### RECOMMENDED PLAYS (3)
+### RECOMMENDED PLAYS (2)
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Robbie Ray (SF @ TB) | UNDER 5.5 Ks | -156.0 | 76.3% | 26.3% | HIGH | Strong value; Starter confirmed |
-| Germán Márquez (CWS @ SD) | OVER 2.9 Ks | -110.0 | 73.3% | 23.3% | HIGH | Facing high-K team; Strong value; Starter confirmed |
-| Jacob Misiorowski (MIL @ WSH) | UNDER 6.5 Ks | +111.0 | 73.1% | 23.1% | HIGH | Strong value; Starter confirmed |
+| Connelly Early (HOU @ BOS) | UNDER 4.5 Ks | -123.0 | 76.7% | 26.7% | HIGH | Low K average; Strong value |
+| Landen Roupp (SF @ TB) | UNDER 4.5 Ks | +105.0 | 72.2% | 22.2% | HIGH | Strong value |
 
 ---
 
 ## Pitcher Outs Recorded Props
 
-### RECOMMENDED PLAYS (3)
+### RECOMMENDED PLAYS (2)
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Jack Flaherty (TEX @ DET) | OVER 14.5 outs | -160.0 | 94.9% | 44.9% | HIGH | Strong value; Starter confirmed |
-| Cole Ragans (KC @ SEA) | OVER 16.5 outs | -118.0 | 91.0% | 41.0% | HIGH | Strong value; Starter confirmed |
-| J.T. Ginn (CLE @ OAK) | OVER 13.4 outs | -110.0 | 89.3% | 39.3% | HIGH | Strong value; Starter confirmed |
+| Carmen Mlodzinski (CIN @ PIT) | OVER 14.5 outs | -165.0 | 96.4% | 46.4% | HIGH | Strong value |
+| Roki Sasaki (LAD @ STL) | OVER 15.5 outs | +126.0 | 96.4% | 46.4% | HIGH | Strong value |
 
 ---
 
 ## Batter Hits Props
 
-### RECOMMENDED PLAYS (3)
+### RECOMMENDED PLAYS (2)
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Leo Rivas (KC @ SEA) | OVER 0.5 hits | +113.0 | 86.5% | 36.5% | HIGH | Strong value |
-| Austin Wells (BAL @ NYY) | OVER 0.5 hits | -116.0 | 81.2% | 31.2% | HIGH | Strong value |
-| J.P. Crawford (KC @ SEA) | OVER 0.5 hits | -125.0 | 80.9% | 30.9% | HIGH | Strong value |
+| Leo Rivas (KC @ SEA) | OVER 0.5 hits | -104.0 | 86.1% | 36.1% | HIGH | Strong value |
+| Ben Rice (BAL @ NYY) | UNDER 0.5 hits | +175.0 | 83.2% | 33.1% | HIGH | Strong value |
 
 ---
 
