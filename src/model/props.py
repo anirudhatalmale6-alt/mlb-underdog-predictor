@@ -18,8 +18,8 @@ from src.utils.logging import get_logger
 
 log = get_logger(__name__)
 
-MAX_PROPS_PER_TYPE = 3  # Max recommended picks per prop type
-MIN_EDGE = 0.08  # 8% minimum edge for recommendation
+MAX_PROPS_PER_TYPE = 2  # Max recommended picks per prop type
+MIN_EDGE = 0.10  # 10% minimum edge for recommendation
 
 
 def predict_pitcher_k_props(prop_games: list[dict]) -> pd.DataFrame:
