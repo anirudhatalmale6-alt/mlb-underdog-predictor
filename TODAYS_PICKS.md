@@ -1,6 +1,6 @@
 # MLB Picks - Sunday, May 03, 2026
 
-*Last updated: 2026-05-03 03:01 PM ET*
+*Last updated: 2026-05-03 05:52 PM ET*
 
 ## Run Line (+1.5)
 
@@ -49,8 +49,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Joe Ryan (TOR @ MIN) | UNDER 5.5 Ks | -140.0 | 78.9% | 28.9% | HIGH | Facing low-K team; Strong value |
-| Tyler Mahle (SF @ TB) | UNDER 4.5 Ks | -160.0 | 74.7% | 24.7% | HIGH | Low K average; Strong value |
+| Joe Ryan (TOR @ MIN) | UNDER 5.5 Ks | -140.0 | 78.9% | 28.9% | HIGH | Facing low-K team; Strong value; Starter confirmed |
+| Tyler Mahle (SF @ TB) | UNDER 4.5 Ks | -160.0 | 74.7% | 24.7% | HIGH | Low K average; Strong value; Starter confirmed |
 
 ---
 
@@ -60,8 +60,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Logan Henderson (MIL @ WSH) | OVER 13.2 outs | -110.0 | 89.1% | 39.1% | HIGH | Strong value |
-| Tyler Holton (TEX @ DET) | OVER 3.7 outs | -110.0 | 89.0% | 39.0% | HIGH | Strong value |
+| Logan Henderson (MIL @ WSH) | OVER 13.2 outs | -110.0 | 89.1% | 39.1% | HIGH | Strong value; Starter confirmed |
+| Tyler Holton (TEX @ DET) | OVER 3.7 outs | -110.0 | 89.0% | 39.0% | HIGH | Strong value; Starter confirmed |
 
 ---
 
@@ -71,7 +71,7 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Leo Rivas (KC @ SEA) | OVER 0.5 hits | -118.0 | 86.5% | 36.5% | HIGH | Strong value |
+| Leo Rivas (KC @ SEA) | OVER 0.5 hits | -118.0 | 86.5% | 36.5% | HIGH | Strong value; In starting lineup |
 | Sam Haggerty (TEX @ DET) | OVER 0.5 hits | -102.0 | 83.7% | 33.7% | HIGH | Strong value |
 
 ---
