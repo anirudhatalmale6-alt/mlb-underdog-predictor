@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, May 02, 2026
+# MLB Picks - Sunday, May 03, 2026
 
-*Last updated: 2026-05-02 05:51 PM ET*
+*Last updated: 2026-05-03 03:01 PM ET*
 
 ## Run Line (+1.5)
 
@@ -8,7 +8,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| CWS @ SD | Sean Burke vs Michael King | CWS +1.5 | -136.0 | 70.5% | 12.8% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line |
+| ATL @ COL | Spencer Strider vs Kyle Freeland | COL +1.5 | -105.0 | 78.0% | 26.8% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| ATL @ COL | Chris Sale vs TBD | 10.0 | OVER | 64.9% | 14.9% | LOW | Hitter-friendly park favors OVER; Elite SPs, but line overreacts; Strong value; Both teams travel-fatigued |
+| BAL @ NYY | Trey Gibson vs Max Fried | 9.0 | UNDER | 61.5% | 11.5% | NO PLAY | Hitter-friendly park, but other factors favor UNDER; Elite SP matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TEX @ DET | Kumar Rocker vs Keider Montero | 4.7 | UNDER | 63.2% | 13.2% | LOW | Strong value; Home team travel-fatigued |
+| BAL @ NYY | Trey Gibson vs Max Fried | 5.0 | UNDER | 63.9% | 13.9% | LOW | Hitter-friendly park, but other factors favor UNDER; Elite SP matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -38,8 +38,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| ARI @ CHC | Ryne Nelson vs Shota Imanaga | CHC | -110.0 | 61.6% | 9.2% | HIGH | Standard play |
-| BAL @ NYY | Kyle Bradish vs Ryan Weathers | NYY | -110.0 | 59.9% | 7.5% | HIGH | Standard play |
+| HOU @ BOS | Cody Bolton vs Ranger Suarez | BOS | -110.0 | 63.7% | 11.4% | HIGH | Strong value |
+| MIL @ WSH | Logan Henderson vs PJ Poulin | WSH | -110.0 | 63.3% | 11.0% | HIGH | Strong value |
 
 ---
 
@@ -49,8 +49,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Connelly Early (HOU @ BOS) | UNDER 4.5 Ks | -123.0 | 76.7% | 26.7% | HIGH | Low K average; Strong value; Starter confirmed |
-| Landen Roupp (SF @ TB) | UNDER 4.5 Ks | +105.0 | 72.2% | 22.2% | HIGH | Strong value; Starter confirmed |
+| Joe Ryan (TOR @ MIN) | UNDER 5.5 Ks | -140.0 | 78.9% | 28.9% | HIGH | Facing low-K team; Strong value |
+| Tyler Mahle (SF @ TB) | UNDER 4.5 Ks | -160.0 | 74.7% | 24.7% | HIGH | Low K average; Strong value |
 
 ---
 
@@ -60,8 +60,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Carmen Mlodzinski (CIN @ PIT) | OVER 14.5 outs | -165.0 | 96.4% | 46.4% | HIGH | Strong value; Starter confirmed |
-| Roki Sasaki (LAD @ STL) | OVER 15.5 outs | +126.0 | 96.4% | 46.4% | HIGH | Strong value; Starter confirmed |
+| Logan Henderson (MIL @ WSH) | OVER 13.2 outs | -110.0 | 89.1% | 39.1% | HIGH | Strong value |
+| Tyler Holton (TEX @ DET) | OVER 3.7 outs | -110.0 | 89.0% | 39.0% | HIGH | Strong value |
 
 ---
 
@@ -71,8 +71,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Leo Rivas (KC @ SEA) | OVER 0.5 hits | -104.0 | 86.1% | 36.1% | HIGH | Strong value |
-| Ben Rice (BAL @ NYY) | UNDER 0.5 hits | +175.0 | 83.2% | 33.1% | HIGH | Strong value; In starting lineup |
+| Leo Rivas (KC @ SEA) | OVER 0.5 hits | -118.0 | 86.5% | 36.5% | HIGH | Strong value |
+| Sam Haggerty (TEX @ DET) | OVER 0.5 hits | -102.0 | 83.7% | 33.7% | HIGH | Strong value |
 
 ---
 
