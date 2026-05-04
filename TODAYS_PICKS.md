@@ -1,6 +1,6 @@
-# MLB Picks - Sunday, May 03, 2026
+# MLB Picks - Monday, May 04, 2026
 
-*Last updated: 2026-05-03 05:52 PM ET*
+*Last updated: 2026-05-04 04:09 PM ET*
 
 ## Run Line (+1.5)
 
@@ -8,7 +8,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| ATL @ COL | Spencer Strider vs Kyle Freeland | COL +1.5 | -105.0 | 78.0% | 26.8% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
+| BAL @ NYY | Shane Baz vs Cam Schlittler | BAL +1.5 | -115.0 | 61.1% | 7.6% | LOW | Strong ML probability boosts +1.5 cover; Favorite is travel-fatigued |
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| BAL @ NYY | Trey Gibson vs Max Fried | 9.0 | UNDER | 61.5% | 11.5% | NO PLAY | Hitter-friendly park, but other factors favor UNDER; Elite SP matchup; Strong value; Both teams travel-fatigued |
+| ATL @ SEA | JR Ritchie vs Logan Gilbert | 7.5 | UNDER | 65.6% | 15.6% | MEDIUM | Pitcher-friendly park favors UNDER; Elite SP matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| BAL @ NYY | Trey Gibson vs Max Fried | 5.0 | UNDER | 63.9% | 13.9% | LOW | Hitter-friendly park, but other factors favor UNDER; Elite SP matchup; Strong value; Both teams travel-fatigued |
+| NYM @ COL | Huascar Brazobán vs Tomoyuki Sugano | 5.8 | OVER | 60.9% | 10.9% | NO PLAY | Hitter-friendly park favors OVER; Elite SPs, but line overreacts; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -38,8 +38,18 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| HOU @ BOS | Cody Bolton vs Ranger Suarez | BOS | -110.0 | 63.7% | 11.4% | HIGH | Strong value |
-| MIL @ WSH | Logan Henderson vs PJ Poulin | WSH | -110.0 | 63.3% | 11.0% | HIGH | Strong value |
+| CIN @ CHC | Chase Petty vs Edward Cabrera | CHC | -110.0 | 65.0% | 12.6% | HIGH | Strong value |
+| SD @ SF | Randy Vásquez vs Trevor McDonald | SD | -110.0 | 62.5% | 10.1% | HIGH | Elite pitching matchup; Strong value |
+
+---
+
+## 1st Inning Over/Under
+
+### RECOMMENDED PLAYS (1)
+
+| Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
+|---------|----------|------|------|-------------|------|------------|-------|
+| NYM @ COL | Huascar Brazobán vs Tomoyuki Sugano | OVER 0.5 | -110.0 | 60.5% | 8.1% | LOW | Hitter-friendly park |
 
 ---
 
@@ -49,8 +59,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Joe Ryan (TOR @ MIN) | UNDER 5.5 Ks | -140.0 | 78.9% | 28.9% | HIGH | Facing low-K team; Strong value; Starter confirmed |
-| Tyler Mahle (SF @ TB) | UNDER 4.5 Ks | -160.0 | 74.7% | 24.7% | HIGH | Low K average; Strong value; Starter confirmed |
+| Payton Tolle (BOS @ DET) | UNDER 4.5 Ks | +110.0 | 77.2% | 27.2% | HIGH | Strong value |
+| Randy Vásquez (SD @ SF) | UNDER 5.2 Ks | -110.0 | 70.8% | 20.8% | HIGH | Strong value |
 
 ---
 
@@ -60,8 +70,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Logan Henderson (MIL @ WSH) | OVER 13.2 outs | -110.0 | 89.1% | 39.1% | HIGH | Strong value; Starter confirmed |
-| Tyler Holton (TEX @ DET) | OVER 3.7 outs | -110.0 | 89.0% | 39.0% | HIGH | Strong value; Starter confirmed |
+| Payton Tolle (BOS @ DET) | OVER 14.5 outs | -152.0 | 95.3% | 45.3% | HIGH | Strong value |
+| Cam Schlittler (BAL @ NYY) | UNDER 17.5 outs | -109.0 | 79.0% | 29.0% | HIGH | Strong value |
 
 ---
 
@@ -71,8 +81,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Leo Rivas (KC @ SEA) | OVER 0.5 hits | -118.0 | 86.5% | 36.5% | HIGH | Strong value; In starting lineup |
-| Sam Haggerty (TEX @ DET) | OVER 0.5 hits | -102.0 | 83.7% | 33.7% | HIGH | Strong value |
+| Leo Rivas (ATL @ SEA) | OVER 0.5 hits | -108.0 | 85.2% | 35.2% | HIGH | Strong value |
+| Ben Rice (BAL @ NYY) | UNDER 0.5 hits | +130.0 | 82.0% | 32.0% | HIGH | Strong value |
 
 ---
 
