@@ -1,6 +1,6 @@
 # MLB Picks - Monday, May 04, 2026
 
-*Last updated: 2026-05-04 04:09 PM ET*
+*Last updated: 2026-05-04 06:19 PM ET*
 
 ## Run Line (+1.5)
 
@@ -59,8 +59,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Payton Tolle (BOS @ DET) | UNDER 4.5 Ks | +110.0 | 77.2% | 27.2% | HIGH | Strong value |
-| Randy Vásquez (SD @ SF) | UNDER 5.2 Ks | -110.0 | 70.8% | 20.8% | HIGH | Strong value |
+| Payton Tolle (BOS @ DET) | UNDER 4.5 Ks | +110.0 | 77.2% | 27.2% | HIGH | Strong value; Starter confirmed |
+| Randy Vásquez (SD @ SF) | UNDER 5.2 Ks | -110.0 | 70.8% | 20.8% | HIGH | Strong value; Starter confirmed |
 
 ---
 
@@ -70,8 +70,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Payton Tolle (BOS @ DET) | OVER 14.5 outs | -152.0 | 95.3% | 45.3% | HIGH | Strong value |
-| Cam Schlittler (BAL @ NYY) | UNDER 17.5 outs | -109.0 | 79.0% | 29.0% | HIGH | Strong value |
+| Payton Tolle (BOS @ DET) | OVER 14.5 outs | -152.0 | 95.3% | 45.3% | HIGH | Strong value; Starter confirmed |
+| Cam Schlittler (BAL @ NYY) | UNDER 17.5 outs | -109.0 | 79.0% | 29.0% | HIGH | Strong value; Starter confirmed |
 
 ---
 
