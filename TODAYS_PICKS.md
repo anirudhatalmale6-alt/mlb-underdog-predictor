@@ -1,6 +1,6 @@
-# MLB Picks - Monday, May 04, 2026
+# MLB Picks - Tuesday, May 05, 2026
 
-*Last updated: 2026-05-04 06:19 PM ET*
+*Last updated: 2026-05-05 04:01 PM ET*
 
 ## Run Line (+1.5)
 
@@ -8,7 +8,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| BAL @ NYY | Shane Baz vs Cam Schlittler | BAL +1.5 | -115.0 | 61.1% | 7.6% | LOW | Strong ML probability boosts +1.5 cover; Favorite is travel-fatigued |
+| NYM @ COL | Freddy Peralta vs Michael Lorenzen | COL +1.5 | -105.0 | 63.3% | 12.0% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| ATL @ SEA | JR Ritchie vs Logan Gilbert | 7.5 | UNDER | 65.6% | 15.6% | MEDIUM | Pitcher-friendly park favors UNDER; Elite SP matchup; Strong value; Both teams travel-fatigued |
+| ATL @ SEA | Bryce Elder vs George Kirby | 7.5 | UNDER | 65.8% | 15.8% | MEDIUM | Pitcher-friendly park favors UNDER; Elite SP matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| NYM @ COL | Huascar Brazobán vs Tomoyuki Sugano | 5.8 | OVER | 60.9% | 10.9% | NO PLAY | Hitter-friendly park favors OVER; Elite SPs, but line overreacts; Strong value; Both teams travel-fatigued |
+| TEX @ NYY | Jacob deGrom vs Elmer Rodríguez | 5.0 | UNDER | 65.7% | 15.7% | MEDIUM | Hitter-friendly park, but other factors favor UNDER; Elite SP matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -38,18 +38,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CIN @ CHC | Chase Petty vs Edward Cabrera | CHC | -110.0 | 65.0% | 12.6% | HIGH | Strong value |
-| SD @ SF | Randy Vásquez vs Trevor McDonald | SD | -110.0 | 62.5% | 10.1% | HIGH | Elite pitching matchup; Strong value |
-
----
-
-## 1st Inning Over/Under
-
-### RECOMMENDED PLAYS (1)
-
-| Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
-|---------|----------|------|------|-------------|------|------------|-------|
-| NYM @ COL | Huascar Brazobán vs Tomoyuki Sugano | OVER 0.5 | -110.0 | 60.5% | 8.1% | LOW | Hitter-friendly park |
+| TOR @ TB | Kevin Gausman vs Drew Rasmussen | TOR | -110.0 | 62.4% | 10.0% | HIGH | Elite pitching matchup; Strong value |
+| PIT @ ARI | Bubba Chandler vs Eduardo Rodriguez | ARI | -110.0 | 62.3% | 9.9% | HIGH | Standard play |
 
 ---
 
@@ -59,8 +49,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Payton Tolle (BOS @ DET) | UNDER 4.5 Ks | +110.0 | 77.2% | 27.2% | HIGH | Strong value; Starter confirmed |
-| Randy Vásquez (SD @ SF) | UNDER 5.2 Ks | -110.0 | 70.8% | 20.8% | HIGH | Strong value; Starter confirmed |
+| Erick Fedde (CWS @ LAA) | OVER 3.5 Ks | -155.0 | 76.4% | 26.4% | HIGH | Facing high-K team; Strong value |
+| Walker Buehler (SD @ SF) | UNDER 3.5 Ks | -107.0 | 76.3% | 26.3% | HIGH | Low K average; Strong value |
 
 ---
 
@@ -70,8 +60,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Payton Tolle (BOS @ DET) | OVER 14.5 outs | -152.0 | 95.3% | 45.3% | HIGH | Strong value; Starter confirmed |
-| Cam Schlittler (BAL @ NYY) | UNDER 17.5 outs | -109.0 | 79.0% | 29.0% | HIGH | Strong value; Starter confirmed |
+| Chris Bassitt (BAL @ MIA) | OVER 16.5 outs | -120.0 | 94.2% | 44.2% | HIGH | Strong value |
+| Walker Buehler (SD @ SF) | OVER 14.5 outs | -167.0 | 92.9% | 42.9% | HIGH | Strong value |
 
 ---
 
@@ -81,8 +71,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Leo Rivas (ATL @ SEA) | OVER 0.5 hits | -108.0 | 85.2% | 35.2% | HIGH | Strong value |
-| Ben Rice (BAL @ NYY) | UNDER 0.5 hits | +130.0 | 82.0% | 32.0% | HIGH | Strong value |
+| Dalton Rushing (LAD @ HOU) | UNDER 0.5 hits | +159.0 | 83.6% | 33.6% | HIGH | Cold streak; Strong value |
+| Leo Rivas (ATL @ SEA) | OVER 0.5 hits | -105.0 | 83.0% | 33.0% | HIGH | Strong value |
 
 ---
 
