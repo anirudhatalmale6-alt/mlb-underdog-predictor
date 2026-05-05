@@ -65,58 +65,58 @@ F5 TOTAL,2026-05-05,DET,BOS,,Framber Valdez,Jovani Morán,,,,0.0055,0.6%,,NO PLA
 1ST INN TOTAL,2026-05-05,KC,CLE,,Stephen Kolek,Gavin Williams,,,,-0.0126,-1.3%,,NO PLAY,False,Standard play,OVER 0.5,-110.0,0.5112,0.5,
 1ST INN TOTAL,2026-05-05,HOU,LAD,,Peter Lambert,Shohei Ohtani,,,,-0.0133,-1.3%,,NO PLAY,False,Standard play,OVER 0.5,-110.0,0.5105,0.5,
 1ST INN TOTAL,2026-05-05,SF,SD,,Logan Webb,Walker Buehler,,,,-0.0199,-2.0%,,NO PLAY,False,Standard play,UNDER 0.5,-110.0,0.5039,0.5,
-PITCHER K,2026-05-05,LAA,CWS,,,,,,,0.2639,26.4%,,HIGH,True,Facing high-K team; Strong value,OVER 3.5 Ks,-155.0,0.7639,3.5,Erick Fedde
-PITCHER K,2026-05-05,SF,SD,,,,,,,0.2629,26.3%,,HIGH,True,Low K average; Strong value,UNDER 3.5 Ks,-107.0,0.7629,3.5,Walker Buehler
-PITCHER K,2026-05-05,MIA,BAL,,,,,,,0.2591,25.9%,,HIGH,False,Facing high-K team; Strong value,OVER 4.5 Ks,102.0,0.7591,4.5,Chris Bassitt
-PITCHER K,2026-05-05,SEA,ATL,,,,,,,0.2425,24.3%,,HIGH,False,Low K average; Strong value,UNDER 5.5 Ks,-150.0,0.7425,5.5,George Kirby
-PITCHER K,2026-05-05,HOU,LAD,,,,,,,0.2266,22.7%,,HIGH,False,Strong value,UNDER 6.5 Ks,118.0,0.7266,6.5,Shohei Ohtani
-PITCHER K,2026-05-05,CHC,CIN,,,,,,,0.2239,22.4%,,HIGH,False,Facing high-K team; Strong value,OVER 4.5 Ks,-155.0,0.7239,4.5,Jameson Taillon
-PITCHER K,2026-05-05,TB,TOR,,,,,,,0.1967,19.7%,,HIGH,False,Strong value,UNDER 5.5 Ks,-139.0,0.6967,5.5,Kevin Gausman
-PITCHER K,2026-05-05,ARI,PIT,,,,,,,0.1859,18.6%,,HIGH,False,Facing high-K team; Strong value,OVER 5.5 Ks,124.0,0.6859,5.5,Eduardo Rodriguez
-PITCHER K,2026-05-05,PHI,OAK,,,,,,,0.1817,18.2%,,HIGH,False,Strong value,UNDER 5.2 Ks,-110.0,0.6817,5.2,Luis Severino
-PITCHER K,2026-05-05,PHI,OAK,,,,,,,0.1711,17.1%,,HIGH,False,Strong value,UNDER 6.6 Ks,-110.0,0.6711,6.6,Cristopher Sánchez
-PITCHER K,2026-05-05,KC,CLE,,,,,,,0.1634,16.3%,,HIGH,False,Low K average; Strong value,UNDER 2.5 Ks,110.0,0.6634,2.5,Stephen Kolek
-PITCHER K,2026-05-05,ARI,PIT,,,,,,,0.1566,15.7%,,HIGH,False,Low K average; Strong value,UNDER 4.5 Ks,-154.0,0.6566,4.5,Bubba Chandler
-PITCHER K,2026-05-05,CHC,CIN,,,,,,,0.1526,15.3%,,HIGH,False,Low K average; Strong value,UNDER 3.5 Ks,120.0,0.6526,3.5,Andrew Abbott
-PITCHER K,2026-05-05,KC,CLE,,,,,,,0.1357,13.6%,,HIGH,False,Strong value,UNDER 5.5 Ks,102.0,0.6357,5.5,Gavin Williams
-PITCHER K,2026-05-05,NYY,TEX,,,,,,,0.1262,12.6%,,HIGH,False,Strong value,UNDER 6.5 Ks,-146.0,0.6262,6.5,Jacob deGrom
-PITCHER K,2026-05-05,WSH,MIN,,,,,,,0.1239,12.4%,,HIGH,False,Strong value,UNDER 4.5 Ks,122.0,0.6239,4.5,Cade Cavalli
-PITCHER K,2026-05-05,SF,SD,,,,,,,0.1227,12.3%,,HIGH,False,Facing high-K team; Strong value,OVER 5.5 Ks,-101.0,0.6227,5.5,Logan Webb
-PITCHER K,2026-05-05,STL,MIL,,,,,,,0.0655,6.6%,,NO PLAY,False,Low K average,UNDER 4.5 Ks,-151.0,0.5655,4.5,Brandon Sproat
-PITCHER K,2026-05-05,TB,TOR,,,,,,,0.0637,6.4%,,NO PLAY,False,Facing low-K team,UNDER 4.5 Ks,-111.0,0.5637,4.5,Drew Rasmussen
-PITCHER K,2026-05-05,DET,BOS,,,,,,,0.0305,3.1%,,NO PLAY,False,Low K average,UNDER 5.5 Ks,-132.0,0.5305,5.5,Framber Valdez
-PITCHER K,2026-05-05,SEA,ATL,,,,,,,0.0286,2.9%,,NO PLAY,False,Facing high-K team,OVER 4.5 Ks,-135.0,0.5286,4.5,Bryce Elder
-PITCHER K,2026-05-05,COL,NYM,,,,,,,0.017,1.7%,,NO PLAY,False,Facing high-K team,OVER 6.5 Ks,124.0,0.517,6.5,Freddy Peralta
-PITCHER K,2026-05-05,MIA,BAL,,,,,,,0.0141,1.4%,,NO PLAY,False,Facing high-K team,OVER 5.5 Ks,115.0,0.5141,5.5,Sandy Alcantara
-PITCHER K,2026-05-05,WSH,MIN,,,,,,,0.0128,1.3%,,NO PLAY,False,Standard play,UNDER 5.5 Ks,-123.0,0.5128,5.5,Taj Bradley
-PITCHER K,2026-05-05,COL,NYM,,,,,,,0.0128,1.3%,,NO PLAY,False,Standard play,OVER 3.5 Ks,-134.0,0.5128,3.5,Michael Lorenzen
-PITCHER K,2026-05-05,STL,MIL,,,,,,,0.0012,0.1%,,NO PLAY,False,Standard play,OVER 3.5 Ks,-150.0,0.5012,3.5,Andre Pallante
-PITCHER OUTS,2026-05-05,MIA,BAL,,,,,,,0.442,44.2%,,HIGH,True,Strong value,OVER 16.5 outs,-120.0,0.942,16.5,Chris Bassitt
-PITCHER OUTS,2026-05-05,SF,SD,,,,,,,0.4287,42.9%,,HIGH,True,Strong value,OVER 14.5 outs,-167.0,0.9287,14.5,Walker Buehler
-PITCHER OUTS,2026-05-05,WSH,MIN,,,,,,,0.4286,42.9%,,HIGH,False,Strong value,OVER 15.5 outs,110.0,0.9286,15.5,Cade Cavalli
-PITCHER OUTS,2026-05-05,COL,NYM,,,,,,,0.3927,39.3%,,HIGH,False,Strong value,OVER 13.6 outs,-110.0,0.8927,13.6,Michael Lorenzen
-PITCHER OUTS,2026-05-05,ARI,PIT,,,,,,,0.3062,30.6%,,HIGH,False,Strong value,OVER 15.5 outs,130.0,0.8062,15.5,Bubba Chandler
-PITCHER OUTS,2026-05-05,HOU,LAD,,,,,,,0.2438,24.4%,,HIGH,False,Strong value,UNDER 17.5 outs,125.0,0.7438,17.5,Shohei Ohtani
-PITCHER OUTS,2026-05-05,TB,TOR,,,,,,,0.2302,23.0%,,HIGH,False,Strong value,OVER 17.5 outs,-125.0,0.7302,17.5,Drew Rasmussen
-PITCHER OUTS,2026-05-05,MIA,BAL,,,,,,,0.2212,22.1%,,HIGH,False,Strong value,UNDER 18.5 outs,-160.0,0.7212,18.5,Sandy Alcantara
-PITCHER OUTS,2026-05-05,SEA,ATL,,,,,,,0.2129,21.3%,,HIGH,False,Strong value,UNDER 17.5 outs,-119.0,0.7129,17.5,Bryce Elder
-PITCHER OUTS,2026-05-05,PHI,OAK,,,,,,,0.1915,19.2%,,HIGH,False,Strong value,OVER 16.8 outs,-110.0,0.6915,16.8,Cristopher Sánchez
-PITCHER OUTS,2026-05-05,LAA,CWS,,,,,,,0.1712,17.1%,,HIGH,False,Strong value,OVER 15.5 outs,-115.0,0.6712,15.5,Erick Fedde
-PITCHER OUTS,2026-05-05,KC,CLE,,,,,,,0.1685,16.8%,,HIGH,False,High walk rate; Strong value,UNDER 17.5 outs,125.0,0.6685,17.5,Gavin Williams
-PITCHER OUTS,2026-05-05,NYY,TEX,,,,,,,0.1335,13.4%,,HIGH,False,Strong value,OVER 16.5 outs,-105.0,0.6335,16.5,Jacob deGrom
-PITCHER OUTS,2026-05-05,KC,CLE,,,,,,,0.0983,9.8%,,NO PLAY,False,Standard play,UNDER 14.5 outs,108.0,0.5983,14.5,Stephen Kolek
-PITCHER OUTS,2026-05-05,SEA,ATL,,,,,,,0.0902,9.0%,,NO PLAY,False,Deep into games consistently; Efficient pitcher,OVER 18.5 outs,133.0,0.5902,18.5,George Kirby
-PITCHER OUTS,2026-05-05,CHC,CIN,,,,,,,0.0897,9.0%,,NO PLAY,False,Standard play,OVER 15.5 outs,-121.0,0.5897,15.5,Andrew Abbott
-PITCHER OUTS,2026-05-05,TB,TOR,,,,,,,0.0609,6.1%,,NO PLAY,False,Standard play,OVER 17.5 outs,-138.0,0.5609,17.5,Kevin Gausman
-PITCHER OUTS,2026-05-05,STL,MIL,,,,,,,0.0582,5.8%,,NO PLAY,False,Standard play,OVER 14.5 outs,-110.0,0.5582,14.5,Brandon Sproat
-PITCHER OUTS,2026-05-05,ARI,PIT,,,,,,,0.0539,5.4%,,NO PLAY,False,Standard play,OVER 16.5 outs,-120.0,0.5539,16.5,Eduardo Rodriguez
-PITCHER OUTS,2026-05-05,DET,BOS,,,,,,,0.0535,5.3%,,NO PLAY,False,Standard play,OVER 17.5 outs,-165.0,0.5535,17.5,Framber Valdez
-PITCHER OUTS,2026-05-05,SF,SD,,,,,,,0.0467,4.7%,,NO PLAY,False,Deep into games consistently; Efficient pitcher,OVER 18.5 outs,110.0,0.5467,18.5,Logan Webb
-PITCHER OUTS,2026-05-05,WSH,MIN,,,,,,,0.0418,4.2%,,NO PLAY,False,Standard play,OVER 17.5 outs,-145.0,0.5418,17.5,Taj Bradley
-PITCHER OUTS,2026-05-05,COL,NYM,,,,,,,0.0397,4.0%,,NO PLAY,False,Standard play,OVER 15.9 outs,-110.0,0.5397,15.9,Freddy Peralta
-PITCHER OUTS,2026-05-05,CHC,CIN,,,,,,,0.038,3.8%,,NO PLAY,False,Standard play,OVER 17.5 outs,-165.0,0.538,17.5,Jameson Taillon
-PITCHER OUTS,2026-05-05,STL,MIL,,,,,,,0.0305,3.1%,,NO PLAY,False,Standard play,OVER 15.2 outs,-110.0,0.5305,15.2,Andre Pallante
-PITCHER OUTS,2026-05-05,PHI,OAK,,,,,,,0.0258,2.6%,,NO PLAY,False,Inefficient pitcher; High walk rate,UNDER 15.9 outs,-110.0,0.5258,15.9,Luis Severino
+PITCHER K,2026-05-05,LAA,CWS,,,,,,,0.2639,26.4%,,HIGH,True,Facing high-K team; Strong value; Starter confirmed,OVER 3.5 Ks,-155.0,0.7639,3.5,Erick Fedde
+PITCHER K,2026-05-05,SF,SD,,,,,,,0.2629,26.3%,,HIGH,True,Low K average; Strong value; Starter confirmed,UNDER 3.5 Ks,-107.0,0.7629,3.5,Walker Buehler
+PITCHER K,2026-05-05,MIA,BAL,,,,,,,0.2591,25.9%,,HIGH,False,Facing high-K team; Strong value; Starter confirmed,OVER 4.5 Ks,102.0,0.7591,4.5,Chris Bassitt
+PITCHER K,2026-05-05,SEA,ATL,,,,,,,0.2425,24.3%,,HIGH,False,Low K average; Strong value; Starter confirmed,UNDER 5.5 Ks,-150.0,0.7425,5.5,George Kirby
+PITCHER K,2026-05-05,HOU,LAD,,,,,,,0.2266,22.7%,,HIGH,False,Strong value; Starter confirmed,UNDER 6.5 Ks,118.0,0.7266,6.5,Shohei Ohtani
+PITCHER K,2026-05-05,CHC,CIN,,,,,,,0.2239,22.4%,,HIGH,False,Facing high-K team; Strong value; Starter confirmed,OVER 4.5 Ks,-155.0,0.7239,4.5,Jameson Taillon
+PITCHER K,2026-05-05,TB,TOR,,,,,,,0.1967,19.7%,,HIGH,False,Strong value; Starter confirmed,UNDER 5.5 Ks,-139.0,0.6967,5.5,Kevin Gausman
+PITCHER K,2026-05-05,ARI,PIT,,,,,,,0.1859,18.6%,,HIGH,False,Facing high-K team; Strong value; Starter confirmed,OVER 5.5 Ks,124.0,0.6859,5.5,Eduardo Rodriguez
+PITCHER K,2026-05-05,PHI,OAK,,,,,,,0.1817,18.2%,,HIGH,False,Strong value; Starter confirmed,UNDER 5.2 Ks,-110.0,0.6817,5.2,Luis Severino
+PITCHER K,2026-05-05,PHI,OAK,,,,,,,0.1711,17.1%,,HIGH,False,Strong value; Starter confirmed,UNDER 6.6 Ks,-110.0,0.6711,6.6,Cristopher Sánchez
+PITCHER K,2026-05-05,KC,CLE,,,,,,,0.1634,16.3%,,HIGH,False,Low K average; Strong value; Starter confirmed,UNDER 2.5 Ks,110.0,0.6634,2.5,Stephen Kolek
+PITCHER K,2026-05-05,ARI,PIT,,,,,,,0.1566,15.7%,,HIGH,False,Low K average; Strong value; Starter confirmed,UNDER 4.5 Ks,-154.0,0.6566,4.5,Bubba Chandler
+PITCHER K,2026-05-05,CHC,CIN,,,,,,,0.1526,15.3%,,HIGH,False,Low K average; Strong value; Starter confirmed,UNDER 3.5 Ks,120.0,0.6526,3.5,Andrew Abbott
+PITCHER K,2026-05-05,KC,CLE,,,,,,,0.1357,13.6%,,HIGH,False,Strong value; Starter confirmed,UNDER 5.5 Ks,102.0,0.6357,5.5,Gavin Williams
+PITCHER K,2026-05-05,NYY,TEX,,,,,,,0.1262,12.6%,,HIGH,False,Strong value; Starter confirmed,UNDER 6.5 Ks,-146.0,0.6262,6.5,Jacob deGrom
+PITCHER K,2026-05-05,WSH,MIN,,,,,,,0.1239,12.4%,,HIGH,False,Strong value; Starter confirmed,UNDER 4.5 Ks,122.0,0.6239,4.5,Cade Cavalli
+PITCHER K,2026-05-05,SF,SD,,,,,,,0.1227,12.3%,,HIGH,False,Facing high-K team; Strong value; Starter confirmed,OVER 5.5 Ks,-101.0,0.6227,5.5,Logan Webb
+PITCHER K,2026-05-05,STL,MIL,,,,,,,0.0655,6.6%,,NO PLAY,False,Low K average; Starter confirmed,UNDER 4.5 Ks,-151.0,0.5655,4.5,Brandon Sproat
+PITCHER K,2026-05-05,TB,TOR,,,,,,,0.0637,6.4%,,NO PLAY,False,Facing low-K team; Starter confirmed,UNDER 4.5 Ks,-111.0,0.5637,4.5,Drew Rasmussen
+PITCHER K,2026-05-05,DET,BOS,,,,,,,0.0305,3.1%,,NO PLAY,False,Low K average; Starter confirmed,UNDER 5.5 Ks,-132.0,0.5305,5.5,Framber Valdez
+PITCHER K,2026-05-05,SEA,ATL,,,,,,,0.0286,2.9%,,NO PLAY,False,Facing high-K team; Starter confirmed,OVER 4.5 Ks,-135.0,0.5286,4.5,Bryce Elder
+PITCHER K,2026-05-05,COL,NYM,,,,,,,0.017,1.7%,,NO PLAY,False,Facing high-K team; Starter confirmed,OVER 6.5 Ks,124.0,0.517,6.5,Freddy Peralta
+PITCHER K,2026-05-05,MIA,BAL,,,,,,,0.0141,1.4%,,NO PLAY,False,Facing high-K team; Starter confirmed,OVER 5.5 Ks,115.0,0.5141,5.5,Sandy Alcantara
+PITCHER K,2026-05-05,WSH,MIN,,,,,,,0.0128,1.3%,,NO PLAY,False,Standard play; Starter confirmed,UNDER 5.5 Ks,-123.0,0.5128,5.5,Taj Bradley
+PITCHER K,2026-05-05,COL,NYM,,,,,,,0.0128,1.3%,,NO PLAY,False,Standard play; Starter confirmed,OVER 3.5 Ks,-134.0,0.5128,3.5,Michael Lorenzen
+PITCHER K,2026-05-05,STL,MIL,,,,,,,0.0012,0.1%,,NO PLAY,False,Standard play; Starter confirmed,OVER 3.5 Ks,-150.0,0.5012,3.5,Andre Pallante
+PITCHER OUTS,2026-05-05,MIA,BAL,,,,,,,0.442,44.2%,,HIGH,True,Strong value; Starter confirmed,OVER 16.5 outs,-120.0,0.942,16.5,Chris Bassitt
+PITCHER OUTS,2026-05-05,SF,SD,,,,,,,0.4287,42.9%,,HIGH,True,Strong value; Starter confirmed,OVER 14.5 outs,-167.0,0.9287,14.5,Walker Buehler
+PITCHER OUTS,2026-05-05,WSH,MIN,,,,,,,0.4286,42.9%,,HIGH,False,Strong value; Starter confirmed,OVER 15.5 outs,110.0,0.9286,15.5,Cade Cavalli
+PITCHER OUTS,2026-05-05,COL,NYM,,,,,,,0.3927,39.3%,,HIGH,False,Strong value; Starter confirmed,OVER 13.6 outs,-110.0,0.8927,13.6,Michael Lorenzen
+PITCHER OUTS,2026-05-05,ARI,PIT,,,,,,,0.3062,30.6%,,HIGH,False,Strong value; Starter confirmed,OVER 15.5 outs,130.0,0.8062,15.5,Bubba Chandler
+PITCHER OUTS,2026-05-05,HOU,LAD,,,,,,,0.2438,24.4%,,HIGH,False,Strong value; Starter confirmed,UNDER 17.5 outs,125.0,0.7438,17.5,Shohei Ohtani
+PITCHER OUTS,2026-05-05,TB,TOR,,,,,,,0.2302,23.0%,,HIGH,False,Strong value; Starter confirmed,OVER 17.5 outs,-125.0,0.7302,17.5,Drew Rasmussen
+PITCHER OUTS,2026-05-05,MIA,BAL,,,,,,,0.2212,22.1%,,HIGH,False,Strong value; Starter confirmed,UNDER 18.5 outs,-160.0,0.7212,18.5,Sandy Alcantara
+PITCHER OUTS,2026-05-05,SEA,ATL,,,,,,,0.2129,21.3%,,HIGH,False,Strong value; Starter confirmed,UNDER 17.5 outs,-119.0,0.7129,17.5,Bryce Elder
+PITCHER OUTS,2026-05-05,PHI,OAK,,,,,,,0.1915,19.2%,,HIGH,False,Strong value; Starter confirmed,OVER 16.8 outs,-110.0,0.6915,16.8,Cristopher Sánchez
+PITCHER OUTS,2026-05-05,LAA,CWS,,,,,,,0.1712,17.1%,,HIGH,False,Strong value; Starter confirmed,OVER 15.5 outs,-115.0,0.6712,15.5,Erick Fedde
+PITCHER OUTS,2026-05-05,KC,CLE,,,,,,,0.1685,16.8%,,HIGH,False,High walk rate; Strong value; Starter confirmed,UNDER 17.5 outs,125.0,0.6685,17.5,Gavin Williams
+PITCHER OUTS,2026-05-05,NYY,TEX,,,,,,,0.1335,13.4%,,HIGH,False,Strong value; Starter confirmed,OVER 16.5 outs,-105.0,0.6335,16.5,Jacob deGrom
+PITCHER OUTS,2026-05-05,KC,CLE,,,,,,,0.0983,9.8%,,NO PLAY,False,Standard play; Starter confirmed,UNDER 14.5 outs,108.0,0.5983,14.5,Stephen Kolek
+PITCHER OUTS,2026-05-05,SEA,ATL,,,,,,,0.0902,9.0%,,NO PLAY,False,Deep into games consistently; Efficient pitcher; Starter confirmed,OVER 18.5 outs,133.0,0.5902,18.5,George Kirby
+PITCHER OUTS,2026-05-05,CHC,CIN,,,,,,,0.0897,9.0%,,NO PLAY,False,Standard play; Starter confirmed,OVER 15.5 outs,-121.0,0.5897,15.5,Andrew Abbott
+PITCHER OUTS,2026-05-05,TB,TOR,,,,,,,0.0609,6.1%,,NO PLAY,False,Standard play; Starter confirmed,OVER 17.5 outs,-138.0,0.5609,17.5,Kevin Gausman
+PITCHER OUTS,2026-05-05,STL,MIL,,,,,,,0.0582,5.8%,,NO PLAY,False,Standard play; Starter confirmed,OVER 14.5 outs,-110.0,0.5582,14.5,Brandon Sproat
+PITCHER OUTS,2026-05-05,ARI,PIT,,,,,,,0.0539,5.4%,,NO PLAY,False,Standard play; Starter confirmed,OVER 16.5 outs,-120.0,0.5539,16.5,Eduardo Rodriguez
+PITCHER OUTS,2026-05-05,DET,BOS,,,,,,,0.0535,5.3%,,NO PLAY,False,Standard play; Starter confirmed,OVER 17.5 outs,-165.0,0.5535,17.5,Framber Valdez
+PITCHER OUTS,2026-05-05,SF,SD,,,,,,,0.0467,4.7%,,NO PLAY,False,Deep into games consistently; Efficient pitcher; Starter confirmed,OVER 18.5 outs,110.0,0.5467,18.5,Logan Webb
+PITCHER OUTS,2026-05-05,WSH,MIN,,,,,,,0.0418,4.2%,,NO PLAY,False,Standard play; Starter confirmed,OVER 17.5 outs,-145.0,0.5418,17.5,Taj Bradley
+PITCHER OUTS,2026-05-05,COL,NYM,,,,,,,0.0397,4.0%,,NO PLAY,False,Standard play; Starter confirmed,OVER 15.9 outs,-110.0,0.5397,15.9,Freddy Peralta
+PITCHER OUTS,2026-05-05,CHC,CIN,,,,,,,0.038,3.8%,,NO PLAY,False,Standard play; Starter confirmed,OVER 17.5 outs,-165.0,0.538,17.5,Jameson Taillon
+PITCHER OUTS,2026-05-05,STL,MIL,,,,,,,0.0305,3.1%,,NO PLAY,False,Standard play; Starter confirmed,OVER 15.2 outs,-110.0,0.5305,15.2,Andre Pallante
+PITCHER OUTS,2026-05-05,PHI,OAK,,,,,,,0.0258,2.6%,,NO PLAY,False,Inefficient pitcher; High walk rate; Starter confirmed,UNDER 15.9 outs,-110.0,0.5258,15.9,Luis Severino
 BATTER HITS,2026-05-05,HOU,LAD,,,,,,,0.3358,33.6%,,HIGH,True,Cold streak; Strong value,UNDER 0.5 hits,159.0,0.8358,0.5,Dalton Rushing
 BATTER HITS,2026-05-05,SEA,ATL,,,,,,,0.3296,33.0%,,HIGH,True,Strong value,OVER 0.5 hits,-105.0,0.8296,0.5,Leo Rivas
 BATTER HITS,2026-05-05,NYY,TEX,,,,,,,0.3203,32.0%,,HIGH,False,Strong value,UNDER 0.5 hits,143.0,0.8203,0.5,Ben Rice

@@ -1,6 +1,6 @@
 # MLB Picks - Tuesday, May 05, 2026
 
-*Last updated: 2026-05-05 04:01 PM ET*
+*Last updated: 2026-05-05 06:14 PM ET*
 
 ## Run Line (+1.5)
 
@@ -49,8 +49,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Erick Fedde (CWS @ LAA) | OVER 3.5 Ks | -155.0 | 76.4% | 26.4% | HIGH | Facing high-K team; Strong value |
-| Walker Buehler (SD @ SF) | UNDER 3.5 Ks | -107.0 | 76.3% | 26.3% | HIGH | Low K average; Strong value |
+| Erick Fedde (CWS @ LAA) | OVER 3.5 Ks | -155.0 | 76.4% | 26.4% | HIGH | Facing high-K team; Strong value; Starter confirmed |
+| Walker Buehler (SD @ SF) | UNDER 3.5 Ks | -107.0 | 76.3% | 26.3% | HIGH | Low K average; Strong value; Starter confirmed |
 
 ---
 
@@ -60,8 +60,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Chris Bassitt (BAL @ MIA) | OVER 16.5 outs | -120.0 | 94.2% | 44.2% | HIGH | Strong value |
-| Walker Buehler (SD @ SF) | OVER 14.5 outs | -167.0 | 92.9% | 42.9% | HIGH | Strong value |
+| Chris Bassitt (BAL @ MIA) | OVER 16.5 outs | -120.0 | 94.2% | 44.2% | HIGH | Strong value; Starter confirmed |
+| Walker Buehler (SD @ SF) | OVER 14.5 outs | -167.0 | 92.9% | 42.9% | HIGH | Strong value; Starter confirmed |
 
 ---
 
