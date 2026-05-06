@@ -1,6 +1,6 @@
 # MLB Picks - Wednesday, May 06, 2026
 
-*Last updated: 2026-05-06 04:09 PM ET*
+*Last updated: 2026-05-06 06:22 PM ET*
 
 ## Run Line (+1.5)
 
@@ -49,8 +49,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Shane McClanahan (TOR @ TB) | UNDER 4.5 Ks | +114.0 | 83.8% | 33.8% | HIGH | Facing low-K team; Strong value |
-| Adrian Houser (SD @ SF) | OVER 3.5 Ks | +120.0 | 83.6% | 33.6% | HIGH | Facing high-K team; Strong value |
+| Shane McClanahan (TOR @ TB) | UNDER 4.5 Ks | +114.0 | 83.8% | 33.8% | HIGH | Facing low-K team; Strong value; Starter confirmed |
+| Adrian Houser (SD @ SF) | OVER 3.5 Ks | +120.0 | 83.6% | 33.6% | HIGH | Facing high-K team; Strong value; Starter confirmed |
 
 ---
 
@@ -60,8 +60,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Brady Singer (CIN @ CHC) | OVER 15.5 outs | +107.0 | 92.0% | 42.0% | HIGH | Strong value |
-| Michael Lorenzen (NYM @ COL) | OVER 15.5 outs | +100.0 | 89.3% | 39.3% | HIGH | Strong value |
+| Brady Singer (CIN @ CHC) | OVER 15.5 outs | +107.0 | 92.0% | 42.0% | HIGH | Strong value; Starter confirmed |
+| Michael Lorenzen (NYM @ COL) | OVER 15.5 outs | +100.0 | 89.3% | 39.3% | HIGH | Strong value; Starter confirmed |
 
 ---
 
@@ -71,7 +71,7 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Leo Rivas (ATL @ SEA) | OVER 0.5 hits | -115.0 | 84.5% | 34.5% | HIGH | Strong value |
+| Leo Rivas (ATL @ SEA) | OVER 0.5 hits | -115.0 | 84.5% | 34.5% | HIGH | Strong value; In starting lineup |
 | Ben Rice (TEX @ NYY) | UNDER 0.5 hits | +158.0 | 82.0% | 32.0% | HIGH | Strong value |
 
 ---
