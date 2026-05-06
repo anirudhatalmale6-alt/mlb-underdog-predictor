@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, May 05, 2026
+# MLB Picks - Wednesday, May 06, 2026
 
-*Last updated: 2026-05-05 06:14 PM ET*
+*Last updated: 2026-05-06 04:09 PM ET*
 
 ## Run Line (+1.5)
 
@@ -8,7 +8,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| NYM @ COL | Freddy Peralta vs Michael Lorenzen | COL +1.5 | -105.0 | 63.3% | 12.0% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
+| TEX @ NYY | Nathan Eovaldi vs Will Warren | TEX +1.5 | -120.0 | 68.9% | 14.4% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued |
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| ATL @ SEA | Bryce Elder vs George Kirby | 7.5 | UNDER | 65.8% | 15.8% | MEDIUM | Pitcher-friendly park favors UNDER; Elite SP matchup; Strong value; Both teams travel-fatigued |
+| ATL @ SEA | Martín Pérez vs Bryan Woo | 8.0 | UNDER | 65.2% | 15.2% | MEDIUM | Pitcher-friendly park favors UNDER; Elite SP matchup; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TEX @ NYY | Jacob deGrom vs Elmer Rodríguez | 5.0 | UNDER | 65.7% | 15.7% | MEDIUM | Hitter-friendly park, but other factors favor UNDER; Elite SP matchup; Strong value; Both teams travel-fatigued |
+| TEX @ NYY | Nathan Eovaldi vs Will Warren | 4.7 | UNDER | 63.4% | 13.4% | LOW | Hitter-friendly park, but other factors favor UNDER; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -38,8 +38,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TOR @ TB | Kevin Gausman vs Drew Rasmussen | TOR | -110.0 | 62.4% | 10.0% | HIGH | Elite pitching matchup; Strong value |
-| PIT @ ARI | Bubba Chandler vs Eduardo Rodriguez | ARI | -110.0 | 62.3% | 9.9% | HIGH | Standard play |
+| CIN @ CHC | Brady Singer vs Colin Rea | CHC | -110.0 | 61.0% | 8.7% | HIGH | Standard play |
+| MIL @ STL | Brandon Sproat vs Andre Pallante | STL | -110.0 | 58.7% | 6.4% | HIGH | Standard play |
 
 ---
 
@@ -49,8 +49,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Erick Fedde (CWS @ LAA) | OVER 3.5 Ks | -155.0 | 76.4% | 26.4% | HIGH | Facing high-K team; Strong value; Starter confirmed |
-| Walker Buehler (SD @ SF) | UNDER 3.5 Ks | -107.0 | 76.3% | 26.3% | HIGH | Low K average; Strong value; Starter confirmed |
+| Shane McClanahan (TOR @ TB) | UNDER 4.5 Ks | +114.0 | 83.8% | 33.8% | HIGH | Facing low-K team; Strong value |
+| Adrian Houser (SD @ SF) | OVER 3.5 Ks | +120.0 | 83.6% | 33.6% | HIGH | Facing high-K team; Strong value |
 
 ---
 
@@ -60,8 +60,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Chris Bassitt (BAL @ MIA) | OVER 16.5 outs | -120.0 | 94.2% | 44.2% | HIGH | Strong value; Starter confirmed |
-| Walker Buehler (SD @ SF) | OVER 14.5 outs | -167.0 | 92.9% | 42.9% | HIGH | Strong value; Starter confirmed |
+| Brady Singer (CIN @ CHC) | OVER 15.5 outs | +107.0 | 92.0% | 42.0% | HIGH | Strong value |
+| Michael Lorenzen (NYM @ COL) | OVER 15.5 outs | +100.0 | 89.3% | 39.3% | HIGH | Strong value |
 
 ---
 
@@ -71,8 +71,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Dalton Rushing (LAD @ HOU) | UNDER 0.5 hits | +159.0 | 83.6% | 33.6% | HIGH | Cold streak; Strong value |
-| Leo Rivas (ATL @ SEA) | OVER 0.5 hits | -105.0 | 83.0% | 33.0% | HIGH | Strong value |
+| Leo Rivas (ATL @ SEA) | OVER 0.5 hits | -115.0 | 84.5% | 34.5% | HIGH | Strong value |
+| Ben Rice (TEX @ NYY) | UNDER 0.5 hits | +158.0 | 82.0% | 32.0% | HIGH | Strong value |
 
 ---
 
