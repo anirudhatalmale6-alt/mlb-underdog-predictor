@@ -1,6 +1,6 @@
 # MLB Picks - Thursday, May 07, 2026
 
-*Last updated: 2026-05-07 04:12 PM ET*
+*Last updated: 2026-05-07 06:48 PM ET*
 
 ## Run Line (+1.5)
 
@@ -49,8 +49,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Simeon Woods Richardson (MIN @ WSH) | OVER 3.5 Ks | -120.0 | 76.0% | 26.0% | HIGH | Facing high-K team; Strong value |
-| Zac Gallen (PIT @ ARI) | OVER 4.5 Ks | -134.0 | 75.8% | 25.8% | HIGH | Facing high-K team; Strong value |
+| Simeon Woods Richardson (MIN @ WSH) | OVER 3.5 Ks | -120.0 | 76.0% | 26.0% | HIGH | Facing high-K team; Strong value; Starter confirmed |
+| Zac Gallen (PIT @ ARI) | OVER 4.5 Ks | -134.0 | 75.8% | 25.8% | HIGH | Facing high-K team; Strong value; Starter confirmed |
 
 ---
 
@@ -60,8 +60,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| J.T. Ginn (OAK @ PHI) | OVER 12.9 outs | -110.0 | 95.0% | 45.0% | HIGH | Strong value |
-| Zac Gallen (PIT @ ARI) | OVER 15.5 outs | -106.0 | 88.4% | 38.4% | HIGH | Strong value |
+| J.T. Ginn (OAK @ PHI) | OVER 12.9 outs | -110.0 | 95.0% | 45.0% | HIGH | Strong value; Starter confirmed |
+| Zac Gallen (PIT @ ARI) | OVER 15.5 outs | -106.0 | 88.4% | 38.4% | HIGH | Strong value; Starter confirmed |
 
 ---
 
@@ -71,7 +71,7 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Mickey Moniak (NYM @ COL) | UNDER 1.5 hits | -227.0 | 80.8% | 30.8% | HIGH | Strong value |
+| Mickey Moniak (NYM @ COL) | UNDER 1.5 hits | -227.0 | 80.8% | 30.8% | HIGH | Strong value; In starting lineup |
 | Colton Cowser (BAL @ MIA) | OVER 1.5 hits | +450.0 | 79.1% | 29.1% | HIGH | Strong value |
 
 ---
