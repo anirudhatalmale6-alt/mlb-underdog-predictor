@@ -1,6 +1,6 @@
-# MLB Picks - Wednesday, May 06, 2026
+# MLB Picks - Thursday, May 07, 2026
 
-*Last updated: 2026-05-06 06:22 PM ET*
+*Last updated: 2026-05-07 04:12 PM ET*
 
 ## Run Line (+1.5)
 
@@ -8,7 +8,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| TEX @ NYY | Nathan Eovaldi vs Will Warren | TEX +1.5 | -120.0 | 68.9% | 14.4% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued |
+| NYM @ COL | Christian Scott vs Jose Quintana | COL +1.5 | +100.0 | 73.8% | 23.8% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| ATL @ SEA | Martín Pérez vs Bryan Woo | 8.0 | UNDER | 65.2% | 15.2% | MEDIUM | Pitcher-friendly park favors UNDER; Elite SP matchup; Strong value; Both teams travel-fatigued |
+| CIN @ CHC | Rhett Lowder vs Shota Imanaga | 9.0 | UNDER | 65.4% | 15.4% | MEDIUM | Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TEX @ NYY | Nathan Eovaldi vs Will Warren | 4.7 | UNDER | 63.4% | 13.4% | LOW | Hitter-friendly park, but other factors favor UNDER; Strong value; Both teams travel-fatigued |
+| STL @ SD | Matthew Liberatore vs Michael King | 4.4 | UNDER | 63.2% | 13.2% | LOW | Pitcher-friendly park favors UNDER; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -38,8 +38,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CIN @ CHC | Brady Singer vs Colin Rea | CHC | -110.0 | 61.0% | 8.7% | HIGH | Standard play |
-| MIL @ STL | Brandon Sproat vs Andre Pallante | STL | -110.0 | 58.7% | 6.4% | HIGH | Standard play |
+| TEX @ NYY | MacKenzie Gore vs Paul Blackburn | NYY | -110.0 | 61.9% | 9.5% | HIGH | Standard play |
+| STL @ SD | Matthew Liberatore vs Michael King | SD | -110.0 | 60.2% | 7.8% | HIGH | Standard play |
 
 ---
 
@@ -49,8 +49,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Shane McClanahan (TOR @ TB) | UNDER 4.5 Ks | +114.0 | 83.8% | 33.8% | HIGH | Facing low-K team; Strong value; Starter confirmed |
-| Adrian Houser (SD @ SF) | OVER 3.5 Ks | +120.0 | 83.6% | 33.6% | HIGH | Facing high-K team; Strong value; Starter confirmed |
+| Simeon Woods Richardson (MIN @ WSH) | OVER 3.5 Ks | -120.0 | 76.0% | 26.0% | HIGH | Facing high-K team; Strong value |
+| Zac Gallen (PIT @ ARI) | OVER 4.5 Ks | -134.0 | 75.8% | 25.8% | HIGH | Facing high-K team; Strong value |
 
 ---
 
@@ -60,8 +60,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Brady Singer (CIN @ CHC) | OVER 15.5 outs | +107.0 | 92.0% | 42.0% | HIGH | Strong value; Starter confirmed |
-| Michael Lorenzen (NYM @ COL) | OVER 15.5 outs | +100.0 | 89.3% | 39.3% | HIGH | Strong value; Starter confirmed |
+| J.T. Ginn (OAK @ PHI) | OVER 12.9 outs | -110.0 | 95.0% | 45.0% | HIGH | Strong value |
+| Zac Gallen (PIT @ ARI) | OVER 15.5 outs | -106.0 | 88.4% | 38.4% | HIGH | Strong value |
 
 ---
 
@@ -71,8 +71,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Leo Rivas (ATL @ SEA) | OVER 0.5 hits | -115.0 | 84.5% | 34.5% | HIGH | Strong value; In starting lineup |
-| Ben Rice (TEX @ NYY) | UNDER 0.5 hits | +158.0 | 82.0% | 32.0% | HIGH | Strong value |
+| Mickey Moniak (NYM @ COL) | UNDER 1.5 hits | -227.0 | 80.8% | 30.8% | HIGH | Strong value |
+| Colton Cowser (BAL @ MIA) | OVER 1.5 hits | +450.0 | 79.1% | 29.1% | HIGH | Strong value |
 
 ---
 
