@@ -1,6 +1,6 @@
-# MLB Picks - Thursday, May 07, 2026
+# MLB Picks - Friday, May 08, 2026
 
-*Last updated: 2026-05-07 06:48 PM ET*
+*Last updated: 2026-05-08 03:33 PM ET*
 
 ## Run Line (+1.5)
 
@@ -8,7 +8,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| NYM @ COL | Christian Scott vs Jose Quintana | COL +1.5 | +100.0 | 73.8% | 23.8% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line; Favorite is travel-fatigued; Home underdog |
+| MIN @ CLE | Connor Prielipp vs Parker Messick | MIN +1.5 | -174.0 | 73.3% | 9.8% | MEDIUM | Strong ML probability boosts +1.5 cover; Favorite is travel-fatigued |
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CIN @ CHC | Rhett Lowder vs Shota Imanaga | 9.0 | UNDER | 65.4% | 15.4% | MEDIUM | Strong value; Both teams travel-fatigued |
+| ATL @ LAD | Chris Sale vs Emmet Sheehan | 8.0 | UNDER | 69.1% | 19.1% | HIGH | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| STL @ SD | Matthew Liberatore vs Michael King | 4.4 | UNDER | 63.2% | 13.2% | LOW | Pitcher-friendly park favors UNDER; Strong value; Both teams travel-fatigued |
+| ATL @ LAD | Chris Sale vs Emmet Sheehan | 4.4 | UNDER | 67.1% | 17.1% | MEDIUM | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -38,8 +38,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TEX @ NYY | MacKenzie Gore vs Paul Blackburn | NYY | -110.0 | 61.9% | 9.5% | HIGH | Standard play |
-| STL @ SD | Matthew Liberatore vs Michael King | SD | -110.0 | 60.2% | 7.8% | HIGH | Standard play |
+| OAK @ BAL | Jacob Lopez vs Kyle Bradish | BAL | -110.0 | 61.7% | 9.3% | HIGH | Standard play |
+| SEA @ CWS | Emerson Hancock vs Sean Burke | SEA | -110.0 | 59.1% | 6.7% | HIGH | Elite pitching matchup |
 
 ---
 
@@ -49,8 +49,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Simeon Woods Richardson (MIN @ WSH) | OVER 3.5 Ks | -120.0 | 76.0% | 26.0% | HIGH | Facing high-K team; Strong value; Starter confirmed |
-| Zac Gallen (PIT @ ARI) | OVER 4.5 Ks | -134.0 | 75.8% | 25.8% | HIGH | Facing high-K team; Strong value; Starter confirmed |
+| Reid Detmers (LAA @ TOR) | UNDER 5.5 Ks | -115.0 | 83.5% | 33.5% | HIGH | Facing low-K team; Strong value |
+| Chris Sale (ATL @ LAD) | UNDER 6.5 Ks | +117.0 | 77.2% | 27.2% | HIGH | Strong value |
 
 ---
 
@@ -60,8 +60,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| J.T. Ginn (OAK @ PHI) | OVER 12.9 outs | -110.0 | 95.0% | 45.0% | HIGH | Strong value; Starter confirmed |
-| Zac Gallen (PIT @ ARI) | OVER 15.5 outs | -106.0 | 88.4% | 38.4% | HIGH | Strong value; Starter confirmed |
+| Carmen Mlodzinski (PIT @ SF) | OVER 13.5 outs | -110.0 | 93.3% | 43.3% | HIGH | Strong value |
+| Griffin Canning (STL @ SD) | OVER 15.5 outs | +125.0 | 88.2% | 38.2% | HIGH | Strong value |
 
 ---
 
@@ -71,8 +71,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Mickey Moniak (NYM @ COL) | UNDER 1.5 hits | -227.0 | 80.8% | 30.8% | HIGH | Strong value; In starting lineup |
-| Colton Cowser (BAL @ MIA) | OVER 1.5 hits | +450.0 | 79.1% | 29.1% | HIGH | Strong value |
+| Ben Rice (NYY @ MIL) | UNDER 0.5 hits | +115.0 | 82.0% | 32.0% | HIGH | Strong value |
+| Yoan Moncada (LAA @ TOR) | OVER 0.5 hits | -120.0 | 79.2% | 29.2% | HIGH | Strong value |
 
 ---
 
