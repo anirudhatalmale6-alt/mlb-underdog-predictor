@@ -1,6 +1,6 @@
 # MLB Picks - Friday, May 08, 2026
 
-*Last updated: 2026-05-08 03:33 PM ET*
+*Last updated: 2026-05-08 06:13 PM ET*
 
 ## Run Line (+1.5)
 
@@ -49,8 +49,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Reid Detmers (LAA @ TOR) | UNDER 5.5 Ks | -115.0 | 83.5% | 33.5% | HIGH | Facing low-K team; Strong value |
-| Chris Sale (ATL @ LAD) | UNDER 6.5 Ks | +117.0 | 77.2% | 27.2% | HIGH | Strong value |
+| Reid Detmers (LAA @ TOR) | UNDER 5.5 Ks | -115.0 | 83.5% | 33.5% | HIGH | Facing low-K team; Strong value; Starter confirmed |
+| Chris Sale (ATL @ LAD) | UNDER 6.5 Ks | +117.0 | 77.2% | 27.2% | HIGH | Strong value; Starter confirmed |
 
 ---
 
@@ -60,8 +60,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Carmen Mlodzinski (PIT @ SF) | OVER 13.5 outs | -110.0 | 93.3% | 43.3% | HIGH | Strong value |
-| Griffin Canning (STL @ SD) | OVER 15.5 outs | +125.0 | 88.2% | 38.2% | HIGH | Strong value |
+| Carmen Mlodzinski (PIT @ SF) | OVER 13.5 outs | -110.0 | 93.3% | 43.3% | HIGH | Strong value; Starter confirmed |
+| Griffin Canning (STL @ SD) | OVER 15.5 outs | +125.0 | 88.2% | 38.2% | HIGH | Strong value; Starter confirmed |
 
 ---
 
