@@ -1,6 +1,6 @@
 # MLB Picks - Saturday, May 09, 2026
 
-*Last updated: 2026-05-09 03:03 PM ET*
+*Last updated: 2026-05-09 05:54 PM ET*
 
 ## Run Line (+1.5)
 
@@ -49,8 +49,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Payton Tolle (TB @ BOS) | UNDER 5.5 Ks | +112.0 | 83.9% | 33.9% | HIGH | Strong value |
-| Braxton Ashcraft (PIT @ SF) | UNDER 4.5 Ks | -102.0 | 77.5% | 27.6% | HIGH | Strong value |
+| Payton Tolle (TB @ BOS) | UNDER 5.5 Ks | +112.0 | 83.9% | 33.9% | HIGH | Strong value; Starter confirmed |
+| Braxton Ashcraft (PIT @ SF) | UNDER 4.5 Ks | -102.0 | 77.5% | 27.6% | HIGH | Strong value; Starter confirmed |
 
 ---
 
@@ -60,8 +60,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Payton Tolle (TB @ BOS) | OVER 13.5 outs | -110.0 | 92.0% | 41.9% | HIGH | Strong value |
-| Zack Littell (WSH @ MIA) | OVER 13.7 outs | -110.0 | 86.1% | 36.1% | HIGH | Strong value |
+| Payton Tolle (TB @ BOS) | OVER 13.5 outs | -110.0 | 92.0% | 41.9% | HIGH | Strong value; Starter confirmed |
+| Zack Littell (WSH @ MIA) | OVER 13.7 outs | -110.0 | 86.1% | 36.1% | HIGH | Strong value; Starter confirmed |
 
 ---
 
