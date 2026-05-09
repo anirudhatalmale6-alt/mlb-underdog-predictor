@@ -1,6 +1,6 @@
-# MLB Picks - Friday, May 08, 2026
+# MLB Picks - Saturday, May 09, 2026
 
-*Last updated: 2026-05-08 06:13 PM ET*
+*Last updated: 2026-05-09 03:03 PM ET*
 
 ## Run Line (+1.5)
 
@@ -8,7 +8,7 @@
 
 | Matchup | Pitchers | Pick | Odds | Cover Prob | Edge | Confidence | Notes |
 |---------|----------|------|------|------------|------|------------|-------|
-| MIN @ CLE | Connor Prielipp vs Parker Messick | MIN +1.5 | -174.0 | 73.3% | 9.8% | MEDIUM | Strong ML probability boosts +1.5 cover; Favorite is travel-fatigued |
+| LAA @ TOR | Jack Kochanowicz vs Trey Yesavage | LAA +1.5 | -140.0 | 79.1% | 20.7% | HIGH | Strong ML probability boosts +1.5 cover; Strong value on run line |
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| ATL @ LAD | Chris Sale vs Emmet Sheehan | 8.0 | UNDER | 69.1% | 19.1% | HIGH | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
+| ATL @ LAD | Spencer Strider vs Blake Snell | 8.5 | UNDER | 68.2% | 18.2% | HIGH | High-scoring teams, but line is inflated; Weak pitching, but line already accounts for it; Strong value; Away team travel-fatigued |
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Matchup | Pitchers | Line | Pick | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| ATL @ LAD | Chris Sale vs Emmet Sheehan | 4.4 | UNDER | 67.1% | 17.1% | MEDIUM | High-scoring teams, but line is inflated; Strong value; Both teams travel-fatigued |
+| STL @ SD | Dustin May vs Randy Vásquez | 4.4 | UNDER | 62.6% | 12.7% | LOW | Pitcher-friendly park favors UNDER; Strong value; Both teams travel-fatigued |
 
 ---
 
@@ -38,8 +38,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| OAK @ BAL | Jacob Lopez vs Kyle Bradish | BAL | -110.0 | 61.7% | 9.3% | HIGH | Standard play |
-| SEA @ CWS | Emerson Hancock vs Sean Burke | SEA | -110.0 | 59.1% | 6.7% | HIGH | Elite pitching matchup |
+| LAA @ TOR | Jack Kochanowicz vs Trey Yesavage | LAA | -110.0 | 62.1% | 9.7% | HIGH | Elite pitching matchup |
+| STL @ SD | Dustin May vs Randy Vásquez | SD | -110.0 | 61.3% | 8.9% | HIGH | Standard play |
 
 ---
 
@@ -49,8 +49,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Reid Detmers (LAA @ TOR) | UNDER 5.5 Ks | -115.0 | 83.5% | 33.5% | HIGH | Facing low-K team; Strong value; Starter confirmed |
-| Chris Sale (ATL @ LAD) | UNDER 6.5 Ks | +117.0 | 77.2% | 27.2% | HIGH | Strong value; Starter confirmed |
+| Payton Tolle (TB @ BOS) | UNDER 5.5 Ks | +112.0 | 83.9% | 33.9% | HIGH | Strong value |
+| Braxton Ashcraft (PIT @ SF) | UNDER 4.5 Ks | -102.0 | 77.5% | 27.6% | HIGH | Strong value |
 
 ---
 
@@ -60,8 +60,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Carmen Mlodzinski (PIT @ SF) | OVER 13.5 outs | -110.0 | 93.3% | 43.3% | HIGH | Strong value; Starter confirmed |
-| Griffin Canning (STL @ SD) | OVER 15.5 outs | +125.0 | 88.2% | 38.2% | HIGH | Strong value; Starter confirmed |
+| Payton Tolle (TB @ BOS) | OVER 13.5 outs | -110.0 | 92.0% | 41.9% | HIGH | Strong value |
+| Zack Littell (WSH @ MIA) | OVER 13.7 outs | -110.0 | 86.1% | 36.1% | HIGH | Strong value |
 
 ---
 
@@ -71,8 +71,8 @@
 
 | Player | Pick | Odds | Probability | Edge | Confidence | Notes |
 |--------|------|------|-------------|------|------------|-------|
-| Ben Rice (NYY @ MIL) | UNDER 0.5 hits | +115.0 | 82.0% | 32.0% | HIGH | Strong value |
-| Yoan Moncada (LAA @ TOR) | OVER 0.5 hits | -120.0 | 79.2% | 29.2% | HIGH | Strong value |
+| Bo Naylor (MIN @ CLE) | OVER 0.5 hits | -105.0 | 79.5% | 29.5% | HIGH | Hot streak; Strong value |
+| Ben Rice (NYY @ MIL) | UNDER 0.5 hits | +123.0 | 79.2% | 29.2% | HIGH | Strong value |
 
 ---
 
