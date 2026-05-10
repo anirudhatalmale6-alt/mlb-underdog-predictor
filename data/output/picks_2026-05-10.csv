@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-05-10,CLE,MIN,Gavin Williams,Andrew Morris,CLE,-110,0.6066,0.0828,8.3%,HIGH,True,Standard play,
+1ST INN ML,2026-05-10,LAD,ATL,Justin Wrobleski,Bryce Elder,ATL,-110,0.6013,0.0775,7.7%,HIGH,True,Elite pitching matchup,
+1ST INN ML,2026-05-10,MIL,NYY,Logan Henderson,Carlos Rodón,NYY,-110,0.5854,0.0616,6.2%,HIGH,False,Standard play,
+1ST INN ML,2026-05-10,MIA,WSH,Sandy Alcantara,Cade Cavalli,MIA,-110,0.5723,0.0485,4.9%,MEDIUM,False,Standard play,
+1ST INN ML,2026-05-10,KC,DET,Noah Cameron,Brenan Hanifee,DET,-110,0.564,0.0401,4.0%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-05-10,BAL,OAK,Keegan Akin,Luis Severino,BAL,-110,0.5543,0.0305,3.1%,LOW,False,Standard play,
+1ST INN ML,2026-05-10,ARI,NYM,Eduardo Rodriguez,Huascar Brazobán,NYM,-110,0.5533,0.0295,3.0%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-10,BOS,TB,Payton Tolle,Nick Martinez,TB,-110,0.5529,0.029,2.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-10,TOR,LAA,Spencer Miles,José Soriano,LAA,-110,0.5511,0.0273,2.7%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-10,PHI,COL,Cristopher Sánchez,Tomoyuki Sugano,COL,-110,0.5387,0.0149,1.5%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-10,TEX,CHC,Jacob deGrom,Jameson Taillon,TEX,-110,0.52,-0.0038,-0.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-10,SD,STL,Walker Buehler,Kyle Leahy,SD,-110,0.5184,-0.0055,-0.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-10,CIN,HOU,Andrew Abbott,Kai-Wei Teng,HOU,-110,0.518,-0.0058,-0.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-10,CWS,SEA,Davis Martin,Logan Gilbert,SEA,-110,0.5035,-0.0203,-2.0%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-10,SF,PIT,Tyler Mahle,Bubba Chandler,PIT,-110,0.5024,-0.0215,-2.1%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-05-10,LAD,ATL,Justin Wrobleski,Bryce Elder,OVER 0.5,-110,0.5849,0.0611,6.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-10,BOS,TB,Payton Tolle,Nick Martinez,OVER 0.5,-110,0.5557,0.0319,3.2%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-05-10,KC,DET,Noah Cameron,Brenan Hanifee,UNDER 0.5,-110,0.5534,0.0296,3.0%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-05-10,PHI,COL,Cristopher Sánchez,Tomoyuki Sugano,OVER 0.5,-110,0.5511,0.0273,2.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-10,BAL,OAK,Keegan Akin,Luis Severino,UNDER 0.5,-110,0.5479,0.024,2.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-10,ARI,NYM,Eduardo Rodriguez,Huascar Brazobán,OVER 0.5,-110,0.5397,0.0159,1.6%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-05-10,CIN,HOU,Andrew Abbott,Kai-Wei Teng,UNDER 0.5,-110,0.5396,0.0158,1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-10,SF,PIT,Tyler Mahle,Bubba Chandler,UNDER 0.5,-110,0.5388,0.015,1.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-10,CWS,SEA,Davis Martin,Logan Gilbert,OVER 0.5,-110,0.5366,0.0127,1.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-10,MIA,WSH,Sandy Alcantara,Cade Cavalli,UNDER 0.5,-110,0.5176,-0.0062,-0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-10,TOR,LAA,Spencer Miles,José Soriano,OVER 0.5,-110,0.5112,-0.0126,-1.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-10,MIL,NYY,Logan Henderson,Carlos Rodón,UNDER 0.5,-110,0.5075,-0.0163,-1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-10,TEX,CHC,Jacob deGrom,Jameson Taillon,OVER 0.5,-110,0.5067,-0.0171,-1.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-10,SD,STL,Walker Buehler,Kyle Leahy,UNDER 0.5,-110,0.5048,-0.019,-1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-10,CLE,MIN,Gavin Williams,Andrew Morris,OVER 0.5,-110,0.5002,-0.0236,-2.4%,NO PLAY,False,Standard play,0.5
