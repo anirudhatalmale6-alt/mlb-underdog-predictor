@@ -1,6 +1,6 @@
-# MLB Picks - Sunday, May 10, 2026
+# MLB Picks - Monday, May 11, 2026
 
-*Last updated: 2026-05-10 05:55 PM ET*
+*Last updated: 2026-05-11 04:36 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIN @ CLE |
-| Starting Pitchers | Andrew Morris vs Gavin Williams |
+| Matchup | LAA @ CLE |
+| Starting Pitchers | TBD vs Joey Cantillo |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.3% |
+| Edge Over Market | 8.6% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,12 +21,12 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | ATL @ LAD |
-| Starting Pitchers | Bryce Elder vs Justin Wrobleski |
+| Matchup | SF @ LAD |
+| Starting Pitchers | Trevor McDonald vs Roki Sasaki |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.7% |
+| Edge Over Market | 8.3% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIN @ CLE | Andrew Morris vs Gavin Williams | CLE | -110 | 60.7% | 8.3% | HIGH | Standard play |
-| ATL @ LAD | Bryce Elder vs Justin Wrobleski | ATL | -110 | 60.1% | 7.7% | HIGH | Elite pitching matchup |
+| LAA @ CLE | TBD vs Joey Cantillo | CLE | -110 | 61.0% | 8.6% | HIGH | Standard play |
+| SF @ LAD | Trevor McDonald vs Roki Sasaki | SF | -110 | 60.7% | 8.3% | HIGH | Standard play |
 
 ---
 

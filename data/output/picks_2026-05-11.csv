@@ -1,0 +1,13 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-05-11,CLE,LAA,Joey Cantillo,TBD,CLE,-110,0.6097,0.0859,8.6%,HIGH,True,Standard play,
+1ST INN ML,2026-05-11,LAD,SF,Roki Sasaki,Trevor McDonald,SF,-110,0.6071,0.0833,8.3%,HIGH,True,Standard play,
+1ST INN ML,2026-05-11,HOU,SEA,Peter Lambert,George Kirby,SEA,-110,0.6051,0.0813,8.1%,HIGH,False,Elite pitching matchup,
+1ST INN ML,2026-05-11,TOR,TB,Kevin Gausman,Drew Rasmussen,TB,-110,0.5649,0.0411,4.1%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-05-11,BAL,NYY,Brandon Young,Ryan Weathers,NYY,-110,0.5579,0.0341,3.4%,LOW,False,Standard play,
+1ST INN ML,2026-05-11,TEX,ARI,Nathan Eovaldi,Michael Soroka,TEX,-110,0.528,0.0042,0.4%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-05-11,TOR,TB,Kevin Gausman,Drew Rasmussen,OVER 0.5,-110,0.5679,0.0441,4.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-11,HOU,SEA,Peter Lambert,George Kirby,OVER 0.5,-110,0.5624,0.0386,3.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-11,BAL,NYY,Brandon Young,Ryan Weathers,UNDER 0.5,-110,0.5423,0.0184,1.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-11,CLE,LAA,Joey Cantillo,TBD,UNDER 0.5,-110,0.5297,0.0059,0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-11,TEX,ARI,Nathan Eovaldi,Michael Soroka,OVER 0.5,-110,0.5269,0.0031,0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-11,LAD,SF,Roki Sasaki,Trevor McDonald,UNDER 0.5,-110,0.5229,-0.0009,-0.1%,NO PLAY,False,Standard play,0.5
