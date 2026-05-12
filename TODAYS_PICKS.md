@@ -1,6 +1,6 @@
-# MLB Picks - Monday, May 11, 2026
+# MLB Picks - Tuesday, May 12, 2026
 
-*Last updated: 2026-05-11 07:00 PM ET*
+*Last updated: 2026-05-12 04:26 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAA @ CLE |
-| Starting Pitchers | TBD vs Joey Cantillo |
+| Matchup | SD @ MIL |
+| Starting Pitchers | Matt Waldron vs Brandon Sproat |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.6% |
+| Edge Over Market | 9.8% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,10 +21,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | SF @ LAD |
-| Starting Pitchers | Trevor McDonald vs Roki Sasaki |
+| Matchup | WSH @ CIN |
+| Starting Pitchers | Miles Mikolas vs Brady Singer |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.3% |
+| Edge Over Market | 9.6% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAA @ CLE | TBD vs Joey Cantillo | CLE | -110 | 61.0% | 8.6% | HIGH | Standard play |
-| SF @ LAD | Trevor McDonald vs Roki Sasaki | SF | -110 | 60.7% | 8.3% | HIGH | Standard play |
+| SD @ MIL | Matt Waldron vs Brandon Sproat | MIL | -110 | 62.2% | 9.8% | HIGH | Standard play |
+| WSH @ CIN | Miles Mikolas vs Brady Singer | CIN | -110 | 62.0% | 9.6% | HIGH | Standard play |
 
 ---
 
