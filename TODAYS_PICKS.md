@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, May 12, 2026
+# MLB Picks - Wednesday, May 13, 2026
 
-*Last updated: 2026-05-12 07:00 PM ET*
+*Last updated: 2026-05-13 04:26 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | SD @ MIL |
-| Starting Pitchers | Matt Waldron vs Brandon Sproat |
+| Matchup | DET @ NYM |
+| Starting Pitchers | Framber Valdez vs Christian Scott |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.8% |
+| Edge Over Market | 8.2% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,12 +21,12 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | WSH @ CIN |
-| Starting Pitchers | Miles Mikolas vs Brady Singer |
+| Matchup | SF @ LAD |
+| Starting Pitchers | Robbie Ray vs Shohei Ohtani |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.6% |
+| Edge Over Market | 7.7% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SD @ MIL | Matt Waldron vs Brandon Sproat | MIL | -110 | 62.2% | 9.8% | HIGH | Standard play |
-| WSH @ CIN | Miles Mikolas vs Brady Singer | CIN | -110 | 62.0% | 9.6% | HIGH | Standard play |
+| DET @ NYM | Framber Valdez vs Christian Scott | NYM | -110 | 60.6% | 8.2% | HIGH | Standard play |
+| SF @ LAD | Robbie Ray vs Shohei Ohtani | SF | -110 | 60.1% | 7.7% | HIGH | Elite pitching matchup |
 
 ---
 

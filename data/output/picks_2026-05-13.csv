@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-05-13,NYM,DET,Christian Scott,Framber Valdez,NYM,-110,0.6058,0.082,8.2%,HIGH,True,Standard play,
+1ST INN ML,2026-05-13,LAD,SF,Shohei Ohtani,Robbie Ray,SF,-110,0.6013,0.0775,7.7%,HIGH,True,Elite pitching matchup,
+1ST INN ML,2026-05-13,TOR,TB,Dylan Cease,Griffin Jax,TOR,-110,0.5884,0.0646,6.5%,HIGH,False,Standard play,
+1ST INN ML,2026-05-13,MIL,SD,Jacob Misiorowski,Michael King,SD,-110,0.5838,0.06,6.0%,HIGH,False,Elite pitching matchup,
+1ST INN ML,2026-05-13,BOS,PHI,Sonny Gray,Andrew Painter,BOS,-110,0.5817,0.0579,5.8%,MEDIUM,False,Standard play,
+1ST INN ML,2026-05-13,BAL,NYY,Kyle Bradish,Max Fried,NYY,-110,0.5599,0.0361,3.6%,LOW,False,Standard play,
+1ST INN ML,2026-05-13,OAK,STL,J.T. Ginn,Matthew Liberatore,OAK,-110,0.5435,0.0197,2.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-13,ATL,CHC,JR Ritchie,Shota Imanaga,CHC,-110,0.5408,0.017,1.7%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-13,HOU,SEA,Lance McCullers Jr.,Bryce Miller,HOU,-110,0.5404,0.0166,1.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-13,CLE,LAA,Parker Messick,Reid Detmers,LAA,-110,0.5262,0.0024,0.2%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-13,PIT,COL,Mitch Keller,Jose Quintana,COL,-110,0.5223,-0.0015,-0.1%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-13,CWS,KC,Noah Schultz,Seth Lugo,KC,-110,0.5188,-0.005,-0.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-13,CIN,WSH,Nick Lodolo,Jake Irvin,WSH,-110,0.517,-0.0068,-0.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-13,MIN,MIA,Simeon Woods Richardson,Max Meyer,MIA,-110,0.5154,-0.0084,-0.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-13,TEX,ARI,Kumar Rocker,Ryne Nelson,TEX,-110,0.5039,-0.0199,-2.0%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-05-13,LAD,SF,Shohei Ohtani,Robbie Ray,OVER 0.5,-110,0.5849,0.0611,6.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-13,ATL,CHC,JR Ritchie,Shota Imanaga,UNDER 0.5,-110,0.5739,0.0501,5.0%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-05-13,BAL,NYY,Kyle Bradish,Max Fried,UNDER 0.5,-110,0.5724,0.0485,4.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-13,MIN,MIA,Simeon Woods Richardson,Max Meyer,UNDER 0.5,-110,0.568,0.0442,4.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-13,BOS,PHI,Sonny Gray,Andrew Painter,OVER 0.5,-110,0.5519,0.0281,2.8%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-05-13,CWS,KC,Noah Schultz,Seth Lugo,UNDER 0.5,-110,0.547,0.0232,2.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-13,MIL,SD,Jacob Misiorowski,Michael King,OVER 0.5,-110,0.5457,0.0219,2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-13,TEX,ARI,Kumar Rocker,Ryne Nelson,OVER 0.5,-110,0.5359,0.0121,1.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-13,PIT,COL,Mitch Keller,Jose Quintana,OVER 0.5,-110,0.528,0.0042,0.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-13,OAK,STL,J.T. Ginn,Matthew Liberatore,UNDER 0.5,-110,0.5259,0.0021,0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-13,CLE,LAA,Parker Messick,Reid Detmers,OVER 0.5,-110,0.5187,-0.0051,-0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-13,CIN,WSH,Nick Lodolo,Jake Irvin,OVER 0.5,-110,0.5171,-0.0067,-0.7%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-05-13,HOU,SEA,Lance McCullers Jr.,Bryce Miller,UNDER 0.5,-110,0.5171,-0.0067,-0.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-13,NYM,DET,Christian Scott,Framber Valdez,UNDER 0.5,-110,0.5125,-0.0114,-1.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-13,TOR,TB,Dylan Cease,Griffin Jax,UNDER 0.5,-110,0.503,-0.0208,-2.1%,NO PLAY,False,Standard play,0.5
