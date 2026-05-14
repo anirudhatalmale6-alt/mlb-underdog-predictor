@@ -1,0 +1,23 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-05-14,LAD,SF,Emmet Sheehan,Landen Roupp,SF,-110,0.615,0.0912,9.1%,HIGH,True,Standard play,
+1ST INN ML,2026-05-14,MIL,SD,Kyle Harrison,Griffin Canning,MIL,-110,0.6096,0.0858,8.6%,HIGH,True,Standard play,
+1ST INN ML,2026-05-14,HOU,SEA,Mike Burrows,Luis Castillo,HOU,-110,0.5973,0.0734,7.3%,HIGH,False,Standard play,
+1ST INN ML,2026-05-14,ATL,CHC,Chris Sale,Ben Brown,CHC,-110,0.5838,0.06,6.0%,HIGH,False,Elite pitching matchup,
+1ST INN ML,2026-05-14,BOS,PHI,Ranger Suarez,Jesús Luzardo,BOS,-110,0.5836,0.0598,6.0%,MEDIUM,False,Standard play,
+1ST INN ML,2026-05-14,MIN,MIA,Zebby Matthews,Braxton Garrett,MIN,-110,0.5708,0.047,4.7%,MEDIUM,False,Standard play,
+1ST INN ML,2026-05-14,OAK,STL,Jacob Lopez,Michael McGreevy,STL,-110,0.5566,0.0328,3.3%,LOW,False,Standard play,
+1ST INN ML,2026-05-14,CIN,WSH,Chase Burns,Foster Griffin,WSH,-110,0.5529,0.029,2.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-14,NYM,DET,Nolan McLean,Keider Montero,DET,-110,0.5478,0.024,2.4%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-14,CWS,KC,Anthony Kay,Kris Bubic,KC,-110,0.5356,0.0118,1.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-14,PIT,COL,Mason Montgomery,Chase Dollander,COL,-110,0.5229,-0.0009,-0.1%,NO PLAY,False,Elite pitching matchup,
+1ST INN TOTAL,2026-05-14,PIT,COL,Mason Montgomery,Chase Dollander,OVER 0.5,-110,0.5658,0.042,4.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-14,BOS,PHI,Ranger Suarez,Jesús Luzardo,OVER 0.5,-110,0.5619,0.0381,3.8%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-05-14,CIN,WSH,Chase Burns,Foster Griffin,OVER 0.5,-110,0.5557,0.0319,3.2%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-05-14,CWS,KC,Anthony Kay,Kris Bubic,UNDER 0.5,-110,0.5516,0.0278,2.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-14,ATL,CHC,Chris Sale,Ben Brown,OVER 0.5,-110,0.5457,0.0219,2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-14,NYM,DET,Nolan McLean,Keider Montero,OVER 0.5,-110,0.5386,0.0147,1.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-14,OAK,STL,Jacob Lopez,Michael McGreevy,UNDER 0.5,-110,0.5294,0.0056,0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-14,LAD,SF,Emmet Sheehan,Landen Roupp,UNDER 0.5,-110,0.5202,-0.0036,-0.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-14,MIL,SD,Kyle Harrison,Griffin Canning,OVER 0.5,-110,0.5133,-0.0105,-1.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-14,HOU,SEA,Mike Burrows,Luis Castillo,UNDER 0.5,-110,0.5125,-0.0113,-1.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-14,MIN,MIA,Zebby Matthews,Braxton Garrett,OVER 0.5,-110,0.5008,-0.023,-2.3%,NO PLAY,False,Standard play,0.5

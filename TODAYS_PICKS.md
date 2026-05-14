@@ -1,6 +1,6 @@
-# MLB Picks - Wednesday, May 13, 2026
+# MLB Picks - Thursday, May 14, 2026
 
-*Last updated: 2026-05-13 07:00 PM ET*
+*Last updated: 2026-05-14 04:12 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | DET @ NYM |
-| Starting Pitchers | Framber Valdez vs Christian Scott |
+| Matchup | SF @ LAD |
+| Starting Pitchers | Landen Roupp vs Emmet Sheehan |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.2% |
+| Edge Over Market | 9.1% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,12 +21,12 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | SF @ LAD |
-| Starting Pitchers | Robbie Ray vs Shohei Ohtani |
+| Matchup | SD @ MIL |
+| Starting Pitchers | Griffin Canning vs Kyle Harrison |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.7% |
+| Edge Over Market | 8.6% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| DET @ NYM | Framber Valdez vs Christian Scott | NYM | -110 | 60.6% | 8.2% | HIGH | Standard play |
-| SF @ LAD | Robbie Ray vs Shohei Ohtani | SF | -110 | 60.1% | 7.7% | HIGH | Elite pitching matchup |
+| SF @ LAD | Landen Roupp vs Emmet Sheehan | SF | -110 | 61.5% | 9.1% | HIGH | Standard play |
+| SD @ MIL | Griffin Canning vs Kyle Harrison | MIL | -110 | 61.0% | 8.6% | HIGH | Standard play |
 
 ---
 
