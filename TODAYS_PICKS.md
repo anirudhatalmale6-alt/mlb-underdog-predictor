@@ -1,6 +1,6 @@
-# MLB Picks - Thursday, May 14, 2026
+# MLB Picks - Friday, May 15, 2026
 
-*Last updated: 2026-05-14 06:57 PM ET*
+*Last updated: 2026-05-15 04:07 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | SF @ LAD |
-| Starting Pitchers | Landen Roupp vs Emmet Sheehan |
+| Matchup | MIL @ MIN |
+| Starting Pitchers | TBD vs Joe Ryan |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.1% |
+| Edge Over Market | 10.7% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | SD @ MIL |
-| Starting Pitchers | Griffin Canning vs Kyle Harrison |
+| Matchup | LAD @ LAA |
+| Starting Pitchers | Blake Snell vs Jack Kochanowicz |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.6% |
+| Edge Over Market | 10.3% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Strong value |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SF @ LAD | Landen Roupp vs Emmet Sheehan | SF | -110 | 61.5% | 9.1% | HIGH | Standard play |
-| SD @ MIL | Griffin Canning vs Kyle Harrison | MIL | -110 | 61.0% | 8.6% | HIGH | Standard play |
+| MIL @ MIN | TBD vs Joe Ryan | MIN | -110 | 63.1% | 10.7% | HIGH | Strong value |
+| LAD @ LAA | Blake Snell vs Jack Kochanowicz | LAA | -110 | 62.7% | 10.3% | HIGH | Strong value |
 
 ---
 

@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-05-15,MIN,MIL,Joe Ryan,TBD,MIN,-110,0.6308,0.107,10.7%,HIGH,True,Strong value,
+1ST INN ML,2026-05-15,LAA,LAD,Jack Kochanowicz,Blake Snell,LAA,-110,0.6267,0.1029,10.3%,HIGH,True,Strong value,
+1ST INN ML,2026-05-15,PIT,PHI,Braxton Ashcraft,Aaron Nola,PIT,-110,0.6017,0.0779,7.8%,HIGH,False,Standard play,
+1ST INN ML,2026-05-15,NYM,NYY,Clay Holmes,Cam Schlittler,NYY,-110,0.6013,0.0775,7.7%,HIGH,False,Elite pitching matchup,
+1ST INN ML,2026-05-15,SEA,SD,Emerson Hancock,Randy Vásquez,SD,-110,0.5798,0.056,5.6%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-05-15,STL,KC,Dustin May,Michael Wacha,KC,-110,0.5786,0.0548,5.5%,MEDIUM,False,Standard play,
+1ST INN ML,2026-05-15,TB,MIA,Jesse Scholtens,Janson Junk,MIA,-110,0.5719,0.0481,4.8%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-05-15,DET,TOR,Brenan Hanifee,Trey Yesavage,TOR,-110,0.5686,0.0448,4.5%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-05-15,OAK,SF,Aaron Civale,Tyler Mahle,OAK,-110,0.5606,0.0368,3.7%,LOW,False,Standard play,
+1ST INN ML,2026-05-15,COL,ARI,Kyle Freeland,Merrill Kelly,COL,-110,0.559,0.0352,3.5%,LOW,False,Standard play,
+1ST INN ML,2026-05-15,HOU,TEX,Spencer Arrighetti,Jack Leiter,HOU,-110,0.5433,0.0195,1.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-15,CLE,CIN,Tanner Bibee,Andrew Abbott,CLE,-110,0.5366,0.0127,1.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-15,ATL,BOS,Spencer Strider,Connelly Early,BOS,-110,0.5245,0.0006,0.1%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-15,CWS,CHC,Sean Burke,Edward Cabrera,CWS,-110,0.5212,-0.0026,-0.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-15,WSH,BAL,Zack Littell,Shane Baz,WSH,-110,0.5102,-0.0136,-1.4%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-05-15,NYM,NYY,Clay Holmes,Cam Schlittler,OVER 0.5,-110,0.5849,0.0611,6.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-15,DET,TOR,Brenan Hanifee,Trey Yesavage,OVER 0.5,-110,0.582,0.0582,5.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-15,COL,ARI,Kyle Freeland,Merrill Kelly,OVER 0.5,-110,0.5555,0.0317,3.2%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-05-15,STL,KC,Dustin May,Michael Wacha,UNDER 0.5,-110,0.542,0.0182,1.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-15,WSH,BAL,Zack Littell,Shane Baz,UNDER 0.5,-110,0.53,0.0062,0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-15,OAK,SF,Aaron Civale,Tyler Mahle,UNDER 0.5,-110,0.5265,0.0027,0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-15,MIN,MIL,Joe Ryan,TBD,UNDER 0.5,-110,0.519,-0.0048,-0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-15,HOU,TEX,Spencer Arrighetti,Jack Leiter,UNDER 0.5,-110,0.5165,-0.0073,-0.7%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-05-15,SEA,SD,Emerson Hancock,Randy Vásquez,OVER 0.5,-110,0.5088,-0.015,-1.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-15,LAA,LAD,Jack Kochanowicz,Blake Snell,OVER 0.5,-110,0.5072,-0.0166,-1.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-15,CLE,CIN,Tanner Bibee,Andrew Abbott,UNDER 0.5,-110,0.5031,-0.0207,-2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-15,ATL,BOS,Spencer Strider,Connelly Early,UNDER 0.5,-110,0.5031,-0.0207,-2.1%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-05-15,CWS,CHC,Sean Burke,Edward Cabrera,OVER 0.5,-110,0.503,-0.0208,-2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-15,PIT,PHI,Braxton Ashcraft,Aaron Nola,OVER 0.5,-110,0.5011,-0.0228,-2.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-15,TB,MIA,Jesse Scholtens,Janson Junk,OVER 0.5,-110,0.5009,-0.0229,-2.3%,NO PLAY,False,Standard play,0.5
