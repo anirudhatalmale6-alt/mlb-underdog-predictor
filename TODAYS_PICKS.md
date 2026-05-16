@@ -1,6 +1,6 @@
-# MLB Picks - Friday, May 15, 2026
+# MLB Picks - Saturday, May 16, 2026
 
-*Last updated: 2026-05-15 06:24 PM ET*
+*Last updated: 2026-05-16 03:03 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIL @ MIN |
-| Starting Pitchers | TBD vs Joe Ryan |
+| Matchup | CIN @ CLE |
+| Starting Pitchers | Chris Paddack vs Joey Cantillo |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.7% |
+| Edge Over Market | 10.3% |
 | Confidence | HIGH |
 | Notes | Strong value |
 
@@ -21,12 +21,12 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAD @ LAA |
-| Starting Pitchers | Blake Snell vs Jack Kochanowicz |
+| Matchup | TOR @ DET |
+| Starting Pitchers | Mason Fluharty vs Casey Mize |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.3% |
+| Edge Over Market | 9.5% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIL @ MIN | TBD vs Joe Ryan | MIN | -110 | 63.1% | 10.7% | HIGH | Strong value |
-| LAD @ LAA | Blake Snell vs Jack Kochanowicz | LAA | -110 | 62.7% | 10.3% | HIGH | Strong value |
+| CIN @ CLE | Chris Paddack vs Joey Cantillo | CLE | -110 | 62.6% | 10.3% | HIGH | Strong value |
+| TOR @ DET | Mason Fluharty vs Casey Mize | DET | -110 | 61.8% | 9.5% | HIGH | Standard play |
 
 ---
 
