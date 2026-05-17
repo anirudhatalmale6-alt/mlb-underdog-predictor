@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, May 16, 2026
+# MLB Picks - Sunday, May 17, 2026
 
-*Last updated: 2026-05-16 05:58 PM ET*
+*Last updated: 2026-05-17 03:03 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CIN @ CLE |
-| Starting Pitchers | Chris Paddack vs Joey Cantillo |
+| Matchup | NYY @ NYM |
+| Starting Pitchers | Elmer Rodríguez vs Freddy Peralta |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.3% |
+| Edge Over Market | 10.7% |
 | Confidence | HIGH |
 | Notes | Strong value |
 
@@ -21,10 +21,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | TOR @ DET |
-| Starting Pitchers | Mason Fluharty vs Casey Mize |
+| Matchup | MIA @ TB |
+| Starting Pitchers | Eury Pérez vs Drew Rasmussen |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.5% |
+| Edge Over Market | 8.5% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CIN @ CLE | Chris Paddack vs Joey Cantillo | CLE | -110 | 62.6% | 10.3% | HIGH | Strong value |
-| TOR @ DET | Mason Fluharty vs Casey Mize | DET | -110 | 61.8% | 9.5% | HIGH | Standard play |
+| NYY @ NYM | Elmer Rodríguez vs Freddy Peralta | NYM | -110 | 63.1% | 10.7% | HIGH | Strong value |
+| MIA @ TB | Eury Pérez vs Drew Rasmussen | TB | -110 | 60.8% | 8.5% | HIGH | Standard play |
 
 ---
 
