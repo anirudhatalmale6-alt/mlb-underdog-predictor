@@ -1,6 +1,6 @@
-# MLB Picks - Sunday, May 17, 2026
+# MLB Picks - Monday, May 18, 2026
 
-*Last updated: 2026-05-17 06:01 PM ET*
+*Last updated: 2026-05-18 04:51 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | NYY @ NYM |
-| Starting Pitchers | Elmer Rodríguez vs Freddy Peralta |
+| Matchup | CIN @ PHI |
+| Starting Pitchers | Nick Lodolo vs Andrew Painter |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.7% |
+| Edge Over Market | 10.4% |
 | Confidence | HIGH |
 | Notes | Strong value |
 
@@ -21,10 +21,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIA @ TB |
-| Starting Pitchers | Eury Pérez vs Drew Rasmussen |
+| Matchup | HOU @ MIN |
+| Starting Pitchers | Tatsuya Imai vs Kendry Rojas |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.5% |
+| Edge Over Market | 7.7% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| NYY @ NYM | Elmer Rodríguez vs Freddy Peralta | NYM | -110 | 63.1% | 10.7% | HIGH | Strong value |
-| MIA @ TB | Eury Pérez vs Drew Rasmussen | TB | -110 | 60.8% | 8.5% | HIGH | Standard play |
+| CIN @ PHI | Nick Lodolo vs Andrew Painter | PHI | -110 | 62.8% | 10.4% | HIGH | Strong value |
+| HOU @ MIN | Tatsuya Imai vs Kendry Rojas | MIN | -110 | 60.1% | 7.7% | HIGH | Standard play |
 
 ---
 
