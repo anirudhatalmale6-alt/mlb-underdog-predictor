@@ -1,6 +1,6 @@
-# MLB Picks - Monday, May 18, 2026
+# MLB Picks - Tuesday, May 19, 2026
 
-*Last updated: 2026-05-18 06:55 PM ET*
+*Last updated: 2026-05-19 04:53 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CIN @ PHI |
-| Starting Pitchers | Nick Lodolo vs Andrew Painter |
+| Matchup | CWS @ SEA |
+| Starting Pitchers | Anthony Kay vs Bryce Miller |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.4% |
+| Edge Over Market | 10.6% |
 | Confidence | HIGH |
 | Notes | Strong value |
 
@@ -21,10 +21,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | HOU @ MIN |
-| Starting Pitchers | Tatsuya Imai vs Kendry Rojas |
+| Matchup | OAK @ LAA |
+| Starting Pitchers | Jacob Lopez vs Reid Detmers |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.7% |
+| Edge Over Market | 7.2% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CIN @ PHI | Nick Lodolo vs Andrew Painter | PHI | -110 | 62.8% | 10.4% | HIGH | Strong value |
-| HOU @ MIN | Tatsuya Imai vs Kendry Rojas | MIN | -110 | 60.1% | 7.7% | HIGH | Standard play |
+| CWS @ SEA | Anthony Kay vs Bryce Miller | SEA | -110 | 63.0% | 10.6% | HIGH | Strong value |
+| OAK @ LAA | Jacob Lopez vs Reid Detmers | LAA | -110 | 59.6% | 7.2% | HIGH | Standard play |
 
 ---
 
