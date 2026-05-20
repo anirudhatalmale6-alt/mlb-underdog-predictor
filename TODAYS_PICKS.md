@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, May 19, 2026
+# MLB Picks - Wednesday, May 20, 2026
 
-*Last updated: 2026-05-19 07:05 PM ET*
+*Last updated: 2026-05-20 04:57 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CWS @ SEA |
-| Starting Pitchers | Anthony Kay vs Bryce Miller |
+| Matchup | HOU @ MIN |
+| Starting Pitchers | Mike Burrows vs Joe Ryan |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.6% |
+| Edge Over Market | 10.9% |
 | Confidence | HIGH |
 | Notes | Strong value |
 
@@ -21,12 +21,12 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | OAK @ LAA |
-| Starting Pitchers | Jacob Lopez vs Reid Detmers |
+| Matchup | LAD @ SD |
+| Starting Pitchers | Shohei Ohtani vs Randy Vásquez |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.2% |
-| Confidence | HIGH |
-| Notes | Standard play |
+| Edge Over Market | 5.4% |
+| Confidence | MEDIUM |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CWS @ SEA | Anthony Kay vs Bryce Miller | SEA | -110 | 63.0% | 10.6% | HIGH | Strong value |
-| OAK @ LAA | Jacob Lopez vs Reid Detmers | LAA | -110 | 59.6% | 7.2% | HIGH | Standard play |
+| HOU @ MIN | Mike Burrows vs Joe Ryan | MIN | -110 | 63.3% | 10.9% | HIGH | Strong value |
+| LAD @ SD | Shohei Ohtani vs Randy Vásquez | LAD | -110 | 57.8% | 5.4% | MEDIUM | Elite pitching matchup |
 
 ---
 
