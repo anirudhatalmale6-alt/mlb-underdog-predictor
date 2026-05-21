@@ -1,0 +1,15 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-05-21,STL,PIT,Dustin May,Braxton Ashcraft,PIT,-110,0.6243,0.1005,10.1%,HIGH,True,Strong value,
+1ST INN ML,2026-05-21,ARI,COL,Eduardo Rodriguez,Zach Agnos,ARI,-110,0.61,0.0862,8.6%,HIGH,True,Standard play,
+1ST INN ML,2026-05-21,NYY,TOR,Carlos Rodón,Braydon Fisher,TOR,-110,0.5756,0.0518,5.2%,MEDIUM,False,Standard play,
+1ST INN ML,2026-05-21,LAA,OAK,José Soriano,Luis Severino,LAA,-110,0.5538,0.03,3.0%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-05-21,WSH,NYM,Cade Cavalli,David Peterson,WSH,-110,0.5294,0.0056,0.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-21,DET,CLE,Casey Mize,Joey Cantillo,CLE,-110,0.5182,-0.0056,-0.6%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-21,MIA,ATL,Sandy Alcantara,Spencer Strider,MIA,-110,0.5032,-0.0206,-2.1%,NO PLAY,False,Elite pitching matchup,
+1ST INN TOTAL,2026-05-21,DET,CLE,Casey Mize,Joey Cantillo,OVER 0.5,-110,0.5977,0.0739,7.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-21,ARI,COL,Eduardo Rodriguez,Zach Agnos,OVER 0.5,-110,0.5475,0.0237,2.4%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-05-21,STL,PIT,Dustin May,Braxton Ashcraft,UNDER 0.5,-110,0.536,0.0122,1.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-21,NYY,TOR,Carlos Rodón,Braydon Fisher,UNDER 0.5,-110,0.5182,-0.0056,-0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-21,LAA,OAK,José Soriano,Luis Severino,UNDER 0.5,-110,0.514,-0.0098,-1.0%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-05-21,MIA,ATL,Sandy Alcantara,Spencer Strider,UNDER 0.5,-110,0.5077,-0.0161,-1.6%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-05-21,WSH,NYM,Cade Cavalli,David Peterson,OVER 0.5,-110,0.5057,-0.0181,-1.8%,NO PLAY,False,Standard play,0.5
