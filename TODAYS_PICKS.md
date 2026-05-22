@@ -1,6 +1,6 @@
-# MLB Picks - Thursday, May 21, 2026
+# MLB Picks - Friday, May 22, 2026
 
-*Last updated: 2026-05-21 07:01 PM ET*
+*Last updated: 2026-05-22 04:31 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | PIT @ STL |
-| Starting Pitchers | Braxton Ashcraft vs Dustin May |
+| Matchup | WSH @ ATL |
+| Starting Pitchers | Miles Mikolas vs TBD |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.1% |
+| Edge Over Market | 10.8% |
 | Confidence | HIGH |
 | Notes | Strong value |
 
@@ -21,12 +21,12 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | COL @ ARI |
-| Starting Pitchers | Zach Agnos vs Eduardo Rodriguez |
+| Matchup | CWS @ SF |
+| Starting Pitchers | Davis Martin vs Trevor McDonald |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.6% |
+| Edge Over Market | 8.8% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| PIT @ STL | Braxton Ashcraft vs Dustin May | PIT | -110 | 62.4% | 10.1% | HIGH | Strong value |
-| COL @ ARI | Zach Agnos vs Eduardo Rodriguez | ARI | -110 | 61.0% | 8.6% | HIGH | Standard play |
+| WSH @ ATL | Miles Mikolas vs TBD | ATL | -110 | 63.2% | 10.8% | HIGH | Strong value |
+| CWS @ SF | Davis Martin vs Trevor McDonald | CWS | -110 | 61.2% | 8.8% | HIGH | Elite pitching matchup |
 
 ---
 
