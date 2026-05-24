@@ -1,0 +1,33 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-05-24,SD,OAK,Michael King,Luis Medina,OAK,-110,0.5781,0.0543,5.4%,MEDIUM,True,Elite pitching matchup,
+1ST INN ML,2026-05-24,MIL,LAD,Brandon Sproat,Yoshinobu Yamamoto,LAD,-110,0.5737,0.0499,5.0%,MEDIUM,True,Standard play,
+1ST INN ML,2026-05-24,BAL,DET,Brandon Young,Framber Valdez,BAL,-110,0.5622,0.0384,3.8%,LOW,False,Standard play,
+1ST INN ML,2026-05-24,PHI,CLE,Andrew Painter,Parker Messick,CLE,-110,0.5604,0.0366,3.7%,LOW,False,Standard play,
+1ST INN ML,2026-05-24,SF,CWS,Robbie Ray,Noah Schultz,SF,-110,0.5427,0.0189,1.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-24,MIA,NYM,Tyler Phillips,Christian Scott,MIA,-110,0.5349,0.0111,1.1%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-24,ARI,COL,Ryne Nelson,Jose Quintana,ARI,-110,0.5304,0.0066,0.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-24,CHC,HOU,Shota Imanaga,Peter Lambert,CHC,-110,0.5292,0.0054,0.5%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-24,BAL,DET,Trevor Rogers,TBD,BAL,-110,0.5212,-0.0026,-0.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-24,KC,SEA,Seth Lugo,Bryan Woo,SEA,-110,0.5201,-0.0037,-0.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-24,NYY,TB,Ryan Weathers,Drew Rasmussen,TB,-110,0.5194,-0.0045,-0.4%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-24,TOR,PIT,Dylan Cease,Mitch Keller,PIT,-110,0.5184,-0.0054,-0.5%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-24,ATL,WSH,Martín Pérez,Foster Griffin,WSH,-110,0.5156,-0.0082,-0.8%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-24,CIN,STL,Brady Singer,Matthew Liberatore,STL,-110,0.5066,-0.0173,-1.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-24,LAA,TEX,Reid Detmers,MacKenzie Gore,LAA,-110,0.5063,-0.0175,-1.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-24,BOS,MIN,Sonny Gray,Bailey Ober,BOS,-110,0.505,-0.0188,-1.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN TOTAL,2026-05-24,MIL,LAD,Brandon Sproat,Yoshinobu Yamamoto,UNDER 0.5,-110,0.5847,0.0609,6.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-24,BOS,MIN,Sonny Gray,Bailey Ober,OVER 0.5,-110,0.581,0.0572,5.7%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-05-24,PHI,CLE,Andrew Painter,Parker Messick,UNDER 0.5,-110,0.5767,0.0529,5.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-24,CIN,STL,Brady Singer,Matthew Liberatore,OVER 0.5,-110,0.5603,0.0365,3.6%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-05-24,NYY,TB,Ryan Weathers,Drew Rasmussen,UNDER 0.5,-110,0.5353,0.0115,1.1%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-05-24,SD,OAK,Michael King,Luis Medina,OVER 0.5,-110,0.5303,0.0065,0.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-24,TOR,PIT,Dylan Cease,Mitch Keller,OVER 0.5,-110,0.5296,0.0058,0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-24,ATL,WSH,Martín Pérez,Foster Griffin,OVER 0.5,-110,0.5253,0.0015,0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-24,SF,CWS,Robbie Ray,Noah Schultz,UNDER 0.5,-110,0.5212,-0.0026,-0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-24,LAA,TEX,Reid Detmers,MacKenzie Gore,UNDER 0.5,-110,0.5211,-0.0027,-0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-24,KC,SEA,Seth Lugo,Bryan Woo,UNDER 0.5,-110,0.515,-0.0088,-0.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-24,ARI,COL,Ryne Nelson,Jose Quintana,OVER 0.5,-110,0.513,-0.0108,-1.1%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-05-24,CHC,HOU,Shota Imanaga,Peter Lambert,OVER 0.5,-110,0.5114,-0.0124,-1.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-24,BAL,DET,Brandon Young,Framber Valdez,OVER 0.5,-110,0.5071,-0.0167,-1.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-24,MIA,NYM,Tyler Phillips,Christian Scott,UNDER 0.5,-110,0.5068,-0.017,-1.7%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-05-24,BAL,DET,Trevor Rogers,TBD,OVER 0.5,-110,0.5008,-0.023,-2.3%,NO PLAY,False,Standard play,0.5
