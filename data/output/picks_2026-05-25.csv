@@ -1,0 +1,27 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-05-25,TEX,HOU,Kumar Rocker,Tatsuya Imai,TEX,-110,0.6107,0.0869,8.7%,HIGH,True,Standard play,
+1ST INN ML,2026-05-25,SD,PHI,Randy Vásquez,Jesús Luzardo,SD,-110,0.6097,0.0859,8.6%,HIGH,True,Standard play,
+1ST INN ML,2026-05-25,LAD,COL,Emmet Sheehan,Tanner Gordon,LAD,-110,0.5835,0.0596,6.0%,MEDIUM,False,Standard play,
+1ST INN ML,2026-05-25,PIT,CHC,Carmen Mlodzinski,Ben Brown,CHC,-110,0.5747,0.0508,5.1%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-05-25,CWS,MIN,Anthony Kay,Zebby Matthews,MIN,-110,0.5741,0.0503,5.0%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-05-25,NYM,CIN,Nolan McLean,Nick Lodolo,NYM,-110,0.5544,0.0306,3.1%,LOW,False,Standard play,
+1ST INN ML,2026-05-25,BAL,TB,Kyle Bradish,Shane McClanahan,TB,-110,0.5532,0.0294,2.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-25,CLE,WSH,Tanner Bibee,Zack Littell,CLE,-110,0.5461,0.0223,2.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-25,SF,ARI,Landen Roupp,Merrill Kelly,SF,-110,0.5433,0.0195,1.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-25,OAK,SEA,Aaron Civale,Luis Castillo,OAK,-110,0.5428,0.019,1.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-25,KC,NYY,Michael Wacha,Will Warren,NYY,-110,0.5375,0.0137,1.4%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-25,MIL,STL,Jacob Misiorowski,Matthew Liberatore,MIL,-110,0.5333,0.0095,0.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-25,TOR,MIA,Trey Yesavage,Janson Junk,TOR,-110,0.5292,0.0054,0.5%,NO PLAY,False,Elite pitching matchup,
+1ST INN TOTAL,2026-05-25,KC,NYY,Michael Wacha,Will Warren,OVER 0.5,-110,0.5852,0.0614,6.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-25,BAL,TB,Kyle Bradish,Shane McClanahan,UNDER 0.5,-110,0.576,0.0522,5.2%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-05-25,SD,PHI,Randy Vásquez,Jesús Luzardo,UNDER 0.5,-110,0.5659,0.0421,4.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-25,TOR,MIA,Trey Yesavage,Janson Junk,OVER 0.5,-110,0.5499,0.0261,2.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-25,NYM,CIN,Nolan McLean,Nick Lodolo,OVER 0.5,-110,0.538,0.0142,1.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-25,MIL,STL,Jacob Misiorowski,Matthew Liberatore,OVER 0.5,-110,0.5374,0.0136,1.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-25,CWS,MIN,Anthony Kay,Zebby Matthews,UNDER 0.5,-110,0.5275,0.0037,0.4%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-05-25,LAD,COL,Emmet Sheehan,Tanner Gordon,OVER 0.5,-110,0.5182,-0.0056,-0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-25,PIT,CHC,Carmen Mlodzinski,Ben Brown,UNDER 0.5,-110,0.5152,-0.0086,-0.9%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-05-25,OAK,SEA,Aaron Civale,Luis Castillo,UNDER 0.5,-110,0.5126,-0.0112,-1.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-25,SF,ARI,Landen Roupp,Merrill Kelly,UNDER 0.5,-110,0.5027,-0.0211,-2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-25,CLE,WSH,Tanner Bibee,Zack Littell,OVER 0.5,-110,0.502,-0.0218,-2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-25,TEX,HOU,Kumar Rocker,Tatsuya Imai,OVER 0.5,-110,0.5006,-0.0232,-2.3%,NO PLAY,False,Standard play,0.5

@@ -1,6 +1,6 @@
-# MLB Picks - Sunday, May 24, 2026
+# MLB Picks - Monday, May 25, 2026
 
-*Last updated: 2026-05-24 06:01 PM ET*
+*Last updated: 2026-05-25 04:26 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,22 +10,22 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | OAK @ SD |
-| Starting Pitchers | Luis Medina vs Michael King |
+| Matchup | HOU @ TEX |
+| Starting Pitchers | Tatsuya Imai vs Kumar Rocker |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.4% |
-| Confidence | MEDIUM |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 8.7% |
+| Confidence | HIGH |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAD @ MIL |
-| Starting Pitchers | Yoshinobu Yamamoto vs Brandon Sproat |
+| Matchup | PHI @ SD |
+| Starting Pitchers | Jesús Luzardo vs Randy Vásquez |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.0% |
-| Confidence | MEDIUM |
+| Edge Over Market | 8.6% |
+| Confidence | HIGH |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| OAK @ SD | Luis Medina vs Michael King | OAK | -110 | 57.8% | 5.4% | MEDIUM | Elite pitching matchup |
-| LAD @ MIL | Yoshinobu Yamamoto vs Brandon Sproat | LAD | -110 | 57.4% | 5.0% | MEDIUM | Standard play |
+| HOU @ TEX | Tatsuya Imai vs Kumar Rocker | TEX | -110 | 61.1% | 8.7% | HIGH | Standard play |
+| PHI @ SD | Jesús Luzardo vs Randy Vásquez | SD | -110 | 61.0% | 8.6% | HIGH | Standard play |
 
 ---
 
