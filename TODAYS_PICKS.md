@@ -1,6 +1,6 @@
-# MLB Picks - Monday, May 25, 2026
+# MLB Picks - Tuesday, May 26, 2026
 
-*Last updated: 2026-05-25 06:27 PM ET*
+*Last updated: 2026-05-26 05:30 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | HOU @ TEX |
-| Starting Pitchers | Tatsuya Imai vs Kumar Rocker |
+| Matchup | SEA @ OAK |
+| Starting Pitchers | Emerson Hancock vs Luis Severino |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.7% |
+| Edge Over Market | 9.4% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,10 +21,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | PHI @ SD |
-| Starting Pitchers | Jesús Luzardo vs Randy Vásquez |
+| Matchup | CHC @ PIT |
+| Starting Pitchers | Jordan Wicks vs Braxton Ashcraft |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.6% |
+| Edge Over Market | 7.9% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| HOU @ TEX | Tatsuya Imai vs Kumar Rocker | TEX | -110 | 61.1% | 8.7% | HIGH | Standard play |
-| PHI @ SD | Jesús Luzardo vs Randy Vásquez | SD | -110 | 61.0% | 8.6% | HIGH | Standard play |
+| SEA @ OAK | Emerson Hancock vs Luis Severino | SEA | -110 | 61.7% | 9.4% | HIGH | Standard play |
+| CHC @ PIT | Jordan Wicks vs Braxton Ashcraft | PIT | -110 | 60.3% | 7.9% | HIGH | Standard play |
 
 ---
 

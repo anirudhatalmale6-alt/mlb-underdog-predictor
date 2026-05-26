@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-05-26,OAK,SEA,Luis Severino,Emerson Hancock,SEA,-110,0.6174,0.0936,9.4%,HIGH,True,Standard play,
+1ST INN ML,2026-05-26,PIT,CHC,Braxton Ashcraft,Jordan Wicks,PIT,-110,0.6028,0.079,7.9%,HIGH,True,Standard play,
+1ST INN ML,2026-05-26,LAD,COL,Eric Lauer,Kyle Freeland,LAD,-110,0.6001,0.0763,7.6%,HIGH,False,Standard play,
+1ST INN ML,2026-05-26,TEX,HOU,Jack Leiter,Jason Alexander,TEX,-110,0.593,0.0691,6.9%,HIGH,False,Standard play,
+1ST INN ML,2026-05-26,SD,PHI,Randy Vásquez,Aaron Nola,SD,-110,0.5853,0.0615,6.2%,HIGH,False,Standard play,
+1ST INN ML,2026-05-26,MIL,STL,Kyle Harrison,Michael McGreevy,STL,-110,0.5838,0.06,6.0%,HIGH,False,Elite pitching matchup,
+1ST INN ML,2026-05-26,CWS,MIN,Sean Burke,Joe Ryan,MIN,-110,0.5781,0.0543,5.4%,MEDIUM,False,Standard play,
+1ST INN ML,2026-05-26,NYM,CIN,TBD,Chase Burns,CIN,-110,0.576,0.0522,5.2%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-05-26,BOS,ATL,Ranger Suarez,Spencer Strider,ATL,-110,0.5699,0.0461,4.6%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-05-26,SF,ARI,Tyler Mahle,Eduardo Rodriguez,ARI,-110,0.5553,0.0315,3.2%,LOW,False,Standard play,
+1ST INN ML,2026-05-26,DET,LAA,Keider Montero,Jack Kochanowicz,DET,-110,0.5549,0.0311,3.1%,LOW,False,Standard play,
+1ST INN ML,2026-05-26,CLE,WSH,Joey Cantillo,Cade Cavalli,CLE,-110,0.5545,0.0307,3.1%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-05-26,TOR,MIA,Braydon Fisher,Sandy Alcantara,MIA,-110,0.5246,0.0008,0.1%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-26,KC,NYY,Bailey Falter,Cam Schlittler,NYY,-110,0.5033,-0.0205,-2.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-26,BAL,TB,Shane Baz,Griffin Jax,BAL,-110,0.5024,-0.0214,-2.1%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-05-26,BOS,ATL,Ranger Suarez,Spencer Strider,OVER 0.5,-110,0.5636,0.0398,4.0%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-05-26,SD,PHI,Randy Vásquez,Aaron Nola,UNDER 0.5,-110,0.5531,0.0293,2.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-26,KC,NYY,Bailey Falter,Cam Schlittler,UNDER 0.5,-110,0.5493,0.0255,2.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-26,MIL,STL,Kyle Harrison,Michael McGreevy,OVER 0.5,-110,0.5457,0.0219,2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-26,TOR,MIA,Braydon Fisher,Sandy Alcantara,OVER 0.5,-110,0.5441,0.0203,2.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-26,OAK,SEA,Luis Severino,Emerson Hancock,UNDER 0.5,-110,0.5381,0.0143,1.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-26,LAD,COL,Eric Lauer,Kyle Freeland,UNDER 0.5,-110,0.5374,0.0136,1.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-26,SF,ARI,Tyler Mahle,Eduardo Rodriguez,UNDER 0.5,-110,0.5317,0.0079,0.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-26,PIT,CHC,Braxton Ashcraft,Jordan Wicks,UNDER 0.5,-110,0.5247,0.0009,0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-26,NYM,CIN,TBD,Chase Burns,UNDER 0.5,-110,0.5237,-0.0001,-0.0%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-05-26,CLE,WSH,Joey Cantillo,Cade Cavalli,OVER 0.5,-110,0.5137,-0.0101,-1.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-26,DET,LAA,Keider Montero,Jack Kochanowicz,OVER 0.5,-110,0.511,-0.0129,-1.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-26,TEX,HOU,Jack Leiter,Jason Alexander,UNDER 0.5,-110,0.5047,-0.0191,-1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-26,CWS,MIN,Sean Burke,Joe Ryan,UNDER 0.5,-110,0.5026,-0.0212,-2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-26,BAL,TB,Shane Baz,Griffin Jax,UNDER 0.5,-110,0.5005,-0.0233,-2.3%,NO PLAY,False,Standard play,0.5
