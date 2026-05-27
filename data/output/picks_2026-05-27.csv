@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-05-27,MIL,STL,Chad Patrick,Dustin May,MIL,-110,0.6043,0.0805,8.1%,HIGH,True,Standard play,
+1ST INN ML,2026-05-27,DET,LAA,Casey Mize,José Soriano,LAA,-110,0.6013,0.0775,7.7%,HIGH,True,Elite pitching matchup,
+1ST INN ML,2026-05-27,KC,NYY,Noah Cameron,Gerrit Cole,NYY,-110,0.5903,0.0665,6.6%,HIGH,False,Elite pitching matchup,
+1ST INN ML,2026-05-27,TOR,MIA,Kevin Gausman,Eury Pérez,TOR,-110,0.5727,0.0489,4.9%,MEDIUM,False,Standard play,
+1ST INN ML,2026-05-27,SF,ARI,Trevor McDonald,Michael Soroka,ARI,-110,0.5718,0.048,4.8%,MEDIUM,False,Standard play,
+1ST INN ML,2026-05-27,TEX,HOU,Jacob deGrom,Mike Burrows,TEX,-110,0.5575,0.0337,3.4%,LOW,False,Standard play,
+1ST INN ML,2026-05-27,LAD,COL,Shohei Ohtani,Tomoyuki Sugano,COL,-110,0.5526,0.0288,2.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-27,BOS,ATL,Connelly Early,Bryce Elder,ATL,-110,0.5471,0.0233,2.3%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-27,CLE,WSH,Gavin Williams,PJ Poulin,CLE,-110,0.5429,0.0191,1.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-27,CWS,MIN,Davis Martin,Connor Prielipp,MIN,-110,0.5383,0.0145,1.5%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-27,SD,PHI,Walker Buehler,Cristopher Sánchez,PHI,-110,0.5192,-0.0046,-0.5%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-27,OAK,SEA,Jeffrey Springs,Logan Gilbert,SEA,-110,0.5137,-0.0101,-1.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-27,PIT,CHC,Bubba Chandler,Jameson Taillon,CHC,-110,0.5078,-0.016,-1.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-27,BAL,TB,Trey Gibson,Steven Matz,TB,-110,0.5025,-0.0213,-2.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-27,NYM,CIN,Huascar Brazobán,Andrew Abbott,NYM,-110,0.5014,-0.0224,-2.2%,NO PLAY,False,Elite pitching matchup,
+1ST INN TOTAL,2026-05-27,DET,LAA,Casey Mize,José Soriano,OVER 0.5,-110,0.5849,0.0611,6.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-27,SD,PHI,Walker Buehler,Cristopher Sánchez,UNDER 0.5,-110,0.5816,0.0578,5.8%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-05-27,LAD,COL,Shohei Ohtani,Tomoyuki Sugano,OVER 0.5,-110,0.5796,0.0558,5.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-27,NYM,CIN,Huascar Brazobán,Andrew Abbott,OVER 0.5,-110,0.5728,0.049,4.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-27,CWS,MIN,Davis Martin,Connor Prielipp,OVER 0.5,-110,0.563,0.0392,3.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-27,KC,NYY,Noah Cameron,Gerrit Cole,UNDER 0.5,-110,0.548,0.0242,2.4%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-05-27,BAL,TB,Trey Gibson,Steven Matz,UNDER 0.5,-110,0.5469,0.0231,2.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-27,SF,ARI,Trevor McDonald,Michael Soroka,UNDER 0.5,-110,0.539,0.0152,1.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-27,PIT,CHC,Bubba Chandler,Jameson Taillon,UNDER 0.5,-110,0.5297,0.0059,0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-27,CLE,WSH,Gavin Williams,PJ Poulin,OVER 0.5,-110,0.5297,0.0058,0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-27,MIL,STL,Chad Patrick,Dustin May,UNDER 0.5,-110,0.5207,-0.0031,-0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-27,TOR,MIA,Kevin Gausman,Eury Pérez,OVER 0.5,-110,0.5075,-0.0163,-1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-27,OAK,SEA,Jeffrey Springs,Logan Gilbert,OVER 0.5,-110,0.5039,-0.0199,-2.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-27,BOS,ATL,Connelly Early,Bryce Elder,OVER 0.5,-110,0.5036,-0.0202,-2.0%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-05-27,TEX,HOU,Jacob deGrom,Mike Burrows,UNDER 0.5,-110,0.5013,-0.0226,-2.3%,NO PLAY,False,Standard play,0.5

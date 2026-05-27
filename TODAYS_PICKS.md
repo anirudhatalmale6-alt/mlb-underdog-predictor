@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, May 26, 2026
+# MLB Picks - Wednesday, May 27, 2026
 
-*Last updated: 2026-05-26 07:23 PM ET*
+*Last updated: 2026-05-27 05:25 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | SEA @ OAK |
-| Starting Pitchers | Emerson Hancock vs Luis Severino |
+| Matchup | STL @ MIL |
+| Starting Pitchers | Dustin May vs Chad Patrick |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.4% |
+| Edge Over Market | 8.1% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,12 +21,12 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CHC @ PIT |
-| Starting Pitchers | Jordan Wicks vs Braxton Ashcraft |
+| Matchup | LAA @ DET |
+| Starting Pitchers | José Soriano vs Casey Mize |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.9% |
+| Edge Over Market | 7.7% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SEA @ OAK | Emerson Hancock vs Luis Severino | SEA | -110 | 61.7% | 9.4% | HIGH | Standard play |
-| CHC @ PIT | Jordan Wicks vs Braxton Ashcraft | PIT | -110 | 60.3% | 7.9% | HIGH | Standard play |
+| STL @ MIL | Dustin May vs Chad Patrick | MIL | -110 | 60.4% | 8.1% | HIGH | Standard play |
+| LAA @ DET | José Soriano vs Casey Mize | LAA | -110 | 60.1% | 7.7% | HIGH | Elite pitching matchup |
 
 ---
 
