@@ -1,0 +1,13 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-05-28,DET,LAA,Jack Flaherty,Grayson Rodriguez,DET,-110,0.6187,0.0949,9.5%,HIGH,True,Standard play,
+1ST INN ML,2026-05-28,PIT,CHC,Paul Skenes,Colin Rea,PIT,-110,0.6123,0.0885,8.8%,HIGH,True,Standard play,
+1ST INN ML,2026-05-28,CWS,MIN,Davis Martin,Simeon Woods Richardson,CWS,-110,0.5836,0.0598,6.0%,MEDIUM,False,Standard play,
+1ST INN ML,2026-05-28,BOS,ATL,Payton Tolle,Chris Sale,ATL,-110,0.5529,0.029,2.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-28,BAL,TOR,Chris Bassitt,Patrick Corbin,BAL,-110,0.5453,0.0215,2.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-28,TEX,HOU,Nathan Eovaldi,Spencer Arrighetti,HOU,-110,0.5063,-0.0175,-1.8%,NO PLAY,False,Elite pitching matchup,
+1ST INN TOTAL,2026-05-28,BOS,ATL,Payton Tolle,Chris Sale,OVER 0.5,-110,0.5557,0.0319,3.2%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-05-28,TEX,HOU,Nathan Eovaldi,Spencer Arrighetti,UNDER 0.5,-110,0.541,0.0171,1.7%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-05-28,BAL,TOR,Chris Bassitt,Patrick Corbin,UNDER 0.5,-110,0.5102,-0.0136,-1.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-28,PIT,CHC,Paul Skenes,Colin Rea,UNDER 0.5,-110,0.5023,-0.0215,-2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-28,CWS,MIN,Davis Martin,Simeon Woods Richardson,OVER 0.5,-110,0.5019,-0.0219,-2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-28,DET,LAA,Jack Flaherty,Grayson Rodriguez,UNDER 0.5,-110,0.5014,-0.0224,-2.2%,NO PLAY,False,Standard play,0.5

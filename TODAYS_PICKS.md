@@ -1,6 +1,6 @@
-# MLB Picks - Wednesday, May 27, 2026
+# MLB Picks - Thursday, May 28, 2026
 
-*Last updated: 2026-05-27 07:29 PM ET*
+*Last updated: 2026-05-28 05:37 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | STL @ MIL |
-| Starting Pitchers | Dustin May vs Chad Patrick |
+| Matchup | LAA @ DET |
+| Starting Pitchers | Grayson Rodriguez vs Jack Flaherty |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.1% |
+| Edge Over Market | 9.5% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,12 +21,12 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAA @ DET |
-| Starting Pitchers | José Soriano vs Casey Mize |
+| Matchup | CHC @ PIT |
+| Starting Pitchers | Colin Rea vs Paul Skenes |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.7% |
+| Edge Over Market | 8.8% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| STL @ MIL | Dustin May vs Chad Patrick | MIL | -110 | 60.4% | 8.1% | HIGH | Standard play |
-| LAA @ DET | José Soriano vs Casey Mize | LAA | -110 | 60.1% | 7.7% | HIGH | Elite pitching matchup |
+| LAA @ DET | Grayson Rodriguez vs Jack Flaherty | DET | -110 | 61.9% | 9.5% | HIGH | Standard play |
+| CHC @ PIT | Colin Rea vs Paul Skenes | PIT | -110 | 61.2% | 8.8% | HIGH | Standard play |
 
 ---
 
