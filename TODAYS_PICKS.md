@@ -1,6 +1,6 @@
-# MLB Picks - Thursday, May 28, 2026
+# MLB Picks - Friday, May 29, 2026
 
-*Last updated: 2026-05-28 07:39 PM ET*
+*Last updated: 2026-05-29 05:38 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAA @ DET |
-| Starting Pitchers | Grayson Rodriguez vs Jack Flaherty |
+| Matchup | MIN @ PIT |
+| Starting Pitchers | Taj Bradley vs Jared Jones |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.5% |
+| Edge Over Market | 6.9% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,12 +21,12 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CHC @ PIT |
-| Starting Pitchers | Colin Rea vs Paul Skenes |
+| Matchup | MIL @ HOU |
+| Starting Pitchers | Coleman Crow vs Kai-Wei Teng |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.8% |
+| Edge Over Market | 6.7% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAA @ DET | Grayson Rodriguez vs Jack Flaherty | DET | -110 | 61.9% | 9.5% | HIGH | Standard play |
-| CHC @ PIT | Colin Rea vs Paul Skenes | PIT | -110 | 61.2% | 8.8% | HIGH | Standard play |
+| MIN @ PIT | Taj Bradley vs Jared Jones | MIN | -110 | 59.3% | 6.9% | HIGH | Standard play |
+| MIL @ HOU | Coleman Crow vs Kai-Wei Teng | MIL | -110 | 59.1% | 6.7% | HIGH | Elite pitching matchup |
 
 ---
 

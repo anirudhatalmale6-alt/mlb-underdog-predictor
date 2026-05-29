@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-05-29,PIT,MIN,Jared Jones,Taj Bradley,MIN,-110,0.5927,0.0689,6.9%,HIGH,True,Standard play,
+1ST INN ML,2026-05-29,HOU,MIL,Kai-Wei Teng,Coleman Crow,MIL,-110,0.5908,0.067,6.7%,HIGH,True,Elite pitching matchup,
+1ST INN ML,2026-05-29,SEA,ARI,George Kirby,Zac Gallen,SEA,-110,0.5889,0.0651,6.5%,HIGH,False,Standard play,
+1ST INN ML,2026-05-29,TB,LAA,Nick Martinez,Walbert Ureña,LAA,-110,0.5627,0.0389,3.9%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-05-29,LAD,PHI,Justin Wrobleski,Zack Wheeler,PHI,-110,0.5608,0.037,3.7%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-05-29,CWS,DET,Erick Fedde,Troy Melton,DET,-110,0.5589,0.0351,3.5%,LOW,False,Standard play,
+1ST INN ML,2026-05-29,NYM,MIA,Freddy Peralta,Max Meyer,MIA,-110,0.5544,0.0306,3.1%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-05-29,CLE,BOS,Slade Cecconi,Tyler Samaniego,BOS,-110,0.5541,0.0303,3.0%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-05-29,TEX,KC,MacKenzie Gore,Stephen Kolek,KC,-110,0.5387,0.0149,1.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-29,WSH,SD,Paxton Schultz,Lucas Giolito,SD,-110,0.5249,0.001,0.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-29,OAK,NYY,Luis Severino,Carlos Rodón,OAK,-110,0.5225,-0.0013,-0.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-29,STL,CHC,Andre Pallante,Shota Imanaga,STL,-110,0.5188,-0.005,-0.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-29,COL,SF,Michael Lorenzen,Logan Webb,COL,-110,0.503,-0.0209,-2.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-29,BAL,TOR,Trevor Rogers,TBD,BAL,-110,0.5028,-0.021,-2.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-29,CIN,ATL,Chris Paddack,Grant Holmes,ATL,-110,0.502,-0.0218,-2.2%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-05-29,LAD,PHI,Justin Wrobleski,Zack Wheeler,OVER 0.5,-110,0.5902,0.0664,6.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-29,HOU,MIL,Kai-Wei Teng,Coleman Crow,OVER 0.5,-110,0.5702,0.0464,4.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-29,TB,LAA,Nick Martinez,Walbert Ureña,OVER 0.5,-110,0.5653,0.0415,4.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-29,CLE,BOS,Slade Cecconi,Tyler Samaniego,UNDER 0.5,-110,0.5495,0.0257,2.6%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-05-29,WSH,SD,Paxton Schultz,Lucas Giolito,UNDER 0.5,-110,0.5474,0.0236,2.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-29,PIT,MIN,Jared Jones,Taj Bradley,UNDER 0.5,-110,0.5449,0.021,2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-29,CWS,DET,Erick Fedde,Troy Melton,UNDER 0.5,-110,0.5438,0.02,2.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-29,TEX,KC,MacKenzie Gore,Stephen Kolek,UNDER 0.5,-110,0.5317,0.0079,0.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-29,OAK,NYY,Luis Severino,Carlos Rodón,UNDER 0.5,-110,0.5251,0.0013,0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-29,SEA,ARI,George Kirby,Zac Gallen,UNDER 0.5,-110,0.5234,-0.0004,-0.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-29,COL,SF,Michael Lorenzen,Logan Webb,OVER 0.5,-110,0.523,-0.0008,-0.1%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-05-29,NYM,MIA,Freddy Peralta,Max Meyer,OVER 0.5,-110,0.5145,-0.0093,-0.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-29,STL,CHC,Andre Pallante,Shota Imanaga,UNDER 0.5,-110,0.509,-0.0148,-1.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-29,CIN,ATL,Chris Paddack,Grant Holmes,OVER 0.5,-110,0.5085,-0.0153,-1.5%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-05-29,BAL,TOR,Trevor Rogers,TBD,UNDER 0.5,-110,0.5002,-0.0236,-2.4%,NO PLAY,False,Standard play,0.5
