@@ -1,6 +1,6 @@
-# MLB Picks - Friday, May 29, 2026
+# MLB Picks - Saturday, May 30, 2026
 
-*Last updated: 2026-05-29 07:34 PM ET*
+*Last updated: 2026-05-30 03:15 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIN @ PIT |
-| Starting Pitchers | Taj Bradley vs Jared Jones |
+| Matchup | BOS @ CLE |
+| Starting Pitchers | Sonny Gray vs Parker Messick |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.9% |
+| Edge Over Market | 7.2% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
 | Matchup | MIL @ HOU |
-| Starting Pitchers | Coleman Crow vs Kai-Wei Teng |
+| Starting Pitchers | Brandon Sproat vs Peter Lambert |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.7% |
-| Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 3.6% |
+| Confidence | LOW |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIN @ PIT | Taj Bradley vs Jared Jones | MIN | -110 | 59.3% | 6.9% | HIGH | Standard play |
-| MIL @ HOU | Coleman Crow vs Kai-Wei Teng | MIL | -110 | 59.1% | 6.7% | HIGH | Elite pitching matchup |
+| BOS @ CLE | Sonny Gray vs Parker Messick | BOS | -110 | 59.6% | 7.2% | HIGH | Elite pitching matchup |
+| MIL @ HOU | Brandon Sproat vs Peter Lambert | HOU | -110 | 56.0% | 3.6% | LOW | Standard play |
 
 ---
 
