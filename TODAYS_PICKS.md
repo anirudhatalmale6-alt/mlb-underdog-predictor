@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, May 30, 2026
+# MLB Picks - Sunday, May 31, 2026
 
-*Last updated: 2026-05-30 06:04 PM ET*
+*Last updated: 2026-05-31 03:21 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,22 +10,22 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | BOS @ CLE |
-| Starting Pitchers | Sonny Gray vs Parker Messick |
+| Matchup | SD @ WSH |
+| Starting Pitchers | Griffin Canning vs Zack Littell |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.2% |
+| Edge Over Market | 11.2% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIL @ HOU |
-| Starting Pitchers | Brandon Sproat vs Peter Lambert |
+| Matchup | CHC @ STL |
+| Starting Pitchers | Jordan Wicks vs Matthew Liberatore |
 | Model Win Probability | 0 |
-| Edge Over Market | 3.6% |
-| Confidence | LOW |
+| Edge Over Market | 8.9% |
+| Confidence | HIGH |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| BOS @ CLE | Sonny Gray vs Parker Messick | BOS | -110 | 59.6% | 7.2% | HIGH | Elite pitching matchup |
-| MIL @ HOU | Brandon Sproat vs Peter Lambert | HOU | -110 | 56.0% | 3.6% | LOW | Standard play |
+| SD @ WSH | Griffin Canning vs Zack Littell | WSH | -110 | 63.6% | 11.2% | HIGH | Strong value |
+| CHC @ STL | Jordan Wicks vs Matthew Liberatore | STL | -110 | 61.3% | 8.9% | HIGH | Standard play |
 
 ---
 

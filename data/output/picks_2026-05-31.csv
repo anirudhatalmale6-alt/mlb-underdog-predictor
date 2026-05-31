@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-05-31,WSH,SD,Zack Littell,Griffin Canning,WSH,-110,0.6357,0.1119,11.2%,HIGH,True,Strong value,
+1ST INN ML,2026-05-31,STL,CHC,Matthew Liberatore,Jordan Wicks,STL,-110,0.6126,0.0888,8.9%,HIGH,True,Standard play,
+1ST INN ML,2026-05-31,PIT,MIN,Braxton Ashcraft,Zebby Matthews,MIN,-110,0.6013,0.0775,7.7%,HIGH,False,Elite pitching matchup,
+1ST INN ML,2026-05-31,LAD,PHI,Yoshinobu Yamamoto,Andrew Painter,LAD,-110,0.5897,0.0659,6.6%,HIGH,False,Standard play,
+1ST INN ML,2026-05-31,CLE,BOS,Tanner Bibee,Ranger Suarez,BOS,-110,0.5801,0.0563,5.6%,MEDIUM,False,Standard play,
+1ST INN ML,2026-05-31,NYM,MIA,Nolan McLean,John King,MIA,-110,0.5781,0.0543,5.4%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-05-31,TEX,KC,Jack Leiter,Michael Wacha,KC,-110,0.5687,0.0449,4.5%,MEDIUM,False,Standard play,
+1ST INN ML,2026-05-31,TB,LAA,Shane McClanahan,Jack Kochanowicz,TB,-110,0.5572,0.0334,3.3%,LOW,False,Standard play,
+1ST INN ML,2026-05-31,SEA,ARI,Bryce Miller,Merrill Kelly,SEA,-110,0.555,0.0312,3.1%,LOW,False,Standard play,
+1ST INN ML,2026-05-31,HOU,MIL,Tatsuya Imai,Jacob Misiorowski,MIL,-110,0.543,0.0192,1.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-31,BAL,TOR,Kyle Bradish,Spencer Miles,TOR,-110,0.5389,0.0151,1.5%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-05-31,COL,SF,Tanner Gordon,Robbie Ray,SF,-110,0.5297,0.0058,0.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-31,CIN,ATL,Nick Lodolo,Spencer Strider,ATL,-110,0.528,0.0042,0.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-31,CWS,DET,Sean Burke,Keider Montero,DET,-110,0.5141,-0.0097,-1.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-05-31,OAK,NYY,Jacob Lopez,Will Warren,NYY,-110,0.5089,-0.0149,-1.5%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-05-31,PIT,MIN,Braxton Ashcraft,Zebby Matthews,OVER 0.5,-110,0.5849,0.0611,6.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-31,OAK,NYY,Jacob Lopez,Will Warren,UNDER 0.5,-110,0.5843,0.0605,6.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-31,BAL,TOR,Kyle Bradish,Spencer Miles,UNDER 0.5,-110,0.5765,0.0527,5.3%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-05-31,TEX,KC,Jack Leiter,Michael Wacha,UNDER 0.5,-110,0.5548,0.0309,3.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-31,COL,SF,Tanner Gordon,Robbie Ray,OVER 0.5,-110,0.5523,0.0285,2.8%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-05-31,LAD,PHI,Yoshinobu Yamamoto,Andrew Painter,OVER 0.5,-110,0.5479,0.024,2.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-31,CLE,BOS,Tanner Bibee,Ranger Suarez,UNDER 0.5,-110,0.5323,0.0085,0.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-31,NYM,MIA,Nolan McLean,John King,OVER 0.5,-110,0.5227,-0.0011,-0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-31,STL,CHC,Matthew Liberatore,Jordan Wicks,UNDER 0.5,-110,0.521,-0.0028,-0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-31,TB,LAA,Shane McClanahan,Jack Kochanowicz,OVER 0.5,-110,0.5184,-0.0054,-0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-31,CIN,ATL,Nick Lodolo,Spencer Strider,OVER 0.5,-110,0.5145,-0.0093,-0.9%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-05-31,HOU,MIL,Tatsuya Imai,Jacob Misiorowski,UNDER 0.5,-110,0.5121,-0.0118,-1.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-31,WSH,SD,Zack Littell,Griffin Canning,UNDER 0.5,-110,0.5099,-0.0139,-1.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-31,SEA,ARI,Bryce Miller,Merrill Kelly,UNDER 0.5,-110,0.503,-0.0208,-2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-05-31,CWS,DET,Sean Burke,Keider Montero,OVER 0.5,-110,0.5024,-0.0214,-2.1%,NO PLAY,False,Standard play,0.5
