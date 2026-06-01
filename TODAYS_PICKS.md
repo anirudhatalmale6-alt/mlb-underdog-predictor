@@ -1,6 +1,6 @@
-# MLB Picks - Sunday, May 31, 2026
+# MLB Picks - Monday, June 01, 2026
 
-*Last updated: 2026-05-31 06:06 PM ET*
+*Last updated: 2026-06-01 07:23 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | SD @ WSH |
-| Starting Pitchers | Griffin Canning vs Zack Littell |
+| Matchup | CWS @ MIN |
+| Starting Pitchers | TBD vs Joe Ryan |
 | Model Win Probability | 0 |
-| Edge Over Market | 11.2% |
+| Edge Over Market | 6.2% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | CHC @ STL |
-| Starting Pitchers | Jordan Wicks vs Matthew Liberatore |
+| Matchup | SF @ MIL |
+| Starting Pitchers | Landen Roupp vs Shane Drohan |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.9% |
-| Confidence | HIGH |
-| Notes | Standard play |
+| Edge Over Market | 5.9% |
+| Confidence | MEDIUM |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SD @ WSH | Griffin Canning vs Zack Littell | WSH | -110 | 63.6% | 11.2% | HIGH | Strong value |
-| CHC @ STL | Jordan Wicks vs Matthew Liberatore | STL | -110 | 61.3% | 8.9% | HIGH | Standard play |
+| CWS @ MIN | TBD vs Joe Ryan | MIN | -110 | 58.6% | 6.2% | HIGH | Standard play |
+| SF @ MIL | Landen Roupp vs Shane Drohan | SF | -110 | 58.3% | 5.9% | MEDIUM | Elite pitching matchup |
 
 ---
 

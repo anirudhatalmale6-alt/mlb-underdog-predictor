@@ -1,0 +1,19 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-06-01,MIN,CWS,Joe Ryan,TBD,MIN,-110,0.5858,0.062,6.2%,HIGH,True,Standard play,
+1ST INN ML,2026-06-01,MIL,SF,Shane Drohan,Landen Roupp,SF,-110,0.5832,0.0594,5.9%,MEDIUM,True,Elite pitching matchup,
+1ST INN ML,2026-06-01,LAA,COL,José Soriano,Kyle Freeland,LAA,-110,0.5822,0.0584,5.8%,MEDIUM,False,Standard play,
+1ST INN ML,2026-06-01,SEA,NYM,Emerson Hancock,Austin Warren,NYM,-110,0.5513,0.0275,2.7%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-01,TB,DET,Griffin Jax,Ty Madden,DET,-110,0.5466,0.0228,2.3%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-01,WSH,MIA,Cade Cavalli,Sandy Alcantara,WSH,-110,0.5395,0.0157,1.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-01,STL,TEX,Michael McGreevy,Jacob deGrom,TEX,-110,0.529,0.0052,0.5%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-01,CIN,KC,Lyon Richardson,Luinder Avila,CIN,-110,0.5203,-0.0035,-0.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-01,ARI,LAD,Eduardo Rodriguez,Emmet Sheehan,ARI,-110,0.509,-0.0148,-1.5%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-06-01,LAA,COL,José Soriano,Kyle Freeland,OVER 0.5,-110,0.5547,0.0308,3.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-01,STL,TEX,Michael McGreevy,Jacob deGrom,OVER 0.5,-110,0.533,0.0091,0.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-01,SEA,NYM,Emerson Hancock,Austin Warren,OVER 0.5,-110,0.5303,0.0065,0.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-01,ARI,LAD,Eduardo Rodriguez,Emmet Sheehan,OVER 0.5,-110,0.5201,-0.0037,-0.4%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-01,MIL,SF,Shane Drohan,Landen Roupp,OVER 0.5,-110,0.5176,-0.0063,-0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-01,MIN,CWS,Joe Ryan,TBD,UNDER 0.5,-110,0.5149,-0.0089,-0.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-01,WSH,MIA,Cade Cavalli,Sandy Alcantara,UNDER 0.5,-110,0.5129,-0.0109,-1.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-01,TB,DET,Griffin Jax,Ty Madden,UNDER 0.5,-110,0.5087,-0.0151,-1.5%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-06-01,CIN,KC,Lyon Richardson,Luinder Avila,UNDER 0.5,-110,0.5025,-0.0214,-2.1%,NO PLAY,False,Standard play,0.5
