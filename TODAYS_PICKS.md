@@ -1,6 +1,6 @@
-# MLB Picks - Monday, June 01, 2026
+# MLB Picks - Tuesday, June 02, 2026
 
-*Last updated: 2026-06-01 08:58 PM ET*
+*Last updated: 2026-06-02 06:08 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CWS @ MIN |
-| Starting Pitchers | TBD vs Joe Ryan |
+| Matchup | OAK @ CHC |
+| Starting Pitchers | Gage Jump vs Jameson Taillon |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.2% |
+| Edge Over Market | 11.9% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | SF @ MIL |
-| Starting Pitchers | Landen Roupp vs Shane Drohan |
+| Matchup | BAL @ BOS |
+| Starting Pitchers | Shane Baz vs Connelly Early |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.9% |
-| Confidence | MEDIUM |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 8.6% |
+| Confidence | HIGH |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CWS @ MIN | TBD vs Joe Ryan | MIN | -110 | 58.6% | 6.2% | HIGH | Standard play |
-| SF @ MIL | Landen Roupp vs Shane Drohan | SF | -110 | 58.3% | 5.9% | MEDIUM | Elite pitching matchup |
+| OAK @ CHC | Gage Jump vs Jameson Taillon | CHC | -110 | 64.2% | 11.9% | HIGH | Strong value |
+| BAL @ BOS | Shane Baz vs Connelly Early | BOS | -110 | 61.0% | 8.6% | HIGH | Standard play |
 
 ---
 
