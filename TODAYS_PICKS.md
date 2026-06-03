@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, June 02, 2026
+# MLB Picks - Wednesday, June 03, 2026
 
-*Last updated: 2026-06-02 08:09 PM ET*
+*Last updated: 2026-06-03 06:25 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | OAK @ CHC |
-| Starting Pitchers | Gage Jump vs Jameson Taillon |
+| Matchup | CWS @ MIN |
+| Starting Pitchers | Erick Fedde vs Taj Bradley |
 | Model Win Probability | 0 |
-| Edge Over Market | 11.9% |
+| Edge Over Market | 7.9% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | BAL @ BOS |
-| Starting Pitchers | Shane Baz vs Connelly Early |
+| Matchup | PIT @ HOU |
+| Starting Pitchers | Paul Skenes vs Spencer Arrighetti |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.6% |
+| Edge Over Market | 7.9% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| OAK @ CHC | Gage Jump vs Jameson Taillon | CHC | -110 | 64.2% | 11.9% | HIGH | Strong value |
-| BAL @ BOS | Shane Baz vs Connelly Early | BOS | -110 | 61.0% | 8.6% | HIGH | Standard play |
+| CWS @ MIN | Erick Fedde vs Taj Bradley | MIN | -110 | 60.3% | 7.9% | HIGH | Standard play |
+| PIT @ HOU | Paul Skenes vs Spencer Arrighetti | PIT | -110 | 60.2% | 7.9% | HIGH | Elite pitching matchup |
 
 ---
 

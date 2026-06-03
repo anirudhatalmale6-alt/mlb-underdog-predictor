@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-06-03,MIN,CWS,Taj Bradley,Erick Fedde,MIN,-110,0.6027,0.0789,7.9%,HIGH,True,Standard play,
+1ST INN ML,2026-06-03,HOU,PIT,Spencer Arrighetti,Paul Skenes,PIT,-110,0.6023,0.0785,7.9%,HIGH,True,Elite pitching matchup,
+1ST INN ML,2026-06-03,TB,DET,Nick Martinez,Troy Melton,DET,-110,0.6013,0.0775,7.7%,HIGH,False,Elite pitching matchup,
+1ST INN ML,2026-06-03,NYY,CLE,Gerrit Cole,Gavin Williams,CLE,-110,0.5969,0.0731,7.3%,HIGH,False,Elite pitching matchup,
+1ST INN ML,2026-06-03,SEA,NYM,George Kirby,Freddy Peralta,SEA,-110,0.5813,0.0575,5.7%,MEDIUM,False,Standard play,
+1ST INN ML,2026-06-03,BOS,BAL,Payton Tolle,Chris Bassitt,BOS,-110,0.5745,0.0507,5.1%,MEDIUM,False,Standard play,
+1ST INN ML,2026-06-03,LAA,COL,Walbert Ureña,Michael Lorenzen,LAA,-110,0.5741,0.0503,5.0%,MEDIUM,False,Standard play,
+1ST INN ML,2026-06-03,MIL,SF,TBD,Logan Webb,MIL,-110,0.5657,0.0419,4.2%,MEDIUM,False,Standard play,
+1ST INN ML,2026-06-03,PHI,SD,Cristopher Sánchez,Walker Buehler,PHI,-110,0.5576,0.0338,3.4%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-06-03,ARI,LAD,Zac Gallen,Shohei Ohtani,LAD,-110,0.55,0.0262,2.6%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-03,WSH,MIA,Andrew Alvarez,Max Meyer,MIA,-110,0.5436,0.0198,2.0%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-03,ATL,TOR,Grant Holmes,Patrick Corbin,ATL,-110,0.5329,0.0091,0.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-03,STL,TEX,Andre Pallante,MacKenzie Gore,TEX,-110,0.5288,0.005,0.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-03,CIN,KC,Chase Burns,Stephen Kolek,KC,-110,0.5248,0.001,0.1%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-03,CHC,OAK,Colin Rea,Jeffrey Springs,OAK,-110,0.5154,-0.0084,-0.8%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-06-03,CIN,KC,Chase Burns,Stephen Kolek,OVER 0.5,-110,0.5958,0.072,7.2%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-03,TB,DET,Nick Martinez,Troy Melton,OVER 0.5,-110,0.5849,0.0611,6.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-03,ARI,LAD,Zac Gallen,Shohei Ohtani,UNDER 0.5,-110,0.5708,0.047,4.7%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-06-03,NYY,CLE,Gerrit Cole,Gavin Williams,OVER 0.5,-110,0.5629,0.0391,3.9%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-03,MIN,CWS,Taj Bradley,Erick Fedde,OVER 0.5,-110,0.5476,0.0238,2.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-03,HOU,PIT,Spencer Arrighetti,Paul Skenes,OVER 0.5,-110,0.5457,0.0219,2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-03,CHC,OAK,Colin Rea,Jeffrey Springs,UNDER 0.5,-110,0.5397,0.0159,1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-03,STL,TEX,Andre Pallante,MacKenzie Gore,UNDER 0.5,-110,0.5362,0.0124,1.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-03,SEA,NYM,George Kirby,Freddy Peralta,UNDER 0.5,-110,0.5225,-0.0013,-0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-03,PHI,SD,Cristopher Sánchez,Walker Buehler,OVER 0.5,-110,0.514,-0.0099,-1.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-03,WSH,MIA,Andrew Alvarez,Max Meyer,UNDER 0.5,-110,0.5107,-0.0131,-1.3%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-06-03,BOS,BAL,Payton Tolle,Chris Bassitt,OVER 0.5,-110,0.5106,-0.0132,-1.3%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-03,ATL,TOR,Grant Holmes,Patrick Corbin,UNDER 0.5,-110,0.5058,-0.018,-1.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-03,MIL,SF,TBD,Logan Webb,UNDER 0.5,-110,0.5028,-0.0211,-2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-03,LAA,COL,Walbert Ureña,Michael Lorenzen,OVER 0.5,-110,0.5004,-0.0234,-2.3%,NO PLAY,False,Standard play,0.5
