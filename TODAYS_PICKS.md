@@ -1,6 +1,6 @@
-# MLB Picks - Wednesday, June 03, 2026
+# MLB Picks - Thursday, June 04, 2026
 
-*Last updated: 2026-06-03 08:19 PM ET*
+*Last updated: 2026-06-04 04:57 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CWS @ MIN |
-| Starting Pitchers | Erick Fedde vs Taj Bradley |
+| Matchup | BAL @ BOS |
+| Starting Pitchers | Trevor Rogers vs Brayan Bello |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.9% |
+| Edge Over Market | 9.3% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -22,11 +22,11 @@
 | Stat | Value |
 |------|-------|
 | Matchup | PIT @ HOU |
-| Starting Pitchers | Paul Skenes vs Spencer Arrighetti |
+| Starting Pitchers | Jared Jones vs Kai-Wei Teng |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.9% |
+| Edge Over Market | 8.1% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CWS @ MIN | Erick Fedde vs Taj Bradley | MIN | -110 | 60.3% | 7.9% | HIGH | Standard play |
-| PIT @ HOU | Paul Skenes vs Spencer Arrighetti | PIT | -110 | 60.2% | 7.9% | HIGH | Elite pitching matchup |
+| BAL @ BOS | Trevor Rogers vs Brayan Bello | BOS | -110 | 61.7% | 9.3% | HIGH | Standard play |
+| PIT @ HOU | Jared Jones vs Kai-Wei Teng | HOU | -110 | 60.5% | 8.1% | HIGH | Standard play |
 
 ---
 
