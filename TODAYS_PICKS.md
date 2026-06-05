@@ -1,43 +1,31 @@
-# MLB Picks - Thursday, June 04, 2026
+# MLB Picks - Friday, June 05, 2026
 
-*Last updated: 2026-06-04 07:25 PM ET*
+*Last updated: 2026-06-05 04:33 PM ET*
 
 ## Moneyline Underdogs
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (1)
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | BAL @ BOS |
-| Starting Pitchers | Trevor Rogers vs Brayan Bello |
+| Matchup | SF @ CHC |
+| Starting Pitchers | Robbie Ray vs Edward Cabrera |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.3% |
-| Confidence | HIGH |
-| Notes | Standard play |
-
-#### ??? (0)
-
-| Stat | Value |
-|------|-------|
-| Matchup | PIT @ HOU |
-| Starting Pitchers | Jared Jones vs Kai-Wei Teng |
-| Model Win Probability | 0 |
-| Edge Over Market | 8.1% |
-| Confidence | HIGH |
+| Edge Over Market | 4.5% |
+| Confidence | MEDIUM |
 | Notes | Standard play |
 
 ---
 
 ## 1st Inning Moneyline
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (1)
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| BAL @ BOS | Trevor Rogers vs Brayan Bello | BOS | -110 | 61.7% | 9.3% | HIGH | Standard play |
-| PIT @ HOU | Jared Jones vs Kai-Wei Teng | HOU | -110 | 60.5% | 8.1% | HIGH | Standard play |
+| SF @ CHC | Robbie Ray vs Edward Cabrera | CHC | -110 | 56.9% | 4.5% | MEDIUM | Standard play |
 
 ---
 

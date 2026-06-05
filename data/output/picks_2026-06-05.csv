@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-06-05,CHC,SF,Edward Cabrera,Robbie Ray,CHC,-110,0.5688,0.045,4.5%,MEDIUM,True,Standard play,
+1ST INN ML,2026-06-05,NYY,BOS,Ryan Weathers,Sonny Gray,BOS,-110,0.553,0.0292,2.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-05,STL,CIN,Kyle Leahy,Brady Singer,STL,-110,0.549,0.0252,2.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-05,LAD,LAA,Roki Sasaki,TBD,LAD,-110,0.5472,0.0234,2.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-05,MIN,KC,Zebby Matthews,Michael Wacha,KC,-110,0.5446,0.0208,2.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-05,PHI,CWS,Jesús Luzardo,Anthony Kay,PHI,-110,0.544,0.0202,2.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-05,DET,SEA,Framber Valdez,Bryan Woo,SEA,-110,0.5239,0.0001,0.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-05,ATL,PIT,Martín Pérez,Mitch Keller,ATL,-110,0.5203,-0.0035,-0.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-05,ARI,WSH,Merrill Kelly,Foster Griffin,WSH,-110,0.5169,-0.0069,-0.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-05,COL,MIL,Ryan Feltner,Brandon Sproat,MIL,-110,0.5118,-0.012,-1.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-05,TOR,BAL,Trey Yesavage,Brandon Young,BAL,-110,0.5095,-0.0143,-1.4%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-05,HOU,OAK,Peter Lambert,Jack Perkins,HOU,-110,0.508,-0.0158,-1.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-05,TEX,CLE,Kumar Rocker,Parker Messick,CLE,-110,0.5066,-0.0172,-1.7%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-05,SD,NYM,Michael King,Christian Scott,NYM,-110,0.5035,-0.0203,-2.0%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-05,MIA,TB,Ryan Gusto,Drew Rasmussen,TB,-110,0.5017,-0.0221,-2.2%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-06-05,COL,MIL,Ryan Feltner,Brandon Sproat,OVER 0.5,-110,0.5697,0.0459,4.6%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-05,MIA,TB,Ryan Gusto,Drew Rasmussen,UNDER 0.5,-110,0.5652,0.0414,4.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-05,TEX,CLE,Kumar Rocker,Parker Messick,UNDER 0.5,-110,0.5567,0.0329,3.3%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-06-05,MIN,KC,Zebby Matthews,Michael Wacha,UNDER 0.5,-110,0.5477,0.0239,2.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-05,TOR,BAL,Trey Yesavage,Brandon Young,OVER 0.5,-110,0.5446,0.0208,2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-05,ARI,WSH,Merrill Kelly,Foster Griffin,UNDER 0.5,-110,0.5362,0.0124,1.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-05,LAD,LAA,Roki Sasaki,TBD,UNDER 0.5,-110,0.5324,0.0086,0.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-05,SD,NYM,Michael King,Christian Scott,UNDER 0.5,-110,0.5283,0.0045,0.4%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-06-05,STL,CIN,Kyle Leahy,Brady Singer,OVER 0.5,-110,0.5263,0.0025,0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-05,NYY,BOS,Ryan Weathers,Sonny Gray,UNDER 0.5,-110,0.5248,0.001,0.1%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-06-05,PHI,CWS,Jesús Luzardo,Anthony Kay,OVER 0.5,-110,0.5203,-0.0035,-0.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-05,CHC,SF,Edward Cabrera,Robbie Ray,OVER 0.5,-110,0.5133,-0.0106,-1.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-05,DET,SEA,Framber Valdez,Bryan Woo,OVER 0.5,-110,0.513,-0.0108,-1.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-05,ATL,PIT,Martín Pérez,Mitch Keller,OVER 0.5,-110,0.5048,-0.019,-1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-05,HOU,OAK,Peter Lambert,Jack Perkins,OVER 0.5,-110,0.5022,-0.0216,-2.2%,NO PLAY,False,Standard play,0.5
