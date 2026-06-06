@@ -1,31 +1,43 @@
-# MLB Picks - Friday, June 05, 2026
+# MLB Picks - Saturday, June 06, 2026
 
-*Last updated: 2026-06-05 07:00 PM ET*
+*Last updated: 2026-06-06 03:21 PM ET*
 
 ## Moneyline Underdogs
 
-### RECOMMENDED PLAYS (1)
+### RECOMMENDED PLAYS (2)
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | SF @ CHC |
-| Starting Pitchers | Robbie Ray vs Edward Cabrera |
+| Matchup | KC @ MIN |
+| Starting Pitchers | Luinder Avila vs Joe Ryan |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.5% |
-| Confidence | MEDIUM |
+| Edge Over Market | 10.6% |
+| Confidence | HIGH |
+| Notes | Strong value |
+
+#### ??? (0)
+
+| Stat | Value |
+|------|-------|
+| Matchup | LAA @ LAD |
+| Starting Pitchers | Jack Kochanowicz vs Yoshinobu Yamamoto |
+| Model Win Probability | 0 |
+| Edge Over Market | 8.2% |
+| Confidence | HIGH |
 | Notes | Standard play |
 
 ---
 
 ## 1st Inning Moneyline
 
-### RECOMMENDED PLAYS (1)
+### RECOMMENDED PLAYS (2)
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SF @ CHC | Robbie Ray vs Edward Cabrera | CHC | -110 | 56.9% | 4.5% | MEDIUM | Standard play |
+| KC @ MIN | Luinder Avila vs Joe Ryan | MIN | -110 | 63.0% | 10.6% | HIGH | Strong value |
+| LAA @ LAD | Jack Kochanowicz vs Yoshinobu Yamamoto | LAD | -110 | 60.6% | 8.2% | HIGH | Standard play |
 
 ---
 
