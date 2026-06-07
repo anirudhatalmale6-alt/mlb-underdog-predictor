@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, June 06, 2026
+# MLB Picks - Sunday, June 07, 2026
 
-*Last updated: 2026-06-06 06:11 PM ET*
+*Last updated: 2026-06-07 03:27 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | KC @ MIN |
-| Starting Pitchers | Luinder Avila vs Joe Ryan |
+| Matchup | CWS @ PHI |
+| Starting Pitchers | Tyler Gilbert vs Aaron Nola |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.6% |
+| Edge Over Market | 12.1% |
 | Confidence | HIGH |
 | Notes | Strong value |
 
@@ -21,10 +21,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAA @ LAD |
-| Starting Pitchers | Jack Kochanowicz vs Yoshinobu Yamamoto |
+| Matchup | CIN @ STL |
+| Starting Pitchers | Rhett Lowder vs Michael McGreevy |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.2% |
+| Edge Over Market | 8.6% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| KC @ MIN | Luinder Avila vs Joe Ryan | MIN | -110 | 63.0% | 10.6% | HIGH | Strong value |
-| LAA @ LAD | Jack Kochanowicz vs Yoshinobu Yamamoto | LAD | -110 | 60.6% | 8.2% | HIGH | Standard play |
+| CWS @ PHI | Tyler Gilbert vs Aaron Nola | PHI | -110 | 64.5% | 12.1% | HIGH | Strong value |
+| CIN @ STL | Rhett Lowder vs Michael McGreevy | STL | -110 | 61.0% | 8.6% | HIGH | Standard play |
 
 ---
 
