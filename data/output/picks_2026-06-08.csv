@@ -1,0 +1,17 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-06-08,SD,CIN,Walker Buehler,Andrew Abbott,SD,-110,0.5809,0.057,5.7%,MEDIUM,True,Standard play,
+1ST INN ML,2026-06-08,TOR,PHI,Patrick Corbin,Cristopher Sánchez,PHI,-110,0.5758,0.052,5.2%,MEDIUM,True,Elite pitching matchup,
+1ST INN ML,2026-06-08,SF,WSH,Logan Webb,Miles Mikolas,SF,-110,0.5724,0.0486,4.9%,MEDIUM,False,Standard play,
+1ST INN ML,2026-06-08,BAL,SEA,TBD,Emerson Hancock,SEA,-110,0.571,0.0472,4.7%,MEDIUM,False,Standard play,
+1ST INN ML,2026-06-08,OAK,MIL,Jeffrey Springs,Kyle Harrison,MIL,-110,0.5683,0.0445,4.5%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-06-08,TB,BOS,Ian Seymour,Connelly Early,BOS,-110,0.5502,0.0264,2.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-08,CLE,NYY,Gavin Williams,Will Warren,NYY,-110,0.5383,0.0145,1.4%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-08,LAA,HOU,Grayson Rodriguez,Spencer Arrighetti,HOU,-110,0.5287,0.0048,0.5%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-06-08,TB,BOS,Ian Seymour,Connelly Early,UNDER 0.5,-110,0.5749,0.0511,5.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-08,BAL,SEA,TBD,Emerson Hancock,UNDER 0.5,-110,0.5679,0.0441,4.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-08,LAA,HOU,Grayson Rodriguez,Spencer Arrighetti,UNDER 0.5,-110,0.5471,0.0233,2.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-08,TOR,PHI,Patrick Corbin,Cristopher Sánchez,UNDER 0.5,-110,0.5339,0.0101,1.0%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-06-08,SF,WSH,Logan Webb,Miles Mikolas,OVER 0.5,-110,0.5284,0.0046,0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-08,CLE,NYY,Gavin Williams,Will Warren,OVER 0.5,-110,0.5248,0.0009,0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-08,SD,CIN,Walker Buehler,Andrew Abbott,UNDER 0.5,-110,0.5188,-0.005,-0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-08,OAK,MIL,Jeffrey Springs,Kyle Harrison,UNDER 0.5,-110,0.5024,-0.0214,-2.1%,NO PLAY,False,Elite SPs keep 1st clean,0.5

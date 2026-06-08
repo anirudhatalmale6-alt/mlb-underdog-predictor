@@ -1,6 +1,6 @@
-# MLB Picks - Sunday, June 07, 2026
+# MLB Picks - Monday, June 08, 2026
 
-*Last updated: 2026-06-07 06:08 PM ET*
+*Last updated: 2026-06-08 05:26 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CWS @ PHI |
-| Starting Pitchers | Tyler Gilbert vs Aaron Nola |
+| Matchup | CIN @ SD |
+| Starting Pitchers | Andrew Abbott vs Walker Buehler |
 | Model Win Probability | 0 |
-| Edge Over Market | 12.1% |
-| Confidence | HIGH |
-| Notes | Strong value |
+| Edge Over Market | 5.7% |
+| Confidence | MEDIUM |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | CIN @ STL |
-| Starting Pitchers | Rhett Lowder vs Michael McGreevy |
+| Matchup | PHI @ TOR |
+| Starting Pitchers | Cristopher Sánchez vs Patrick Corbin |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.6% |
-| Confidence | HIGH |
-| Notes | Standard play |
+| Edge Over Market | 5.2% |
+| Confidence | MEDIUM |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CWS @ PHI | Tyler Gilbert vs Aaron Nola | PHI | -110 | 64.5% | 12.1% | HIGH | Strong value |
-| CIN @ STL | Rhett Lowder vs Michael McGreevy | STL | -110 | 61.0% | 8.6% | HIGH | Standard play |
+| CIN @ SD | Andrew Abbott vs Walker Buehler | SD | -110 | 58.1% | 5.7% | MEDIUM | Standard play |
+| PHI @ TOR | Cristopher Sánchez vs Patrick Corbin | PHI | -110 | 57.6% | 5.2% | MEDIUM | Elite pitching matchup |
 
 ---
 
