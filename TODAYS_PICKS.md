@@ -1,6 +1,6 @@
-# MLB Picks - Monday, June 08, 2026
+# MLB Picks - Tuesday, June 09, 2026
 
-*Last updated: 2026-06-08 07:23 PM ET*
+*Last updated: 2026-06-09 04:35 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,22 +10,22 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CIN @ SD |
-| Starting Pitchers | Andrew Abbott vs Walker Buehler |
+| Matchup | HOU @ LAA |
+| Starting Pitchers | Kai-Wei Teng vs Walbert Ureña |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.7% |
-| Confidence | MEDIUM |
-| Notes | Standard play |
+| Edge Over Market | 9.7% |
+| Confidence | HIGH |
+| Notes | Elite pitching matchup |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | PHI @ TOR |
-| Starting Pitchers | Cristopher Sánchez vs Patrick Corbin |
+| Matchup | BOS @ TB |
+| Starting Pitchers | Payton Tolle vs Nick Martinez |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.2% |
-| Confidence | MEDIUM |
+| Edge Over Market | 7.7% |
+| Confidence | HIGH |
 | Notes | Elite pitching matchup |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CIN @ SD | Andrew Abbott vs Walker Buehler | SD | -110 | 58.1% | 5.7% | MEDIUM | Standard play |
-| PHI @ TOR | Cristopher Sánchez vs Patrick Corbin | PHI | -110 | 57.6% | 5.2% | MEDIUM | Elite pitching matchup |
+| HOU @ LAA | Kai-Wei Teng vs Walbert Ureña | HOU | -110 | 62.1% | 9.7% | HIGH | Elite pitching matchup |
+| BOS @ TB | Payton Tolle vs Nick Martinez | BOS | -110 | 60.1% | 7.7% | HIGH | Elite pitching matchup |
 
 ---
 
