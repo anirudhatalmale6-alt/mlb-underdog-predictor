@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, June 09, 2026
+# MLB Picks - Wednesday, June 10, 2026
 
-*Last updated: 2026-06-09 07:19 PM ET*
+*Last updated: 2026-06-10 05:26 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,21 +10,21 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | HOU @ LAA |
-| Starting Pitchers | Kai-Wei Teng vs Walbert Ureña |
+| Matchup | CIN @ SD |
+| Starting Pitchers | Brady Singer vs Michael King |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.7% |
+| Edge Over Market | 7.4% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | BOS @ TB |
-| Starting Pitchers | Payton Tolle vs Nick Martinez |
+| Matchup | LAD @ PIT |
+| Starting Pitchers | Shohei Ohtani vs Jared Jones |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.7% |
+| Edge Over Market | 6.2% |
 | Confidence | HIGH |
 | Notes | Elite pitching matchup |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| HOU @ LAA | Kai-Wei Teng vs Walbert Ureña | HOU | -110 | 62.1% | 9.7% | HIGH | Elite pitching matchup |
-| BOS @ TB | Payton Tolle vs Nick Martinez | BOS | -110 | 60.1% | 7.7% | HIGH | Elite pitching matchup |
+| CIN @ SD | Brady Singer vs Michael King | SD | -110 | 59.7% | 7.4% | HIGH | Standard play |
+| LAD @ PIT | Shohei Ohtani vs Jared Jones | LAD | -110 | 58.5% | 6.2% | HIGH | Elite pitching matchup |
 
 ---
 
