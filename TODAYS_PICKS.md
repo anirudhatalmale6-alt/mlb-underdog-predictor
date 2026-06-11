@@ -1,6 +1,6 @@
-# MLB Picks - Wednesday, June 10, 2026
+# MLB Picks - Thursday, June 11, 2026
 
-*Last updated: 2026-06-10 07:37 PM ET*
+*Last updated: 2026-06-11 05:39 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CIN @ SD |
-| Starting Pitchers | Brady Singer vs Michael King |
+| Matchup | STL @ NYM |
+| Starting Pitchers | Hunter Dobbins vs Christian Scott |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.4% |
+| Edge Over Market | 10.7% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
 | Matchup | LAD @ PIT |
-| Starting Pitchers | Shohei Ohtani vs Jared Jones |
+| Starting Pitchers | Justin Wrobleski vs Mitch Keller |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.2% |
+| Edge Over Market | 6.0% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CIN @ SD | Brady Singer vs Michael King | SD | -110 | 59.7% | 7.4% | HIGH | Standard play |
-| LAD @ PIT | Shohei Ohtani vs Jared Jones | LAD | -110 | 58.5% | 6.2% | HIGH | Elite pitching matchup |
+| STL @ NYM | Hunter Dobbins vs Christian Scott | NYM | -110 | 63.1% | 10.7% | HIGH | Strong value |
+| LAD @ PIT | Justin Wrobleski vs Mitch Keller | LAD | -110 | 58.4% | 6.0% | HIGH | Standard play |
 
 ---
 
