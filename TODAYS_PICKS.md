@@ -1,6 +1,6 @@
-# MLB Picks - Thursday, June 11, 2026
+# MLB Picks - Friday, June 12, 2026
 
-*Last updated: 2026-06-11 07:37 PM ET*
+*Last updated: 2026-06-12 04:49 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | STL @ NYM |
-| Starting Pitchers | Hunter Dobbins vs Christian Scott |
+| Matchup | TEX @ BOS |
+| Starting Pitchers | Jack Leiter vs Sonny Gray |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.7% |
+| Edge Over Market | 11.7% |
 | Confidence | HIGH |
 | Notes | Strong value |
 
@@ -21,12 +21,12 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAD @ PIT |
-| Starting Pitchers | Justin Wrobleski vs Mitch Keller |
+| Matchup | STL @ MIN |
+| Starting Pitchers | Kyle Leahy vs Joe Ryan |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.0% |
+| Edge Over Market | 10.4% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Strong value |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| STL @ NYM | Hunter Dobbins vs Christian Scott | NYM | -110 | 63.1% | 10.7% | HIGH | Strong value |
-| LAD @ PIT | Justin Wrobleski vs Mitch Keller | LAD | -110 | 58.4% | 6.0% | HIGH | Standard play |
+| TEX @ BOS | Jack Leiter vs Sonny Gray | BOS | -110 | 64.1% | 11.7% | HIGH | Strong value |
+| STL @ MIN | Kyle Leahy vs Joe Ryan | MIN | -110 | 62.8% | 10.4% | HIGH | Strong value |
 
 ---
 
