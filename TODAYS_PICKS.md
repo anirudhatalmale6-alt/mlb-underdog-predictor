@@ -1,6 +1,6 @@
-# MLB Picks - Friday, June 12, 2026
+# MLB Picks - Saturday, June 13, 2026
 
-*Last updated: 2026-06-12 07:09 PM ET*
+*Last updated: 2026-06-13 03:45 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | TEX @ BOS |
-| Starting Pitchers | Jack Leiter vs Sonny Gray |
+| Matchup | PHI @ MIL |
+| Starting Pitchers | Aaron Nola vs Shane Drohan |
 | Model Win Probability | 0 |
-| Edge Over Market | 11.7% |
+| Edge Over Market | 7.3% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | STL @ MIN |
-| Starting Pitchers | Kyle Leahy vs Joe Ryan |
+| Matchup | DET @ CLE |
+| Starting Pitchers | Tarik Skubal vs Joey Cantillo |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.4% |
+| Edge Over Market | 7.1% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TEX @ BOS | Jack Leiter vs Sonny Gray | BOS | -110 | 64.1% | 11.7% | HIGH | Strong value |
-| STL @ MIN | Kyle Leahy vs Joe Ryan | MIN | -110 | 62.8% | 10.4% | HIGH | Strong value |
+| PHI @ MIL | Aaron Nola vs Shane Drohan | MIL | -110 | 59.7% | 7.3% | HIGH | Standard play |
+| DET @ CLE | Tarik Skubal vs Joey Cantillo | DET | -110 | 59.5% | 7.1% | HIGH | Standard play |
 
 ---
 
