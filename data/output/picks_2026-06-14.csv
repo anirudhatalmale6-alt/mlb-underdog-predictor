@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-06-14,CLE,DET,Gavin Williams,Casey Mize,DET,-110,0.5918,0.068,6.8%,HIGH,True,Elite pitching matchup,
+1ST INN ML,2026-06-14,NYM,ATL,Freddy Peralta,Bryce Elder,ATL,-110,0.5892,0.0654,6.5%,HIGH,True,Elite pitching matchup,
+1ST INN ML,2026-06-14,LAA,TB,Grayson Rodriguez,Casey Legumina,TB,-110,0.5871,0.0633,6.3%,HIGH,False,Standard play,
+1ST INN ML,2026-06-14,MIL,PHI,Kyle Harrison,Cristopher Sánchez,PHI,-110,0.5838,0.06,6.0%,HIGH,False,Elite pitching matchup,
+1ST INN ML,2026-06-14,MIN,STL,Taj Bradley,Michael McGreevy,STL,-110,0.5811,0.0573,5.7%,MEDIUM,False,Standard play,
+1ST INN ML,2026-06-14,PIT,MIA,Paul Skenes,Max Meyer,MIA,-110,0.5802,0.0563,5.6%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-06-14,WSH,SEA,PJ Poulin,Emerson Hancock,SEA,-110,0.5602,0.0364,3.6%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-06-14,TOR,NYY,Patrick Corbin,Will Warren,NYY,-110,0.5523,0.0284,2.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-14,KC,HOU,Stephen Kolek,Spencer Arrighetti,HOU,-110,0.5496,0.0258,2.6%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-14,SF,CHC,Logan Webb,Ryan Rolison,CHC,-110,0.5344,0.0106,1.1%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-14,CIN,ARI,Andrew Abbott,Zac Gallen,CIN,-110,0.5194,-0.0044,-0.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-14,OAK,COL,Jeffrey Springs,Tomoyuki Sugano,COL,-110,0.5186,-0.0052,-0.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-14,BOS,TEX,Connelly Early,Nathan Eovaldi,BOS,-110,0.5111,-0.0127,-1.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-14,CWS,LAD,Bryan Hudson,Emmet Sheehan,LAD,-110,0.5092,-0.0146,-1.5%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-14,BAL,SD,Trevor Rogers,Walker Buehler,BAL,-110,0.5054,-0.0184,-1.8%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-06-14,KC,HOU,Stephen Kolek,Spencer Arrighetti,OVER 0.5,-110,0.5727,0.0489,4.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-14,PIT,MIA,Paul Skenes,Max Meyer,OVER 0.5,-110,0.5551,0.0313,3.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-14,MIN,STL,Taj Bradley,Michael McGreevy,UNDER 0.5,-110,0.551,0.0272,2.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-14,CLE,DET,Gavin Williams,Casey Mize,OVER 0.5,-110,0.5509,0.0271,2.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-14,TOR,NYY,Patrick Corbin,Will Warren,UNDER 0.5,-110,0.5495,0.0257,2.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-14,MIL,PHI,Kyle Harrison,Cristopher Sánchez,OVER 0.5,-110,0.5457,0.0219,2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-14,OAK,COL,Jeffrey Springs,Tomoyuki Sugano,UNDER 0.5,-110,0.5318,0.008,0.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-14,NYM,ATL,Freddy Peralta,Bryce Elder,UNDER 0.5,-110,0.5283,0.0045,0.5%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-06-14,CIN,ARI,Andrew Abbott,Zac Gallen,OVER 0.5,-110,0.5268,0.003,0.3%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-14,BOS,TEX,Connelly Early,Nathan Eovaldi,OVER 0.5,-110,0.5249,0.0011,0.1%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-14,WSH,SEA,PJ Poulin,Emerson Hancock,OVER 0.5,-110,0.5225,-0.0013,-0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-14,BAL,SD,Trevor Rogers,Walker Buehler,OVER 0.5,-110,0.5182,-0.0056,-0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-14,SF,CHC,Logan Webb,Ryan Rolison,UNDER 0.5,-110,0.509,-0.0148,-1.5%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-06-14,LAA,TB,Grayson Rodriguez,Casey Legumina,UNDER 0.5,-110,0.5073,-0.0165,-1.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-14,CWS,LAD,Bryan Hudson,Emmet Sheehan,OVER 0.5,-110,0.5051,-0.0187,-1.9%,NO PLAY,False,Standard play,0.5

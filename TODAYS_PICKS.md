@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, June 13, 2026
+# MLB Picks - Sunday, June 14, 2026
 
-*Last updated: 2026-06-13 06:13 PM ET*
+*Last updated: 2026-06-14 03:51 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | PHI @ MIL |
-| Starting Pitchers | Aaron Nola vs Shane Drohan |
+| Matchup | DET @ CLE |
+| Starting Pitchers | Casey Mize vs Gavin Williams |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.3% |
+| Edge Over Market | 6.8% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | DET @ CLE |
-| Starting Pitchers | Tarik Skubal vs Joey Cantillo |
+| Matchup | ATL @ NYM |
+| Starting Pitchers | Bryce Elder vs Freddy Peralta |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.1% |
+| Edge Over Market | 6.5% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| PHI @ MIL | Aaron Nola vs Shane Drohan | MIL | -110 | 59.7% | 7.3% | HIGH | Standard play |
-| DET @ CLE | Tarik Skubal vs Joey Cantillo | DET | -110 | 59.5% | 7.1% | HIGH | Standard play |
+| DET @ CLE | Casey Mize vs Gavin Williams | DET | -110 | 59.2% | 6.8% | HIGH | Elite pitching matchup |
+| ATL @ NYM | Bryce Elder vs Freddy Peralta | ATL | -110 | 58.9% | 6.5% | HIGH | Elite pitching matchup |
 
 ---
 
