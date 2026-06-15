@@ -1,6 +1,6 @@
-# MLB Picks - Sunday, June 14, 2026
+# MLB Picks - Monday, June 15, 2026
 
-*Last updated: 2026-06-14 06:17 PM ET*
+*Last updated: 2026-06-15 06:43 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | DET @ CLE |
-| Starting Pitchers | Casey Mize vs Gavin Williams |
+| Matchup | COL @ CHC |
+| Starting Pitchers | Michael Lorenzen vs Shota Imanaga |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.8% |
+| Edge Over Market | 10.8% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | ATL @ NYM |
-| Starting Pitchers | Bryce Elder vs Freddy Peralta |
+| Matchup | KC @ WSH |
+| Starting Pitchers | Mitch Spence vs Andrew Alvarez |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.5% |
+| Edge Over Market | 9.4% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| DET @ CLE | Casey Mize vs Gavin Williams | DET | -110 | 59.2% | 6.8% | HIGH | Elite pitching matchup |
-| ATL @ NYM | Bryce Elder vs Freddy Peralta | ATL | -110 | 58.9% | 6.5% | HIGH | Elite pitching matchup |
+| COL @ CHC | Michael Lorenzen vs Shota Imanaga | CHC | -110 | 63.2% | 10.8% | HIGH | Strong value |
+| KC @ WSH | Mitch Spence vs Andrew Alvarez | WSH | -110 | 61.8% | 9.4% | HIGH | Standard play |
 
 ---
 
