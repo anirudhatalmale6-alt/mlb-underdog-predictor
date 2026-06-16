@@ -1,6 +1,6 @@
-# MLB Picks - Monday, June 15, 2026
+# MLB Picks - Tuesday, June 16, 2026
 
-*Last updated: 2026-06-15 08:28 PM ET*
+*Last updated: 2026-06-16 06:31 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,22 +10,22 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | COL @ CHC |
-| Starting Pitchers | Michael Lorenzen vs Shota Imanaga |
+| Matchup | NYM @ CIN |
+| Starting Pitchers | Kodai Senga vs Brady Singer |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.8% |
+| Edge Over Market | 9.6% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | KC @ WSH |
-| Starting Pitchers | Mitch Spence vs Andrew Alvarez |
+| Matchup | SF @ ATL |
+| Starting Pitchers | Adrian Houser vs Grant Holmes |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.4% |
-| Confidence | HIGH |
+| Edge Over Market | 5.4% |
+| Confidence | MEDIUM |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| COL @ CHC | Michael Lorenzen vs Shota Imanaga | CHC | -110 | 63.2% | 10.8% | HIGH | Strong value |
-| KC @ WSH | Mitch Spence vs Andrew Alvarez | WSH | -110 | 61.8% | 9.4% | HIGH | Standard play |
+| NYM @ CIN | Kodai Senga vs Brady Singer | CIN | -110 | 62.0% | 9.6% | HIGH | Standard play |
+| SF @ ATL | Adrian Houser vs Grant Holmes | ATL | -110 | 57.8% | 5.4% | MEDIUM | Standard play |
 
 ---
 

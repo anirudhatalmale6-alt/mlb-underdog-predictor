@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-06-16,CIN,NYM,Brady Singer,Kodai Senga,CIN,-110,0.6196,0.0957,9.6%,HIGH,True,Standard play,
+1ST INN ML,2026-06-16,ATL,SF,Grant Holmes,Adrian Houser,ATL,-110,0.5778,0.054,5.4%,MEDIUM,True,Standard play,
+1ST INN ML,2026-06-16,LAD,TB,Justin Wrobleski,Drew Rasmussen,TB,-110,0.5767,0.0529,5.3%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-06-16,BOS,TOR,Payton Tolle,Dylan Cease,TOR,-110,0.5681,0.0442,4.4%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-06-16,SEA,BAL,Logan Gilbert,Brandon Young,BAL,-110,0.5613,0.0375,3.7%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-06-16,NYY,CWS,Gerrit Cole,Davis Martin,CWS,-110,0.5529,0.029,2.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-16,ARI,LAA,Merrill Kelly,Reid Detmers,LAA,-110,0.5264,0.0025,0.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-16,CHC,COL,Edward Cabrera,Ryan Feltner,CHC,-110,0.5192,-0.0046,-0.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-16,HOU,DET,Hunter Brown,Framber Valdez,HOU,-110,0.5179,-0.0059,-0.6%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-16,MIL,CLE,Robert Gasser,Slade Cecconi,CLE,-110,0.5167,-0.0071,-0.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-16,STL,SD,Andre Pallante,Michael King,SD,-110,0.5113,-0.0125,-1.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-16,PHI,MIA,Jesús Luzardo,Tyler Phillips,MIA,-110,0.5109,-0.0129,-1.3%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-16,OAK,PIT,Jack Perkins,Mitch Keller,OAK,-110,0.5109,-0.0129,-1.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-16,WSH,KC,Foster Griffin,Michael Wacha,WSH,-110,0.5061,-0.0177,-1.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-16,TEX,MIN,Kumar Rocker,Zebby Matthews,MIN,-110,0.5004,-0.0234,-2.3%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-06-16,LAD,TB,Justin Wrobleski,Drew Rasmussen,OVER 0.5,-110,0.5793,0.0555,5.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-16,BOS,TOR,Payton Tolle,Dylan Cease,OVER 0.5,-110,0.5584,0.0346,3.5%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-16,NYY,CWS,Gerrit Cole,Davis Martin,OVER 0.5,-110,0.5479,0.0241,2.4%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-16,PHI,MIA,Jesús Luzardo,Tyler Phillips,UNDER 0.5,-110,0.5425,0.0187,1.9%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-06-16,SEA,BAL,Logan Gilbert,Brandon Young,UNDER 0.5,-110,0.5407,0.0168,1.7%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-06-16,CIN,NYM,Brady Singer,Kodai Senga,OVER 0.5,-110,0.5353,0.0114,1.1%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-16,HOU,DET,Hunter Brown,Framber Valdez,OVER 0.5,-110,0.5329,0.0091,0.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-16,ATL,SF,Grant Holmes,Adrian Houser,OVER 0.5,-110,0.5283,0.0045,0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-16,ARI,LAA,Merrill Kelly,Reid Detmers,UNDER 0.5,-110,0.5237,-0.0001,-0.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-16,OAK,PIT,Jack Perkins,Mitch Keller,OVER 0.5,-110,0.516,-0.0078,-0.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-16,CHC,COL,Edward Cabrera,Ryan Feltner,UNDER 0.5,-110,0.514,-0.0098,-1.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-16,WSH,KC,Foster Griffin,Michael Wacha,OVER 0.5,-110,0.5128,-0.011,-1.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-16,MIL,CLE,Robert Gasser,Slade Cecconi,UNDER 0.5,-110,0.5052,-0.0186,-1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-16,STL,SD,Andre Pallante,Michael King,OVER 0.5,-110,0.5028,-0.021,-2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-16,TEX,MIN,Kumar Rocker,Zebby Matthews,OVER 0.5,-110,0.5027,-0.0211,-2.1%,NO PLAY,False,Standard play,0.5
