@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, June 16, 2026
+# MLB Picks - Wednesday, June 17, 2026
 
-*Last updated: 2026-06-16 08:13 PM ET*
+*Last updated: 2026-06-17 04:58 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | NYM @ CIN |
-| Starting Pitchers | Kodai Senga vs Brady Singer |
+| Matchup | TOR @ BOS |
+| Starting Pitchers | Max Scherzer vs Jake Bennett |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.6% |
+| Edge Over Market | 9.0% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,11 +21,11 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | SF @ ATL |
-| Starting Pitchers | Adrian Houser vs Grant Holmes |
+| Matchup | CWS @ NYY |
+| Starting Pitchers | Anthony Kay vs Carlos Rodón |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.4% |
-| Confidence | MEDIUM |
+| Edge Over Market | 8.8% |
+| Confidence | HIGH |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| NYM @ CIN | Kodai Senga vs Brady Singer | CIN | -110 | 62.0% | 9.6% | HIGH | Standard play |
-| SF @ ATL | Adrian Houser vs Grant Holmes | ATL | -110 | 57.8% | 5.4% | MEDIUM | Standard play |
+| TOR @ BOS | Max Scherzer vs Jake Bennett | BOS | -110 | 61.4% | 9.0% | HIGH | Standard play |
+| CWS @ NYY | Anthony Kay vs Carlos Rodón | NYY | -110 | 61.2% | 8.8% | HIGH | Standard play |
 
 ---
 
