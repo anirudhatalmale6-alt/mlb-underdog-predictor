@@ -1,0 +1,19 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-06-18,TEX,MIN,Jack Leiter,Joe Ryan,MIN,-110,0.5899,0.0661,6.6%,HIGH,True,Standard play,
+1ST INN ML,2026-06-18,SEA,BAL,Bryan Woo,Shane Baz,SEA,-110,0.5717,0.0479,4.8%,MEDIUM,True,Standard play,
+1ST INN ML,2026-06-18,OAK,LAA,Gage Jump,TBD,OAK,-110,0.5679,0.0441,4.4%,MEDIUM,False,Standard play,
+1ST INN ML,2026-06-18,KC,STL,Noah Cameron,Matthew Liberatore,KC,-110,0.5503,0.0265,2.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-18,MIL,CLE,Shane Drohan,Parker Messick,CLE,-110,0.5438,0.0199,2.0%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-18,BOS,TOR,Sonny Gray,Trey Yesavage,BOS,-110,0.5411,0.0173,1.7%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-18,ATL,SF,Martín Pérez,Landen Roupp,ATL,-110,0.5357,0.0119,1.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-18,NYY,CWS,Ryan Weathers,Sean Burke,NYY,-110,0.5065,-0.0173,-1.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-18,PHI,NYM,Aaron Nola,Sean Manaea,PHI,-110,0.5012,-0.0226,-2.3%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-06-18,TEX,MIN,Jack Leiter,Joe Ryan,UNDER 0.5,-110,0.5696,0.0457,4.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-18,BOS,TOR,Sonny Gray,Trey Yesavage,OVER 0.5,-110,0.5609,0.0371,3.7%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-18,MIL,CLE,Shane Drohan,Parker Messick,UNDER 0.5,-110,0.5403,0.0165,1.7%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-06-18,OAK,LAA,Gage Jump,TBD,UNDER 0.5,-110,0.5383,0.0145,1.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-18,NYY,CWS,Ryan Weathers,Sean Burke,OVER 0.5,-110,0.5327,0.0089,0.9%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-18,KC,STL,Noah Cameron,Matthew Liberatore,OVER 0.5,-110,0.527,0.0031,0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-18,SEA,BAL,Bryan Woo,Shane Baz,OVER 0.5,-110,0.5236,-0.0002,-0.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-18,PHI,NYM,Aaron Nola,Sean Manaea,OVER 0.5,-110,0.5074,-0.0164,-1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-18,ATL,SF,Martín Pérez,Landen Roupp,UNDER 0.5,-110,0.5006,-0.0232,-2.3%,NO PLAY,False,Standard play,0.5

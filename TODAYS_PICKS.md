@@ -1,6 +1,6 @@
-# MLB Picks - Wednesday, June 17, 2026
+# MLB Picks - Thursday, June 18, 2026
 
-*Last updated: 2026-06-17 07:27 PM ET*
+*Last updated: 2026-06-18 05:19 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | TOR @ BOS |
-| Starting Pitchers | Max Scherzer vs Jake Bennett |
+| Matchup | MIN @ TEX |
+| Starting Pitchers | Joe Ryan vs Jack Leiter |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.0% |
+| Edge Over Market | 6.6% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,11 +21,11 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CWS @ NYY |
-| Starting Pitchers | Anthony Kay vs Carlos Rodón |
+| Matchup | BAL @ SEA |
+| Starting Pitchers | Shane Baz vs Bryan Woo |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.8% |
-| Confidence | HIGH |
+| Edge Over Market | 4.8% |
+| Confidence | MEDIUM |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TOR @ BOS | Max Scherzer vs Jake Bennett | BOS | -110 | 61.4% | 9.0% | HIGH | Standard play |
-| CWS @ NYY | Anthony Kay vs Carlos Rodón | NYY | -110 | 61.2% | 8.8% | HIGH | Standard play |
+| MIN @ TEX | Joe Ryan vs Jack Leiter | MIN | -110 | 59.0% | 6.6% | HIGH | Standard play |
+| BAL @ SEA | Shane Baz vs Bryan Woo | SEA | -110 | 57.2% | 4.8% | MEDIUM | Standard play |
 
 ---
 
