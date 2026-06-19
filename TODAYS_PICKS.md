@@ -1,6 +1,6 @@
-# MLB Picks - Thursday, June 18, 2026
+# MLB Picks - Friday, June 19, 2026
 
-*Last updated: 2026-06-18 07:33 PM ET*
+*Last updated: 2026-06-19 04:36 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIN @ TEX |
-| Starting Pitchers | Joe Ryan vs Jack Leiter |
+| Matchup | MIN @ ARI |
+| Starting Pitchers | Connor Prielipp vs Michael Soroka |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.6% |
+| Edge Over Market | 8.7% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,10 +21,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | BAL @ SEA |
-| Starting Pitchers | Shane Baz vs Bryan Woo |
+| Matchup | CWS @ DET |
+| Starting Pitchers | Erick Fedde vs Tarik Skubal |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.8% |
+| Edge Over Market | 4.9% |
 | Confidence | MEDIUM |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIN @ TEX | Joe Ryan vs Jack Leiter | MIN | -110 | 59.0% | 6.6% | HIGH | Standard play |
-| BAL @ SEA | Shane Baz vs Bryan Woo | SEA | -110 | 57.2% | 4.8% | MEDIUM | Standard play |
+| MIN @ ARI | Connor Prielipp vs Michael Soroka | ARI | -110 | 61.1% | 8.7% | HIGH | Standard play |
+| CWS @ DET | Erick Fedde vs Tarik Skubal | DET | -110 | 57.2% | 4.9% | MEDIUM | Standard play |
 
 ---
 
