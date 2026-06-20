@@ -1,6 +1,6 @@
-# MLB Picks - Friday, June 19, 2026
+# MLB Picks - Saturday, June 20, 2026
 
-*Last updated: 2026-06-19 07:00 PM ET*
+*Last updated: 2026-06-20 03:48 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIN @ ARI |
-| Starting Pitchers | Connor Prielipp vs Michael Soroka |
+| Matchup | MIL @ ATL |
+| Starting Pitchers | Kyle Harrison vs Chris Sale |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.7% |
+| Edge Over Market | 6.0% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
 | Matchup | CWS @ DET |
-| Starting Pitchers | Erick Fedde vs Tarik Skubal |
+| Starting Pitchers | Sean Newcomb vs Troy Melton |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.9% |
+| Edge Over Market | 5.6% |
 | Confidence | MEDIUM |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIN @ ARI | Connor Prielipp vs Michael Soroka | ARI | -110 | 61.1% | 8.7% | HIGH | Standard play |
-| CWS @ DET | Erick Fedde vs Tarik Skubal | DET | -110 | 57.2% | 4.9% | MEDIUM | Standard play |
+| MIL @ ATL | Kyle Harrison vs Chris Sale | MIL | -110 | 58.4% | 6.0% | HIGH | Elite pitching matchup |
+| CWS @ DET | Sean Newcomb vs Troy Melton | CWS | -110 | 58.0% | 5.6% | MEDIUM | Elite pitching matchup |
 
 ---
 
