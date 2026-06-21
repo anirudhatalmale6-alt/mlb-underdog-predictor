@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, June 20, 2026
+# MLB Picks - Sunday, June 21, 2026
 
-*Last updated: 2026-06-20 06:17 PM ET*
+*Last updated: 2026-06-21 03:59 PM ET*
 
 ## Moneyline Underdogs
 
@@ -11,22 +11,22 @@
 | Stat | Value |
 |------|-------|
 | Matchup | MIL @ ATL |
-| Starting Pitchers | Kyle Harrison vs Chris Sale |
+| Starting Pitchers | Robert Gasser vs Bryce Elder |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.0% |
+| Edge Over Market | 10.6% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | CWS @ DET |
-| Starting Pitchers | Sean Newcomb vs Troy Melton |
+| Matchup | CLE @ HOU |
+| Starting Pitchers | Slade Cecconi vs Kai-Wei Teng |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.6% |
-| Confidence | MEDIUM |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 7.8% |
+| Confidence | HIGH |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIL @ ATL | Kyle Harrison vs Chris Sale | MIL | -110 | 58.4% | 6.0% | HIGH | Elite pitching matchup |
-| CWS @ DET | Sean Newcomb vs Troy Melton | CWS | -110 | 58.0% | 5.6% | MEDIUM | Elite pitching matchup |
+| MIL @ ATL | Robert Gasser vs Bryce Elder | ATL | -110 | 62.9% | 10.6% | HIGH | Strong value |
+| CLE @ HOU | Slade Cecconi vs Kai-Wei Teng | HOU | -110 | 60.2% | 7.8% | HIGH | Standard play |
 
 ---
 
