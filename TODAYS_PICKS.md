@@ -1,6 +1,6 @@
-# MLB Picks - Sunday, June 21, 2026
+# MLB Picks - Monday, June 22, 2026
 
-*Last updated: 2026-06-21 06:21 PM ET*
+*Last updated: 2026-06-22 06:15 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIL @ ATL |
-| Starting Pitchers | Robert Gasser vs Bryce Elder |
+| Matchup | ATL @ SD |
+| Starting Pitchers | Grant Holmes vs Michael King |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.6% |
+| Edge Over Market | 6.7% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | CLE @ HOU |
-| Starting Pitchers | Slade Cecconi vs Kai-Wei Teng |
+| Matchup | HOU @ TOR |
+| Starting Pitchers | Hunter Brown vs Dylan Cease |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.8% |
+| Edge Over Market | 6.7% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIL @ ATL | Robert Gasser vs Bryce Elder | ATL | -110 | 62.9% | 10.6% | HIGH | Strong value |
-| CLE @ HOU | Slade Cecconi vs Kai-Wei Teng | HOU | -110 | 60.2% | 7.8% | HIGH | Standard play |
+| ATL @ SD | Grant Holmes vs Michael King | SD | -110 | 59.1% | 6.7% | HIGH | Standard play |
+| HOU @ TOR | Hunter Brown vs Dylan Cease | HOU | -110 | 59.1% | 6.7% | HIGH | Elite pitching matchup |
 
 ---
 
