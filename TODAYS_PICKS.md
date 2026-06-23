@@ -1,6 +1,6 @@
-# MLB Picks - Monday, June 22, 2026
+# MLB Picks - Tuesday, June 23, 2026
 
-*Last updated: 2026-06-22 08:09 PM ET*
+*Last updated: 2026-06-23 04:30 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,22 +10,22 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | ATL @ SD |
-| Starting Pitchers | Grant Holmes vs Michael King |
+| Matchup | LAD @ MIN |
+| Starting Pitchers | Justin Wrobleski vs Kendry Rojas |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.7% |
+| Edge Over Market | 6.3% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | HOU @ TOR |
-| Starting Pitchers | Hunter Brown vs Dylan Cease |
+| Matchup | CLE @ CWS |
+| Starting Pitchers | Parker Messick vs Sean Burke |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.7% |
-| Confidence | HIGH |
+| Edge Over Market | 4.0% |
+| Confidence | MEDIUM |
 | Notes | Elite pitching matchup |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| ATL @ SD | Grant Holmes vs Michael King | SD | -110 | 59.1% | 6.7% | HIGH | Standard play |
-| HOU @ TOR | Hunter Brown vs Dylan Cease | HOU | -110 | 59.1% | 6.7% | HIGH | Elite pitching matchup |
+| LAD @ MIN | Justin Wrobleski vs Kendry Rojas | LAD | -110 | 58.7% | 6.3% | HIGH | Elite pitching matchup |
+| CLE @ CWS | Parker Messick vs Sean Burke | CLE | -110 | 56.4% | 4.0% | MEDIUM | Elite pitching matchup |
 
 ---
 

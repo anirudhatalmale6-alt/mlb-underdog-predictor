@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-06-23,MIN,LAD,Kendry Rojas,Justin Wrobleski,LAD,-110,0.5871,0.0633,6.3%,HIGH,True,Elite pitching matchup,
+1ST INN ML,2026-06-23,CWS,CLE,Sean Burke,Parker Messick,CLE,-110,0.564,0.0402,4.0%,MEDIUM,True,Elite pitching matchup,
+1ST INN ML,2026-06-23,TB,KC,Shane McClanahan,Luinder Avila,TB,-110,0.5607,0.0369,3.7%,LOW,False,Standard play,
+1ST INN ML,2026-06-23,SF,OAK,Robbie Ray,Aaron Civale,SF,-110,0.5604,0.0366,3.7%,LOW,False,Standard play,
+1ST INN ML,2026-06-23,MIA,TEX,Sandy Alcantara,Cal Quantrill,MIA,-110,0.558,0.0342,3.4%,LOW,False,Standard play,
+1ST INN ML,2026-06-23,STL,ARI,Kyle Leahy,Eduardo Rodriguez,ARI,-110,0.5559,0.0321,3.2%,LOW,False,Standard play,
+1ST INN ML,2026-06-23,TOR,HOU,Shane Bieber,Peter Lambert,HOU,-110,0.5453,0.0215,2.1%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-23,SD,ATL,TBD,JR Ritchie,SD,-110,0.5375,0.0137,1.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-23,COL,BOS,Sean Sullivan,Sonny Gray,BOS,-110,0.5312,0.0074,0.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-23,CIN,MIL,Nick Lodolo,Brandon Sproat,MIL,-110,0.5307,0.0069,0.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-23,LAA,BAL,Ryan Johnson,Shane Baz,LAA,-110,0.5262,0.0024,0.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-23,DET,NYY,Casey Mize,Carlos Rodón,NYY,-110,0.5258,0.002,0.2%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-23,PIT,SEA,Mitch Keller,George Kirby,PIT,-110,0.51,-0.0138,-1.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-23,NYM,CHC,Kodai Senga,Edward Cabrera,NYM,-110,0.5089,-0.0149,-1.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-23,WSH,PHI,Zack Littell,Jesús Luzardo,WSH,-110,0.5037,-0.0201,-2.0%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-06-23,DET,NYY,Casey Mize,Carlos Rodón,OVER 0.5,-110,0.6004,0.0766,7.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-23,TB,KC,Shane McClanahan,Luinder Avila,OVER 0.5,-110,0.5583,0.0345,3.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-23,LAA,BAL,Ryan Johnson,Shane Baz,UNDER 0.5,-110,0.554,0.0302,3.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-23,STL,ARI,Kyle Leahy,Eduardo Rodriguez,UNDER 0.5,-110,0.544,0.0202,2.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-23,CIN,MIL,Nick Lodolo,Brandon Sproat,OVER 0.5,-110,0.5425,0.0187,1.9%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-23,NYM,CHC,Kodai Senga,Edward Cabrera,UNDER 0.5,-110,0.53,0.0062,0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-23,SD,ATL,TBD,JR Ritchie,UNDER 0.5,-110,0.522,-0.0019,-0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-23,TOR,HOU,Shane Bieber,Peter Lambert,UNDER 0.5,-110,0.5217,-0.0021,-0.2%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-06-23,PIT,SEA,Mitch Keller,George Kirby,OVER 0.5,-110,0.5216,-0.0022,-0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-23,MIA,TEX,Sandy Alcantara,Cal Quantrill,UNDER 0.5,-110,0.5168,-0.007,-0.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-23,WSH,PHI,Zack Littell,Jesús Luzardo,UNDER 0.5,-110,0.5116,-0.0122,-1.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-23,MIN,LAD,Kendry Rojas,Justin Wrobleski,OVER 0.5,-110,0.5097,-0.0141,-1.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-23,SF,OAK,Robbie Ray,Aaron Civale,UNDER 0.5,-110,0.5081,-0.0157,-1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-23,COL,BOS,Sean Sullivan,Sonny Gray,UNDER 0.5,-110,0.5058,-0.0181,-1.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-23,CWS,CLE,Sean Burke,Parker Messick,UNDER 0.5,-110,0.5047,-0.0191,-1.9%,NO PLAY,False,Elite SPs keep 1st clean,0.5
