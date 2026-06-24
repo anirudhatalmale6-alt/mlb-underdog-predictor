@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, June 23, 2026
+# MLB Picks - Wednesday, June 24, 2026
 
-*Last updated: 2026-06-23 07:10 PM ET*
+*Last updated: 2026-06-24 04:26 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAD @ MIN |
-| Starting Pitchers | Justin Wrobleski vs Kendry Rojas |
+| Matchup | BAL @ LAA |
+| Starting Pitchers | Trey Gibson vs José Soriano |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.3% |
+| Edge Over Market | 6.8% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | CLE @ CWS |
-| Starting Pitchers | Parker Messick vs Sean Burke |
+| Matchup | OAK @ SF |
+| Starting Pitchers | Gage Jump vs Tyler Mahle |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.0% |
+| Edge Over Market | 4.8% |
 | Confidence | MEDIUM |
-| Notes | Elite pitching matchup |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAD @ MIN | Justin Wrobleski vs Kendry Rojas | LAD | -110 | 58.7% | 6.3% | HIGH | Elite pitching matchup |
-| CLE @ CWS | Parker Messick vs Sean Burke | CLE | -110 | 56.4% | 4.0% | MEDIUM | Elite pitching matchup |
+| BAL @ LAA | Trey Gibson vs José Soriano | LAA | -110 | 59.2% | 6.8% | HIGH | Standard play |
+| OAK @ SF | Gage Jump vs Tyler Mahle | OAK | -110 | 57.1% | 4.8% | MEDIUM | Standard play |
 
 ---
 
