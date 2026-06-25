@@ -1,6 +1,6 @@
-# MLB Picks - Wednesday, June 24, 2026
+# MLB Picks - Thursday, June 25, 2026
 
-*Last updated: 2026-06-24 06:54 PM ET*
+*Last updated: 2026-06-25 04:30 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,21 +10,21 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | BAL @ LAA |
-| Starting Pitchers | Trey Gibson vs José Soriano |
+| Matchup | SEA @ PIT |
+| Starting Pitchers | Bryce Miller vs Bubba Chandler |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.8% |
-| Confidence | HIGH |
-| Notes | Standard play |
+| Edge Over Market | 5.8% |
+| Confidence | MEDIUM |
+| Notes | Elite pitching matchup |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | OAK @ SF |
-| Starting Pitchers | Gage Jump vs Tyler Mahle |
+| Matchup | ARI @ STL |
+| Starting Pitchers | Zac Gallen vs Michael McGreevy |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.8% |
+| Edge Over Market | 4.4% |
 | Confidence | MEDIUM |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| BAL @ LAA | Trey Gibson vs José Soriano | LAA | -110 | 59.2% | 6.8% | HIGH | Standard play |
-| OAK @ SF | Gage Jump vs Tyler Mahle | OAK | -110 | 57.1% | 4.8% | MEDIUM | Standard play |
+| SEA @ PIT | Bryce Miller vs Bubba Chandler | SEA | -110 | 58.1% | 5.8% | MEDIUM | Elite pitching matchup |
+| ARI @ STL | Zac Gallen vs Michael McGreevy | STL | -110 | 56.8% | 4.4% | MEDIUM | Standard play |
 
 ---
 

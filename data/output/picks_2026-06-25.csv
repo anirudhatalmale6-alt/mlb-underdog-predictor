@@ -1,0 +1,19 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-06-25,PIT,SEA,Bubba Chandler,Bryce Miller,SEA,-110,0.5815,0.0577,5.8%,MEDIUM,True,Elite pitching matchup,
+1ST INN ML,2026-06-25,STL,ARI,Michael McGreevy,Zac Gallen,STL,-110,0.5682,0.0444,4.4%,MEDIUM,True,Standard play,
+1ST INN ML,2026-06-25,WSH,PHI,Cade Cavalli,Cristopher Sánchez,PHI,-110,0.5578,0.034,3.4%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-06-25,SF,OAK,Landen Roupp,Jeffrey Springs,SF,-110,0.5536,0.0298,3.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-25,TB,KC,Casey Legumina,Seth Lugo,TB,-110,0.536,0.0122,1.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-25,DET,HOU,Troy Melton,Tatsuya Imai,DET,-110,0.5243,0.0005,0.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-25,TOR,TEX,Kevin Gausman,MacKenzie Gore,TOR,-110,0.5175,-0.0063,-0.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-25,NYM,CHC,Freddy Peralta,Matthew Boyd,CHC,-110,0.5038,-0.0201,-2.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-25,BOS,NYY,Connelly Early,Cam Schlittler,NYY,-110,0.5008,-0.023,-2.3%,NO PLAY,False,Elite pitching matchup,
+1ST INN TOTAL,2026-06-25,BOS,NYY,Connelly Early,Cam Schlittler,UNDER 0.5,-110,0.5489,0.0251,2.5%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-06-25,WSH,PHI,Cade Cavalli,Cristopher Sánchez,UNDER 0.5,-110,0.5463,0.0225,2.3%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-06-25,STL,ARI,Michael McGreevy,Zac Gallen,UNDER 0.5,-110,0.543,0.0192,1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-25,PIT,SEA,Bubba Chandler,Bryce Miller,UNDER 0.5,-110,0.5312,0.0074,0.7%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-06-25,SF,OAK,Landen Roupp,Jeffrey Springs,UNDER 0.5,-110,0.5244,0.0006,0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-25,TB,KC,Casey Legumina,Seth Lugo,OVER 0.5,-110,0.5189,-0.0049,-0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-25,TOR,TEX,Kevin Gausman,MacKenzie Gore,OVER 0.5,-110,0.5166,-0.0072,-0.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-25,DET,HOU,Troy Melton,Tatsuya Imai,OVER 0.5,-110,0.5033,-0.0205,-2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-25,NYM,CHC,Freddy Peralta,Matthew Boyd,OVER 0.5,-110,0.5011,-0.0227,-2.3%,NO PLAY,False,Standard play,0.5
