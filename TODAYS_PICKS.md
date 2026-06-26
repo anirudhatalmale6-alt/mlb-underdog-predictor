@@ -1,6 +1,6 @@
-# MLB Picks - Thursday, June 25, 2026
+# MLB Picks - Friday, June 26, 2026
 
-*Last updated: 2026-06-25 07:08 PM ET*
+*Last updated: 2026-06-26 04:22 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | SEA @ PIT |
-| Starting Pitchers | Bryce Miller vs Bubba Chandler |
+| Matchup | MIA @ STL |
+| Starting Pitchers | Max Meyer vs Michael McGreevy |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.8% |
-| Confidence | MEDIUM |
+| Edge Over Market | 7.2% |
+| Confidence | HIGH |
 | Notes | Elite pitching matchup |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | ARI @ STL |
-| Starting Pitchers | Zac Gallen vs Michael McGreevy |
+| Matchup | PHI @ NYM |
+| Starting Pitchers | Zack Wheeler vs TBD |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.4% |
-| Confidence | MEDIUM |
-| Notes | Standard play |
+| Edge Over Market | 6.5% |
+| Confidence | HIGH |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SEA @ PIT | Bryce Miller vs Bubba Chandler | SEA | -110 | 58.1% | 5.8% | MEDIUM | Elite pitching matchup |
-| ARI @ STL | Zac Gallen vs Michael McGreevy | STL | -110 | 56.8% | 4.4% | MEDIUM | Standard play |
+| MIA @ STL | Max Meyer vs Michael McGreevy | MIA | -110 | 59.6% | 7.2% | HIGH | Elite pitching matchup |
+| PHI @ NYM | Zack Wheeler vs TBD | PHI | -110 | 58.9% | 6.5% | HIGH | Elite pitching matchup |
 
 ---
 
