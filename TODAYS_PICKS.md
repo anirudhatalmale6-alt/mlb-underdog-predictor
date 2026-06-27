@@ -1,6 +1,6 @@
-# MLB Picks - Friday, June 26, 2026
+# MLB Picks - Saturday, June 27, 2026
 
-*Last updated: 2026-06-26 06:56 PM ET*
+*Last updated: 2026-06-27 03:21 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,22 +10,22 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIA @ STL |
-| Starting Pitchers | Max Meyer vs Michael McGreevy |
+| Matchup | COL @ MIN |
+| Starting Pitchers | Michael Lorenzen vs Mike Paredes |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.2% |
-| Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 4.7% |
+| Confidence | MEDIUM |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | PHI @ NYM |
-| Starting Pitchers | Zack Wheeler vs TBD |
+| Matchup | ARI @ TB |
+| Starting Pitchers | Jose Cabrera vs Cole Sulser |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.5% |
-| Confidence | HIGH |
+| Edge Over Market | 4.4% |
+| Confidence | MEDIUM |
 | Notes | Elite pitching matchup |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIA @ STL | Max Meyer vs Michael McGreevy | MIA | -110 | 59.6% | 7.2% | HIGH | Elite pitching matchup |
-| PHI @ NYM | Zack Wheeler vs TBD | PHI | -110 | 58.9% | 6.5% | HIGH | Elite pitching matchup |
+| COL @ MIN | Michael Lorenzen vs Mike Paredes | MIN | -110 | 57.1% | 4.7% | MEDIUM | Standard play |
+| ARI @ TB | Jose Cabrera vs Cole Sulser | ARI | -110 | 56.8% | 4.4% | MEDIUM | Elite pitching matchup |
 
 ---
 
