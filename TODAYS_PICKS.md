@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, June 27, 2026
+# MLB Picks - Sunday, June 28, 2026
 
-*Last updated: 2026-06-27 06:08 PM ET*
+*Last updated: 2026-06-28 03:22 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | COL @ MIN |
-| Starting Pitchers | Michael Lorenzen vs Mike Paredes |
+| Matchup | MIA @ STL |
+| Starting Pitchers | Tyler Phillips vs Kyle Leahy |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.7% |
+| Edge Over Market | 5.2% |
 | Confidence | MEDIUM |
 | Notes | Standard play |
 
@@ -21,10 +21,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | ARI @ TB |
-| Starting Pitchers | Jose Cabrera vs Cole Sulser |
+| Matchup | HOU @ DET |
+| Starting Pitchers | Hunter Brown vs Jack Flaherty |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.4% |
+| Edge Over Market | 4.3% |
 | Confidence | MEDIUM |
 | Notes | Elite pitching matchup |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| COL @ MIN | Michael Lorenzen vs Mike Paredes | MIN | -110 | 57.1% | 4.7% | MEDIUM | Standard play |
-| ARI @ TB | Jose Cabrera vs Cole Sulser | ARI | -110 | 56.8% | 4.4% | MEDIUM | Elite pitching matchup |
+| MIA @ STL | Tyler Phillips vs Kyle Leahy | MIA | -110 | 57.5% | 5.2% | MEDIUM | Standard play |
+| HOU @ DET | Hunter Brown vs Jack Flaherty | HOU | -110 | 56.7% | 4.3% | MEDIUM | Elite pitching matchup |
 
 ---
 
