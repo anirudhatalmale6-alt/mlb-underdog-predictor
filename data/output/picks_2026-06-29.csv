@@ -1,0 +1,27 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-06-29,SEA,LAA,George Kirby,Ryan Johnson,SEA,-110,0.6136,0.0897,9.0%,HIGH,True,Standard play,
+1ST INN ML,2026-06-29,MIL,CIN,Robert Gasser,Nick Lodolo,MIL,-110,0.6113,0.0875,8.7%,HIGH,True,Standard play,
+1ST INN ML,2026-06-29,BOS,WSH,Ranger Suarez,Miles Mikolas,BOS,-110,0.6082,0.0844,8.4%,HIGH,False,Standard play,
+1ST INN ML,2026-06-29,CHC,SD,Shota Imanaga,TBD,CHC,-110,0.5996,0.0758,7.6%,HIGH,False,Standard play,
+1ST INN ML,2026-06-29,TOR,NYM,Trey Yesavage,Sean Manaea,TOR,-110,0.5943,0.0705,7.1%,HIGH,False,Standard play,
+1ST INN ML,2026-06-29,PHI,PIT,Aaron Nola,Braxton Ashcraft,PIT,-110,0.5861,0.0623,6.2%,HIGH,False,Standard play,
+1ST INN ML,2026-06-29,ARI,SF,Eduardo Rodriguez,Tyler Mahle,ARI,-110,0.5791,0.0553,5.5%,MEDIUM,False,Standard play,
+1ST INN ML,2026-06-29,CLE,TEX,Parker Messick,Tyler Alexander,TEX,-110,0.5735,0.0497,5.0%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-06-29,NYY,DET,Ryan Weathers,Casey Mize,DET,-110,0.5683,0.0445,4.5%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-06-29,HOU,MIN,Peter Lambert,Zebby Matthews,HOU,-110,0.5429,0.019,1.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-29,COL,MIA,TBD,Sandy Alcantara,MIA,-110,0.524,0.0001,0.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-29,OAK,LAD,Gage Jump,Eric Lauer,LAD,-110,0.5114,-0.0125,-1.2%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-06-29,BAL,CWS,Shane Baz,Sean Burke,CWS,-110,0.5105,-0.0134,-1.3%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-06-29,CLE,TEX,Parker Messick,Tyler Alexander,OVER 0.5,-110,0.5747,0.0509,5.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-29,COL,MIA,TBD,Sandy Alcantara,OVER 0.5,-110,0.5557,0.0319,3.2%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-29,BOS,WSH,Ranger Suarez,Miles Mikolas,OVER 0.5,-110,0.5486,0.0248,2.5%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-29,ARI,SF,Eduardo Rodriguez,Tyler Mahle,OVER 0.5,-110,0.5301,0.0063,0.6%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-29,NYY,DET,Ryan Weathers,Casey Mize,UNDER 0.5,-110,0.5232,-0.0006,-0.1%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-06-29,PHI,PIT,Aaron Nola,Braxton Ashcraft,UNDER 0.5,-110,0.5198,-0.004,-0.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-29,BAL,CWS,Shane Baz,Sean Burke,UNDER 0.5,-110,0.5196,-0.0042,-0.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-29,CHC,SD,Shota Imanaga,TBD,OVER 0.5,-110,0.5177,-0.0061,-0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-29,MIL,CIN,Robert Gasser,Nick Lodolo,OVER 0.5,-110,0.5144,-0.0094,-0.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-29,HOU,MIN,Peter Lambert,Zebby Matthews,UNDER 0.5,-110,0.5144,-0.0094,-0.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-29,OAK,LAD,Gage Jump,Eric Lauer,UNDER 0.5,-110,0.5072,-0.0166,-1.7%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-06-29,SEA,LAA,George Kirby,Ryan Johnson,UNDER 0.5,-110,0.5028,-0.0211,-2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-29,TOR,NYM,Trey Yesavage,Sean Manaea,OVER 0.5,-110,0.5014,-0.0224,-2.2%,NO PLAY,False,Standard play,0.5

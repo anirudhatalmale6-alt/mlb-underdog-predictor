@@ -1,6 +1,6 @@
-# MLB Picks - Sunday, June 28, 2026
+# MLB Picks - Monday, June 29, 2026
 
-*Last updated: 2026-06-28 06:08 PM ET*
+*Last updated: 2026-06-29 04:56 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIA @ STL |
-| Starting Pitchers | Tyler Phillips vs Kyle Leahy |
+| Matchup | LAA @ SEA |
+| Starting Pitchers | Ryan Johnson vs George Kirby |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.2% |
-| Confidence | MEDIUM |
+| Edge Over Market | 9.0% |
+| Confidence | HIGH |
 | Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | HOU @ DET |
-| Starting Pitchers | Hunter Brown vs Jack Flaherty |
+| Matchup | CIN @ MIL |
+| Starting Pitchers | Nick Lodolo vs Robert Gasser |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.3% |
-| Confidence | MEDIUM |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 8.7% |
+| Confidence | HIGH |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIA @ STL | Tyler Phillips vs Kyle Leahy | MIA | -110 | 57.5% | 5.2% | MEDIUM | Standard play |
-| HOU @ DET | Hunter Brown vs Jack Flaherty | HOU | -110 | 56.7% | 4.3% | MEDIUM | Elite pitching matchup |
+| LAA @ SEA | Ryan Johnson vs George Kirby | SEA | -110 | 61.4% | 9.0% | HIGH | Standard play |
+| CIN @ MIL | Nick Lodolo vs Robert Gasser | MIL | -110 | 61.1% | 8.7% | HIGH | Standard play |
 
 ---
 
