@@ -1,6 +1,6 @@
 # MLB Picks - Monday, June 29, 2026
 
-*Last updated: 2026-06-29 04:56 PM ET*
+*Last updated: 2026-06-29 07:06 PM ET*
 
 ## Moneyline Underdogs
 
