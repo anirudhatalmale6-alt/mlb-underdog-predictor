@@ -1,6 +1,6 @@
-# MLB Picks - Monday, June 29, 2026
+# MLB Picks - Tuesday, June 30, 2026
 
-*Last updated: 2026-06-29 07:06 PM ET*
+*Last updated: 2026-06-30 04:25 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,22 +10,22 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAA @ SEA |
-| Starting Pitchers | Ryan Johnson vs George Kirby |
+| Matchup | STL @ ATL |
+| Starting Pitchers | Matthew Liberatore vs Martín Pérez |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.0% |
+| Edge Over Market | 10.1% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | CIN @ MIL |
-| Starting Pitchers | Nick Lodolo vs Robert Gasser |
+| Matchup | WSH @ BOS |
+| Starting Pitchers | Cade Cavalli vs Connelly Early |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.7% |
-| Confidence | HIGH |
+| Edge Over Market | 5.8% |
+| Confidence | MEDIUM |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAA @ SEA | Ryan Johnson vs George Kirby | SEA | -110 | 61.4% | 9.0% | HIGH | Standard play |
-| CIN @ MIL | Nick Lodolo vs Robert Gasser | MIL | -110 | 61.1% | 8.7% | HIGH | Standard play |
+| STL @ ATL | Matthew Liberatore vs Martín Pérez | ATL | -110 | 62.5% | 10.1% | HIGH | Strong value |
+| WSH @ BOS | Cade Cavalli vs Connelly Early | BOS | -110 | 58.1% | 5.8% | MEDIUM | Standard play |
 
 ---
 

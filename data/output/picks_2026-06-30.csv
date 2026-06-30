@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-06-30,ATL,STL,Martín Pérez,Matthew Liberatore,ATL,-110,0.6248,0.101,10.1%,HIGH,True,Strong value,
+1ST INN ML,2026-06-30,BOS,WSH,Connelly Early,Cade Cavalli,BOS,-110,0.5814,0.0576,5.8%,MEDIUM,True,Standard play,
+1ST INN ML,2026-06-30,HOU,MIN,Mike Burrows,Joe Ryan,MIN,-110,0.5671,0.0433,4.3%,MEDIUM,False,Standard play,
+1ST INN ML,2026-06-30,PHI,PIT,Cristopher Sánchez,Bubba Chandler,PHI,-110,0.5589,0.0351,3.5%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-06-30,NYY,DET,Cam Schlittler,Tarik Skubal,DET,-110,0.5586,0.0348,3.5%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-06-30,OAK,LAD,Jeffrey Springs,Justin Wrobleski,LAD,-110,0.5454,0.0216,2.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-30,BAL,CWS,Trey Gibson,Erick Fedde,BAL,-110,0.5417,0.0179,1.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-30,CHC,SD,Matthew Boyd,JP Sears,SD,-110,0.5341,0.0103,1.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-30,MIL,CIN,Brandon Sproat,Rhett Lowder,MIL,-110,0.5266,0.0028,0.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-30,KC,TB,Noah Cameron,Griffin Jax,TB,-110,0.5219,-0.0019,-0.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-30,COL,MIA,Tanner Gordon,Eury Pérez,MIA,-110,0.5199,-0.0039,-0.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-30,CLE,TEX,Tanner Bibee,Jacob deGrom,TEX,-110,0.5159,-0.0079,-0.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-30,SEA,LAA,Bryan Woo,José Soriano,SEA,-110,0.5116,-0.0122,-1.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-30,TOR,NYM,Kevin Gausman,Nolan McLean,NYM,-110,0.5102,-0.0136,-1.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-06-30,ARI,SF,TBD,Landen Roupp,SF,-110,0.5005,-0.0233,-2.3%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-06-30,HOU,MIN,Mike Burrows,Joe Ryan,UNDER 0.5,-110,0.5783,0.0545,5.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-30,CHC,SD,Matthew Boyd,JP Sears,UNDER 0.5,-110,0.5739,0.0501,5.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-30,KC,TB,Noah Cameron,Griffin Jax,UNDER 0.5,-110,0.5647,0.0409,4.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-30,OAK,LAD,Jeffrey Springs,Justin Wrobleski,UNDER 0.5,-110,0.5567,0.0329,3.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-30,SEA,LAA,Bryan Woo,José Soriano,UNDER 0.5,-110,0.5437,0.0199,2.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-30,ATL,STL,Martín Pérez,Matthew Liberatore,OVER 0.5,-110,0.5426,0.0188,1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-30,COL,MIA,Tanner Gordon,Eury Pérez,OVER 0.5,-110,0.539,0.0151,1.5%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-30,BOS,WSH,Connelly Early,Cade Cavalli,OVER 0.5,-110,0.5299,0.0061,0.6%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-30,MIL,CIN,Brandon Sproat,Rhett Lowder,OVER 0.5,-110,0.5285,0.0047,0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-30,NYY,DET,Cam Schlittler,Tarik Skubal,OVER 0.5,-110,0.5198,-0.004,-0.4%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-06-30,CLE,TEX,Tanner Bibee,Jacob deGrom,OVER 0.5,-110,0.5194,-0.0044,-0.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-30,TOR,NYM,Kevin Gausman,Nolan McLean,OVER 0.5,-110,0.5191,-0.0047,-0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-30,PHI,PIT,Cristopher Sánchez,Bubba Chandler,OVER 0.5,-110,0.5123,-0.0115,-1.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-30,BAL,CWS,Trey Gibson,Erick Fedde,OVER 0.5,-110,0.5044,-0.0194,-1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-06-30,ARI,SF,TBD,Landen Roupp,UNDER 0.5,-110,0.5002,-0.0236,-2.4%,NO PLAY,False,Standard play,0.5
