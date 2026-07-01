@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, June 30, 2026
+# MLB Picks - Wednesday, July 01, 2026
 
-*Last updated: 2026-06-30 06:59 PM ET*
+*Last updated: 2026-07-01 04:30 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,22 +10,22 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | STL @ ATL |
-| Starting Pitchers | Matthew Liberatore vs Martín Pérez |
+| Matchup | PIT @ PHI |
+| Starting Pitchers | Paul Skenes vs Zack Wheeler |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.1% |
+| Edge Over Market | 7.7% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Elite pitching matchup |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | WSH @ BOS |
-| Starting Pitchers | Cade Cavalli vs Connelly Early |
+| Matchup | LAD @ OAK |
+| Starting Pitchers | TBD vs J.T. Ginn |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.8% |
-| Confidence | MEDIUM |
+| Edge Over Market | 7.2% |
+| Confidence | HIGH |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| STL @ ATL | Matthew Liberatore vs Martín Pérez | ATL | -110 | 62.5% | 10.1% | HIGH | Strong value |
-| WSH @ BOS | Cade Cavalli vs Connelly Early | BOS | -110 | 58.1% | 5.8% | MEDIUM | Standard play |
+| PIT @ PHI | Paul Skenes vs Zack Wheeler | PIT | -110 | 60.1% | 7.7% | HIGH | Elite pitching matchup |
+| LAD @ OAK | TBD vs J.T. Ginn | OAK | -110 | 59.6% | 7.2% | HIGH | Standard play |
 
 ---
 
