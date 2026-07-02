@@ -1,6 +1,6 @@
-# MLB Picks - Wednesday, July 01, 2026
+# MLB Picks - Thursday, July 02, 2026
 
-*Last updated: 2026-07-01 07:01 PM ET*
+*Last updated: 2026-07-02 04:08 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | PIT @ PHI |
-| Starting Pitchers | Paul Skenes vs Zack Wheeler |
+| Matchup | CIN @ MIL |
+| Starting Pitchers | Chase Burns vs Jacob Misiorowski |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.7% |
+| Edge Over Market | 6.0% |
 | Confidence | HIGH |
 | Notes | Elite pitching matchup |
 
@@ -21,11 +21,11 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAD @ OAK |
-| Starting Pitchers | TBD vs J.T. Ginn |
+| Matchup | CWS @ CLE |
+| Starting Pitchers | Davis Martin vs Slade Cecconi |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.2% |
-| Confidence | HIGH |
+| Edge Over Market | 5.3% |
+| Confidence | MEDIUM |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| PIT @ PHI | Paul Skenes vs Zack Wheeler | PIT | -110 | 60.1% | 7.7% | HIGH | Elite pitching matchup |
-| LAD @ OAK | TBD vs J.T. Ginn | OAK | -110 | 59.6% | 7.2% | HIGH | Standard play |
+| CIN @ MIL | Chase Burns vs Jacob Misiorowski | CIN | -110 | 58.4% | 6.0% | HIGH | Elite pitching matchup |
+| CWS @ CLE | Davis Martin vs Slade Cecconi | CWS | -110 | 57.7% | 5.3% | MEDIUM | Standard play |
 
 ---
 
