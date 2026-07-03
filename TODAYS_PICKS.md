@@ -1,6 +1,6 @@
-# MLB Picks - Thursday, July 02, 2026
+# MLB Picks - Friday, July 03, 2026
 
-*Last updated: 2026-07-02 06:27 PM ET*
+*Last updated: 2026-07-03 03:55 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,22 +10,22 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CIN @ MIL |
-| Starting Pitchers | Chase Burns vs Jacob Misiorowski |
+| Matchup | PIT @ WSH |
+| Starting Pitchers | Mitch Keller vs Foster Griffin |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.0% |
+| Edge Over Market | 8.9% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | CWS @ CLE |
-| Starting Pitchers | Davis Martin vs Slade Cecconi |
+| Matchup | SF @ COL |
+| Starting Pitchers | TBD vs Ryan Feltner |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.3% |
-| Confidence | MEDIUM |
+| Edge Over Market | 6.5% |
+| Confidence | HIGH |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CIN @ MIL | Chase Burns vs Jacob Misiorowski | CIN | -110 | 58.4% | 6.0% | HIGH | Elite pitching matchup |
-| CWS @ CLE | Davis Martin vs Slade Cecconi | CWS | -110 | 57.7% | 5.3% | MEDIUM | Standard play |
+| PIT @ WSH | Mitch Keller vs Foster Griffin | WSH | -110 | 61.3% | 8.9% | HIGH | Standard play |
+| SF @ COL | TBD vs Ryan Feltner | COL | -110 | 58.8% | 6.5% | HIGH | Standard play |
 
 ---
 

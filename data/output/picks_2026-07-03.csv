@@ -1,0 +1,27 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-07-03,WSH,PIT,Foster Griffin,Mitch Keller,WSH,-110,0.613,0.0892,8.9%,HIGH,True,Standard play,
+1ST INN ML,2026-07-03,COL,SF,Ryan Feltner,TBD,COL,-110,0.5883,0.0645,6.5%,HIGH,True,Standard play,
+1ST INN ML,2026-07-03,HOU,TB,Spencer Arrighetti,Nick Martinez,TB,-110,0.5841,0.0603,6.0%,HIGH,False,Elite pitching matchup,
+1ST INN ML,2026-07-03,CLE,CWS,Gavin Williams,Anthony Kay,CLE,-110,0.5806,0.0568,5.7%,MEDIUM,False,Standard play,
+1ST INN ML,2026-07-03,LAA,BOS,Reid Detmers,Jake Bennett,BOS,-110,0.5544,0.0306,3.1%,LOW,False,Standard play,
+1ST INN ML,2026-07-03,LAD,SD,Shohei Ohtani,Michael King,SD,-110,0.5433,0.0195,1.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-03,CIN,BAL,Brady Singer,Trevor Rogers,CIN,-110,0.5375,0.0137,1.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-03,OAK,MIA,Jack Perkins,Tyler Phillips,MIA,-110,0.5342,0.0104,1.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-03,CHC,STL,David Peterson,Andre Pallante,STL,-110,0.5172,-0.0066,-0.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-03,NYY,MIN,Gerrit Cole,Mike Paredes,NYY,-110,0.5141,-0.0097,-1.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-03,ATL,NYM,Grant Holmes,Christian Scott,NYM,-110,0.5042,-0.0196,-2.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-03,ARI,MIL,Jose Cabrera,Kyle Harrison,MIL,-110,0.5028,-0.021,-2.1%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-03,SEA,TOR,Luis Castillo,Dylan Cease,SEA,-110,0.5008,-0.0231,-2.3%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-07-03,LAD,SD,Shohei Ohtani,Michael King,OVER 0.5,-110,0.5939,0.0701,7.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-03,COL,SF,Ryan Feltner,TBD,OVER 0.5,-110,0.5826,0.0588,5.9%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-03,SEA,TOR,Luis Castillo,Dylan Cease,UNDER 0.5,-110,0.5662,0.0424,4.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-03,ATL,NYM,Grant Holmes,Christian Scott,UNDER 0.5,-110,0.5482,0.0244,2.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-03,ARI,MIL,Jose Cabrera,Kyle Harrison,UNDER 0.5,-110,0.5381,0.0143,1.4%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-07-03,CHC,STL,David Peterson,Andre Pallante,UNDER 0.5,-110,0.5323,0.0085,0.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-03,HOU,TB,Spencer Arrighetti,Nick Martinez,UNDER 0.5,-110,0.5296,0.0058,0.6%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-07-03,LAA,BOS,Reid Detmers,Jake Bennett,UNDER 0.5,-110,0.5221,-0.0017,-0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-03,OAK,MIA,Jack Perkins,Tyler Phillips,UNDER 0.5,-110,0.5177,-0.0061,-0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-03,CIN,BAL,Brady Singer,Trevor Rogers,OVER 0.5,-110,0.5172,-0.0066,-0.7%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-03,NYY,MIN,Gerrit Cole,Mike Paredes,OVER 0.5,-110,0.5167,-0.0071,-0.7%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-03,WSH,PIT,Foster Griffin,Mitch Keller,UNDER 0.5,-110,0.51,-0.0138,-1.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-03,CLE,CWS,Gavin Williams,Anthony Kay,UNDER 0.5,-110,0.5045,-0.0193,-1.9%,NO PLAY,False,Standard play,0.5
