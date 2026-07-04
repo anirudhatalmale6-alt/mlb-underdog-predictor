@@ -1,6 +1,6 @@
-# MLB Picks - Friday, July 03, 2026
+# MLB Picks - Saturday, July 04, 2026
 
-*Last updated: 2026-07-03 06:15 PM ET*
+*Last updated: 2026-07-04 03:12 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | PIT @ WSH |
-| Starting Pitchers | Mitch Keller vs Foster Griffin |
+| Matchup | TOR @ SEA |
+| Starting Pitchers | Shane Bieber vs Logan Gilbert |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.9% |
+| Edge Over Market | 9.2% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,12 +21,12 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | SF @ COL |
-| Starting Pitchers | TBD vs Ryan Feltner |
+| Matchup | TB @ HOU |
+| Starting Pitchers | Drew Rasmussen vs Hunter Brown |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.5% |
+| Edge Over Market | 6.7% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| PIT @ WSH | Mitch Keller vs Foster Griffin | WSH | -110 | 61.3% | 8.9% | HIGH | Standard play |
-| SF @ COL | TBD vs Ryan Feltner | COL | -110 | 58.8% | 6.5% | HIGH | Standard play |
+| TOR @ SEA | Shane Bieber vs Logan Gilbert | SEA | -110 | 61.6% | 9.2% | HIGH | Standard play |
+| TB @ HOU | Drew Rasmussen vs Hunter Brown | TB | -110 | 59.1% | 6.7% | HIGH | Elite pitching matchup |
 
 ---
 

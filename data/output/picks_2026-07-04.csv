@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-07-04,SEA,TOR,Logan Gilbert,Shane Bieber,SEA,-110,0.6155,0.0917,9.2%,HIGH,True,Standard play,
+1ST INN ML,2026-07-04,HOU,TB,Hunter Brown,Drew Rasmussen,TB,-110,0.5908,0.067,6.7%,HIGH,True,Elite pitching matchup,
+1ST INN ML,2026-07-04,WSH,PIT,Carson Palmquist,Braxton Ashcraft,PIT,-110,0.5777,0.0539,5.4%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-07-04,CHC,STL,Shota Imanaga,Kyle Leahy,CHC,-110,0.5685,0.0447,4.5%,MEDIUM,False,Standard play,
+1ST INN ML,2026-07-04,CIN,BAL,Hunter Greene,Brandon Young,BAL,-110,0.565,0.0412,4.1%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-07-04,LAA,BOS,Sam Aldegheri,Sonny Gray,BOS,-110,0.5639,0.0401,4.0%,MEDIUM,False,Standard play,
+1ST INN ML,2026-07-04,TEX,DET,Kumar Rocker,Jack Flaherty,TEX,-110,0.5597,0.0359,3.6%,LOW,False,Standard play,
+1ST INN ML,2026-07-04,LAD,SD,Yoshinobu Yamamoto,Griffin Canning,LAD,-110,0.559,0.0352,3.5%,LOW,False,Standard play,
+1ST INN ML,2026-07-04,COL,SF,Tomoyuki Sugano,Robbie Ray,SF,-110,0.5565,0.0327,3.3%,LOW,False,Standard play,
+1ST INN ML,2026-07-04,NYY,MIN,Brendan Beck,Zebby Matthews,MIN,-110,0.5421,0.0183,1.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-04,ARI,MIL,Merrill Kelly,Brandon Woodruff,MIL,-110,0.5415,0.0177,1.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-04,ATL,NYM,Chris Sale,Sean Manaea,ATL,-110,0.525,0.0012,0.1%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-04,CLE,CWS,Parker Messick,Sean Burke,CWS,-110,0.5245,0.0007,0.1%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-04,KC,PHI,Michael Wacha,Jesús Luzardo,PHI,-110,0.5099,-0.0139,-1.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-04,OAK,MIA,Aaron Civale,Sandy Alcantara,MIA,-110,0.5003,-0.0235,-2.3%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-07-04,CLE,CWS,Parker Messick,Sean Burke,OVER 0.5,-110,0.5932,0.0694,6.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-04,CIN,BAL,Hunter Greene,Brandon Young,OVER 0.5,-110,0.5789,0.0551,5.5%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-04,HOU,TB,Hunter Brown,Drew Rasmussen,OVER 0.5,-110,0.5702,0.0464,4.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-04,ARI,MIL,Merrill Kelly,Brandon Woodruff,UNDER 0.5,-110,0.5694,0.0455,4.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-04,COL,SF,Tomoyuki Sugano,Robbie Ray,OVER 0.5,-110,0.5639,0.0401,4.0%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-04,LAA,BOS,Sam Aldegheri,Sonny Gray,UNDER 0.5,-110,0.5527,0.0289,2.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-04,NYY,MIN,Brendan Beck,Zebby Matthews,UNDER 0.5,-110,0.5527,0.0288,2.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-04,SEA,TOR,Logan Gilbert,Shane Bieber,UNDER 0.5,-110,0.5526,0.0288,2.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-04,CHC,STL,Shota Imanaga,Kyle Leahy,OVER 0.5,-110,0.5437,0.0199,2.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-04,KC,PHI,Michael Wacha,Jesús Luzardo,OVER 0.5,-110,0.5341,0.0103,1.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-04,WSH,PIT,Carson Palmquist,Braxton Ashcraft,OVER 0.5,-110,0.5286,0.0048,0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-04,TEX,DET,Kumar Rocker,Jack Flaherty,OVER 0.5,-110,0.5261,0.0023,0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-04,OAK,MIA,Aaron Civale,Sandy Alcantara,UNDER 0.5,-110,0.5211,-0.0027,-0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-04,ATL,NYM,Chris Sale,Sean Manaea,OVER 0.5,-110,0.5186,-0.0052,-0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-04,LAD,SD,Yoshinobu Yamamoto,Griffin Canning,OVER 0.5,-110,0.5021,-0.0217,-2.2%,NO PLAY,False,Standard play,0.5
