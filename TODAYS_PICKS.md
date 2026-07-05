@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, July 04, 2026
+# MLB Picks - Sunday, July 05, 2026
 
-*Last updated: 2026-07-04 06:05 PM ET*
+*Last updated: 2026-07-05 03:18 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | TOR @ SEA |
-| Starting Pitchers | Shane Bieber vs Logan Gilbert |
+| Matchup | SD @ LAD |
+| Starting Pitchers | JP Sears vs Emmet Sheehan |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.2% |
+| Edge Over Market | 8.3% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,12 +21,12 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | TB @ HOU |
-| Starting Pitchers | Drew Rasmussen vs Hunter Brown |
+| Matchup | PIT @ WSH |
+| Starting Pitchers | Bubba Chandler vs Cade Cavalli |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.7% |
-| Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 4.3% |
+| Confidence | MEDIUM |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TOR @ SEA | Shane Bieber vs Logan Gilbert | SEA | -110 | 61.6% | 9.2% | HIGH | Standard play |
-| TB @ HOU | Drew Rasmussen vs Hunter Brown | TB | -110 | 59.1% | 6.7% | HIGH | Elite pitching matchup |
+| SD @ LAD | JP Sears vs Emmet Sheehan | LAD | -110 | 60.6% | 8.3% | HIGH | Standard play |
+| PIT @ WSH | Bubba Chandler vs Cade Cavalli | WSH | -110 | 56.7% | 4.3% | MEDIUM | Standard play |
 
 ---
 
