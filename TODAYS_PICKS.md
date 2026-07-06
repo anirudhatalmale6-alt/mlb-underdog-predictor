@@ -1,6 +1,6 @@
-# MLB Picks - Sunday, July 05, 2026
+# MLB Picks - Monday, July 06, 2026
 
-*Last updated: 2026-07-05 06:07 PM ET*
+*Last updated: 2026-07-06 04:55 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | SD @ LAD |
-| Starting Pitchers | JP Sears vs Emmet Sheehan |
+| Matchup | NYM @ ATL |
+| Starting Pitchers | Freddy Peralta vs Reynaldo López |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.3% |
+| Edge Over Market | 8.8% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,11 +21,11 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | PIT @ WSH |
-| Starting Pitchers | Bubba Chandler vs Cade Cavalli |
+| Matchup | COL @ LAD |
+| Starting Pitchers | Kyle Freeland vs Eric Lauer |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.3% |
-| Confidence | MEDIUM |
+| Edge Over Market | 7.3% |
+| Confidence | HIGH |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SD @ LAD | JP Sears vs Emmet Sheehan | LAD | -110 | 60.6% | 8.3% | HIGH | Standard play |
-| PIT @ WSH | Bubba Chandler vs Cade Cavalli | WSH | -110 | 56.7% | 4.3% | MEDIUM | Standard play |
+| NYM @ ATL | Freddy Peralta vs Reynaldo López | ATL | -110 | 61.2% | 8.8% | HIGH | Standard play |
+| COL @ LAD | Kyle Freeland vs Eric Lauer | LAD | -110 | 59.7% | 7.3% | HIGH | Standard play |
 
 ---
 

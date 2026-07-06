@@ -1,0 +1,17 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-07-06,ATL,NYM,Reynaldo López,Freddy Peralta,ATL,-110,0.6121,0.0883,8.8%,HIGH,True,Standard play,
+1ST INN ML,2026-07-06,LAD,COL,Eric Lauer,Kyle Freeland,LAD,-110,0.5965,0.0727,7.3%,HIGH,True,Standard play,
+1ST INN ML,2026-07-06,STL,MIL,Dustin May,Shane Drohan,MIL,-110,0.5891,0.0653,6.5%,HIGH,False,Standard play,
+1ST INN ML,2026-07-06,KC,PHI,Noah Cameron,Cristopher Sánchez,PHI,-110,0.5788,0.055,5.5%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-07-06,TB,NYY,Griffin Jax,Cam Schlittler,NYY,-110,0.5616,0.0377,3.8%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-07-06,WSH,HOU,Miles Mikolas,Mike Burrows,WSH,-110,0.5494,0.0256,2.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-06,SD,ARI,Walker Buehler,Brandon Pfaadt,SD,-110,0.5395,0.0157,1.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-06,SF,TOR,Landen Roupp,Kevin Gausman,TOR,-110,0.5378,0.014,1.4%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-07-06,SF,TOR,Landen Roupp,Kevin Gausman,UNDER 0.5,-110,0.5645,0.0407,4.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-06,WSH,HOU,Miles Mikolas,Mike Burrows,OVER 0.5,-110,0.5389,0.0151,1.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-06,SD,ARI,Walker Buehler,Brandon Pfaadt,UNDER 0.5,-110,0.5246,0.0008,0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-06,KC,PHI,Noah Cameron,Cristopher Sánchez,UNDER 0.5,-110,0.5233,-0.0005,-0.1%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-07-06,ATL,NYM,Reynaldo López,Freddy Peralta,OVER 0.5,-110,0.5188,-0.005,-0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-06,TB,NYY,Griffin Jax,Cam Schlittler,OVER 0.5,-110,0.5171,-0.0067,-0.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-06,STL,MIL,Dustin May,Shane Drohan,UNDER 0.5,-110,0.5083,-0.0155,-1.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-06,LAD,COL,Eric Lauer,Kyle Freeland,UNDER 0.5,-110,0.5083,-0.0155,-1.6%,NO PLAY,False,Standard play,0.5
