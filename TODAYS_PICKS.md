@@ -1,6 +1,6 @@
-# MLB Picks - Monday, July 06, 2026
+# MLB Picks - Tuesday, July 07, 2026
 
-*Last updated: 2026-07-06 06:59 PM ET*
+*Last updated: 2026-07-07 04:36 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | NYM @ ATL |
-| Starting Pitchers | Freddy Peralta vs Reynaldo López |
+| Matchup | COL @ LAD |
+| Starting Pitchers | Michael Lorenzen vs Justin Wrobleski |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.8% |
+| Edge Over Market | 6.9% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,10 +21,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | COL @ LAD |
-| Starting Pitchers | Kyle Freeland vs Eric Lauer |
+| Matchup | TOR @ SF |
+| Starting Pitchers | Spencer Miles vs Trevor McDonald |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.3% |
+| Edge Over Market | 6.9% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| NYM @ ATL | Freddy Peralta vs Reynaldo López | ATL | -110 | 61.2% | 8.8% | HIGH | Standard play |
-| COL @ LAD | Kyle Freeland vs Eric Lauer | LAD | -110 | 59.7% | 7.3% | HIGH | Standard play |
+| COL @ LAD | Michael Lorenzen vs Justin Wrobleski | LAD | -110 | 59.3% | 6.9% | HIGH | Standard play |
+| TOR @ SF | Spencer Miles vs Trevor McDonald | TOR | -110 | 59.2% | 6.9% | HIGH | Standard play |
 
 ---
 
