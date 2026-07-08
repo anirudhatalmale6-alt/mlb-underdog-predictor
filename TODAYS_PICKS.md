@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, July 07, 2026
+# MLB Picks - Wednesday, July 08, 2026
 
-*Last updated: 2026-07-07 07:05 PM ET*
+*Last updated: 2026-07-08 04:05 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,22 +10,22 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | COL @ LAD |
-| Starting Pitchers | Michael Lorenzen vs Justin Wrobleski |
+| Matchup | CHC @ BAL |
+| Starting Pitchers | Colin Rea vs Dean Kremer |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.9% |
+| Edge Over Market | 10.1% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | TOR @ SF |
-| Starting Pitchers | Spencer Miles vs Trevor McDonald |
+| Matchup | ARI @ SD |
+| Starting Pitchers | Jose Cabrera vs Michael King |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.9% |
-| Confidence | HIGH |
+| Edge Over Market | 5.9% |
+| Confidence | MEDIUM |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| COL @ LAD | Michael Lorenzen vs Justin Wrobleski | LAD | -110 | 59.3% | 6.9% | HIGH | Standard play |
-| TOR @ SF | Spencer Miles vs Trevor McDonald | TOR | -110 | 59.2% | 6.9% | HIGH | Standard play |
+| CHC @ BAL | Colin Rea vs Dean Kremer | BAL | -110 | 62.5% | 10.1% | HIGH | Strong value |
+| ARI @ SD | Jose Cabrera vs Michael King | SD | -110 | 58.3% | 5.9% | MEDIUM | Standard play |
 
 ---
 
