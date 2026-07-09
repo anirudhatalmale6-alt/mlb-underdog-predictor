@@ -1,0 +1,27 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-07-09,BAL,CHC,Trevor Rogers,David Peterson,BAL,-110,0.6174,0.0936,9.4%,HIGH,True,Standard play,
+1ST INN ML,2026-07-09,TB,NYY,Drew Rasmussen,Paul Blackburn,NYY,-110,0.5754,0.0516,5.2%,MEDIUM,True,Elite pitching matchup,
+1ST INN ML,2026-07-09,DET,OAK,Framber Valdez,Jack Perkins,DET,-110,0.5743,0.0504,5.0%,MEDIUM,False,Standard play,
+1ST INN ML,2026-07-09,STL,MIL,Andre Pallante,Logan Henderson,MIL,-110,0.5541,0.0303,3.0%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-07-09,NYM,KC,Sean Manaea,Michael Wacha,KC,-110,0.5502,0.0264,2.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-09,SF,COL,TBD,Ryan Feltner,COL,-110,0.5354,0.0116,1.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-09,CWS,BOS,Anthony Kay,Patrick Sandoval,CWS,-110,0.5293,0.0055,0.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-09,MIA,SEA,Janson Junk,Bryce Miller,SEA,-110,0.5287,0.0049,0.5%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-09,MIN,CLE,Bailey Ober,Gavin Williams,CLE,-110,0.517,-0.0068,-0.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-09,CIN,PHI,Brady Singer,Jesús Luzardo,PHI,-110,0.5161,-0.0077,-0.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-09,SD,ARI,Griffin Canning,Merrill Kelly,SD,-110,0.5115,-0.0123,-1.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-09,PIT,ATL,Mitch Keller,Bryce Elder,ATL,-110,0.5074,-0.0164,-1.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-09,TEX,LAA,Nathan Eovaldi,Reid Detmers,LAA,-110,0.5061,-0.0177,-1.8%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-07-09,TB,NYY,Drew Rasmussen,Paul Blackburn,OVER 0.5,-110,0.5849,0.0611,6.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-09,MIA,SEA,Janson Junk,Bryce Miller,UNDER 0.5,-110,0.5501,0.0263,2.6%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-07-09,SF,COL,TBD,Ryan Feltner,UNDER 0.5,-110,0.5459,0.0221,2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-09,NYM,KC,Sean Manaea,Michael Wacha,UNDER 0.5,-110,0.5376,0.0138,1.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-09,SD,ARI,Griffin Canning,Merrill Kelly,UNDER 0.5,-110,0.5202,-0.0037,-0.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-09,MIN,CLE,Bailey Ober,Gavin Williams,UNDER 0.5,-110,0.5177,-0.0061,-0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-09,PIT,ATL,Mitch Keller,Bryce Elder,UNDER 0.5,-110,0.5128,-0.011,-1.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-09,STL,MIL,Andre Pallante,Logan Henderson,OVER 0.5,-110,0.5067,-0.0171,-1.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-09,CIN,PHI,Brady Singer,Jesús Luzardo,OVER 0.5,-110,0.506,-0.0178,-1.8%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-09,CWS,BOS,Anthony Kay,Patrick Sandoval,UNDER 0.5,-110,0.5037,-0.0201,-2.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-09,TEX,LAA,Nathan Eovaldi,Reid Detmers,OVER 0.5,-110,0.5024,-0.0214,-2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-09,DET,OAK,Framber Valdez,Jack Perkins,OVER 0.5,-110,0.502,-0.0218,-2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-09,BAL,CHC,Trevor Rogers,David Peterson,UNDER 0.5,-110,0.5019,-0.0219,-2.2%,NO PLAY,False,Standard play,0.5

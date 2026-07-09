@@ -1,6 +1,6 @@
-# MLB Picks - Wednesday, July 08, 2026
+# MLB Picks - Thursday, July 09, 2026
 
-*Last updated: 2026-07-08 06:21 PM ET*
+*Last updated: 2026-07-09 04:31 PM ET*
 
 ## Moneyline Underdogs
 
@@ -11,22 +11,22 @@
 | Stat | Value |
 |------|-------|
 | Matchup | CHC @ BAL |
-| Starting Pitchers | Colin Rea vs Dean Kremer |
+| Starting Pitchers | David Peterson vs Trevor Rogers |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.1% |
+| Edge Over Market | 9.4% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | ARI @ SD |
-| Starting Pitchers | Jose Cabrera vs Michael King |
+| Matchup | NYY @ TB |
+| Starting Pitchers | Paul Blackburn vs Drew Rasmussen |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.9% |
+| Edge Over Market | 5.2% |
 | Confidence | MEDIUM |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CHC @ BAL | Colin Rea vs Dean Kremer | BAL | -110 | 62.5% | 10.1% | HIGH | Strong value |
-| ARI @ SD | Jose Cabrera vs Michael King | SD | -110 | 58.3% | 5.9% | MEDIUM | Standard play |
+| CHC @ BAL | David Peterson vs Trevor Rogers | BAL | -110 | 61.7% | 9.4% | HIGH | Standard play |
+| NYY @ TB | Paul Blackburn vs Drew Rasmussen | NYY | -110 | 57.5% | 5.2% | MEDIUM | Elite pitching matchup |
 
 ---
 
