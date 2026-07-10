@@ -1,6 +1,6 @@
-# MLB Picks - Thursday, July 09, 2026
+# MLB Picks - Friday, July 10, 2026
 
-*Last updated: 2026-07-09 06:52 PM ET*
+*Last updated: 2026-07-10 04:29 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CHC @ BAL |
-| Starting Pitchers | David Peterson vs Trevor Rogers |
+| Matchup | LAA @ MIN |
+| Starting Pitchers | Grayson Rodriguez vs Zebby Matthews |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.4% |
+| Edge Over Market | 12.0% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | NYY @ TB |
-| Starting Pitchers | Paul Blackburn vs Drew Rasmussen |
+| Matchup | KC @ BAL |
+| Starting Pitchers | Luinder Avila vs Brandon Young |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.2% |
-| Confidence | MEDIUM |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 11.6% |
+| Confidence | HIGH |
+| Notes | Strong value |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CHC @ BAL | David Peterson vs Trevor Rogers | BAL | -110 | 61.7% | 9.4% | HIGH | Standard play |
-| NYY @ TB | Paul Blackburn vs Drew Rasmussen | NYY | -110 | 57.5% | 5.2% | MEDIUM | Elite pitching matchup |
+| LAA @ MIN | Grayson Rodriguez vs Zebby Matthews | MIN | -110 | 64.3% | 12.0% | HIGH | Strong value |
+| KC @ BAL | Luinder Avila vs Brandon Young | BAL | -110 | 63.9% | 11.6% | HIGH | Strong value |
 
 ---
 
