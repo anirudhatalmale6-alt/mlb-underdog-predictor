@@ -1,6 +1,6 @@
-# MLB Picks - Friday, July 10, 2026
+# MLB Picks - Saturday, July 11, 2026
 
-*Last updated: 2026-07-10 06:25 PM ET*
+*Last updated: 2026-07-11 03:01 PM ET*
 
 ## Moneyline Underdogs
 
@@ -11,22 +11,22 @@
 | Stat | Value |
 |------|-------|
 | Matchup | LAA @ MIN |
-| Starting Pitchers | Grayson Rodriguez vs Zebby Matthews |
+| Starting Pitchers | Ryan Johnson vs Joe Ryan |
 | Model Win Probability | 0 |
-| Edge Over Market | 12.0% |
+| Edge Over Market | 9.2% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | KC @ BAL |
-| Starting Pitchers | Luinder Avila vs Brandon Young |
+| Matchup | COL @ SF |
+| Starting Pitchers | Kyle Freeland vs Tyler Mahle |
 | Model Win Probability | 0 |
-| Edge Over Market | 11.6% |
+| Edge Over Market | 9.1% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAA @ MIN | Grayson Rodriguez vs Zebby Matthews | MIN | -110 | 64.3% | 12.0% | HIGH | Strong value |
-| KC @ BAL | Luinder Avila vs Brandon Young | BAL | -110 | 63.9% | 11.6% | HIGH | Strong value |
+| LAA @ MIN | Ryan Johnson vs Joe Ryan | MIN | -110 | 61.6% | 9.2% | HIGH | Standard play |
+| COL @ SF | Kyle Freeland vs Tyler Mahle | SF | -110 | 61.5% | 9.1% | HIGH | Standard play |
 
 ---
 
