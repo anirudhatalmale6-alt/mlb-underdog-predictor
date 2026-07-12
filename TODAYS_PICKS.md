@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, July 11, 2026
+# MLB Picks - Sunday, July 12, 2026
 
-*Last updated: 2026-07-11 05:57 PM ET*
+*Last updated: 2026-07-12 03:03 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAA @ MIN |
-| Starting Pitchers | Ryan Johnson vs Joe Ryan |
+| Matchup | HOU @ TEX |
+| Starting Pitchers | Cristian Javier vs MacKenzie Gore |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.2% |
+| Edge Over Market | 7.7% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,11 +21,11 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | COL @ SF |
-| Starting Pitchers | Kyle Freeland vs Tyler Mahle |
+| Matchup | OAK @ CWS |
+| Starting Pitchers | J.T. Ginn vs Noah Schultz |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.1% |
-| Confidence | HIGH |
+| Edge Over Market | 4.9% |
+| Confidence | MEDIUM |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAA @ MIN | Ryan Johnson vs Joe Ryan | MIN | -110 | 61.6% | 9.2% | HIGH | Standard play |
-| COL @ SF | Kyle Freeland vs Tyler Mahle | SF | -110 | 61.5% | 9.1% | HIGH | Standard play |
+| HOU @ TEX | Cristian Javier vs MacKenzie Gore | TEX | -110 | 60.1% | 7.7% | HIGH | Standard play |
+| OAK @ CWS | J.T. Ginn vs Noah Schultz | OAK | -110 | 57.3% | 4.9% | MEDIUM | Standard play |
 
 ---
 
