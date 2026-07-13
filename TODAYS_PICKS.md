@@ -1,6 +1,6 @@
 # MLB Picks - Monday, July 13, 2026
 
-*Last updated: 2026-07-13 04:38 PM ET*
+*Last updated: 2026-07-13 06:46 PM ET*
 
 ## No Games Today
 
