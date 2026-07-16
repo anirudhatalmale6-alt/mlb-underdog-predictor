@@ -1,6 +1,6 @@
 # MLB Picks - Thursday, July 16, 2026
 
-*Last updated: 2026-07-16 03:41 PM ET*
+*Last updated: 2026-07-16 06:09 PM ET*
 
 ## No Recommended Plays Today
 
