@@ -1,0 +1,36 @@
+[
+  {
+    "bet_type":"1ST INN ML",
+    "game_date":"2026-07-16",
+    "home_team":"PHI",
+    "away_team":"NYM",
+    "home_sp_name":"Aaron Nola",
+    "away_sp_name":"Christian Scott",
+    "pick":"PHI",
+    "odds":-110,
+    "model_prob":0.5182,
+    "edge":-0.0056,
+    "edge_pct":"-0.6%",
+    "confidence":"NO PLAY",
+    "recommended":false,
+    "notes":"Standard play",
+    "line":null
+  },
+  {
+    "bet_type":"1ST INN TOTAL",
+    "game_date":"2026-07-16",
+    "home_team":"PHI",
+    "away_team":"NYM",
+    "home_sp_name":"Aaron Nola",
+    "away_sp_name":"Christian Scott",
+    "pick":"UNDER 0.5",
+    "odds":-110,
+    "model_prob":0.562,
+    "edge":0.0381,
+    "edge_pct":"3.8%",
+    "confidence":"NO PLAY",
+    "recommended":false,
+    "notes":"Standard play",
+    "line":"0.5"
+  }
+]
