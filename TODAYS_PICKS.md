@@ -1,10 +1,66 @@
-# MLB Picks - Thursday, July 16, 2026
+# MLB Picks - Friday, July 17, 2026
 
-*Last updated: 2026-07-16 06:09 PM ET*
+*Last updated: 2026-07-17 03:18 PM ET*
 
-## No Recommended Plays Today
+## Moneyline Underdogs
 
-Games are on the schedule but no picks met the model's edge threshold today.
+### RECOMMENDED PLAYS (3)
+
+#### ??? (0)
+
+| Stat | Value |
+|------|-------|
+| Matchup | TEX @ ATL |
+| Starting Pitchers | Cal Quantrill vs Chris Sale |
+| Model Win Probability | 0 |
+| Edge Over Market | 8.0% |
+| Confidence | HIGH |
+| Notes | Elite pitching matchup |
+
+#### ??? (0)
+
+| Stat | Value |
+|------|-------|
+| Matchup | CIN @ COL |
+| Starting Pitchers | Brady Singer vs Gabriel Hughes |
+| Model Win Probability | 0 |
+| Edge Over Market | 7.5% |
+| Confidence | HIGH |
+| Notes | Standard play |
+
+#### ??? (0)
+
+| Stat | Value |
+|------|-------|
+| Matchup | TB @ BOS |
+| Starting Pitchers | Griffin Jax vs Jake Bennett |
+| Model Win Probability | 0 |
+| Edge Over Market | 8.2% |
+| Confidence | LOW |
+| Notes | Hitter-friendly park |
+
+---
+
+## 1st Inning Moneyline
+
+### RECOMMENDED PLAYS (2)
+
+| Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
+|---------|----------|------|------|-------------|------|------------|-------|
+| TEX @ ATL | Cal Quantrill vs Chris Sale | TEX | -110 | 60.3% | 8.0% | HIGH | Elite pitching matchup |
+| CIN @ COL | Brady Singer vs Gabriel Hughes | COL | -110 | 59.9% | 7.5% | HIGH | Standard play |
+
+---
+
+## 1st Inning Over/Under
+
+### RECOMMENDED PLAYS (1)
+
+| Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
+|---------|----------|------|------|-------------|------|------------|-------|
+| TB @ BOS | Griffin Jax vs Jake Bennett | OVER 0.5 | -110 | 60.6% | 8.2% | LOW | Hitter-friendly park |
+
+---
 
 ---
 

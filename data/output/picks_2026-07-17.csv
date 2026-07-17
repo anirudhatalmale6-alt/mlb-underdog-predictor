@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-07-17,ATL,TEX,Chris Sale,Cal Quantrill,TEX,-110,0.6034,0.0796,8.0%,HIGH,True,Elite pitching matchup,
+1ST INN ML,2026-07-17,COL,CIN,Gabriel Hughes,Brady Singer,COL,-110,0.5987,0.0749,7.5%,HIGH,True,Standard play,
+1ST INN ML,2026-07-17,LAA,DET,Reid Detmers,Troy Melton,DET,-110,0.5782,0.0544,5.4%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-07-17,NYY,LAD,Gerrit Cole,Roki Sasaki,NYY,-110,0.5574,0.0335,3.4%,LOW,False,Standard play,
+1ST INN ML,2026-07-17,KC,SD,Seth Lugo,Michael King,SD,-110,0.55,0.0262,2.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-17,CLE,PIT,Gavin Williams,Jared Jones,CLE,-110,0.537,0.0132,1.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-17,OAK,WSH,Gage Jump,Cade Cavalli,OAK,-110,0.5352,0.0114,1.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-17,BOS,TB,TBD,TBD,BOS,-110,0.5329,0.009,0.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-17,TOR,CWS,Spencer Miles,Anthony Kay,TOR,-110,0.5273,0.0035,0.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-17,BOS,TB,Jake Bennett,Griffin Jax,TB,-110,0.5261,0.0023,0.2%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-17,MIL,MIA,Logan Henderson,Sandy Alcantara,MIL,-110,0.5172,-0.0066,-0.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-17,HOU,BAL,Peter Lambert,Dean Kremer,HOU,-110,0.5147,-0.0092,-0.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-17,SEA,SF,Bryce Miller,Landen Roupp,SEA,-110,0.5117,-0.0121,-1.2%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-17,ARI,STL,Merrill Kelly,TBD,ARI,-110,0.5087,-0.0151,-1.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-17,CHC,MIN,Colin Rea,Bailey Ober,CHC,-110,0.5079,-0.0159,-1.6%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-07-17,BOS,TB,Jake Bennett,Griffin Jax,OVER 0.5,-110,0.606,0.0822,8.2%,LOW,True,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-17,COL,CIN,Gabriel Hughes,Brady Singer,OVER 0.5,-110,0.5613,0.0375,3.7%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-17,ATL,TEX,Chris Sale,Cal Quantrill,OVER 0.5,-110,0.5608,0.037,3.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-17,MIL,MIA,Logan Henderson,Sandy Alcantara,OVER 0.5,-110,0.5479,0.0241,2.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-17,KC,SD,Seth Lugo,Michael King,UNDER 0.5,-110,0.5472,0.0234,2.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-17,HOU,BAL,Peter Lambert,Dean Kremer,OVER 0.5,-110,0.5424,0.0186,1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-17,CHC,MIN,Colin Rea,Bailey Ober,UNDER 0.5,-110,0.5416,0.0178,1.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-17,BOS,TB,TBD,TBD,OVER 0.5,-110,0.5193,-0.0046,-0.5%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-17,LAA,DET,Reid Detmers,Troy Melton,OVER 0.5,-110,0.5159,-0.0079,-0.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-17,OAK,WSH,Gage Jump,Cade Cavalli,UNDER 0.5,-110,0.5151,-0.0087,-0.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-17,NYY,LAD,Gerrit Cole,Roki Sasaki,OVER 0.5,-110,0.5124,-0.0114,-1.1%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-17,SEA,SF,Bryce Miller,Landen Roupp,UNDER 0.5,-110,0.5082,-0.0156,-1.6%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-07-17,CLE,PIT,Gavin Williams,Jared Jones,OVER 0.5,-110,0.5077,-0.0161,-1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-17,TOR,CWS,Spencer Miles,Anthony Kay,UNDER 0.5,-110,0.5076,-0.0162,-1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-17,ARI,STL,Merrill Kelly,TBD,OVER 0.5,-110,0.5032,-0.0206,-2.1%,NO PLAY,False,Hitter-friendly park,0.5
