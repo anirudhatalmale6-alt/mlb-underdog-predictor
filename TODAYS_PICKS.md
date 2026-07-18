@@ -1,30 +1,19 @@
-# MLB Picks - Friday, July 17, 2026
+# MLB Picks - Saturday, July 18, 2026
 
-*Last updated: 2026-07-17 06:09 PM ET*
+*Last updated: 2026-07-18 03:01 PM ET*
 
 ## Moneyline Underdogs
 
-### RECOMMENDED PLAYS (3)
+### RECOMMENDED PLAYS (2)
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | TEX @ ATL |
-| Starting Pitchers | Cal Quantrill vs Chris Sale |
+| Matchup | NYM @ PHI |
+| Starting Pitchers | Sean Manaea vs Jesús Luzardo |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.0% |
-| Confidence | HIGH |
-| Notes | Elite pitching matchup |
-
-#### ??? (0)
-
-| Stat | Value |
-|------|-------|
-| Matchup | CIN @ COL |
-| Starting Pitchers | Brady Singer vs Gabriel Hughes |
-| Model Win Probability | 0 |
-| Edge Over Market | 7.5% |
+| Edge Over Market | 8.5% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -32,12 +21,12 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | TB @ BOS |
-| Starting Pitchers | Griffin Jax vs Jake Bennett |
+| Matchup | SD @ KC |
+| Starting Pitchers | Griffin Canning vs Randy Dobnak |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.2% |
+| Edge Over Market | 3.9% |
 | Confidence | LOW |
-| Notes | Hitter-friendly park |
+| Notes | Standard play |
 
 ---
 
@@ -47,18 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TEX @ ATL | Cal Quantrill vs Chris Sale | TEX | -110 | 60.3% | 8.0% | HIGH | Elite pitching matchup |
-| CIN @ COL | Brady Singer vs Gabriel Hughes | COL | -110 | 59.9% | 7.5% | HIGH | Standard play |
-
----
-
-## 1st Inning Over/Under
-
-### RECOMMENDED PLAYS (1)
-
-| Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
-|---------|----------|------|------|-------------|------|------------|-------|
-| TB @ BOS | Griffin Jax vs Jake Bennett | OVER 0.5 | -110 | 60.6% | 8.2% | LOW | Hitter-friendly park |
+| NYM @ PHI | Sean Manaea vs Jesús Luzardo | PHI | -110 | 60.9% | 8.5% | HIGH | Standard play |
+| SD @ KC | Griffin Canning vs Randy Dobnak | KC | -110 | 56.3% | 3.9% | LOW | Standard play |
 
 ---
 
