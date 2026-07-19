@@ -1,0 +1,33 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-07-19,COL,CIN,Ryan Feltner,Hunter Greene,COL,-110,0.5782,0.0544,5.4%,MEDIUM,True,Standard play,
+1ST INN ML,2026-07-19,NYY,LAD,Cam Schlittler,Yoshinobu Yamamoto,LAD,-110,0.5529,0.029,2.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-19,BOS,TB,Sonny Gray,Shane McClanahan,TB,-110,0.5529,0.029,2.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-19,KC,SD,Noah Cameron,Germán Márquez,KC,-110,0.5433,0.0195,1.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-19,NYY,LAD,TBD,TBD,NYY,-110,0.5329,0.009,0.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-19,OAK,WSH,Jacob Lopez,Foster Griffin,WSH,-110,0.5316,0.0078,0.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-19,PHI,NYM,Alan Rangel,Nolan McLean,NYM,-110,0.5308,0.0069,0.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-19,HOU,BAL,Hunter Brown,Brandon Young,HOU,-110,0.5223,-0.0015,-0.2%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-19,ATL,TEX,Grant Holmes,Nathan Eovaldi,ATL,-110,0.5177,-0.0061,-0.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-19,LAA,DET,Ryan Johnson,Casey Mize,DET,-110,0.5175,-0.0063,-0.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-19,CLE,PIT,Joey Cantillo,Paul Skenes,CLE,-110,0.5069,-0.0169,-1.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-19,CHC,MIN,Shota Imanaga,Zebby Matthews,CHC,-110,0.5062,-0.0177,-1.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-19,SEA,SF,Logan Gilbert,Robbie Ray,SF,-110,0.5037,-0.0201,-2.0%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-19,MIL,MIA,Robert Gasser,Eury Pérez,MIA,-110,0.5013,-0.0225,-2.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-19,ARI,STL,Eduardo Rodriguez,Andre Pallante,ARI,-110,0.5013,-0.0225,-2.2%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-19,TOR,CWS,Trey Yesavage,Sean Burke,TOR,-110,0.5009,-0.0229,-2.3%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-07-19,OAK,WSH,Jacob Lopez,Foster Griffin,UNDER 0.5,-110,0.5754,0.0516,5.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-19,ARI,STL,Eduardo Rodriguez,Andre Pallante,OVER 0.5,-110,0.553,0.0292,2.9%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-19,PHI,NYM,Alan Rangel,Nolan McLean,UNDER 0.5,-110,0.5507,0.0269,2.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-19,BOS,TB,Sonny Gray,Shane McClanahan,OVER 0.5,-110,0.5367,0.0129,1.3%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-19,LAA,DET,Ryan Johnson,Casey Mize,UNDER 0.5,-110,0.5354,0.0116,1.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-19,COL,CIN,Ryan Feltner,Hunter Greene,OVER 0.5,-110,0.5329,0.0091,0.9%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-19,ATL,TEX,Grant Holmes,Nathan Eovaldi,UNDER 0.5,-110,0.5233,-0.0005,-0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-19,NYY,LAD,Cam Schlittler,Yoshinobu Yamamoto,OVER 0.5,-110,0.5229,-0.0009,-0.1%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-19,TOR,CWS,Trey Yesavage,Sean Burke,OVER 0.5,-110,0.5141,-0.0097,-1.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-19,SEA,SF,Logan Gilbert,Robbie Ray,UNDER 0.5,-110,0.5139,-0.0099,-1.0%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-07-19,KC,SD,Noah Cameron,Germán Márquez,OVER 0.5,-110,0.5115,-0.0123,-1.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-19,HOU,BAL,Hunter Brown,Brandon Young,UNDER 0.5,-110,0.5046,-0.0192,-1.9%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-07-19,NYY,LAD,TBD,TBD,OVER 0.5,-110,0.5044,-0.0194,-1.9%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-19,CLE,PIT,Joey Cantillo,Paul Skenes,UNDER 0.5,-110,0.5043,-0.0195,-2.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-19,MIL,MIA,Robert Gasser,Eury Pérez,UNDER 0.5,-110,0.5034,-0.0204,-2.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-19,CHC,MIN,Shota Imanaga,Zebby Matthews,UNDER 0.5,-110,0.5021,-0.0217,-2.2%,NO PLAY,False,Standard play,0.5

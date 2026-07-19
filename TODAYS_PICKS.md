@@ -1,43 +1,31 @@
-# MLB Picks - Saturday, July 18, 2026
+# MLB Picks - Sunday, July 19, 2026
 
-*Last updated: 2026-07-18 05:58 PM ET*
+*Last updated: 2026-07-19 03:03 PM ET*
 
 ## Moneyline Underdogs
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (1)
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | NYM @ PHI |
-| Starting Pitchers | Sean Manaea vs Jesús Luzardo |
+| Matchup | CIN @ COL |
+| Starting Pitchers | Hunter Greene vs Ryan Feltner |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.5% |
-| Confidence | HIGH |
-| Notes | Standard play |
-
-#### ??? (0)
-
-| Stat | Value |
-|------|-------|
-| Matchup | SD @ KC |
-| Starting Pitchers | Griffin Canning vs Randy Dobnak |
-| Model Win Probability | 0 |
-| Edge Over Market | 3.9% |
-| Confidence | LOW |
+| Edge Over Market | 5.4% |
+| Confidence | MEDIUM |
 | Notes | Standard play |
 
 ---
 
 ## 1st Inning Moneyline
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (1)
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| NYM @ PHI | Sean Manaea vs Jesús Luzardo | PHI | -110 | 60.9% | 8.5% | HIGH | Standard play |
-| SD @ KC | Griffin Canning vs Randy Dobnak | KC | -110 | 56.3% | 3.9% | LOW | Standard play |
+| CIN @ COL | Hunter Greene vs Ryan Feltner | COL | -110 | 57.8% | 5.4% | MEDIUM | Standard play |
 
 ---
 
