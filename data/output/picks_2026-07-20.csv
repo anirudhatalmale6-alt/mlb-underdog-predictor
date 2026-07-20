@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-07-20,SEA,CIN,George Kirby,Andrew Abbott,SEA,-110,0.6044,0.0805,8.1%,HIGH,True,Standard play,
+1ST INN ML,2026-07-20,CLE,MIN,Tanner Bibee,Joe Ryan,MIN,-110,0.5957,0.0719,7.2%,HIGH,True,Elite pitching matchup,
+1ST INN ML,2026-07-20,TOR,TB,Dylan Cease,Nick Martinez,TB,-110,0.5908,0.067,6.7%,HIGH,False,Elite pitching matchup,
+1ST INN ML,2026-07-20,ATL,SD,Bryce Elder,JP Sears,ATL,-110,0.5849,0.0611,6.1%,HIGH,False,Standard play,
+1ST INN ML,2026-07-20,LAA,STL,José Soriano,Kyle Leahy,LAA,-110,0.5703,0.0465,4.6%,MEDIUM,False,Standard play,
+1ST INN ML,2026-07-20,TEX,CWS,Jacob deGrom,Erick Fedde,TEX,-110,0.5591,0.0353,3.5%,LOW,False,Standard play,
+1ST INN ML,2026-07-20,CHC,DET,Jameson Taillon,Jack Flaherty,CHC,-110,0.5551,0.0313,3.1%,LOW,False,Standard play,
+1ST INN ML,2026-07-20,KC,SF,Michael Wacha,Trevor McDonald,KC,-110,0.555,0.0312,3.1%,LOW,False,Standard play,
+1ST INN ML,2026-07-20,BOS,BAL,Payton Tolle,Shane Baz,BOS,-110,0.5525,0.0287,2.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-20,MIL,NYM,Jacob Misiorowski,Freddy Peralta,MIL,-110,0.547,0.0232,2.3%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-20,PHI,LAD,Cristopher Sánchez,Emmet Sheehan,PHI,-110,0.5439,0.0201,2.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-20,ARI,OAK,Mitch Bratt,Jeffrey Springs,OAK,-110,0.5328,0.009,0.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-20,HOU,MIA,Ronel Blanco,Janson Junk,HOU,-110,0.5281,0.0043,0.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-20,NYY,PIT,Ryan Weathers,Braxton Ashcraft,PIT,-110,0.5198,-0.004,-0.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-20,COL,WSH,Kyle Freeland,Andrew Alvarez,WSH,-110,0.501,-0.0228,-2.3%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-07-20,TOR,TB,Dylan Cease,Nick Martinez,OVER 0.5,-110,0.5702,0.0464,4.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-20,BOS,BAL,Payton Tolle,Shane Baz,OVER 0.5,-110,0.562,0.0381,3.8%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-20,COL,WSH,Kyle Freeland,Andrew Alvarez,OVER 0.5,-110,0.5274,0.0036,0.4%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-20,MIL,NYM,Jacob Misiorowski,Freddy Peralta,OVER 0.5,-110,0.5229,-0.0009,-0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-20,ATL,SD,Bryce Elder,JP Sears,OVER 0.5,-110,0.52,-0.0038,-0.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-20,SEA,CIN,George Kirby,Andrew Abbott,UNDER 0.5,-110,0.5199,-0.0039,-0.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-20,LAA,STL,José Soriano,Kyle Leahy,OVER 0.5,-110,0.5146,-0.0092,-0.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-20,KC,SF,Michael Wacha,Trevor McDonald,OVER 0.5,-110,0.5132,-0.0106,-1.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-20,CHC,DET,Jameson Taillon,Jack Flaherty,OVER 0.5,-110,0.5132,-0.0107,-1.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-20,ARI,OAK,Mitch Bratt,Jeffrey Springs,OVER 0.5,-110,0.5083,-0.0155,-1.6%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-20,HOU,MIA,Ronel Blanco,Janson Junk,OVER 0.5,-110,0.5058,-0.018,-1.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-20,CLE,MIN,Tanner Bibee,Joe Ryan,UNDER 0.5,-110,0.5043,-0.0195,-2.0%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-07-20,PHI,LAD,Cristopher Sánchez,Emmet Sheehan,UNDER 0.5,-110,0.5041,-0.0197,-2.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-20,TEX,CWS,Jacob deGrom,Erick Fedde,UNDER 0.5,-110,0.5026,-0.0212,-2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-20,NYY,PIT,Ryan Weathers,Braxton Ashcraft,UNDER 0.5,-110,0.5001,-0.0237,-2.4%,NO PLAY,False,Standard play,0.5

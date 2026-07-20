@@ -1,31 +1,43 @@
-# MLB Picks - Sunday, July 19, 2026
+# MLB Picks - Monday, July 20, 2026
 
-*Last updated: 2026-07-19 06:01 PM ET*
+*Last updated: 2026-07-20 03:56 PM ET*
 
 ## Moneyline Underdogs
 
-### RECOMMENDED PLAYS (1)
+### RECOMMENDED PLAYS (2)
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | CIN @ COL |
-| Starting Pitchers | Hunter Greene vs Ryan Feltner |
+| Matchup | CIN @ SEA |
+| Starting Pitchers | Andrew Abbott vs George Kirby |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.4% |
-| Confidence | MEDIUM |
+| Edge Over Market | 8.1% |
+| Confidence | HIGH |
 | Notes | Standard play |
+
+#### ??? (0)
+
+| Stat | Value |
+|------|-------|
+| Matchup | MIN @ CLE |
+| Starting Pitchers | Joe Ryan vs Tanner Bibee |
+| Model Win Probability | 0 |
+| Edge Over Market | 7.2% |
+| Confidence | HIGH |
+| Notes | Elite pitching matchup |
 
 ---
 
 ## 1st Inning Moneyline
 
-### RECOMMENDED PLAYS (1)
+### RECOMMENDED PLAYS (2)
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CIN @ COL | Hunter Greene vs Ryan Feltner | COL | -110 | 57.8% | 5.4% | MEDIUM | Standard play |
+| CIN @ SEA | Andrew Abbott vs George Kirby | SEA | -110 | 60.4% | 8.1% | HIGH | Standard play |
+| MIN @ CLE | Joe Ryan vs Tanner Bibee | MIN | -110 | 59.6% | 7.2% | HIGH | Elite pitching matchup |
 
 ---
 
