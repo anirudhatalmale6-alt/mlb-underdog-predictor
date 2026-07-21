@@ -1,6 +1,6 @@
-# MLB Picks - Monday, July 20, 2026
+# MLB Picks - Tuesday, July 21, 2026
 
-*Last updated: 2026-07-20 06:55 PM ET*
+*Last updated: 2026-07-21 03:48 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CIN @ SEA |
-| Starting Pitchers | Andrew Abbott vs George Kirby |
+| Matchup | STL @ LAA |
+| Starting Pitchers | Matthew Liberatore vs Walbert Ureña |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.1% |
+| Edge Over Market | 9.1% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,12 +21,12 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIN @ CLE |
-| Starting Pitchers | Joe Ryan vs Tanner Bibee |
+| Matchup | OAK @ ARI |
+| Starting Pitchers | Jack Perkins vs Kohl Drake |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.2% |
+| Edge Over Market | 7.0% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CIN @ SEA | Andrew Abbott vs George Kirby | SEA | -110 | 60.4% | 8.1% | HIGH | Standard play |
-| MIN @ CLE | Joe Ryan vs Tanner Bibee | MIN | -110 | 59.6% | 7.2% | HIGH | Elite pitching matchup |
+| STL @ LAA | Matthew Liberatore vs Walbert Ureña | LAA | -110 | 61.5% | 9.1% | HIGH | Standard play |
+| OAK @ ARI | Jack Perkins vs Kohl Drake | ARI | -110 | 59.3% | 7.0% | HIGH | Standard play |
 
 ---
 
