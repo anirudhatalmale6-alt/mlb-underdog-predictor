@@ -1,0 +1,35 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-07-22,NYY,PIT,Max Fried,Bubba Chandler,NYY,-110,0.6144,0.0906,9.1%,HIGH,True,Standard play,
+1ST INN ML,2026-07-22,SEA,CIN,Emerson Hancock,Brady Singer,SEA,-110,0.6016,0.0778,7.8%,HIGH,True,Standard play,
+1ST INN ML,2026-07-22,CHC,DET,Colin Rea,Keider Montero,DET,-110,0.5748,0.051,5.1%,MEDIUM,False,Standard play,
+1ST INN ML,2026-07-22,MIL,NYM,Logan Henderson,Christian Scott,NYM,-110,0.5706,0.0468,4.7%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-07-22,NYY,PIT,Gerrit Cole,Mitch Keller,NYY,-110,0.5481,0.0242,2.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-22,TEX,CWS,Tyler Alexander,Anthony Kay,TEX,-110,0.548,0.0242,2.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-22,COL,WSH,Gabriel Hughes,Cade Cavalli,COL,-110,0.543,0.0192,1.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-22,CLE,MIN,Slade Cecconi,Bailey Ober,CLE,-110,0.5345,0.0107,1.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-22,TOR,TB,Braydon Fisher,Griffin Jax,TOR,-110,0.5268,0.003,0.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-22,LAA,STL,Reid Detmers,Hunter Dobbins,LAA,-110,0.5238,-0.0,-0.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-22,KC,SF,Seth Lugo,Landen Roupp,KC,-110,0.5188,-0.005,-0.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-22,ATL,SD,Martín Pérez,Michael King,SD,-110,0.5166,-0.0072,-0.7%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-22,BOS,BAL,Jake Bennett,Dean Kremer,BAL,-110,0.5158,-0.008,-0.8%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-22,BOS,BAL,TBD,Kyle Bradish,BOS,-110,0.5129,-0.0109,-1.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-22,HOU,MIA,Peter Lambert,Sandy Alcantara,MIA,-110,0.5114,-0.0124,-1.2%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-22,PHI,LAD,Aaron Nola,Eric Lauer,PHI,-110,0.5102,-0.0136,-1.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-22,ARI,OAK,Merrill Kelly,Gage Jump,ARI,-110,0.5013,-0.0225,-2.3%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-07-22,COL,WSH,Gabriel Hughes,Cade Cavalli,OVER 0.5,-110,0.5947,0.0709,7.1%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-22,CHC,DET,Colin Rea,Keider Montero,UNDER 0.5,-110,0.5744,0.0506,5.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-22,SEA,CIN,Emerson Hancock,Brady Singer,UNDER 0.5,-110,0.5685,0.0447,4.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-22,BOS,BAL,Jake Bennett,Dean Kremer,OVER 0.5,-110,0.5603,0.0365,3.6%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-22,CLE,MIN,Slade Cecconi,Bailey Ober,UNDER 0.5,-110,0.5462,0.0224,2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-22,HOU,MIA,Peter Lambert,Sandy Alcantara,OVER 0.5,-110,0.5447,0.0209,2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-22,MIL,NYM,Logan Henderson,Christian Scott,OVER 0.5,-110,0.5276,0.0038,0.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-22,BOS,BAL,TBD,Kyle Bradish,OVER 0.5,-110,0.5272,0.0034,0.3%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-22,NYY,PIT,Gerrit Cole,Mitch Keller,OVER 0.5,-110,0.5125,-0.0113,-1.1%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-22,TEX,CWS,Tyler Alexander,Anthony Kay,UNDER 0.5,-110,0.5095,-0.0143,-1.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-22,LAA,STL,Reid Detmers,Hunter Dobbins,OVER 0.5,-110,0.508,-0.0158,-1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-22,KC,SF,Seth Lugo,Landen Roupp,UNDER 0.5,-110,0.5069,-0.0169,-1.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-22,NYY,PIT,Max Fried,Bubba Chandler,OVER 0.5,-110,0.5058,-0.018,-1.8%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-07-22,TOR,TB,Braydon Fisher,Griffin Jax,UNDER 0.5,-110,0.5042,-0.0196,-2.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-22,ARI,OAK,Merrill Kelly,Gage Jump,UNDER 0.5,-110,0.5036,-0.0202,-2.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-22,PHI,LAD,Aaron Nola,Eric Lauer,OVER 0.5,-110,0.5017,-0.0221,-2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-22,ATL,SD,Martín Pérez,Michael King,UNDER 0.5,-110,0.5006,-0.0232,-2.3%,NO PLAY,False,Elite SPs keep 1st clean,0.5

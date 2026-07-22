@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, July 21, 2026
+# MLB Picks - Wednesday, July 22, 2026
 
-*Last updated: 2026-07-21 06:18 PM ET*
+*Last updated: 2026-07-22 03:46 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,8 +10,8 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | STL @ LAA |
-| Starting Pitchers | Matthew Liberatore vs Walbert Ureña |
+| Matchup | PIT @ NYY |
+| Starting Pitchers | Bubba Chandler vs Max Fried |
 | Model Win Probability | 0 |
 | Edge Over Market | 9.1% |
 | Confidence | HIGH |
@@ -21,10 +21,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | OAK @ ARI |
-| Starting Pitchers | Jack Perkins vs Kohl Drake |
+| Matchup | CIN @ SEA |
+| Starting Pitchers | Brady Singer vs Emerson Hancock |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.0% |
+| Edge Over Market | 7.8% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| STL @ LAA | Matthew Liberatore vs Walbert Ureña | LAA | -110 | 61.5% | 9.1% | HIGH | Standard play |
-| OAK @ ARI | Jack Perkins vs Kohl Drake | ARI | -110 | 59.3% | 7.0% | HIGH | Standard play |
+| PIT @ NYY | Bubba Chandler vs Max Fried | NYY | -110 | 61.4% | 9.1% | HIGH | Standard play |
+| CIN @ SEA | Brady Singer vs Emerson Hancock | SEA | -110 | 60.2% | 7.8% | HIGH | Standard play |
 
 ---
 
