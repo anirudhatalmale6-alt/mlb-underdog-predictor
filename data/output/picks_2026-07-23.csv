@@ -1,0 +1,11 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-07-23,STL,ARI,Michael McGreevy,Brandon Pfaadt,STL,-110,0.5731,0.0493,4.9%,MEDIUM,True,Standard play,
+1ST INN ML,2026-07-23,DET,KC,Troy Melton,Randy Dobnak,KC,-110,0.5584,0.0345,3.5%,LOW,True,Elite pitching matchup,
+1ST INN ML,2026-07-23,TOR,TB,Shane Bieber,Casey Legumina,TB,-110,0.5138,-0.01,-1.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-23,ATL,SD,Chris Sale,Kyle Hart,ATL,-110,0.5111,-0.0128,-1.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-23,CLE,MIN,Gavin Williams,Taj Bradley,MIN,-110,0.5025,-0.0213,-2.1%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-07-23,DET,KC,Troy Melton,Randy Dobnak,OVER 0.5,-110,0.5861,0.0623,6.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-23,TOR,TB,Shane Bieber,Casey Legumina,UNDER 0.5,-110,0.546,0.0222,2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-23,ATL,SD,Chris Sale,Kyle Hart,OVER 0.5,-110,0.5236,-0.0002,-0.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-23,CLE,MIN,Gavin Williams,Taj Bradley,OVER 0.5,-110,0.5156,-0.0082,-0.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-23,STL,ARI,Michael McGreevy,Brandon Pfaadt,UNDER 0.5,-110,0.5139,-0.0099,-1.0%,NO PLAY,False,Standard play,0.5

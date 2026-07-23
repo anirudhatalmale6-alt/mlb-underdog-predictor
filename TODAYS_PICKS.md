@@ -1,6 +1,6 @@
-# MLB Picks - Wednesday, July 22, 2026
+# MLB Picks - Thursday, July 23, 2026
 
-*Last updated: 2026-07-22 06:11 PM ET*
+*Last updated: 2026-07-23 03:57 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | PIT @ NYY |
-| Starting Pitchers | Bubba Chandler vs Max Fried |
+| Matchup | ARI @ STL |
+| Starting Pitchers | Brandon Pfaadt vs Michael McGreevy |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.1% |
-| Confidence | HIGH |
+| Edge Over Market | 4.9% |
+| Confidence | MEDIUM |
 | Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | CIN @ SEA |
-| Starting Pitchers | Brady Singer vs Emerson Hancock |
+| Matchup | KC @ DET |
+| Starting Pitchers | Randy Dobnak vs Troy Melton |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.8% |
-| Confidence | HIGH |
-| Notes | Standard play |
+| Edge Over Market | 3.5% |
+| Confidence | LOW |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| PIT @ NYY | Bubba Chandler vs Max Fried | NYY | -110 | 61.4% | 9.1% | HIGH | Standard play |
-| CIN @ SEA | Brady Singer vs Emerson Hancock | SEA | -110 | 60.2% | 7.8% | HIGH | Standard play |
+| ARI @ STL | Brandon Pfaadt vs Michael McGreevy | STL | -110 | 57.3% | 4.9% | MEDIUM | Standard play |
+| KC @ DET | Randy Dobnak vs Troy Melton | KC | -110 | 55.8% | 3.5% | LOW | Elite pitching matchup |
 
 ---
 
