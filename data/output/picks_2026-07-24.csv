@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-07-24,MIN,OAK,Zebby Matthews,Jacob Lopez,MIN,-110,0.6393,0.1155,11.5%,HIGH,True,Strong value,
+1ST INN ML,2026-07-24,SF,LAA,Logan Webb,Grayson Rodriguez,SF,-110,0.6178,0.094,9.4%,HIGH,True,Standard play,
+1ST INN ML,2026-07-24,MIL,COL,Shane Drohan,Tomoyuki Sugano,MIL,-110,0.5998,0.076,7.6%,HIGH,False,Standard play,
+1ST INN ML,2026-07-24,TB,CLE,Shane McClanahan,Joey Cantillo,TB,-110,0.5747,0.0508,5.1%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-07-24,CWS,HOU,Davis Martin,Spencer Arrighetti,CWS,-110,0.5651,0.0413,4.1%,MEDIUM,False,Standard play,
+1ST INN ML,2026-07-24,TEX,SEA,MacKenzie Gore,Bryce Miller,SEA,-110,0.5574,0.0335,3.4%,LOW,False,Standard play,
+1ST INN ML,2026-07-24,BOS,TOR,Patrick Sandoval,Trey Yesavage,TOR,-110,0.5481,0.0243,2.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-24,PHI,NYY,Jesús Luzardo,Cam Schlittler,NYY,-110,0.5221,-0.0017,-0.2%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-24,BAL,ATL,TBD,Grant Holmes,BAL,-110,0.5217,-0.0021,-0.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-24,PIT,CHC,Jared Jones,Matthew Boyd,CHC,-110,0.5215,-0.0023,-0.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-24,STL,CIN,Dustin May,Rhett Lowder,STL,-110,0.5176,-0.0062,-0.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-24,MIA,SD,TBD,Germán Márquez,SD,-110,0.5087,-0.0151,-1.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-24,DET,KC,Tarik Skubal,Beck Way,KC,-110,0.5073,-0.0165,-1.7%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-24,NYM,LAD,Sean Manaea,Roki Sasaki,LAD,-110,0.5064,-0.0174,-1.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-24,WSH,ARI,Carson Palmquist,Eduardo Rodriguez,ARI,-110,0.5033,-0.0205,-2.1%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-07-24,WSH,ARI,Carson Palmquist,Eduardo Rodriguez,UNDER 0.5,-110,0.5399,0.0161,1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-24,DET,KC,Tarik Skubal,Beck Way,OVER 0.5,-110,0.5374,0.0136,1.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-24,TEX,SEA,MacKenzie Gore,Bryce Miller,UNDER 0.5,-110,0.5345,0.0107,1.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-24,PHI,NYY,Jesús Luzardo,Cam Schlittler,UNDER 0.5,-110,0.5315,0.0077,0.8%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-07-24,MIA,SD,TBD,Germán Márquez,UNDER 0.5,-110,0.5311,0.0073,0.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-24,BOS,TOR,Patrick Sandoval,Trey Yesavage,UNDER 0.5,-110,0.5284,0.0046,0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-24,NYM,LAD,Sean Manaea,Roki Sasaki,UNDER 0.5,-110,0.528,0.0042,0.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-24,TB,CLE,Shane McClanahan,Joey Cantillo,OVER 0.5,-110,0.5262,0.0024,0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-24,STL,CIN,Dustin May,Rhett Lowder,OVER 0.5,-110,0.523,-0.0008,-0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-24,CWS,HOU,Davis Martin,Spencer Arrighetti,UNDER 0.5,-110,0.5225,-0.0013,-0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-24,PIT,CHC,Jared Jones,Matthew Boyd,OVER 0.5,-110,0.5186,-0.0052,-0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-24,MIN,OAK,Zebby Matthews,Jacob Lopez,OVER 0.5,-110,0.5184,-0.0054,-0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-24,MIL,COL,Shane Drohan,Tomoyuki Sugano,UNDER 0.5,-110,0.5074,-0.0164,-1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-24,SF,LAA,Logan Webb,Grayson Rodriguez,OVER 0.5,-110,0.5059,-0.0179,-1.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-24,BAL,ATL,TBD,Grant Holmes,UNDER 0.5,-110,0.5033,-0.0206,-2.1%,NO PLAY,False,Standard play,0.5

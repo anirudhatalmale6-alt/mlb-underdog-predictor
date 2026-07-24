@@ -1,6 +1,6 @@
-# MLB Picks - Thursday, July 23, 2026
+# MLB Picks - Friday, July 24, 2026
 
-*Last updated: 2026-07-23 06:16 PM ET*
+*Last updated: 2026-07-24 03:35 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | ARI @ STL |
-| Starting Pitchers | Brandon Pfaadt vs Michael McGreevy |
+| Matchup | OAK @ MIN |
+| Starting Pitchers | Jacob Lopez vs Zebby Matthews |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.9% |
-| Confidence | MEDIUM |
-| Notes | Standard play |
+| Edge Over Market | 11.5% |
+| Confidence | HIGH |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | KC @ DET |
-| Starting Pitchers | Randy Dobnak vs Troy Melton |
+| Matchup | LAA @ SF |
+| Starting Pitchers | Grayson Rodriguez vs Logan Webb |
 | Model Win Probability | 0 |
-| Edge Over Market | 3.5% |
-| Confidence | LOW |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 9.4% |
+| Confidence | HIGH |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| ARI @ STL | Brandon Pfaadt vs Michael McGreevy | STL | -110 | 57.3% | 4.9% | MEDIUM | Standard play |
-| KC @ DET | Randy Dobnak vs Troy Melton | KC | -110 | 55.8% | 3.5% | LOW | Elite pitching matchup |
+| OAK @ MIN | Jacob Lopez vs Zebby Matthews | MIN | -110 | 63.9% | 11.5% | HIGH | Strong value |
+| LAA @ SF | Grayson Rodriguez vs Logan Webb | SF | -110 | 61.8% | 9.4% | HIGH | Standard play |
 
 ---
 
