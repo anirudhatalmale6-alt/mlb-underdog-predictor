@@ -1,6 +1,6 @@
-# MLB Picks - Friday, July 24, 2026
+# MLB Picks - Saturday, July 25, 2026
 
-*Last updated: 2026-07-24 06:22 PM ET*
+*Last updated: 2026-07-25 03:09 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,21 +10,21 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | OAK @ MIN |
-| Starting Pitchers | Jacob Lopez vs Zebby Matthews |
+| Matchup | LAD @ NYM |
+| Starting Pitchers | Yoshinobu Yamamoto vs Nolan McLean |
 | Model Win Probability | 0 |
-| Edge Over Market | 11.5% |
+| Edge Over Market | 7.2% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Elite pitching matchup |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAA @ SF |
-| Starting Pitchers | Grayson Rodriguez vs Logan Webb |
+| Matchup | ARI @ WSH |
+| Starting Pitchers | Mitch Bratt vs Foster Griffin |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.4% |
+| Edge Over Market | 6.9% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| OAK @ MIN | Jacob Lopez vs Zebby Matthews | MIN | -110 | 63.9% | 11.5% | HIGH | Strong value |
-| LAA @ SF | Grayson Rodriguez vs Logan Webb | SF | -110 | 61.8% | 9.4% | HIGH | Standard play |
+| LAD @ NYM | Yoshinobu Yamamoto vs Nolan McLean | LAD | -110 | 59.6% | 7.2% | HIGH | Elite pitching matchup |
+| ARI @ WSH | Mitch Bratt vs Foster Griffin | WSH | -110 | 59.3% | 6.9% | HIGH | Standard play |
 
 ---
 
