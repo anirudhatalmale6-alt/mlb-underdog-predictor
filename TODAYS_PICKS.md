@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, July 25, 2026
+# MLB Picks - Sunday, July 26, 2026
 
-*Last updated: 2026-07-25 06:00 PM ET*
+*Last updated: 2026-07-26 03:11 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAD @ NYM |
-| Starting Pitchers | Yoshinobu Yamamoto vs Nolan McLean |
+| Matchup | TOR @ BOS |
+| Starting Pitchers | Kevin Gausman vs Ranger Suarez |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.2% |
+| Edge Over Market | 7.7% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | ARI @ WSH |
-| Starting Pitchers | Mitch Bratt vs Foster Griffin |
+| Matchup | CLE @ TB |
+| Starting Pitchers | Parker Messick vs Drew Rasmussen |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.9% |
+| Edge Over Market | 7.1% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAD @ NYM | Yoshinobu Yamamoto vs Nolan McLean | LAD | -110 | 59.6% | 7.2% | HIGH | Elite pitching matchup |
-| ARI @ WSH | Mitch Bratt vs Foster Griffin | WSH | -110 | 59.3% | 6.9% | HIGH | Standard play |
+| TOR @ BOS | Kevin Gausman vs Ranger Suarez | BOS | -110 | 60.1% | 7.7% | HIGH | Standard play |
+| CLE @ TB | Parker Messick vs Drew Rasmussen | CLE | -110 | 59.5% | 7.1% | HIGH | Elite pitching matchup |
 
 ---
 
