@@ -1,6 +1,6 @@
-# MLB Picks - Sunday, July 26, 2026
+# MLB Picks - Monday, July 27, 2026
 
-*Last updated: 2026-07-26 06:04 PM ET*
+*Last updated: 2026-07-27 04:26 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | TOR @ BOS |
-| Starting Pitchers | Kevin Gausman vs Ranger Suarez |
+| Matchup | TOR @ WSH |
+| Starting Pitchers | Max Scherzer vs Andrew Alvarez |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.7% |
+| Edge Over Market | 10.1% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | CLE @ TB |
-| Starting Pitchers | Parker Messick vs Drew Rasmussen |
+| Matchup | HOU @ LAA |
+| Starting Pitchers | Tatsuya Imai vs Walbert Ureña |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.1% |
+| Edge Over Market | 7.5% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TOR @ BOS | Kevin Gausman vs Ranger Suarez | BOS | -110 | 60.1% | 7.7% | HIGH | Standard play |
-| CLE @ TB | Parker Messick vs Drew Rasmussen | CLE | -110 | 59.5% | 7.1% | HIGH | Elite pitching matchup |
+| TOR @ WSH | Max Scherzer vs Andrew Alvarez | WSH | -110 | 62.5% | 10.1% | HIGH | Strong value |
+| HOU @ LAA | Tatsuya Imai vs Walbert Ureña | LAA | -110 | 59.9% | 7.5% | HIGH | Standard play |
 
 ---
 
