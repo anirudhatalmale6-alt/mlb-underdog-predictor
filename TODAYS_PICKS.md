@@ -1,6 +1,6 @@
-# MLB Picks - Monday, July 27, 2026
+# MLB Picks - Tuesday, July 28, 2026
 
-*Last updated: 2026-07-27 06:26 PM ET*
+*Last updated: 2026-07-28 04:08 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,21 +10,21 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | TOR @ WSH |
-| Starting Pitchers | Max Scherzer vs Andrew Alvarez |
+| Matchup | MIL @ SF |
+| Starting Pitchers | Logan Henderson vs Landen Roupp |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.1% |
+| Edge Over Market | 8.9% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Elite pitching matchup |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | HOU @ LAA |
-| Starting Pitchers | Tatsuya Imai vs Walbert Ureña |
+| Matchup | KC @ MIN |
+| Starting Pitchers | Seth Lugo vs Taj Bradley |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.5% |
+| Edge Over Market | 8.6% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TOR @ WSH | Max Scherzer vs Andrew Alvarez | WSH | -110 | 62.5% | 10.1% | HIGH | Strong value |
-| HOU @ LAA | Tatsuya Imai vs Walbert Ureña | LAA | -110 | 59.9% | 7.5% | HIGH | Standard play |
+| MIL @ SF | Logan Henderson vs Landen Roupp | MIL | -110 | 61.2% | 8.9% | HIGH | Elite pitching matchup |
+| KC @ MIN | Seth Lugo vs Taj Bradley | MIN | -110 | 61.0% | 8.6% | HIGH | Standard play |
 
 ---
 
