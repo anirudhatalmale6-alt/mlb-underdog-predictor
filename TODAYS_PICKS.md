@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, July 28, 2026
+# MLB Picks - Wednesday, July 29, 2026
 
-*Last updated: 2026-07-28 06:18 PM ET*
+*Last updated: 2026-07-29 03:53 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIL @ SF |
-| Starting Pitchers | Logan Henderson vs Landen Roupp |
+| Matchup | SEA @ LAD |
+| Starting Pitchers | Emerson Hancock vs Eric Lauer |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.9% |
-| Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 3.8% |
+| Confidence | LOW |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | KC @ MIN |
-| Starting Pitchers | Seth Lugo vs Taj Bradley |
+| Matchup | ATL @ NYM |
+| Starting Pitchers | Chris Sale vs Christian Scott |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.6% |
-| Confidence | HIGH |
-| Notes | Standard play |
+| Edge Over Market | 3.0% |
+| Confidence | LOW |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIL @ SF | Logan Henderson vs Landen Roupp | MIL | -110 | 61.2% | 8.9% | HIGH | Elite pitching matchup |
-| KC @ MIN | Seth Lugo vs Taj Bradley | MIN | -110 | 61.0% | 8.6% | HIGH | Standard play |
+| SEA @ LAD | Emerson Hancock vs Eric Lauer | SEA | -110 | 56.2% | 3.8% | LOW | Standard play |
+| ATL @ NYM | Chris Sale vs Christian Scott | ATL | -110 | 55.4% | 3.0% | LOW | Elite pitching matchup |
 
 ---
 
