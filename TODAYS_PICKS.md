@@ -1,6 +1,6 @@
-# MLB Picks - Wednesday, July 29, 2026
+# MLB Picks - Thursday, July 30, 2026
 
-*Last updated: 2026-07-29 06:10 PM ET*
+*Last updated: 2026-07-30 03:54 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | SEA @ LAD |
-| Starting Pitchers | Emerson Hancock vs Eric Lauer |
+| Matchup | KC @ MIN |
+| Starting Pitchers | Noah Cameron vs Bailey Ober |
 | Model Win Probability | 0 |
-| Edge Over Market | 3.8% |
-| Confidence | LOW |
+| Edge Over Market | 4.6% |
+| Confidence | MEDIUM |
 | Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | ATL @ NYM |
-| Starting Pitchers | Chris Sale vs Christian Scott |
+| Matchup | TEX @ TB |
+| Starting Pitchers | Cole Winn vs Shane McClanahan |
 | Model Win Probability | 0 |
-| Edge Over Market | 3.0% |
-| Confidence | LOW |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 4.2% |
+| Confidence | MEDIUM |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SEA @ LAD | Emerson Hancock vs Eric Lauer | SEA | -110 | 56.2% | 3.8% | LOW | Standard play |
-| ATL @ NYM | Chris Sale vs Christian Scott | ATL | -110 | 55.4% | 3.0% | LOW | Elite pitching matchup |
+| KC @ MIN | Noah Cameron vs Bailey Ober | MIN | -110 | 57.0% | 4.6% | MEDIUM | Standard play |
+| TEX @ TB | Cole Winn vs Shane McClanahan | TB | -110 | 56.6% | 4.2% | MEDIUM | Standard play |
 
 ---
 

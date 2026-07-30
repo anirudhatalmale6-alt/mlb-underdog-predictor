@@ -1,0 +1,21 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-07-30,MIN,KC,Bailey Ober,Noah Cameron,MIN,-110,0.5703,0.0465,4.6%,MEDIUM,True,Standard play,
+1ST INN ML,2026-07-30,TB,TEX,Shane McClanahan,Cole Winn,TB,-110,0.5656,0.0417,4.2%,MEDIUM,True,Standard play,
+1ST INN ML,2026-07-30,SD,SF,JP Sears,TBD,SD,-110,0.5632,0.0394,3.9%,LOW,False,Standard play,
+1ST INN ML,2026-07-30,OAK,BOS,Mason Barnett,Sonny Gray,BOS,-110,0.562,0.0382,3.8%,LOW,False,Standard play,
+1ST INN ML,2026-07-30,ATL,WSH,Grant Holmes,Jake Irvin,ATL,-110,0.5527,0.0289,2.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-30,CWS,NYY,Sean Burke,Ryan Weathers,CWS,-110,0.5481,0.0242,2.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-30,NYM,MIA,Nolan McLean,Eury Pérez,MIA,-110,0.5448,0.021,2.1%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-07-30,STL,CHC,Andre Pallante,Javier Assad,CHC,-110,0.519,-0.0048,-0.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-30,CIN,PIT,Rhett Lowder,Yohan Ramírez,PIT,-110,0.5185,-0.0053,-0.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-07-30,LAD,SEA,Roki Sasaki,Bryan Woo,SEA,-110,0.5055,-0.0183,-1.8%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-07-30,OAK,BOS,Mason Barnett,Sonny Gray,UNDER 0.5,-110,0.602,0.0782,7.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-30,TB,TEX,Shane McClanahan,Cole Winn,UNDER 0.5,-110,0.5683,0.0445,4.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-30,NYM,MIA,Nolan McLean,Eury Pérez,OVER 0.5,-110,0.5389,0.0151,1.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-30,ATL,WSH,Grant Holmes,Jake Irvin,OVER 0.5,-110,0.5301,0.0063,0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-30,LAD,SEA,Roki Sasaki,Bryan Woo,UNDER 0.5,-110,0.5266,0.0028,0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-30,SD,SF,JP Sears,TBD,UNDER 0.5,-110,0.5254,0.0016,0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-30,CIN,PIT,Rhett Lowder,Yohan Ramírez,UNDER 0.5,-110,0.5092,-0.0146,-1.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-30,CWS,NYY,Sean Burke,Ryan Weathers,OVER 0.5,-110,0.5075,-0.0163,-1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-30,MIN,KC,Bailey Ober,Noah Cameron,OVER 0.5,-110,0.5065,-0.0173,-1.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-07-30,STL,CHC,Andre Pallante,Javier Assad,UNDER 0.5,-110,0.5051,-0.0187,-1.9%,NO PLAY,False,Standard play,0.5
