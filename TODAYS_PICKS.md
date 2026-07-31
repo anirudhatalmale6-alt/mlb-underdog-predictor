@@ -1,6 +1,6 @@
-# MLB Picks - Thursday, July 30, 2026
+# MLB Picks - Friday, July 31, 2026
 
-*Last updated: 2026-07-30 06:19 PM ET*
+*Last updated: 2026-07-31 04:04 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,22 +10,22 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | KC @ MIN |
-| Starting Pitchers | Noah Cameron vs Bailey Ober |
+| Matchup | PHI @ BAL |
+| Starting Pitchers | TBD vs Brandon Young |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.6% |
-| Confidence | MEDIUM |
+| Edge Over Market | 9.0% |
+| Confidence | HIGH |
 | Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | TEX @ TB |
-| Starting Pitchers | Cole Winn vs Shane McClanahan |
+| Matchup | NYY @ CHC |
+| Starting Pitchers | Will Warren vs Shota Imanaga |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.2% |
-| Confidence | MEDIUM |
+| Edge Over Market | 7.6% |
+| Confidence | HIGH |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| KC @ MIN | Noah Cameron vs Bailey Ober | MIN | -110 | 57.0% | 4.6% | MEDIUM | Standard play |
-| TEX @ TB | Cole Winn vs Shane McClanahan | TB | -110 | 56.6% | 4.2% | MEDIUM | Standard play |
+| PHI @ BAL | TBD vs Brandon Young | BAL | -110 | 61.4% | 9.0% | HIGH | Standard play |
+| NYY @ CHC | Will Warren vs Shota Imanaga | CHC | -110 | 60.0% | 7.6% | HIGH | Standard play |
 
 ---
 
