@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-08-01,LAD,BOS,Yoshinobu Yamamoto,Payton Tolle,BOS,-110,0.5859,0.0621,6.2%,HIGH,True,Elite pitching matchup,
+1ST INN ML,2026-08-01,SEA,MIN,Logan Gilbert,Connor Prielipp,SEA,-110,0.5711,0.0473,4.7%,MEDIUM,True,Standard play,
+1ST INN ML,2026-08-01,BAL,PHI,Shane Baz,Cristopher Sánchez,PHI,-110,0.5626,0.0388,3.9%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-08-01,CLE,ARI,Parker Messick,Kohl Drake,CLE,-110,0.5607,0.0369,3.7%,LOW,False,Standard play,
+1ST INN ML,2026-08-01,SD,SF,Walker Buehler,Tyler Mahle,SD,-110,0.5548,0.031,3.1%,LOW,False,Standard play,
+1ST INN ML,2026-08-01,CHC,NYY,David Peterson,Max Fried,NYY,-110,0.554,0.0302,3.0%,LOW,False,Standard play,
+1ST INN ML,2026-08-01,TOR,STL,Kevin Gausman,Quinn Mathews,TOR,-110,0.5462,0.0223,2.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-01,ATL,WSH,Reynaldo López,Miles Mikolas,ATL,-110,0.5383,0.0145,1.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-01,LAA,MIL,José Soriano,Robert Gasser,LAA,-110,0.5321,0.0083,0.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-01,OAK,DET,Jack Perkins,Framber Valdez,OAK,-110,0.5213,-0.0025,-0.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-01,NYM,MIA,Zac Thornton,Tyler Phillips,MIA,-110,0.5153,-0.0086,-0.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-01,TB,CWS,Drew Rasmussen,Jordan Hicks,TB,-110,0.5147,-0.0091,-0.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-01,CIN,PIT,Andrew Abbott,Braxton Ashcraft,CIN,-110,0.5139,-0.0099,-1.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-01,HOU,TEX,Ronel Blanco,Jacob deGrom,TEX,-110,0.5094,-0.0145,-1.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-01,COL,KC,Ryan Feltner,Luinder Avila,COL,-110,0.5011,-0.0227,-2.3%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-08-01,NYM,MIA,Zac Thornton,Tyler Phillips,OVER 0.5,-110,0.5925,0.0687,6.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-01,BAL,PHI,Shane Baz,Cristopher Sánchez,UNDER 0.5,-110,0.5881,0.0643,6.4%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-08-01,CHC,NYY,David Peterson,Max Fried,UNDER 0.5,-110,0.5633,0.0395,4.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-01,COL,KC,Ryan Feltner,Luinder Avila,OVER 0.5,-110,0.5498,0.026,2.6%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-01,TB,CWS,Drew Rasmussen,Jordan Hicks,OVER 0.5,-110,0.5455,0.0217,2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-01,LAD,BOS,Yoshinobu Yamamoto,Payton Tolle,OVER 0.5,-110,0.5432,0.0194,1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-01,SD,SF,Walker Buehler,Tyler Mahle,UNDER 0.5,-110,0.5237,-0.0001,-0.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-01,OAK,DET,Jack Perkins,Framber Valdez,OVER 0.5,-110,0.5194,-0.0044,-0.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-01,ATL,WSH,Reynaldo López,Miles Mikolas,OVER 0.5,-110,0.5182,-0.0056,-0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-01,CIN,PIT,Andrew Abbott,Braxton Ashcraft,UNDER 0.5,-110,0.5156,-0.0082,-0.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-01,TOR,STL,Kevin Gausman,Quinn Mathews,UNDER 0.5,-110,0.5118,-0.012,-1.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-01,HOU,TEX,Ronel Blanco,Jacob deGrom,UNDER 0.5,-110,0.5104,-0.0134,-1.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-01,SEA,MIN,Logan Gilbert,Connor Prielipp,OVER 0.5,-110,0.5048,-0.019,-1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-01,LAA,MIL,José Soriano,Robert Gasser,OVER 0.5,-110,0.5047,-0.0191,-1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-01,CLE,ARI,Parker Messick,Kohl Drake,OVER 0.5,-110,0.5013,-0.0225,-2.3%,NO PLAY,False,Standard play,0.5

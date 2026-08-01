@@ -1,6 +1,6 @@
-# MLB Picks - Friday, July 31, 2026
+# MLB Picks - Saturday, August 01, 2026
 
-*Last updated: 2026-07-31 06:23 PM ET*
+*Last updated: 2026-08-01 03:06 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,22 +10,22 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | PHI @ BAL |
-| Starting Pitchers | TBD vs Brandon Young |
+| Matchup | BOS @ LAD |
+| Starting Pitchers | Payton Tolle vs Yoshinobu Yamamoto |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.0% |
+| Edge Over Market | 6.2% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | NYY @ CHC |
-| Starting Pitchers | Will Warren vs Shota Imanaga |
+| Matchup | MIN @ SEA |
+| Starting Pitchers | Connor Prielipp vs Logan Gilbert |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.6% |
-| Confidence | HIGH |
+| Edge Over Market | 4.7% |
+| Confidence | MEDIUM |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| PHI @ BAL | TBD vs Brandon Young | BAL | -110 | 61.4% | 9.0% | HIGH | Standard play |
-| NYY @ CHC | Will Warren vs Shota Imanaga | CHC | -110 | 60.0% | 7.6% | HIGH | Standard play |
+| BOS @ LAD | Payton Tolle vs Yoshinobu Yamamoto | BOS | -110 | 58.6% | 6.2% | HIGH | Elite pitching matchup |
+| MIN @ SEA | Connor Prielipp vs Logan Gilbert | SEA | -110 | 57.1% | 4.7% | MEDIUM | Standard play |
 
 ---
 
