@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-08-02,SD,SF,Michael King,Landen Roupp,SD,-110,0.598,0.0742,7.4%,HIGH,True,Standard play,
+1ST INN ML,2026-08-02,LAA,MIL,Walbert Ureña,Jacob Misiorowski,MIL,-110,0.585,0.0612,6.1%,HIGH,True,Elite pitching matchup,
+1ST INN ML,2026-08-02,OAK,DET,Gage Jump,Keider Montero,DET,-110,0.5592,0.0354,3.5%,LOW,False,Standard play,
+1ST INN ML,2026-08-02,CIN,PIT,Chase Burns,Mitch Keller,CIN,-110,0.5548,0.031,3.1%,LOW,False,Standard play,
+1ST INN ML,2026-08-02,TB,CWS,Griffin Jax,Anthony Kay,TB,-110,0.5541,0.0303,3.0%,LOW,False,Standard play,
+1ST INN ML,2026-08-02,LAD,BOS,Emmet Sheehan,Jake Bennett,BOS,-110,0.5532,0.0294,2.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-02,CLE,ARI,Gavin Williams,Merrill Kelly,CLE,-110,0.5513,0.0275,2.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-02,CHC,NYY,Colin Rea,Gerrit Cole,NYY,-110,0.5432,0.0194,1.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-02,BAL,PHI,Kyle Bradish,Zack Wheeler,PHI,-110,0.5419,0.0181,1.8%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-02,HOU,TEX,Peter Lambert,Kumar Rocker,HOU,-110,0.5364,0.0126,1.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-02,SEA,MIN,George Kirby,Taj Bradley,SEA,-110,0.5345,0.0107,1.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-02,COL,KC,Kyle Freeland,Seth Lugo,KC,-110,0.5307,0.0069,0.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-02,TOR,STL,Max Scherzer,Matthew Liberatore,TOR,-110,0.5249,0.0011,0.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-02,ATL,WSH,JR Ritchie,Cade Cavalli,ATL,-110,0.5099,-0.0139,-1.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-02,NYM,MIA,Robert Stock,Sandy Alcantara,NYM,-110,0.5045,-0.0193,-1.9%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-08-02,NYM,MIA,Robert Stock,Sandy Alcantara,UNDER 0.5,-110,0.5941,0.0703,7.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-02,BAL,PHI,Kyle Bradish,Zack Wheeler,UNDER 0.5,-110,0.5831,0.0593,5.9%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-08-02,LAA,MIL,Walbert Ureña,Jacob Misiorowski,OVER 0.5,-110,0.5615,0.0377,3.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-02,SEA,MIN,George Kirby,Taj Bradley,UNDER 0.5,-110,0.5527,0.0289,2.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-02,HOU,TEX,Peter Lambert,Kumar Rocker,OVER 0.5,-110,0.5377,0.0139,1.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-02,CHC,NYY,Colin Rea,Gerrit Cole,UNDER 0.5,-110,0.5338,0.01,1.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-02,OAK,DET,Gage Jump,Keider Montero,UNDER 0.5,-110,0.5285,0.0047,0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-02,TOR,STL,Max Scherzer,Matthew Liberatore,UNDER 0.5,-110,0.5267,0.0029,0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-02,CIN,PIT,Chase Burns,Mitch Keller,OVER 0.5,-110,0.5158,-0.008,-0.8%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-02,COL,KC,Kyle Freeland,Seth Lugo,OVER 0.5,-110,0.5156,-0.0082,-0.8%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-02,ATL,WSH,JR Ritchie,Cade Cavalli,UNDER 0.5,-110,0.5136,-0.0102,-1.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-02,SD,SF,Michael King,Landen Roupp,OVER 0.5,-110,0.5104,-0.0134,-1.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-02,LAD,BOS,Emmet Sheehan,Jake Bennett,UNDER 0.5,-110,0.5099,-0.0139,-1.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-02,TB,CWS,Griffin Jax,Anthony Kay,UNDER 0.5,-110,0.5026,-0.0212,-2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-02,CLE,ARI,Gavin Williams,Merrill Kelly,OVER 0.5,-110,0.5024,-0.0214,-2.1%,NO PLAY,False,Standard play,0.5

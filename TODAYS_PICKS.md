@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, August 01, 2026
+# MLB Picks - Sunday, August 02, 2026
 
-*Last updated: 2026-08-01 06:03 PM ET*
+*Last updated: 2026-08-02 03:07 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | BOS @ LAD |
-| Starting Pitchers | Payton Tolle vs Yoshinobu Yamamoto |
+| Matchup | SF @ SD |
+| Starting Pitchers | Landen Roupp vs Michael King |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.2% |
+| Edge Over Market | 7.4% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIN @ SEA |
-| Starting Pitchers | Connor Prielipp vs Logan Gilbert |
+| Matchup | MIL @ LAA |
+| Starting Pitchers | Jacob Misiorowski vs Walbert Ureña |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.7% |
-| Confidence | MEDIUM |
-| Notes | Standard play |
+| Edge Over Market | 6.1% |
+| Confidence | HIGH |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| BOS @ LAD | Payton Tolle vs Yoshinobu Yamamoto | BOS | -110 | 58.6% | 6.2% | HIGH | Elite pitching matchup |
-| MIN @ SEA | Connor Prielipp vs Logan Gilbert | SEA | -110 | 57.1% | 4.7% | MEDIUM | Standard play |
+| SF @ SD | Landen Roupp vs Michael King | SD | -110 | 59.8% | 7.4% | HIGH | Standard play |
+| MIL @ LAA | Jacob Misiorowski vs Walbert Ureña | MIL | -110 | 58.5% | 6.1% | HIGH | Elite pitching matchup |
 
 ---
 
