@@ -1,43 +1,31 @@
-# MLB Picks - Sunday, August 02, 2026
+# MLB Picks - Monday, August 03, 2026
 
-*Last updated: 2026-08-02 06:02 PM ET*
+*Last updated: 2026-08-03 04:31 PM ET*
 
 ## Moneyline Underdogs
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (1)
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | SF @ SD |
-| Starting Pitchers | Landen Roupp vs Michael King |
+| Matchup | LAD @ CHC |
+| Starting Pitchers | TBD vs Matthew Boyd |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.4% |
+| Edge Over Market | 11.3% |
 | Confidence | HIGH |
-| Notes | Standard play |
-
-#### ??? (0)
-
-| Stat | Value |
-|------|-------|
-| Matchup | MIL @ LAA |
-| Starting Pitchers | Jacob Misiorowski vs Walbert Ureña |
-| Model Win Probability | 0 |
-| Edge Over Market | 6.1% |
-| Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Strong value |
 
 ---
 
 ## 1st Inning Moneyline
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (1)
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SF @ SD | Landen Roupp vs Michael King | SD | -110 | 59.8% | 7.4% | HIGH | Standard play |
-| MIL @ LAA | Jacob Misiorowski vs Walbert Ureña | MIL | -110 | 58.5% | 6.1% | HIGH | Elite pitching matchup |
+| LAD @ CHC | TBD vs Matthew Boyd | CHC | -110 | 63.7% | 11.3% | HIGH | Strong value |
 
 ---
 
