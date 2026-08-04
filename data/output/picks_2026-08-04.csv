@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-08-04,BAL,LAA,TBD,Grayson Rodriguez,BAL,-110,0.6384,0.1146,11.5%,HIGH,True,Strong value,
+1ST INN ML,2026-08-04,COL,TB,Gabriel Hughes,Freddy Peralta,COL,-110,0.6072,0.0834,8.3%,HIGH,True,Standard play,
+1ST INN ML,2026-08-04,SEA,DET,Emerson Hancock,TBD,SEA,-110,0.5776,0.0538,5.4%,MEDIUM,False,Standard play,
+1ST INN ML,2026-08-04,ATL,MIA,Grant Holmes,Ryan Gusto,ATL,-110,0.5759,0.0521,5.2%,MEDIUM,False,Standard play,
+1ST INN ML,2026-08-04,PHI,WSH,Jesús Luzardo,Zack Littell,PHI,-110,0.5733,0.0495,4.9%,MEDIUM,False,Standard play,
+1ST INN ML,2026-08-04,TEX,SF,MacKenzie Gore,Blade Tidwell,SF,-110,0.5578,0.034,3.4%,LOW,False,Standard play,
+1ST INN ML,2026-08-04,ARI,SD,Eduardo Rodriguez,Randy Vásquez,ARI,-110,0.5566,0.0328,3.3%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-08-04,KC,MIN,Randy Dobnak,Joe Ryan,MIN,-110,0.5466,0.0228,2.3%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-04,CHC,LAD,Javier Assad,Tarik Skubal,LAD,-110,0.5419,0.0181,1.8%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-04,CLE,NYM,Joey Cantillo,Sean Manaea,CLE,-110,0.5416,0.0178,1.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-04,CIN,OAK,Brady Singer,J.T. Ginn,OAK,-110,0.5396,0.0158,1.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-04,HOU,TOR,Hayden Wesneski,Trey Yesavage,TOR,-110,0.5353,0.0114,1.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-04,NYY,STL,Ryan Weathers,Hunter Dobbins,NYY,-110,0.5223,-0.0015,-0.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-04,MIL,PIT,Logan Henderson,Jared Jones,PIT,-110,0.5199,-0.0039,-0.4%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-04,BOS,CWS,Patrick Sandoval,Davis Martin,BOS,-110,0.5034,-0.0204,-2.0%,NO PLAY,False,Elite pitching matchup,
+1ST INN TOTAL,2026-08-04,COL,TB,Gabriel Hughes,Freddy Peralta,OVER 0.5,-110,0.5856,0.0618,6.2%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-04,KC,MIN,Randy Dobnak,Joe Ryan,OVER 0.5,-110,0.5855,0.0617,6.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-04,CHC,LAD,Javier Assad,Tarik Skubal,UNDER 0.5,-110,0.5714,0.0476,4.8%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-08-04,HOU,TOR,Hayden Wesneski,Trey Yesavage,UNDER 0.5,-110,0.5513,0.0275,2.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-04,TEX,SF,MacKenzie Gore,Blade Tidwell,UNDER 0.5,-110,0.5482,0.0244,2.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-04,MIL,PIT,Logan Henderson,Jared Jones,OVER 0.5,-110,0.5392,0.0154,1.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-04,SEA,DET,Emerson Hancock,TBD,UNDER 0.5,-110,0.5348,0.011,1.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-04,BOS,CWS,Patrick Sandoval,Davis Martin,OVER 0.5,-110,0.5305,0.0067,0.7%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-04,PHI,WSH,Jesús Luzardo,Zack Littell,OVER 0.5,-110,0.507,-0.0168,-1.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-04,CLE,NYM,Joey Cantillo,Sean Manaea,UNDER 0.5,-110,0.505,-0.0188,-1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-04,BAL,LAA,TBD,Grayson Rodriguez,UNDER 0.5,-110,0.5039,-0.0199,-2.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-04,NYY,STL,Ryan Weathers,Hunter Dobbins,OVER 0.5,-110,0.5039,-0.0199,-2.0%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-04,ARI,SD,Eduardo Rodriguez,Randy Vásquez,OVER 0.5,-110,0.5031,-0.0208,-2.1%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-04,CIN,OAK,Brady Singer,J.T. Ginn,UNDER 0.5,-110,0.5008,-0.023,-2.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-04,ATL,MIA,Grant Holmes,Ryan Gusto,OVER 0.5,-110,0.5007,-0.0231,-2.3%,NO PLAY,False,Standard play,0.5

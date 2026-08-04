@@ -1,31 +1,43 @@
-# MLB Picks - Monday, August 03, 2026
+# MLB Picks - Tuesday, August 04, 2026
 
-*Last updated: 2026-08-03 06:53 PM ET*
+*Last updated: 2026-08-04 04:16 PM ET*
 
 ## Moneyline Underdogs
 
-### RECOMMENDED PLAYS (1)
+### RECOMMENDED PLAYS (2)
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAD @ CHC |
-| Starting Pitchers | TBD vs Matthew Boyd |
+| Matchup | LAA @ BAL |
+| Starting Pitchers | Grayson Rodriguez vs TBD |
 | Model Win Probability | 0 |
-| Edge Over Market | 11.3% |
+| Edge Over Market | 11.5% |
 | Confidence | HIGH |
 | Notes | Strong value |
+
+#### ??? (0)
+
+| Stat | Value |
+|------|-------|
+| Matchup | TB @ COL |
+| Starting Pitchers | Freddy Peralta vs Gabriel Hughes |
+| Model Win Probability | 0 |
+| Edge Over Market | 8.3% |
+| Confidence | HIGH |
+| Notes | Standard play |
 
 ---
 
 ## 1st Inning Moneyline
 
-### RECOMMENDED PLAYS (1)
+### RECOMMENDED PLAYS (2)
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAD @ CHC | TBD vs Matthew Boyd | CHC | -110 | 63.7% | 11.3% | HIGH | Strong value |
+| LAA @ BAL | Grayson Rodriguez vs TBD | BAL | -110 | 63.8% | 11.5% | HIGH | Strong value |
+| TB @ COL | Freddy Peralta vs Gabriel Hughes | COL | -110 | 60.7% | 8.3% | HIGH | Standard play |
 
 ---
 
