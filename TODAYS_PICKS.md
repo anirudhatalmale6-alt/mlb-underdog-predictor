@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, August 04, 2026
+# MLB Picks - Wednesday, August 05, 2026
 
-*Last updated: 2026-08-04 06:41 PM ET*
+*Last updated: 2026-08-05 04:04 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAA @ BAL |
-| Starting Pitchers | Grayson Rodriguez vs TBD |
+| Matchup | TOR @ HOU |
+| Starting Pitchers | Jameson Taillon vs Hunter Brown |
 | Model Win Probability | 0 |
-| Edge Over Market | 11.5% |
+| Edge Over Market | 8.8% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | TB @ COL |
-| Starting Pitchers | Freddy Peralta vs Gabriel Hughes |
+| Matchup | NYM @ CLE |
+| Starting Pitchers | Christian Scott vs Tanner Bibee |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.3% |
-| Confidence | HIGH |
-| Notes | Standard play |
+| Edge Over Market | 5.0% |
+| Confidence | MEDIUM |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAA @ BAL | Grayson Rodriguez vs TBD | BAL | -110 | 63.8% | 11.5% | HIGH | Strong value |
-| TB @ COL | Freddy Peralta vs Gabriel Hughes | COL | -110 | 60.7% | 8.3% | HIGH | Standard play |
+| TOR @ HOU | Jameson Taillon vs Hunter Brown | HOU | -110 | 61.2% | 8.8% | HIGH | Standard play |
+| NYM @ CLE | Christian Scott vs Tanner Bibee | NYM | -110 | 57.4% | 5.0% | MEDIUM | Elite pitching matchup |
 
 ---
 

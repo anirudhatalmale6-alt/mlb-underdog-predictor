@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-08-05,HOU,TOR,Hunter Brown,Jameson Taillon,HOU,-110,0.6117,0.0879,8.8%,HIGH,True,Standard play,
+1ST INN ML,2026-08-05,CLE,NYM,Tanner Bibee,Christian Scott,NYM,-110,0.5737,0.0499,5.0%,MEDIUM,True,Elite pitching matchup,
+1ST INN ML,2026-08-05,COL,TB,Tomoyuki Sugano,Nick Martinez,TB,-110,0.5619,0.0381,3.8%,LOW,False,Standard play,
+1ST INN ML,2026-08-05,BOS,CWS,Sonny Gray,Sean Burke,CWS,-110,0.5572,0.0334,3.3%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-08-05,CHC,LAD,Shota Imanaga,Eric Lauer,CHC,-110,0.5536,0.0298,3.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-05,TEX,SF,Cody Bradford,Carson Whisenhunt,TEX,-110,0.546,0.0222,2.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-05,CIN,OAK,Rhett Lowder,Jacob Lopez,OAK,-110,0.5451,0.0213,2.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-05,PHI,WSH,Andrew Painter,Jake Irvin,PHI,-110,0.5438,0.02,2.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-05,KC,MIN,Noah Cameron,Dean Kremer,KC,-110,0.5287,0.0049,0.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-05,ARI,SD,Mitch Bratt,Casey Mize,SD,-110,0.5239,0.0001,0.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-05,SEA,DET,Bryan Woo,Drew Anderson,SEA,-110,0.5219,-0.0019,-0.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-05,NYY,STL,Will Warren,Andre Pallante,STL,-110,0.5184,-0.0054,-0.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-05,MIL,PIT,Kyle Harrison,Paul Skenes,PIT,-110,0.5167,-0.0071,-0.7%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-05,BAL,LAA,Trevor Rogers,Reid Detmers,LAA,-110,0.5122,-0.0116,-1.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-05,ATL,MIA,Bryce Elder,Eury Pérez,MIA,-110,0.503,-0.0208,-2.1%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-08-05,BOS,CWS,Sonny Gray,Sean Burke,OVER 0.5,-110,0.563,0.0392,3.9%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-05,ARI,SD,Mitch Bratt,Casey Mize,UNDER 0.5,-110,0.561,0.0371,3.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-05,CIN,OAK,Rhett Lowder,Jacob Lopez,OVER 0.5,-110,0.5529,0.029,2.9%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-05,MIL,PIT,Kyle Harrison,Paul Skenes,OVER 0.5,-110,0.5308,0.007,0.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-05,PHI,WSH,Andrew Painter,Jake Irvin,UNDER 0.5,-110,0.5289,0.0051,0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-05,NYY,STL,Will Warren,Andre Pallante,UNDER 0.5,-110,0.5235,-0.0003,-0.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-05,HOU,TOR,Hunter Brown,Jameson Taillon,UNDER 0.5,-110,0.523,-0.0008,-0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-05,TEX,SF,Cody Bradford,Carson Whisenhunt,OVER 0.5,-110,0.5216,-0.0022,-0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-05,KC,MIN,Noah Cameron,Dean Kremer,OVER 0.5,-110,0.516,-0.0078,-0.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-05,BAL,LAA,Trevor Rogers,Reid Detmers,UNDER 0.5,-110,0.5136,-0.0102,-1.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-05,CHC,LAD,Shota Imanaga,Eric Lauer,UNDER 0.5,-110,0.5109,-0.0129,-1.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-05,COL,TB,Tomoyuki Sugano,Nick Martinez,OVER 0.5,-110,0.5109,-0.0129,-1.3%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-05,SEA,DET,Bryan Woo,Drew Anderson,UNDER 0.5,-110,0.5035,-0.0203,-2.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-05,CLE,NYM,Tanner Bibee,Christian Scott,OVER 0.5,-110,0.5034,-0.0204,-2.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-05,ATL,MIA,Bryce Elder,Eury Pérez,OVER 0.5,-110,0.5021,-0.0217,-2.2%,NO PLAY,False,Standard play,0.5
