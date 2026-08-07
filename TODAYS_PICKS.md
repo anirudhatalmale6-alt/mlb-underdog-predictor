@@ -1,6 +1,6 @@
-# MLB Picks - Wednesday, August 05, 2026
+# MLB Picks - Friday, August 07, 2026
 
-*Last updated: 2026-08-05 06:24 PM ET*
+*Last updated: 2026-08-07 02:59 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | TOR @ HOU |
-| Starting Pitchers | Jameson Taillon vs Hunter Brown |
+| Matchup | ATL @ NYY |
+| Starting Pitchers | Tyler Mahle vs Max Fried |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.8% |
+| Edge Over Market | 10.0% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | NYM @ CLE |
-| Starting Pitchers | Christian Scott vs Tanner Bibee |
+| Matchup | OAK @ BOS |
+| Starting Pitchers | Jack Perkins vs Payton Tolle |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.0% |
-| Confidence | MEDIUM |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 9.6% |
+| Confidence | HIGH |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TOR @ HOU | Jameson Taillon vs Hunter Brown | HOU | -110 | 61.2% | 8.8% | HIGH | Standard play |
-| NYM @ CLE | Christian Scott vs Tanner Bibee | NYM | -110 | 57.4% | 5.0% | MEDIUM | Elite pitching matchup |
+| ATL @ NYY | Tyler Mahle vs Max Fried | NYY | -110 | 62.4% | 10.0% | HIGH | Strong value |
+| OAK @ BOS | Jack Perkins vs Payton Tolle | BOS | -110 | 62.0% | 9.6% | HIGH | Standard play |
 
 ---
 

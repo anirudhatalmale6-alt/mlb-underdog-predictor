@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-08-07,NYY,ATL,Max Fried,Tyler Mahle,NYY,-110,0.6241,0.1003,10.0%,HIGH,True,Strong value,
+1ST INN ML,2026-08-07,BOS,OAK,Payton Tolle,Jack Perkins,BOS,-110,0.62,0.0962,9.6%,HIGH,True,Standard play,
+1ST INN ML,2026-08-07,MIA,LAA,Tyler Phillips,George Klassen,MIA,-110,0.5853,0.0615,6.1%,HIGH,False,Standard play,
+1ST INN ML,2026-08-07,PIT,NYM,Carmen Mlodzinski,Zac Thornton,NYM,-110,0.5613,0.0375,3.8%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-08-07,SD,HOU,Robbie Ray,Ronel Blanco,SD,-110,0.5613,0.0375,3.7%,LOW,False,Standard play,
+1ST INN ML,2026-08-07,SF,DET,TBD,Keider Montero,DET,-110,0.5585,0.0347,3.5%,LOW,False,Standard play,
+1ST INN ML,2026-08-07,PHI,TOR,Zack Wheeler,José Soriano,TOR,-110,0.555,0.0312,3.1%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-08-07,CWS,CLE,Noah Schultz,Parker Messick,CLE,-110,0.5549,0.0311,3.1%,LOW,False,Standard play,
+1ST INN ML,2026-08-07,STL,COL,Kyle Leahy,Ryan Feltner,STL,-110,0.5543,0.0305,3.1%,LOW,False,Standard play,
+1ST INN ML,2026-08-07,SEA,TB,Logan Gilbert,Drew Rasmussen,TB,-110,0.5411,0.0173,1.7%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-07,WSH,CIN,Cade Cavalli,Chase Petty,WSH,-110,0.5382,0.0144,1.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-07,MIL,MIN,Shane Drohan,Zebby Matthews,MIL,-110,0.5375,0.0137,1.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-07,TEX,BAL,Nathan Eovaldi,Shane Baz,TEX,-110,0.5334,0.0096,1.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-07,KC,CHC,Daniel Lynch IV,TBD,KC,-110,0.5259,0.002,0.2%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-07,ARI,LAD,Merrill Kelly,Roki Sasaki,ARI,-110,0.5007,-0.0231,-2.3%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-08-07,SF,DET,TBD,Keider Montero,UNDER 0.5,-110,0.59,0.0662,6.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-07,CWS,CLE,Noah Schultz,Parker Messick,UNDER 0.5,-110,0.5607,0.0369,3.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-07,PIT,NYM,Carmen Mlodzinski,Zac Thornton,OVER 0.5,-110,0.5417,0.0179,1.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-07,BOS,OAK,Payton Tolle,Jack Perkins,OVER 0.5,-110,0.5384,0.0146,1.5%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-07,MIA,LAA,Tyler Phillips,George Klassen,UNDER 0.5,-110,0.5365,0.0127,1.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-07,MIL,MIN,Shane Drohan,Zebby Matthews,OVER 0.5,-110,0.5342,0.0104,1.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-07,KC,CHC,Daniel Lynch IV,TBD,OVER 0.5,-110,0.5324,0.0086,0.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-07,TEX,BAL,Nathan Eovaldi,Shane Baz,OVER 0.5,-110,0.5319,0.0081,0.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-07,WSH,CIN,Cade Cavalli,Chase Petty,UNDER 0.5,-110,0.5264,0.0026,0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-07,PHI,TOR,Zack Wheeler,José Soriano,OVER 0.5,-110,0.5261,0.0023,0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-07,NYY,ATL,Max Fried,Tyler Mahle,OVER 0.5,-110,0.5247,0.0009,0.1%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-07,STL,COL,Kyle Leahy,Ryan Feltner,UNDER 0.5,-110,0.5176,-0.0062,-0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-07,SEA,TB,Logan Gilbert,Drew Rasmussen,UNDER 0.5,-110,0.5112,-0.0126,-1.3%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-08-07,SD,HOU,Robbie Ray,Ronel Blanco,UNDER 0.5,-110,0.5078,-0.016,-1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-07,ARI,LAD,Merrill Kelly,Roki Sasaki,OVER 0.5,-110,0.5021,-0.0217,-2.2%,NO PLAY,False,Hitter-friendly park,0.5
