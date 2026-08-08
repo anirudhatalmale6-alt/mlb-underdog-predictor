@@ -1,6 +1,6 @@
-# MLB Picks - Friday, August 07, 2026
+# MLB Picks - Saturday, August 08, 2026
 
-*Last updated: 2026-08-07 05:51 PM ET*
+*Last updated: 2026-08-08 02:37 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | ATL @ NYY |
-| Starting Pitchers | Tyler Mahle vs Max Fried |
+| Matchup | TOR @ PHI |
+| Starting Pitchers | Max Scherzer vs Aaron Nola |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.0% |
+| Edge Over Market | 11.9% |
 | Confidence | HIGH |
 | Notes | Strong value |
 
@@ -21,10 +21,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | OAK @ BOS |
-| Starting Pitchers | Jack Perkins vs Payton Tolle |
+| Matchup | COL @ STL |
+| Starting Pitchers | Kyle Freeland vs Matthew Liberatore |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.6% |
+| Edge Over Market | 7.4% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| ATL @ NYY | Tyler Mahle vs Max Fried | NYY | -110 | 62.4% | 10.0% | HIGH | Strong value |
-| OAK @ BOS | Jack Perkins vs Payton Tolle | BOS | -110 | 62.0% | 9.6% | HIGH | Standard play |
+| TOR @ PHI | Max Scherzer vs Aaron Nola | PHI | -110 | 64.3% | 11.9% | HIGH | Strong value |
+| COL @ STL | Kyle Freeland vs Matthew Liberatore | STL | -110 | 59.7% | 7.4% | HIGH | Standard play |
 
 ---
 
