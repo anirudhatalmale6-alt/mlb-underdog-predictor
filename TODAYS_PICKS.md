@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, August 08, 2026
+# MLB Picks - Sunday, August 09, 2026
 
-*Last updated: 2026-08-08 05:35 PM ET*
+*Last updated: 2026-08-09 02:41 PM ET*
 
 ## Moneyline Underdogs
 
@@ -11,20 +11,20 @@
 | Stat | Value |
 |------|-------|
 | Matchup | TOR @ PHI |
-| Starting Pitchers | Max Scherzer vs Aaron Nola |
+| Starting Pitchers | Shane Bieber vs Jesús Luzardo |
 | Model Win Probability | 0 |
-| Edge Over Market | 11.9% |
+| Edge Over Market | 8.9% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | COL @ STL |
-| Starting Pitchers | Kyle Freeland vs Matthew Liberatore |
+| Matchup | CIN @ WSH |
+| Starting Pitchers | Brady Singer vs Brad Lord |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.4% |
+| Edge Over Market | 6.7% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TOR @ PHI | Max Scherzer vs Aaron Nola | PHI | -110 | 64.3% | 11.9% | HIGH | Strong value |
-| COL @ STL | Kyle Freeland vs Matthew Liberatore | STL | -110 | 59.7% | 7.4% | HIGH | Standard play |
+| TOR @ PHI | Shane Bieber vs Jesús Luzardo | PHI | -110 | 61.3% | 8.9% | HIGH | Standard play |
+| CIN @ WSH | Brady Singer vs Brad Lord | WSH | -110 | 59.1% | 6.7% | HIGH | Standard play |
 
 ---
 
