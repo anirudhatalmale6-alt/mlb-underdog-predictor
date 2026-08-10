@@ -1,43 +1,31 @@
-# MLB Picks - Sunday, August 09, 2026
+# MLB Picks - Monday, August 10, 2026
 
-*Last updated: 2026-08-09 05:35 PM ET*
+*Last updated: 2026-08-10 03:05 PM ET*
 
 ## Moneyline Underdogs
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (1)
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | TOR @ PHI |
-| Starting Pitchers | Shane Bieber vs Jesús Luzardo |
+| Matchup | PHI @ STL |
+| Starting Pitchers | Andrew Painter vs Hunter Dobbins |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.9% |
-| Confidence | HIGH |
-| Notes | Standard play |
-
-#### ??? (0)
-
-| Stat | Value |
-|------|-------|
-| Matchup | CIN @ WSH |
-| Starting Pitchers | Brady Singer vs Brad Lord |
-| Model Win Probability | 0 |
-| Edge Over Market | 6.7% |
-| Confidence | HIGH |
+| Edge Over Market | 6.0% |
+| Confidence | MEDIUM |
 | Notes | Standard play |
 
 ---
 
 ## 1st Inning Moneyline
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (1)
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TOR @ PHI | Shane Bieber vs Jesús Luzardo | PHI | -110 | 61.3% | 8.9% | HIGH | Standard play |
-| CIN @ WSH | Brady Singer vs Brad Lord | WSH | -110 | 59.1% | 6.7% | HIGH | Standard play |
+| PHI @ STL | Andrew Painter vs Hunter Dobbins | STL | -110 | 58.3% | 6.0% | MEDIUM | Standard play |
 
 ---
 

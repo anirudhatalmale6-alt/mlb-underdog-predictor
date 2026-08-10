@@ -1,0 +1,21 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-08-10,STL,PHI,Hunter Dobbins,Andrew Painter,STL,-110,0.5833,0.0595,6.0%,MEDIUM,True,Standard play,
+1ST INN ML,2026-08-10,TOR,BOS,Jameson Taillon,Sonny Gray,BOS,-110,0.5465,0.0226,2.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-10,LAD,KC,Tarik Skubal,Noah Cameron,LAD,-110,0.5457,0.0219,2.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-10,MIN,BAL,Dean Kremer,Trevor Rogers,MIN,-110,0.5307,0.0069,0.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-10,ARI,COL,Michael Soroka,Gabriel Hughes,ARI,-110,0.5194,-0.0044,-0.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-10,SD,MIL,Casey Mize,Logan Henderson,MIL,-110,0.5132,-0.0106,-1.1%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-10,OAK,TB,Jacob Lopez,Freddy Peralta,TB,-110,0.5046,-0.0193,-1.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-10,LAA,TEX,Reid Detmers,MacKenzie Gore,TEX,-110,0.504,-0.0198,-2.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-10,ATL,NYM,Bryce Elder,Christian Scott,NYM,-110,0.5031,-0.0207,-2.1%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-10,SF,HOU,Blade Tidwell,Hayden Wesneski,SF,-110,0.5005,-0.0233,-2.3%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-08-10,TOR,BOS,Jameson Taillon,Sonny Gray,UNDER 0.5,-110,0.5793,0.0555,5.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-10,MIN,BAL,Dean Kremer,Trevor Rogers,UNDER 0.5,-110,0.5262,0.0024,0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-10,ATL,NYM,Bryce Elder,Christian Scott,UNDER 0.5,-110,0.5222,-0.0016,-0.2%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-08-10,STL,PHI,Hunter Dobbins,Andrew Painter,OVER 0.5,-110,0.5212,-0.0026,-0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-10,OAK,TB,Jacob Lopez,Freddy Peralta,OVER 0.5,-110,0.5149,-0.0089,-0.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-10,ARI,COL,Michael Soroka,Gabriel Hughes,OVER 0.5,-110,0.5138,-0.01,-1.0%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-10,LAD,KC,Tarik Skubal,Noah Cameron,OVER 0.5,-110,0.5067,-0.0172,-1.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-10,LAA,TEX,Reid Detmers,MacKenzie Gore,UNDER 0.5,-110,0.5054,-0.0185,-1.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-10,SF,HOU,Blade Tidwell,Hayden Wesneski,UNDER 0.5,-110,0.5019,-0.0219,-2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-10,SD,MIL,Casey Mize,Logan Henderson,OVER 0.5,-110,0.501,-0.0228,-2.3%,NO PLAY,False,Standard play,0.5
