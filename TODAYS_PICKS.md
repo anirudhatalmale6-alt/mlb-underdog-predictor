@@ -1,31 +1,43 @@
-# MLB Picks - Monday, August 10, 2026
+# MLB Picks - Tuesday, August 11, 2026
 
-*Last updated: 2026-08-10 05:53 PM ET*
+*Last updated: 2026-08-11 03:04 PM ET*
 
 ## Moneyline Underdogs
 
-### RECOMMENDED PLAYS (1)
+### RECOMMENDED PLAYS (2)
+
+#### ??? (0)
+
+| Stat | Value |
+|------|-------|
+| Matchup | CIN @ CWS |
+| Starting Pitchers | Nick Lodolo vs Sean Burke |
+| Model Win Probability | 0 |
+| Edge Over Market | 8.9% |
+| Confidence | HIGH |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
 | Matchup | PHI @ STL |
-| Starting Pitchers | Andrew Painter vs Hunter Dobbins |
+| Starting Pitchers | Cristopher Sánchez vs Andre Pallante |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.0% |
-| Confidence | MEDIUM |
-| Notes | Standard play |
+| Edge Over Market | 3.0% |
+| Confidence | LOW |
+| Notes | Elite pitching matchup |
 
 ---
 
 ## 1st Inning Moneyline
 
-### RECOMMENDED PLAYS (1)
+### RECOMMENDED PLAYS (2)
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| PHI @ STL | Andrew Painter vs Hunter Dobbins | STL | -110 | 58.3% | 6.0% | MEDIUM | Standard play |
+| CIN @ CWS | Nick Lodolo vs Sean Burke | CWS | -110 | 61.3% | 8.9% | HIGH | Standard play |
+| PHI @ STL | Cristopher Sánchez vs Andre Pallante | PHI | -110 | 55.4% | 3.0% | LOW | Elite pitching matchup |
 
 ---
 
