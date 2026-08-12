@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, August 11, 2026
+# MLB Picks - Wednesday, August 12, 2026
 
-*Last updated: 2026-08-11 05:59 PM ET*
+*Last updated: 2026-08-12 03:03 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CIN @ CWS |
-| Starting Pitchers | Nick Lodolo vs Sean Burke |
+| Matchup | SEA @ NYY |
+| Starting Pitchers | Bryce Miller vs Will Warren |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.9% |
+| Edge Over Market | 9.0% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,12 +21,12 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | PHI @ STL |
-| Starting Pitchers | Cristopher Sánchez vs Andre Pallante |
+| Matchup | MIL @ SD |
+| Starting Pitchers | Dustin May vs Robbie Ray |
 | Model Win Probability | 0 |
-| Edge Over Market | 3.0% |
-| Confidence | LOW |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 7.0% |
+| Confidence | HIGH |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CIN @ CWS | Nick Lodolo vs Sean Burke | CWS | -110 | 61.3% | 8.9% | HIGH | Standard play |
-| PHI @ STL | Cristopher Sánchez vs Andre Pallante | PHI | -110 | 55.4% | 3.0% | LOW | Elite pitching matchup |
+| SEA @ NYY | Bryce Miller vs Will Warren | SEA | -110 | 61.3% | 9.0% | HIGH | Standard play |
+| MIL @ SD | Dustin May vs Robbie Ray | SD | -110 | 59.4% | 7.0% | HIGH | Standard play |
 
 ---
 
