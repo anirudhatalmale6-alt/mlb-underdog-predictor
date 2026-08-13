@@ -1,43 +1,31 @@
-# MLB Picks - Wednesday, August 12, 2026
+# MLB Picks - Thursday, August 13, 2026
 
-*Last updated: 2026-08-12 05:59 PM ET*
+*Last updated: 2026-08-13 03:03 PM ET*
 
 ## Moneyline Underdogs
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (1)
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | SEA @ NYY |
-| Starting Pitchers | Bryce Miller vs Will Warren |
+| Matchup | PHI @ MIN |
+| Starting Pitchers | Aaron Nola vs Taj Bradley |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.0% |
-| Confidence | HIGH |
-| Notes | Standard play |
-
-#### ??? (0)
-
-| Stat | Value |
-|------|-------|
-| Matchup | MIL @ SD |
-| Starting Pitchers | Dustin May vs Robbie Ray |
-| Model Win Probability | 0 |
-| Edge Over Market | 7.0% |
-| Confidence | HIGH |
+| Edge Over Market | 4.9% |
+| Confidence | MEDIUM |
 | Notes | Standard play |
 
 ---
 
 ## 1st Inning Moneyline
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (1)
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SEA @ NYY | Bryce Miller vs Will Warren | SEA | -110 | 61.3% | 9.0% | HIGH | Standard play |
-| MIL @ SD | Dustin May vs Robbie Ray | SD | -110 | 59.4% | 7.0% | HIGH | Standard play |
+| PHI @ MIN | Aaron Nola vs Taj Bradley | MIN | -110 | 57.2% | 4.9% | MEDIUM | Standard play |
 
 ---
 
