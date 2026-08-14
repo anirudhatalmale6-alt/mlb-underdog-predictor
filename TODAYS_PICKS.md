@@ -1,31 +1,43 @@
-# MLB Picks - Thursday, August 13, 2026
+# MLB Picks - Friday, August 14, 2026
 
-*Last updated: 2026-08-13 05:59 PM ET*
+*Last updated: 2026-08-14 02:57 PM ET*
 
 ## Moneyline Underdogs
 
-### RECOMMENDED PLAYS (1)
+### RECOMMENDED PLAYS (2)
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | PHI @ MIN |
-| Starting Pitchers | Aaron Nola vs Taj Bradley |
+| Matchup | STL @ CHC |
+| Starting Pitchers | Matthew Liberatore vs Clay Holmes |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.9% |
-| Confidence | MEDIUM |
-| Notes | Standard play |
+| Edge Over Market | 12.0% |
+| Confidence | HIGH |
+| Notes | Strong value |
+
+#### ??? (0)
+
+| Stat | Value |
+|------|-------|
+| Matchup | CWS @ DET |
+| Starting Pitchers | Sean Newcomb vs Jackson Jobe |
+| Model Win Probability | 0 |
+| Edge Over Market | 7.7% |
+| Confidence | HIGH |
+| Notes | Elite pitching matchup |
 
 ---
 
 ## 1st Inning Moneyline
 
-### RECOMMENDED PLAYS (1)
+### RECOMMENDED PLAYS (2)
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| PHI @ MIN | Aaron Nola vs Taj Bradley | MIN | -110 | 57.2% | 4.9% | MEDIUM | Standard play |
+| STL @ CHC | Matthew Liberatore vs Clay Holmes | CHC | -110 | 64.3% | 12.0% | HIGH | Strong value |
+| CWS @ DET | Sean Newcomb vs Jackson Jobe | CWS | -110 | 60.1% | 7.7% | HIGH | Elite pitching matchup |
 
 ---
 
