@@ -1,6 +1,6 @@
-# MLB Picks - Friday, August 14, 2026
+# MLB Picks - Saturday, August 15, 2026
 
-*Last updated: 2026-08-14 05:55 PM ET*
+*Last updated: 2026-08-15 02:29 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | STL @ CHC |
-| Starting Pitchers | Matthew Liberatore vs Clay Holmes |
+| Matchup | TEX @ OAK |
+| Starting Pitchers | MacKenzie Gore vs J.T. Ginn |
 | Model Win Probability | 0 |
-| Edge Over Market | 12.0% |
+| Edge Over Market | 6.5% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | CWS @ DET |
-| Starting Pitchers | Sean Newcomb vs Jackson Jobe |
+| Matchup | PHI @ MIN |
+| Starting Pitchers | Jesús Luzardo vs Connor Prielipp |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.7% |
+| Edge Over Market | 6.2% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| STL @ CHC | Matthew Liberatore vs Clay Holmes | CHC | -110 | 64.3% | 12.0% | HIGH | Strong value |
-| CWS @ DET | Sean Newcomb vs Jackson Jobe | CWS | -110 | 60.1% | 7.7% | HIGH | Elite pitching matchup |
+| TEX @ OAK | MacKenzie Gore vs J.T. Ginn | OAK | -110 | 58.9% | 6.5% | HIGH | Standard play |
+| PHI @ MIN | Jesús Luzardo vs Connor Prielipp | PHI | -110 | 58.6% | 6.2% | HIGH | Standard play |
 
 ---
 
