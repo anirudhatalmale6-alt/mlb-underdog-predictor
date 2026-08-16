@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, August 15, 2026
+# MLB Picks - Sunday, August 16, 2026
 
-*Last updated: 2026-08-15 05:24 PM ET*
+*Last updated: 2026-08-16 02:29 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | TEX @ OAK |
-| Starting Pitchers | MacKenzie Gore vs J.T. Ginn |
+| Matchup | CWS @ DET |
+| Starting Pitchers | Sean Burke vs Drew Anderson |
 | Model Win Probability | 0 |
 | Edge Over Market | 6.5% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | PHI @ MIN |
-| Starting Pitchers | Jesús Luzardo vs Connor Prielipp |
+| Matchup | MIL @ LAD |
+| Starting Pitchers | Logan Henderson vs Tarik Skubal |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.2% |
+| Edge Over Market | 6.3% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TEX @ OAK | MacKenzie Gore vs J.T. Ginn | OAK | -110 | 58.9% | 6.5% | HIGH | Standard play |
-| PHI @ MIN | Jesús Luzardo vs Connor Prielipp | PHI | -110 | 58.6% | 6.2% | HIGH | Standard play |
+| CWS @ DET | Sean Burke vs Drew Anderson | CWS | -110 | 58.8% | 6.5% | HIGH | Elite pitching matchup |
+| MIL @ LAD | Logan Henderson vs Tarik Skubal | MIL | -110 | 58.7% | 6.3% | HIGH | Elite pitching matchup |
 
 ---
 
