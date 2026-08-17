@@ -1,0 +1,23 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-08-17,NYM,SD,Nolan McLean,Walker Buehler,NYM,-110,0.64,0.1162,11.6%,HIGH,True,Strong value,
+1ST INN ML,2026-08-17,COL,LAD,Tomoyuki Sugano,Blake Snell,COL,-110,0.5655,0.0417,4.2%,MEDIUM,True,Standard play,
+1ST INN ML,2026-08-17,MIN,ATL,Bailey Ober,Martín Pérez,ATL,-110,0.5609,0.0371,3.7%,LOW,False,Standard play,
+1ST INN ML,2026-08-17,PIT,DET,Carmen Mlodzinski,Framber Valdez,PIT,-110,0.5539,0.0301,3.0%,LOW,False,Standard play,
+1ST INN ML,2026-08-17,CHC,CWS,Shota Imanaga,Luis Castillo,CHC,-110,0.5484,0.0246,2.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-17,KC,OAK,Michael Wacha,Mason Barnett,KC,-110,0.5452,0.0214,2.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-17,PHI,MIA,Cristopher Sánchez,Janson Junk,PHI,-110,0.537,0.0131,1.3%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-17,CIN,STL,Rhett Lowder,Andre Pallante,STL,-110,0.5352,0.0114,1.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-17,TB,BAL,Shane McClanahan,Brandon Young,BAL,-110,0.5131,-0.0107,-1.1%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-17,CIN,STL,Kent Emanuel,Quinn Mathews,CIN,-110,0.512,-0.0118,-1.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-17,BOS,ARI,TBD,Mitch Bratt,BOS,-110,0.5103,-0.0135,-1.4%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-08-17,KC,OAK,Michael Wacha,Mason Barnett,UNDER 0.5,-110,0.5516,0.0278,2.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-17,COL,LAD,Tomoyuki Sugano,Blake Snell,OVER 0.5,-110,0.5492,0.0254,2.5%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-17,MIN,ATL,Bailey Ober,Martín Pérez,UNDER 0.5,-110,0.5401,0.0163,1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-17,TB,BAL,Shane McClanahan,Brandon Young,OVER 0.5,-110,0.5395,0.0157,1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-17,CIN,STL,Kent Emanuel,Quinn Mathews,OVER 0.5,-110,0.5329,0.0091,0.9%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-17,BOS,ARI,TBD,Mitch Bratt,OVER 0.5,-110,0.532,0.0081,0.8%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-17,PHI,MIA,Cristopher Sánchez,Janson Junk,UNDER 0.5,-110,0.5273,0.0035,0.4%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-08-17,CHC,CWS,Shota Imanaga,Luis Castillo,OVER 0.5,-110,0.5196,-0.0042,-0.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-17,PIT,DET,Carmen Mlodzinski,Framber Valdez,OVER 0.5,-110,0.5064,-0.0175,-1.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-17,CIN,STL,Rhett Lowder,Andre Pallante,UNDER 0.5,-110,0.5046,-0.0193,-1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-17,NYM,SD,Nolan McLean,Walker Buehler,OVER 0.5,-110,0.5033,-0.0206,-2.1%,NO PLAY,False,Standard play,0.5

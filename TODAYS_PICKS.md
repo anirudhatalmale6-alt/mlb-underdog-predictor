@@ -1,6 +1,6 @@
-# MLB Picks - Sunday, August 16, 2026
+# MLB Picks - Monday, August 17, 2026
 
-*Last updated: 2026-08-16 05:23 PM ET*
+*Last updated: 2026-08-17 02:34 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CWS @ DET |
-| Starting Pitchers | Sean Burke vs Drew Anderson |
+| Matchup | SD @ NYM |
+| Starting Pitchers | Walker Buehler vs Nolan McLean |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.5% |
+| Edge Over Market | 11.6% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIL @ LAD |
-| Starting Pitchers | Logan Henderson vs Tarik Skubal |
+| Matchup | LAD @ COL |
+| Starting Pitchers | Blake Snell vs Tomoyuki Sugano |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.3% |
-| Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 4.2% |
+| Confidence | MEDIUM |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CWS @ DET | Sean Burke vs Drew Anderson | CWS | -110 | 58.8% | 6.5% | HIGH | Elite pitching matchup |
-| MIL @ LAD | Logan Henderson vs Tarik Skubal | MIL | -110 | 58.7% | 6.3% | HIGH | Elite pitching matchup |
+| SD @ NYM | Walker Buehler vs Nolan McLean | NYM | -110 | 64.0% | 11.6% | HIGH | Strong value |
+| LAD @ COL | Blake Snell vs Tomoyuki Sugano | COL | -110 | 56.5% | 4.2% | MEDIUM | Standard play |
 
 ---
 
