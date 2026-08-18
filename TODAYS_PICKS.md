@@ -1,6 +1,6 @@
 # MLB Picks - Tuesday, August 18, 2026
 
-*Last updated: 2026-08-18 02:39 PM ET*
+*Last updated: 2026-08-18 05:30 PM ET*
 
 ## Moneyline Underdogs
 
