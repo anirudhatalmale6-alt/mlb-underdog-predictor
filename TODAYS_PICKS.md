@@ -1,6 +1,6 @@
-# MLB Picks - Monday, August 17, 2026
+# MLB Picks - Tuesday, August 18, 2026
 
-*Last updated: 2026-08-17 05:30 PM ET*
+*Last updated: 2026-08-18 02:39 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | SD @ NYM |
-| Starting Pitchers | Walker Buehler vs Nolan McLean |
+| Matchup | ARI @ BOS |
+| Starting Pitchers | Merrill Kelly vs Ranger Suarez |
 | Model Win Probability | 0 |
-| Edge Over Market | 11.6% |
+| Edge Over Market | 10.7% |
 | Confidence | HIGH |
 | Notes | Strong value |
 
@@ -21,11 +21,11 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAD @ COL |
-| Starting Pitchers | Blake Snell vs Tomoyuki Sugano |
+| Matchup | OAK @ KC |
+| Starting Pitchers | Jack Perkins vs TBD |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.2% |
-| Confidence | MEDIUM |
+| Edge Over Market | 9.6% |
+| Confidence | HIGH |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SD @ NYM | Walker Buehler vs Nolan McLean | NYM | -110 | 64.0% | 11.6% | HIGH | Strong value |
-| LAD @ COL | Blake Snell vs Tomoyuki Sugano | COL | -110 | 56.5% | 4.2% | MEDIUM | Standard play |
+| ARI @ BOS | Merrill Kelly vs Ranger Suarez | BOS | -110 | 63.1% | 10.7% | HIGH | Strong value |
+| OAK @ KC | Jack Perkins vs TBD | KC | -110 | 62.0% | 9.6% | HIGH | Standard play |
 
 ---
 
