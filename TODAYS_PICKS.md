@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, August 18, 2026
+# MLB Picks - Wednesday, August 19, 2026
 
-*Last updated: 2026-08-18 05:30 PM ET*
+*Last updated: 2026-08-19 02:40 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,21 +10,21 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | ARI @ BOS |
-| Starting Pitchers | Merrill Kelly vs Ranger Suarez |
+| Matchup | STL @ CIN |
+| Starting Pitchers | Matthew Liberatore vs Chase Burns |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.7% |
+| Edge Over Market | 7.0% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | OAK @ KC |
-| Starting Pitchers | Jack Perkins vs TBD |
+| Matchup | DET @ PIT |
+| Starting Pitchers | Jackson Jobe vs Paul Skenes |
 | Model Win Probability | 0 |
-| Edge Over Market | 9.6% |
+| Edge Over Market | 6.4% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| ARI @ BOS | Merrill Kelly vs Ranger Suarez | BOS | -110 | 63.1% | 10.7% | HIGH | Strong value |
-| OAK @ KC | Jack Perkins vs TBD | KC | -110 | 62.0% | 9.6% | HIGH | Standard play |
+| STL @ CIN | Matthew Liberatore vs Chase Burns | CIN | -110 | 59.4% | 7.0% | HIGH | Standard play |
+| DET @ PIT | Jackson Jobe vs Paul Skenes | PIT | -110 | 58.8% | 6.4% | HIGH | Standard play |
 
 ---
 
