@@ -1,6 +1,6 @@
-# MLB Picks - Wednesday, August 19, 2026
+# MLB Picks - Thursday, August 20, 2026
 
-*Last updated: 2026-08-19 05:30 PM ET*
+*Last updated: 2026-08-20 02:42 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | STL @ CIN |
-| Starting Pitchers | Matthew Liberatore vs Chase Burns |
+| Matchup | LAA @ HOU |
+| Starting Pitchers | Grayson Rodriguez vs Peter Lambert |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.0% |
+| Edge Over Market | 8.3% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,11 +21,11 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | DET @ PIT |
-| Starting Pitchers | Jackson Jobe vs Paul Skenes |
+| Matchup | TOR @ TB |
+| Starting Pitchers | Shane Bieber vs Ian Seymour |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.4% |
-| Confidence | HIGH |
+| Edge Over Market | 4.1% |
+| Confidence | MEDIUM |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| STL @ CIN | Matthew Liberatore vs Chase Burns | CIN | -110 | 59.4% | 7.0% | HIGH | Standard play |
-| DET @ PIT | Jackson Jobe vs Paul Skenes | PIT | -110 | 58.8% | 6.4% | HIGH | Standard play |
+| LAA @ HOU | Grayson Rodriguez vs Peter Lambert | HOU | -110 | 60.7% | 8.3% | HIGH | Standard play |
+| TOR @ TB | Shane Bieber vs Ian Seymour | TB | -110 | 56.5% | 4.1% | MEDIUM | Standard play |
 
 ---
 
