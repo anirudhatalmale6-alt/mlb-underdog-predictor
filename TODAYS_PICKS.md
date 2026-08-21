@@ -1,6 +1,6 @@
-# MLB Picks - Thursday, August 20, 2026
+# MLB Picks - Friday, August 21, 2026
 
-*Last updated: 2026-08-20 05:33 PM ET*
+*Last updated: 2026-08-21 02:41 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAA @ HOU |
-| Starting Pitchers | Grayson Rodriguez vs Peter Lambert |
+| Matchup | TB @ BAL |
+| Starting Pitchers | Freddy Peralta vs Trevor Rogers |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.3% |
+| Edge Over Market | 7.5% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,11 +21,11 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | TOR @ TB |
-| Starting Pitchers | Shane Bieber vs Ian Seymour |
+| Matchup | STL @ PHI |
+| Starting Pitchers | TBD vs Jesús Luzardo |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.1% |
-| Confidence | MEDIUM |
+| Edge Over Market | 7.3% |
+| Confidence | HIGH |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAA @ HOU | Grayson Rodriguez vs Peter Lambert | HOU | -110 | 60.7% | 8.3% | HIGH | Standard play |
-| TOR @ TB | Shane Bieber vs Ian Seymour | TB | -110 | 56.5% | 4.1% | MEDIUM | Standard play |
+| TB @ BAL | Freddy Peralta vs Trevor Rogers | BAL | -110 | 59.9% | 7.5% | HIGH | Standard play |
+| STL @ PHI | TBD vs Jesús Luzardo | PHI | -110 | 59.7% | 7.3% | HIGH | Standard play |
 
 ---
 
