@@ -1,6 +1,6 @@
-# MLB Picks - Friday, August 21, 2026
+# MLB Picks - Saturday, August 22, 2026
 
-*Last updated: 2026-08-21 05:32 PM ET*
+*Last updated: 2026-08-22 02:27 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,21 +10,21 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | TB @ BAL |
-| Starting Pitchers | Freddy Peralta vs Trevor Rogers |
+| Matchup | CIN @ ARI |
+| Starting Pitchers | Rhett Lowder vs Michael Soroka |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.5% |
+| Edge Over Market | 13.1% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | STL @ PHI |
-| Starting Pitchers | TBD vs Jesús Luzardo |
+| Matchup | LAA @ TEX |
+| Starting Pitchers | Ryan Johnson vs Cody Bradford |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.3% |
+| Edge Over Market | 8.1% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TB @ BAL | Freddy Peralta vs Trevor Rogers | BAL | -110 | 59.9% | 7.5% | HIGH | Standard play |
-| STL @ PHI | TBD vs Jesús Luzardo | PHI | -110 | 59.7% | 7.3% | HIGH | Standard play |
+| CIN @ ARI | Rhett Lowder vs Michael Soroka | ARI | -110 | 65.5% | 13.1% | HIGH | Strong value |
+| LAA @ TEX | Ryan Johnson vs Cody Bradford | TEX | -110 | 60.5% | 8.1% | HIGH | Standard play |
 
 ---
 
