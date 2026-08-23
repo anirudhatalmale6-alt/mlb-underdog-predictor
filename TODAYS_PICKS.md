@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, August 22, 2026
+# MLB Picks - Sunday, August 23, 2026
 
-*Last updated: 2026-08-22 05:25 PM ET*
+*Last updated: 2026-08-23 02:29 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,21 +10,21 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CIN @ ARI |
-| Starting Pitchers | Rhett Lowder vs Michael Soroka |
+| Matchup | WSH @ MIA |
+| Starting Pitchers | Jackson Kent vs Janson Junk |
 | Model Win Probability | 0 |
-| Edge Over Market | 13.1% |
+| Edge Over Market | 7.6% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAA @ TEX |
-| Starting Pitchers | Ryan Johnson vs Cody Bradford |
+| Matchup | ATL @ MIL |
+| Starting Pitchers | Tyler Mahle vs Shane Drohan |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.1% |
+| Edge Over Market | 7.3% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CIN @ ARI | Rhett Lowder vs Michael Soroka | ARI | -110 | 65.5% | 13.1% | HIGH | Strong value |
-| LAA @ TEX | Ryan Johnson vs Cody Bradford | TEX | -110 | 60.5% | 8.1% | HIGH | Standard play |
+| WSH @ MIA | Jackson Kent vs Janson Junk | MIA | -110 | 60.0% | 7.6% | HIGH | Standard play |
+| ATL @ MIL | Tyler Mahle vs Shane Drohan | MIL | -110 | 59.7% | 7.3% | HIGH | Standard play |
 
 ---
 

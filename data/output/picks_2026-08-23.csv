@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-08-23,MIA,WSH,Janson Junk,Jackson Kent,MIA,-110,0.6002,0.0764,7.6%,HIGH,True,Standard play,
+1ST INN ML,2026-08-23,MIL,ATL,Shane Drohan,Tyler Mahle,MIL,-110,0.5971,0.0733,7.3%,HIGH,True,Standard play,
+1ST INN ML,2026-08-23,TEX,LAA,Cal Quantrill,Yusei Kikuchi,TEX,-110,0.5902,0.0664,6.6%,HIGH,False,Standard play,
+1ST INN ML,2026-08-23,BAL,TB,Shane Baz,Nick Martinez,TB,-110,0.5826,0.0588,5.9%,MEDIUM,False,Standard play,
+1ST INN ML,2026-08-23,COL,CLE,Tomoyuki Sugano,Foster Griffin,CLE,-110,0.5593,0.0355,3.6%,LOW,False,Standard play,
+1ST INN ML,2026-08-23,KC,DET,Daniel Lynch IV,TBD,KC,-110,0.5577,0.0338,3.4%,LOW,False,Standard play,
+1ST INN ML,2026-08-23,CWS,NYM,Sean Newcomb,Nolan McLean,NYM,-110,0.5571,0.0333,3.3%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-08-23,SEA,CHC,Bryce Miller,Shota Imanaga,SEA,-110,0.5458,0.022,2.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-23,NYY,TOR,Carlos Rodón,José Soriano,NYY,-110,0.5196,-0.0042,-0.4%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-23,SD,MIN,Walker Buehler,Bailey Ober,SD,-110,0.5178,-0.006,-0.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-23,BOS,SF,Jake Bennett,Matt Wilkinson,SF,-110,0.512,-0.0118,-1.2%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-23,ARI,CIN,Mitch Bratt,Andrew Abbott,ARI,-110,0.5116,-0.0122,-1.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-23,HOU,OAK,Cristian Javier,Brady Basso,HOU,-110,0.5099,-0.0139,-1.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-23,LAD,PIT,Blake Snell,Lake Bachar,PIT,-110,0.5094,-0.0144,-1.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-23,PHI,STL,Cristopher Sánchez,Kyle Leahy,STL,-110,0.5076,-0.0162,-1.6%,NO PLAY,False,Elite pitching matchup,
+1ST INN TOTAL,2026-08-23,CWS,NYM,Sean Newcomb,Nolan McLean,OVER 0.5,-110,0.5721,0.0483,4.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-23,SD,MIN,Walker Buehler,Bailey Ober,UNDER 0.5,-110,0.546,0.0222,2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-23,MIA,WSH,Janson Junk,Jackson Kent,UNDER 0.5,-110,0.5396,0.0158,1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-23,BAL,TB,Shane Baz,Nick Martinez,UNDER 0.5,-110,0.5351,0.0113,1.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-23,TEX,LAA,Cal Quantrill,Yusei Kikuchi,OVER 0.5,-110,0.535,0.0112,1.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-23,LAD,PIT,Blake Snell,Lake Bachar,OVER 0.5,-110,0.5286,0.0048,0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-23,BOS,SF,Jake Bennett,Matt Wilkinson,UNDER 0.5,-110,0.5186,-0.0052,-0.5%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-08-23,PHI,STL,Cristopher Sánchez,Kyle Leahy,UNDER 0.5,-110,0.5155,-0.0083,-0.8%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-08-23,NYY,TOR,Carlos Rodón,José Soriano,OVER 0.5,-110,0.515,-0.0088,-0.9%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-23,HOU,OAK,Cristian Javier,Brady Basso,UNDER 0.5,-110,0.5115,-0.0123,-1.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-23,COL,CLE,Tomoyuki Sugano,Foster Griffin,OVER 0.5,-110,0.5096,-0.0142,-1.4%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-23,KC,DET,Daniel Lynch IV,TBD,UNDER 0.5,-110,0.5088,-0.015,-1.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-23,SEA,CHC,Bryce Miller,Shota Imanaga,UNDER 0.5,-110,0.5055,-0.0183,-1.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-23,ARI,CIN,Mitch Bratt,Andrew Abbott,UNDER 0.5,-110,0.5022,-0.0216,-2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-23,MIL,ATL,Shane Drohan,Tyler Mahle,UNDER 0.5,-110,0.5001,-0.0237,-2.4%,NO PLAY,False,Standard play,0.5
