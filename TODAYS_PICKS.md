@@ -1,6 +1,6 @@
-# MLB Picks - Sunday, August 23, 2026
+# MLB Picks - Monday, August 24, 2026
 
-*Last updated: 2026-08-23 05:23 PM ET*
+*Last updated: 2026-08-24 02:49 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | WSH @ MIA |
-| Starting Pitchers | Jackson Kent vs Janson Junk |
+| Matchup | COL @ WSH |
+| Starting Pitchers | Ryan Feltner vs Cade Cavalli |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.6% |
+| Edge Over Market | 7.9% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,10 +21,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | ATL @ MIL |
-| Starting Pitchers | Tyler Mahle vs Shane Drohan |
+| Matchup | TB @ DET |
+| Starting Pitchers | Drew Rasmussen vs Framber Valdez |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.3% |
+| Edge Over Market | 6.3% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| WSH @ MIA | Jackson Kent vs Janson Junk | MIA | -110 | 60.0% | 7.6% | HIGH | Standard play |
-| ATL @ MIL | Tyler Mahle vs Shane Drohan | MIL | -110 | 59.7% | 7.3% | HIGH | Standard play |
+| COL @ WSH | Ryan Feltner vs Cade Cavalli | WSH | -110 | 60.3% | 7.9% | HIGH | Standard play |
+| TB @ DET | Drew Rasmussen vs Framber Valdez | TB | -110 | 58.7% | 6.3% | HIGH | Standard play |
 
 ---
 

@@ -1,0 +1,21 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-08-24,WSH,COL,Cade Cavalli,Ryan Feltner,WSH,-110,0.6027,0.0789,7.9%,HIGH,True,Standard play,
+1ST INN ML,2026-08-24,DET,TB,Framber Valdez,Drew Rasmussen,TB,-110,0.5866,0.0628,6.3%,HIGH,True,Standard play,
+1ST INN ML,2026-08-24,SF,CIN,TBD,Chase Burns,CIN,-110,0.5857,0.0619,6.2%,HIGH,False,Standard play,
+1ST INN ML,2026-08-24,SEA,PHI,Logan Gilbert,Zack Wheeler,PHI,-110,0.5814,0.0575,5.8%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-08-24,OAK,MIN,Jeffrey Springs,Zebby Matthews,MIN,-110,0.5727,0.0489,4.9%,MEDIUM,False,Standard play,
+1ST INN ML,2026-08-24,CWS,TEX,TBD,Kumar Rocker,CWS,-110,0.5588,0.0349,3.5%,LOW,False,Standard play,
+1ST INN ML,2026-08-24,LAA,CLE,George Klassen,Parker Messick,CLE,-110,0.5302,0.0064,0.6%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-24,SD,PIT,Robbie Ray,Braxton Ashcraft,SD,-110,0.521,-0.0029,-0.3%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-24,MIA,BOS,Sandy Alcantara,Ranger Suarez,MIA,-110,0.5148,-0.009,-0.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-24,ARI,CHC,Merrill Kelly,Kevin Gausman,ARI,-110,0.5076,-0.0162,-1.6%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-08-24,WSH,COL,Cade Cavalli,Ryan Feltner,UNDER 0.5,-110,0.5511,0.0273,2.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-24,LAA,CLE,George Klassen,Parker Messick,UNDER 0.5,-110,0.5468,0.023,2.3%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-08-24,SF,CIN,TBD,Chase Burns,UNDER 0.5,-110,0.5468,0.0229,2.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-24,SEA,PHI,Logan Gilbert,Zack Wheeler,UNDER 0.5,-110,0.5162,-0.0076,-0.8%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-08-24,SD,PIT,Robbie Ray,Braxton Ashcraft,UNDER 0.5,-110,0.51,-0.0138,-1.4%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-08-24,MIA,BOS,Sandy Alcantara,Ranger Suarez,UNDER 0.5,-110,0.5065,-0.0173,-1.7%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-08-24,ARI,CHC,Merrill Kelly,Kevin Gausman,OVER 0.5,-110,0.5051,-0.0187,-1.9%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-24,OAK,MIN,Jeffrey Springs,Zebby Matthews,UNDER 0.5,-110,0.5051,-0.0187,-1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-24,DET,TB,Framber Valdez,Drew Rasmussen,UNDER 0.5,-110,0.5041,-0.0197,-2.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-24,CWS,TEX,TBD,Kumar Rocker,UNDER 0.5,-110,0.5014,-0.0224,-2.2%,NO PLAY,False,Standard play,0.5
