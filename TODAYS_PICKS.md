@@ -1,6 +1,6 @@
-# MLB Picks - Monday, August 24, 2026
+# MLB Picks - Tuesday, August 25, 2026
 
-*Last updated: 2026-08-24 05:34 PM ET*
+*Last updated: 2026-08-25 02:53 PM ET*
 
 ## Moneyline Underdogs
 
@@ -11,22 +11,22 @@
 | Stat | Value |
 |------|-------|
 | Matchup | COL @ WSH |
-| Starting Pitchers | Ryan Feltner vs Cade Cavalli |
+| Starting Pitchers | TBD vs Andrew Alvarez |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.9% |
-| Confidence | HIGH |
+| Edge Over Market | 4.4% |
+| Confidence | MEDIUM |
 | Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | TB @ DET |
-| Starting Pitchers | Drew Rasmussen vs Framber Valdez |
+| Matchup | LAD @ ATL |
+| Starting Pitchers | Tyler Glasnow vs Bryce Elder |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.3% |
-| Confidence | HIGH |
-| Notes | Standard play |
+| Edge Over Market | 4.1% |
+| Confidence | MEDIUM |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| COL @ WSH | Ryan Feltner vs Cade Cavalli | WSH | -110 | 60.3% | 7.9% | HIGH | Standard play |
-| TB @ DET | Drew Rasmussen vs Framber Valdez | TB | -110 | 58.7% | 6.3% | HIGH | Standard play |
+| COL @ WSH | TBD vs Andrew Alvarez | WSH | -110 | 56.8% | 4.4% | MEDIUM | Standard play |
+| LAD @ ATL | Tyler Glasnow vs Bryce Elder | LAD | -110 | 56.5% | 4.1% | MEDIUM | Elite pitching matchup |
 
 ---
 

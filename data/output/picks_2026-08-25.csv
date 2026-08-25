@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-08-25,WSH,COL,Andrew Alvarez,TBD,WSH,-110,0.5683,0.0445,4.4%,MEDIUM,True,Standard play,
+1ST INN ML,2026-08-25,ATL,LAD,Bryce Elder,Tyler Glasnow,LAD,-110,0.5647,0.0409,4.1%,MEDIUM,True,Elite pitching matchup,
+1ST INN ML,2026-08-25,NYM,MIL,Zac Thornton,Kyle Harrison,MIL,-110,0.5616,0.0378,3.8%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-08-25,MIA,BOS,TBD,Payton Tolle,BOS,-110,0.5575,0.0337,3.4%,LOW,False,Standard play,
+1ST INN ML,2026-08-25,SEA,PHI,George Kirby,Aaron Nola,SEA,-110,0.5568,0.033,3.3%,LOW,False,Standard play,
+1ST INN ML,2026-08-25,NYY,HOU,Will Warren,Ethan Pecko,NYY,-110,0.5548,0.031,3.1%,LOW,False,Standard play,
+1ST INN ML,2026-08-25,DET,TB,Jackson Jobe,Ian Seymour,TB,-110,0.5466,0.0228,2.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-25,SD,PIT,Michael King,Paul Skenes,SD,-110,0.5463,0.0224,2.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-25,SF,CIN,Adrian Houser,Brady Singer,SF,-110,0.5453,0.0215,2.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-25,OAK,MIN,Gage Jump,Taj Bradley,MIN,-110,0.5403,0.0165,1.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-25,STL,BAL,TBD,Chris Bassitt,STL,-110,0.5375,0.0137,1.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-25,CWS,TEX,Anthony Kay,Jacob deGrom,TEX,-110,0.5265,0.0027,0.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-25,TOR,KC,Max Scherzer,Seth Lugo,KC,-110,0.5138,-0.01,-1.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-25,LAA,CLE,Walbert Ureña,Gavin Williams,CLE,-110,0.5115,-0.0123,-1.2%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-25,ARI,CHC,Brandon Pfaadt,Clay Holmes,ARI,-110,0.5102,-0.0136,-1.4%,NO PLAY,False,Elite pitching matchup,
+1ST INN TOTAL,2026-08-25,LAA,CLE,Walbert Ureña,Gavin Williams,OVER 0.5,-110,0.5685,0.0447,4.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-25,NYM,MIL,Zac Thornton,Kyle Harrison,OVER 0.5,-110,0.5642,0.0404,4.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-25,ATL,LAD,Bryce Elder,Tyler Glasnow,UNDER 0.5,-110,0.5591,0.0353,3.5%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-08-25,OAK,MIN,Gage Jump,Taj Bradley,UNDER 0.5,-110,0.5549,0.0311,3.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-25,MIA,BOS,TBD,Payton Tolle,UNDER 0.5,-110,0.5405,0.0166,1.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-25,DET,TB,Jackson Jobe,Ian Seymour,UNDER 0.5,-110,0.5383,0.0145,1.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-25,CWS,TEX,Anthony Kay,Jacob deGrom,UNDER 0.5,-110,0.5367,0.0128,1.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-25,TOR,KC,Max Scherzer,Seth Lugo,UNDER 0.5,-110,0.5326,0.0088,0.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-25,SEA,PHI,George Kirby,Aaron Nola,UNDER 0.5,-110,0.5271,0.0033,0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-25,WSH,COL,Andrew Alvarez,TBD,UNDER 0.5,-110,0.5253,0.0015,0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-25,NYY,HOU,Will Warren,Ethan Pecko,OVER 0.5,-110,0.5173,-0.0065,-0.6%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-25,ARI,CHC,Brandon Pfaadt,Clay Holmes,UNDER 0.5,-110,0.5158,-0.008,-0.8%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-08-25,SF,CIN,Adrian Houser,Brady Singer,OVER 0.5,-110,0.5066,-0.0172,-1.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-25,STL,BAL,TBD,Chris Bassitt,UNDER 0.5,-110,0.5062,-0.0176,-1.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-25,SD,PIT,Michael King,Paul Skenes,OVER 0.5,-110,0.504,-0.0198,-2.0%,NO PLAY,False,Standard play,0.5
