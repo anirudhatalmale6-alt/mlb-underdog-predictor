@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, August 25, 2026
+# MLB Picks - Wednesday, August 26, 2026
 
-*Last updated: 2026-08-25 05:35 PM ET*
+*Last updated: 2026-08-26 02:50 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | COL @ WSH |
-| Starting Pitchers | TBD vs Andrew Alvarez |
+| Matchup | MIN @ OAK |
+| Starting Pitchers | Connor Prielipp vs J.T. Ginn |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.4% |
+| Edge Over Market | 4.5% |
 | Confidence | MEDIUM |
 | Notes | Standard play |
 
@@ -21,12 +21,12 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAD @ ATL |
-| Starting Pitchers | Tyler Glasnow vs Bryce Elder |
+| Matchup | CIN @ SF |
+| Starting Pitchers | Nick Lodolo vs Landen Roupp |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.1% |
-| Confidence | MEDIUM |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 3.8% |
+| Confidence | LOW |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| COL @ WSH | TBD vs Andrew Alvarez | WSH | -110 | 56.8% | 4.4% | MEDIUM | Standard play |
-| LAD @ ATL | Tyler Glasnow vs Bryce Elder | LAD | -110 | 56.5% | 4.1% | MEDIUM | Elite pitching matchup |
+| MIN @ OAK | Connor Prielipp vs J.T. Ginn | OAK | -110 | 56.9% | 4.5% | MEDIUM | Standard play |
+| CIN @ SF | Nick Lodolo vs Landen Roupp | SF | -110 | 56.2% | 3.8% | LOW | Standard play |
 
 ---
 
