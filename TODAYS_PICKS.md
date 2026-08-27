@@ -1,6 +1,6 @@
-# MLB Picks - Wednesday, August 26, 2026
+# MLB Picks - Thursday, August 27, 2026
 
-*Last updated: 2026-08-26 07:06 PM ET*
+*Last updated: 2026-08-27 11:42 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIN @ OAK |
-| Starting Pitchers | Connor Prielipp vs J.T. Ginn |
+| Matchup | COL @ WSH |
+| Starting Pitchers | Gabriel Hughes vs Jake Irvin |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.5% |
-| Confidence | MEDIUM |
-| Notes | Standard play |
+| Edge Over Market | 11.2% |
+| Confidence | HIGH |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | CIN @ SF |
-| Starting Pitchers | Nick Lodolo vs Landen Roupp |
+| Matchup | LAD @ ATL |
+| Starting Pitchers | Yoshinobu Yamamoto vs Chris Sale |
 | Model Win Probability | 0 |
-| Edge Over Market | 3.8% |
-| Confidence | LOW |
-| Notes | Standard play |
+| Edge Over Market | 6.0% |
+| Confidence | HIGH |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIN @ OAK | Connor Prielipp vs J.T. Ginn | OAK | -110 | 56.9% | 4.5% | MEDIUM | Standard play |
-| CIN @ SF | Nick Lodolo vs Landen Roupp | SF | -110 | 56.2% | 3.8% | LOW | Standard play |
+| COL @ WSH | Gabriel Hughes vs Jake Irvin | WSH | -110 | 63.6% | 11.2% | HIGH | Strong value |
+| LAD @ ATL | Yoshinobu Yamamoto vs Chris Sale | LAD | -110 | 58.4% | 6.0% | HIGH | Elite pitching matchup |
 
 ---
 

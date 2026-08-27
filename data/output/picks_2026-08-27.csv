@@ -1,0 +1,15 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-08-27,WSH,COL,Jake Irvin,Gabriel Hughes,WSH,-110,0.6358,0.112,11.2%,HIGH,True,Strong value,
+1ST INN ML,2026-08-27,ATL,LAD,Chris Sale,Yoshinobu Yamamoto,LAD,-110,0.5838,0.06,6.0%,HIGH,True,Elite pitching matchup,
+1ST INN ML,2026-08-27,NYM,MIL,Sean Manaea,Jacob Misiorowski,MIL,-110,0.5743,0.0505,5.0%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-08-27,SF,ARI,Landen Roupp,Jose Cabrera,SF,-110,0.5565,0.0327,3.3%,LOW,False,Standard play,
+1ST INN ML,2026-08-27,STL,BAL,Gordon Graceffo,Trevor Rogers,STL,-110,0.5487,0.0249,2.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-27,TOR,KC,Spencer Arrighetti,Noah Cameron,KC,-110,0.5421,0.0183,1.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-27,NYY,HOU,Gerrit Cole,Hayden Wesneski,NYY,-110,0.5187,-0.0051,-0.5%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-08-27,ATL,LAD,Chris Sale,Yoshinobu Yamamoto,OVER 0.5,-110,0.5457,0.0219,2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-27,TOR,KC,Spencer Arrighetti,Noah Cameron,UNDER 0.5,-110,0.5448,0.021,2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-27,NYY,HOU,Gerrit Cole,Hayden Wesneski,OVER 0.5,-110,0.5376,0.0138,1.4%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-27,NYM,MIL,Sean Manaea,Jacob Misiorowski,UNDER 0.5,-110,0.5256,0.0018,0.2%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-08-27,STL,BAL,Gordon Graceffo,Trevor Rogers,OVER 0.5,-110,0.516,-0.0078,-0.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-27,SF,ARI,Landen Roupp,Jose Cabrera,UNDER 0.5,-110,0.5026,-0.0212,-2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-27,WSH,COL,Jake Irvin,Gabriel Hughes,UNDER 0.5,-110,0.501,-0.0228,-2.3%,NO PLAY,False,Standard play,0.5
