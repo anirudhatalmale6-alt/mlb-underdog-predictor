@@ -1,0 +1,35 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-08-29,ATL,COL,Martín Pérez,Ryan Feltner,ATL,-110,0.6045,0.0807,8.1%,HIGH,True,Standard play,
+1ST INN ML,2026-08-29,TOR,SEA,José Soriano,Kade Anderson,TOR,-110,0.5947,0.0709,7.1%,HIGH,True,Standard play,
+1ST INN ML,2026-08-29,NYM,HOU,Nolan McLean,Bennett Sousa,NYM,-110,0.5928,0.069,6.9%,HIGH,False,Standard play,
+1ST INN ML,2026-08-29,CLE,KC,Foster Griffin,Daniel Lynch IV,KC,-110,0.5799,0.0561,5.6%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-08-29,TB,SD,Nick Martinez,Walker Buehler,TB,-110,0.5785,0.0547,5.5%,MEDIUM,False,Standard play,
+1ST INN ML,2026-08-29,DET,LAD,Keider Montero,Blake Snell,LAD,-110,0.5726,0.0488,4.9%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-08-29,NYY,BOS,Max Fried,TBD,NYY,-110,0.5644,0.0406,4.1%,MEDIUM,False,Standard play,
+1ST INN ML,2026-08-29,MIL,TEX,Shane Drohan,Cal Quantrill,TEX,-110,0.564,0.0402,4.0%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-08-29,CHC,CIN,Kevin Gausman,Andrew Abbott,CHC,-110,0.5619,0.0381,3.8%,LOW,False,Standard play,
+1ST INN ML,2026-08-29,MIN,CWS,Bailey Ober,Erick Fedde,MIN,-110,0.5574,0.0335,3.4%,LOW,False,Standard play,
+1ST INN ML,2026-08-29,SF,ARI,TBD,Mitch Bratt,SF,-110,0.5536,0.0298,3.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-29,WSH,MIA,Cade Cavalli,Sandy Alcantara,MIA,-110,0.5341,0.0102,1.0%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-29,STL,PIT,Kyle Leahy,Lake Bachar,PIT,-110,0.5295,0.0057,0.6%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-08-29,LAA,PHI,Ryan Johnson,Cristopher Sánchez,PHI,-110,0.5275,0.0037,0.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-29,SF,ARI,TBD,Merrill Kelly,SF,-110,0.5139,-0.0099,-1.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-29,OAK,BAL,Jack Perkins,Shane Baz,OAK,-110,0.5026,-0.0213,-2.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-08-29,NYY,BOS,Carlos Rodón,Jake Bennett,BOS,-110,0.5011,-0.0227,-2.3%,NO PLAY,False,Elite pitching matchup,
+1ST INN TOTAL,2026-08-29,WSH,MIA,Cade Cavalli,Sandy Alcantara,OVER 0.5,-110,0.571,0.0471,4.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-29,LAA,PHI,Ryan Johnson,Cristopher Sánchez,UNDER 0.5,-110,0.5705,0.0467,4.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-29,CLE,KC,Foster Griffin,Daniel Lynch IV,OVER 0.5,-110,0.563,0.0392,3.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-29,NYY,BOS,Carlos Rodón,Jake Bennett,OVER 0.5,-110,0.5513,0.0275,2.8%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-08-29,DET,LAD,Keider Montero,Blake Snell,OVER 0.5,-110,0.5486,0.0248,2.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-29,OAK,BAL,Jack Perkins,Shane Baz,UNDER 0.5,-110,0.5401,0.0163,1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-29,CHC,CIN,Kevin Gausman,Andrew Abbott,OVER 0.5,-110,0.5305,0.0067,0.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-29,ATL,COL,Martín Pérez,Ryan Feltner,UNDER 0.5,-110,0.5302,0.0064,0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-29,MIL,TEX,Shane Drohan,Cal Quantrill,UNDER 0.5,-110,0.5286,0.0048,0.5%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-08-29,TOR,SEA,José Soriano,Kade Anderson,UNDER 0.5,-110,0.5262,0.0024,0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-29,STL,PIT,Kyle Leahy,Lake Bachar,OVER 0.5,-110,0.526,0.0022,0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-29,NYM,HOU,Nolan McLean,Bennett Sousa,UNDER 0.5,-110,0.525,0.0012,0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-29,SF,ARI,TBD,Mitch Bratt,UNDER 0.5,-110,0.5195,-0.0043,-0.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-29,SF,ARI,TBD,Merrill Kelly,UNDER 0.5,-110,0.5185,-0.0053,-0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-29,MIN,CWS,Bailey Ober,Erick Fedde,UNDER 0.5,-110,0.5066,-0.0172,-1.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-29,NYY,BOS,Max Fried,TBD,UNDER 0.5,-110,0.505,-0.0188,-1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-08-29,TB,SD,Nick Martinez,Walker Buehler,OVER 0.5,-110,0.5008,-0.023,-2.3%,NO PLAY,False,Standard play,0.5
