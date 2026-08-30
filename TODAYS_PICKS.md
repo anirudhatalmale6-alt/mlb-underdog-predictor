@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, August 29, 2026
+# MLB Picks - Sunday, August 30, 2026
 
-*Last updated: 2026-08-29 07:38 PM ET*
+*Last updated: 2026-08-30 06:00 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | COL @ ATL |
-| Starting Pitchers | Ryan Feltner vs Martín Pérez |
+| Matchup | HOU @ NYM |
+| Starting Pitchers | Ethan Pecko vs Zac Thornton |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.1% |
+| Edge Over Market | 8.7% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,10 +21,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | SEA @ TOR |
-| Starting Pitchers | Kade Anderson vs José Soriano |
+| Matchup | LAD @ DET |
+| Starting Pitchers | Tyler Glasnow vs Framber Valdez |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.1% |
+| Edge Over Market | 6.3% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| COL @ ATL | Ryan Feltner vs Martín Pérez | ATL | -110 | 60.5% | 8.1% | HIGH | Standard play |
-| SEA @ TOR | Kade Anderson vs José Soriano | TOR | -110 | 59.5% | 7.1% | HIGH | Standard play |
+| HOU @ NYM | Ethan Pecko vs Zac Thornton | NYM | -110 | 61.1% | 8.7% | HIGH | Standard play |
+| LAD @ DET | Tyler Glasnow vs Framber Valdez | LAD | -110 | 58.7% | 6.3% | HIGH | Standard play |
 
 ---
 
