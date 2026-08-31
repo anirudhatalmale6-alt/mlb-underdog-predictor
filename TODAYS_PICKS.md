@@ -1,6 +1,6 @@
-# MLB Picks - Sunday, August 30, 2026
+# MLB Picks - Monday, August 31, 2026
 
-*Last updated: 2026-08-30 07:40 PM ET*
+*Last updated: 2026-08-31 07:54 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | HOU @ NYM |
-| Starting Pitchers | Ethan Pecko vs Zac Thornton |
+| Matchup | NYY @ LAA |
+| Starting Pitchers | Elmer Rodríguez vs Walbert Ureña |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.7% |
+| Edge Over Market | 8.9% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,10 +21,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAD @ DET |
-| Starting Pitchers | Tyler Glasnow vs Framber Valdez |
+| Matchup | NYM @ TB |
+| Starting Pitchers | Robert Stock vs Ian Seymour |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.3% |
+| Edge Over Market | 8.1% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| HOU @ NYM | Ethan Pecko vs Zac Thornton | NYM | -110 | 61.1% | 8.7% | HIGH | Standard play |
-| LAD @ DET | Tyler Glasnow vs Framber Valdez | LAD | -110 | 58.7% | 6.3% | HIGH | Standard play |
+| NYY @ LAA | Elmer Rodríguez vs Walbert Ureña | LAA | -110 | 61.3% | 8.9% | HIGH | Standard play |
+| NYM @ TB | Robert Stock vs Ian Seymour | TB | -110 | 60.4% | 8.1% | HIGH | Standard play |
 
 ---
 
