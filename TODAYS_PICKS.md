@@ -1,6 +1,6 @@
-# MLB Picks - Monday, August 31, 2026
+# MLB Picks - Tuesday, September 01, 2026
 
-*Last updated: 2026-08-31 09:50 PM ET*
+*Last updated: 2026-09-01 05:45 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,21 +10,21 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | NYY @ LAA |
-| Starting Pitchers | Elmer Rodríguez vs Walbert Ureña |
+| Matchup | TOR @ CLE |
+| Starting Pitchers | Spencer Miles vs Gavin Williams |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.9% |
+| Edge Over Market | 8.2% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | NYM @ TB |
-| Starting Pitchers | Robert Stock vs Ian Seymour |
+| Matchup | OAK @ TEX |
+| Starting Pitchers | Brady Basso vs MacKenzie Gore |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.1% |
+| Edge Over Market | 6.2% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| NYY @ LAA | Elmer Rodríguez vs Walbert Ureña | LAA | -110 | 61.3% | 8.9% | HIGH | Standard play |
-| NYM @ TB | Robert Stock vs Ian Seymour | TB | -110 | 60.4% | 8.1% | HIGH | Standard play |
+| TOR @ CLE | Spencer Miles vs Gavin Williams | TOR | -110 | 60.6% | 8.2% | HIGH | Elite pitching matchup |
+| OAK @ TEX | Brady Basso vs MacKenzie Gore | TEX | -110 | 58.6% | 6.2% | HIGH | Standard play |
 
 ---
 
