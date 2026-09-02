@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, September 01, 2026
+# MLB Picks - Wednesday, September 02, 2026
 
-*Last updated: 2026-09-01 07:48 PM ET*
+*Last updated: 2026-09-02 05:48 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,22 +10,22 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | TOR @ CLE |
-| Starting Pitchers | Spencer Miles vs Gavin Williams |
+| Matchup | OAK @ TEX |
+| Starting Pitchers | Jacob Lopez vs Cody Bradford |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.2% |
+| Edge Over Market | 10.6% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | OAK @ TEX |
-| Starting Pitchers | Brady Basso vs MacKenzie Gore |
+| Matchup | CWS @ HOU |
+| Starting Pitchers | Davis Martin vs Hayden Wesneski |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.2% |
-| Confidence | HIGH |
+| Edge Over Market | 4.5% |
+| Confidence | MEDIUM |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TOR @ CLE | Spencer Miles vs Gavin Williams | TOR | -110 | 60.6% | 8.2% | HIGH | Elite pitching matchup |
-| OAK @ TEX | Brady Basso vs MacKenzie Gore | TEX | -110 | 58.6% | 6.2% | HIGH | Standard play |
+| OAK @ TEX | Jacob Lopez vs Cody Bradford | TEX | -110 | 62.9% | 10.6% | HIGH | Strong value |
+| CWS @ HOU | Davis Martin vs Hayden Wesneski | HOU | -110 | 56.9% | 4.5% | MEDIUM | Standard play |
 
 ---
 
