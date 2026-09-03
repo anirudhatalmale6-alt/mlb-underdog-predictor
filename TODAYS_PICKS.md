@@ -1,6 +1,6 @@
-# MLB Picks - Wednesday, September 02, 2026
+# MLB Picks - Thursday, September 03, 2026
 
-*Last updated: 2026-09-02 07:39 PM ET*
+*Last updated: 2026-09-03 05:45 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,21 +10,21 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | OAK @ TEX |
-| Starting Pitchers | Jacob Lopez vs Cody Bradford |
+| Matchup | STL @ LAD |
+| Starting Pitchers | Quinn Mathews vs Tarik Skubal |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.6% |
+| Edge Over Market | 8.5% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | CWS @ HOU |
-| Starting Pitchers | Davis Martin vs Hayden Wesneski |
+| Matchup | MIL @ CHC |
+| Starting Pitchers | Logan Henderson vs Kevin Gausman |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.5% |
+| Edge Over Market | 4.2% |
 | Confidence | MEDIUM |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| OAK @ TEX | Jacob Lopez vs Cody Bradford | TEX | -110 | 62.9% | 10.6% | HIGH | Strong value |
-| CWS @ HOU | Davis Martin vs Hayden Wesneski | HOU | -110 | 56.9% | 4.5% | MEDIUM | Standard play |
+| STL @ LAD | Quinn Mathews vs Tarik Skubal | LAD | -110 | 60.9% | 8.5% | HIGH | Standard play |
+| MIL @ CHC | Logan Henderson vs Kevin Gausman | MIL | -110 | 56.6% | 4.2% | MEDIUM | Standard play |
 
 ---
 
