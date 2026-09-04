@@ -1,6 +1,6 @@
-# MLB Picks - Thursday, September 03, 2026
+# MLB Picks - Friday, September 04, 2026
 
-*Last updated: 2026-09-03 07:41 PM ET*
+*Last updated: 2026-09-04 05:31 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,22 +10,22 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | STL @ LAD |
-| Starting Pitchers | Quinn Mathews vs Tarik Skubal |
+| Matchup | OAK @ SEA |
+| Starting Pitchers | Kade Morris vs Logan Gilbert |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.5% |
+| Edge Over Market | 11.4% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIL @ CHC |
-| Starting Pitchers | Logan Henderson vs Kevin Gausman |
+| Matchup | WSH @ LAD |
+| Starting Pitchers | Jackson Kent vs Blake Snell |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.2% |
-| Confidence | MEDIUM |
+| Edge Over Market | 8.0% |
+| Confidence | HIGH |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| STL @ LAD | Quinn Mathews vs Tarik Skubal | LAD | -110 | 60.9% | 8.5% | HIGH | Standard play |
-| MIL @ CHC | Logan Henderson vs Kevin Gausman | MIL | -110 | 56.6% | 4.2% | MEDIUM | Standard play |
+| OAK @ SEA | Kade Morris vs Logan Gilbert | SEA | -110 | 63.8% | 11.4% | HIGH | Strong value |
+| WSH @ LAD | Jackson Kent vs Blake Snell | LAD | -110 | 60.4% | 8.0% | HIGH | Standard play |
 
 ---
 

@@ -1,0 +1,33 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-09-04,SEA,OAK,Logan Gilbert,Kade Morris,SEA,-110,0.6378,0.114,11.4%,HIGH,True,Strong value,
+1ST INN ML,2026-09-04,LAD,WSH,Blake Snell,Jackson Kent,LAD,-110,0.604,0.0802,8.0%,HIGH,True,Standard play,
+1ST INN ML,2026-09-04,PHI,ATL,Cristopher Sánchez,Chris Sale,ATL,-110,0.5848,0.061,6.1%,HIGH,False,Elite pitching matchup,
+1ST INN ML,2026-09-04,CLE,DET,Foster Griffin,Andrew Sears,CLE,-110,0.5683,0.0445,4.4%,MEDIUM,False,Standard play,
+1ST INN ML,2026-09-04,TEX,TB,Trevor Williams,Nick Martinez,TB,-110,0.5561,0.0323,3.2%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-09-04,KC,TOR,Daniel Lynch IV,Jameson Taillon,KC,-110,0.5521,0.0283,2.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-04,CLE,DET,Logan Allen,Keider Montero,DET,-110,0.5443,0.0205,2.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-04,NYM,SF,Nolan McLean,Matt Wilkinson,NYM,-110,0.5414,0.0175,1.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-04,HOU,ARI,Cristian Javier,Merrill Kelly,HOU,-110,0.5365,0.0127,1.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-04,CIN,MIL,Rhett Lowder,Shane Drohan,CIN,-110,0.5357,0.0119,1.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-04,SD,NYY,Walker Buehler,Max Fried,NYY,-110,0.5309,0.0071,0.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-04,MIA,CHC,Janson Junk,Shota Imanaga,MIA,-110,0.5225,-0.0013,-0.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-04,CWS,MIN,Erick Fedde,Zebby Matthews,CWS,-110,0.5192,-0.0046,-0.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-04,BAL,BOS,Shane Baz,Ranger Suarez,BAL,-110,0.5182,-0.0056,-0.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-04,COL,STL,Ryan Feltner,Andre Pallante,STL,-110,0.5158,-0.008,-0.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-04,PIT,LAA,Jared Jones,Ryan Johnson,LAA,-110,0.5138,-0.01,-1.0%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-09-04,SD,NYY,Walker Buehler,Max Fried,UNDER 0.5,-110,0.5826,0.0588,5.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-04,TEX,TB,Trevor Williams,Nick Martinez,UNDER 0.5,-110,0.5525,0.0287,2.9%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-09-04,CLE,DET,Logan Allen,Keider Montero,UNDER 0.5,-110,0.5468,0.023,2.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-04,PHI,ATL,Cristopher Sánchez,Chris Sale,OVER 0.5,-110,0.543,0.0192,1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-04,KC,TOR,Daniel Lynch IV,Jameson Taillon,OVER 0.5,-110,0.5422,0.0184,1.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-04,BAL,BOS,Shane Baz,Ranger Suarez,UNDER 0.5,-110,0.5347,0.0109,1.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-04,SEA,OAK,Logan Gilbert,Kade Morris,UNDER 0.5,-110,0.534,0.0102,1.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-04,MIA,CHC,Janson Junk,Shota Imanaga,UNDER 0.5,-110,0.5285,0.0047,0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-04,LAD,WSH,Blake Snell,Jackson Kent,OVER 0.5,-110,0.5275,0.0037,0.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-04,CWS,MIN,Erick Fedde,Zebby Matthews,UNDER 0.5,-110,0.5231,-0.0007,-0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-04,PIT,LAA,Jared Jones,Ryan Johnson,OVER 0.5,-110,0.5225,-0.0013,-0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-04,CLE,DET,Foster Griffin,Andrew Sears,OVER 0.5,-110,0.5209,-0.0029,-0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-04,CIN,MIL,Rhett Lowder,Shane Drohan,OVER 0.5,-110,0.5147,-0.0091,-0.9%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-09-04,NYM,SF,Nolan McLean,Matt Wilkinson,UNDER 0.5,-110,0.5073,-0.0166,-1.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-04,COL,STL,Ryan Feltner,Andre Pallante,OVER 0.5,-110,0.5031,-0.0207,-2.1%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-09-04,HOU,ARI,Cristian Javier,Merrill Kelly,OVER 0.5,-110,0.5017,-0.0221,-2.2%,NO PLAY,False,Standard play,0.5
