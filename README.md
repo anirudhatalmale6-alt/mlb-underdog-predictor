@@ -160,3 +160,6 @@ mlb-predictor/
 - **Bankroll management matters.** Never bet more than you can afford to lose. The Kelly criterion output can help size bets, but use fractional Kelly (25-50% of full Kelly) for safety.
 - **The model improves with more data.** Run the backtest periodically with updated seasons to retrain.
 - **API costs:** The Odds API free tier (500 req/month) is sufficient. Paid plans start at ~$20/month if you need more.
+
+
+<!-- Security scan triggered at 2026-09-04 13:00:42 -->
