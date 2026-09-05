@@ -1,6 +1,6 @@
-# MLB Picks - Friday, September 04, 2026
+# MLB Picks - Saturday, September 05, 2026
 
-*Last updated: 2026-09-04 07:21 PM ET*
+*Last updated: 2026-09-05 04:42 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,21 +10,21 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | OAK @ SEA |
-| Starting Pitchers | Kade Morris vs Logan Gilbert |
+| Matchup | ATL @ PHI |
+| Starting Pitchers | Martín Pérez vs Zack Wheeler |
 | Model Win Probability | 0 |
-| Edge Over Market | 11.4% |
+| Edge Over Market | 8.4% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Elite pitching matchup |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | WSH @ LAD |
-| Starting Pitchers | Jackson Kent vs Blake Snell |
+| Matchup | STL @ COL |
+| Starting Pitchers | Matthew Liberatore vs Mason Adams |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.0% |
+| Edge Over Market | 7.4% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| OAK @ SEA | Kade Morris vs Logan Gilbert | SEA | -110 | 63.8% | 11.4% | HIGH | Strong value |
-| WSH @ LAD | Jackson Kent vs Blake Snell | LAD | -110 | 60.4% | 8.0% | HIGH | Standard play |
+| ATL @ PHI | Martín Pérez vs Zack Wheeler | ATL | -110 | 60.8% | 8.4% | HIGH | Elite pitching matchup |
+| STL @ COL | Matthew Liberatore vs Mason Adams | COL | -110 | 59.8% | 7.4% | HIGH | Standard play |
 
 ---
 
