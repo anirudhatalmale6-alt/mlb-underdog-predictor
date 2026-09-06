@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, September 05, 2026
+# MLB Picks - Sunday, September 06, 2026
 
-*Last updated: 2026-09-05 06:54 PM ET*
+*Last updated: 2026-09-06 04:49 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | ATL @ PHI |
-| Starting Pitchers | Martín Pérez vs Zack Wheeler |
+| Matchup | DET @ CLE |
+| Starting Pitchers | Jackson Jobe vs Gavin Williams |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.4% |
-| Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 5.2% |
+| Confidence | MEDIUM |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | STL @ COL |
-| Starting Pitchers | Matthew Liberatore vs Mason Adams |
+| Matchup | LAA @ PIT |
+| Starting Pitchers | Walbert Ureña vs Paul Skenes |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.4% |
-| Confidence | HIGH |
-| Notes | Standard play |
+| Edge Over Market | 5.2% |
+| Confidence | MEDIUM |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| ATL @ PHI | Martín Pérez vs Zack Wheeler | ATL | -110 | 60.8% | 8.4% | HIGH | Elite pitching matchup |
-| STL @ COL | Matthew Liberatore vs Mason Adams | COL | -110 | 59.8% | 7.4% | HIGH | Standard play |
+| DET @ CLE | Jackson Jobe vs Gavin Williams | CLE | -110 | 57.6% | 5.2% | MEDIUM | Standard play |
+| LAA @ PIT | Walbert Ureña vs Paul Skenes | LAA | -110 | 57.5% | 5.2% | MEDIUM | Elite pitching matchup |
 
 ---
 
