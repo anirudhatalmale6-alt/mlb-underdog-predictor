@@ -1,0 +1,23 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-09-07,OAK,TOR,Jacob Lopez,Dylan Cease,TOR,-110,0.5936,0.0698,7.0%,HIGH,True,Elite pitching matchup,
+1ST INN ML,2026-09-07,LAD,CIN,TBD,Chase Burns,CIN,-110,0.5927,0.0689,6.9%,HIGH,True,Standard play,
+1ST INN ML,2026-09-07,SD,WSH,Nick Pivetta,Jake Irvin,SD,-110,0.5861,0.0623,6.2%,HIGH,False,Standard play,
+1ST INN ML,2026-09-07,KC,ARI,Noah Cameron,Derek Law,ARI,-110,0.5658,0.042,4.2%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-09-07,DET,MIN,Troy Melton,Joe Ryan,MIN,-110,0.5468,0.023,2.3%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-09-07,BOS,LAA,Brayan Bello,Grayson Rodriguez,LAA,-110,0.545,0.0211,2.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-07,BAL,CLE,Trevor Rogers,Joey Cantillo,BAL,-110,0.5424,0.0186,1.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-07,MIA,NYM,Eury Pérez,Jonah Tong,MIA,-110,0.5199,-0.0039,-0.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-07,PHI,ATL,Jesús Luzardo,Grant Holmes,PHI,-110,0.5187,-0.0051,-0.5%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-09-07,MIL,CHC,Robert Gasser,Matthew Boyd,MIL,-110,0.5106,-0.0132,-1.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-07,SF,STL,Logan Webb,Michael McGreevy,SF,-110,0.5062,-0.0176,-1.8%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-09-07,DET,MIN,Troy Melton,Joe Ryan,OVER 0.5,-110,0.5882,0.0644,6.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-07,PHI,ATL,Jesús Luzardo,Grant Holmes,OVER 0.5,-110,0.57,0.0462,4.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-07,OAK,TOR,Jacob Lopez,Dylan Cease,UNDER 0.5,-110,0.5648,0.041,4.1%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-09-07,BOS,LAA,Brayan Bello,Grayson Rodriguez,OVER 0.5,-110,0.5526,0.0288,2.9%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-09-07,LAD,CIN,TBD,Chase Burns,UNDER 0.5,-110,0.5449,0.021,2.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-07,MIL,CHC,Robert Gasser,Matthew Boyd,UNDER 0.5,-110,0.5284,0.0046,0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-07,SD,WSH,Nick Pivetta,Jake Irvin,UNDER 0.5,-110,0.5253,0.0015,0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-07,BAL,CLE,Trevor Rogers,Joey Cantillo,OVER 0.5,-110,0.5183,-0.0055,-0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-07,MIA,NYM,Eury Pérez,Jonah Tong,UNDER 0.5,-110,0.5099,-0.0139,-1.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-07,SF,STL,Logan Webb,Michael McGreevy,OVER 0.5,-110,0.5091,-0.0147,-1.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-07,KC,ARI,Noah Cameron,Derek Law,UNDER 0.5,-110,0.5065,-0.0173,-1.7%,NO PLAY,False,Elite SPs keep 1st clean,0.5

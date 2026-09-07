@@ -1,6 +1,6 @@
-# MLB Picks - Sunday, September 06, 2026
+# MLB Picks - Monday, September 07, 2026
 
-*Last updated: 2026-09-06 06:57 PM ET*
+*Last updated: 2026-09-07 06:40 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | DET @ CLE |
-| Starting Pitchers | Jackson Jobe vs Gavin Williams |
+| Matchup | TOR @ OAK |
+| Starting Pitchers | Dylan Cease vs Jacob Lopez |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.2% |
-| Confidence | MEDIUM |
-| Notes | Standard play |
+| Edge Over Market | 7.0% |
+| Confidence | HIGH |
+| Notes | Elite pitching matchup |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAA @ PIT |
-| Starting Pitchers | Walbert Ureña vs Paul Skenes |
+| Matchup | CIN @ LAD |
+| Starting Pitchers | Chase Burns vs TBD |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.2% |
-| Confidence | MEDIUM |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 6.9% |
+| Confidence | HIGH |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| DET @ CLE | Jackson Jobe vs Gavin Williams | CLE | -110 | 57.6% | 5.2% | MEDIUM | Standard play |
-| LAA @ PIT | Walbert Ureña vs Paul Skenes | LAA | -110 | 57.5% | 5.2% | MEDIUM | Elite pitching matchup |
+| TOR @ OAK | Dylan Cease vs Jacob Lopez | TOR | -110 | 59.4% | 7.0% | HIGH | Elite pitching matchup |
+| CIN @ LAD | Chase Burns vs TBD | CIN | -110 | 59.3% | 6.9% | HIGH | Standard play |
 
 ---
 
