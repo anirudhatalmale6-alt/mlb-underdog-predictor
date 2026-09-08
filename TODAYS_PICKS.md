@@ -1,6 +1,6 @@
-# MLB Picks - Monday, September 07, 2026
+# MLB Picks - Tuesday, September 08, 2026
 
-*Last updated: 2026-09-07 08:24 PM ET*
+*Last updated: 2026-09-08 05:52 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | TOR @ OAK |
-| Starting Pitchers | Dylan Cease vs Jacob Lopez |
+| Matchup | CIN @ LAD |
+| Starting Pitchers | Nick Lodolo vs Tarik Skubal |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.0% |
+| Edge Over Market | 8.2% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | CIN @ LAD |
-| Starting Pitchers | Chase Burns vs TBD |
+| Matchup | ARI @ KC |
+| Starting Pitchers | Corbin Burnes vs Michael Wacha |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.9% |
+| Edge Over Market | 6.6% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TOR @ OAK | Dylan Cease vs Jacob Lopez | TOR | -110 | 59.4% | 7.0% | HIGH | Elite pitching matchup |
-| CIN @ LAD | Chase Burns vs TBD | CIN | -110 | 59.3% | 6.9% | HIGH | Standard play |
+| CIN @ LAD | Nick Lodolo vs Tarik Skubal | LAD | -110 | 60.6% | 8.2% | HIGH | Standard play |
+| ARI @ KC | Corbin Burnes vs Michael Wacha | ARI | -110 | 58.9% | 6.6% | HIGH | Elite pitching matchup |
 
 ---
 

@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-09-08,LAD,CIN,Tarik Skubal,Nick Lodolo,LAD,-110,0.6059,0.0821,8.2%,HIGH,True,Standard play,
+1ST INN ML,2026-09-08,KC,ARI,Michael Wacha,Corbin Burnes,ARI,-110,0.5894,0.0656,6.6%,HIGH,True,Elite pitching matchup,
+1ST INN ML,2026-09-08,NYY,COL,Cam Schlittler,Gabriel Hughes,NYY,-110,0.5835,0.0597,6.0%,MEDIUM,False,Standard play,
+1ST INN ML,2026-09-08,CWS,PIT,Sean Burke,Bubba Chandler,CWS,-110,0.5802,0.0564,5.6%,MEDIUM,False,Standard play,
+1ST INN ML,2026-09-08,OAK,TOR,Jack Perkins,José Soriano,OAK,-110,0.5663,0.0424,4.2%,MEDIUM,False,Standard play,
+1ST INN ML,2026-09-08,MIL,CHC,Jacob Misiorowski,David Peterson,MIL,-110,0.5615,0.0377,3.8%,LOW,False,Standard play,
+1ST INN ML,2026-09-08,PHI,HOU,Andrew Painter,Hayden Wesneski,HOU,-110,0.5579,0.0341,3.4%,LOW,False,Standard play,
+1ST INN ML,2026-09-08,SD,WSH,Casey Mize,Riley Cornelio,SD,-110,0.552,0.0282,2.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-08,BAL,CLE,Brandon Young,Tanner Bibee,BAL,-110,0.5501,0.0263,2.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-08,SF,STL,Landen Roupp,Quinn Mathews,SF,-110,0.5485,0.0247,2.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-08,MIA,NYM,Sandy Alcantara,Sean Manaea,MIA,-110,0.5475,0.0237,2.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-08,SEA,TEX,TBD,TBD,SEA,-110,0.5385,0.0147,1.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-08,BOS,LAA,Patrick Sandoval,Reid Detmers,LAA,-110,0.5268,0.003,0.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-08,DET,MIN,Drew Anderson,Dean Kremer,DET,-110,0.5263,0.0025,0.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-08,ATL,TB,AJ Smith-Shawver,Freddy Peralta,ATL,-110,0.5013,-0.0225,-2.3%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-09-08,PHI,HOU,Andrew Painter,Hayden Wesneski,UNDER 0.5,-110,0.5616,0.0378,3.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-08,SD,WSH,Casey Mize,Riley Cornelio,UNDER 0.5,-110,0.5468,0.023,2.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-08,MIL,CHC,Jacob Misiorowski,David Peterson,OVER 0.5,-110,0.5429,0.0191,1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-08,SEA,TEX,TBD,TBD,UNDER 0.5,-110,0.5289,0.0051,0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-08,KC,ARI,Michael Wacha,Corbin Burnes,OVER 0.5,-110,0.5261,0.0023,0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-08,NYY,COL,Cam Schlittler,Gabriel Hughes,OVER 0.5,-110,0.5257,0.0019,0.2%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-09-08,CWS,PIT,Sean Burke,Bubba Chandler,UNDER 0.5,-110,0.5231,-0.0008,-0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-08,ATL,TB,AJ Smith-Shawver,Freddy Peralta,UNDER 0.5,-110,0.5224,-0.0014,-0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-08,DET,MIN,Drew Anderson,Dean Kremer,UNDER 0.5,-110,0.522,-0.0018,-0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-08,BAL,CLE,Brandon Young,Tanner Bibee,UNDER 0.5,-110,0.5192,-0.0046,-0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-08,MIA,NYM,Sandy Alcantara,Sean Manaea,UNDER 0.5,-110,0.5177,-0.0061,-0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-08,OAK,TOR,Jack Perkins,José Soriano,UNDER 0.5,-110,0.5166,-0.0073,-0.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-08,SF,STL,Landen Roupp,Quinn Mathews,UNDER 0.5,-110,0.5144,-0.0094,-0.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-08,BOS,LAA,Patrick Sandoval,Reid Detmers,UNDER 0.5,-110,0.5076,-0.0162,-1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-08,LAD,CIN,Tarik Skubal,Nick Lodolo,OVER 0.5,-110,0.5031,-0.0207,-2.1%,NO PLAY,False,Standard play,0.5
