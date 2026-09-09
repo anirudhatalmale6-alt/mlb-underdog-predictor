@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, September 08, 2026
+# MLB Picks - Wednesday, September 09, 2026
 
-*Last updated: 2026-09-08 07:47 PM ET*
+*Last updated: 2026-09-09 05:45 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CIN @ LAD |
-| Starting Pitchers | Nick Lodolo vs Tarik Skubal |
+| Matchup | LAA @ BOS |
+| Starting Pitchers | Ryan Johnson vs Jake Bennett |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.2% |
+| Edge Over Market | 6.2% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,12 +21,12 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | ARI @ KC |
-| Starting Pitchers | Corbin Burnes vs Michael Wacha |
+| Matchup | WSH @ SD |
+| Starting Pitchers | Jackson Kent vs Walker Buehler |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.6% |
-| Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 5.0% |
+| Confidence | MEDIUM |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CIN @ LAD | Nick Lodolo vs Tarik Skubal | LAD | -110 | 60.6% | 8.2% | HIGH | Standard play |
-| ARI @ KC | Corbin Burnes vs Michael Wacha | ARI | -110 | 58.9% | 6.6% | HIGH | Elite pitching matchup |
+| LAA @ BOS | Ryan Johnson vs Jake Bennett | BOS | -110 | 58.6% | 6.2% | HIGH | Standard play |
+| WSH @ SD | Jackson Kent vs Walker Buehler | SD | -110 | 57.4% | 5.0% | MEDIUM | Standard play |
 
 ---
 
