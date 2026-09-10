@@ -1,0 +1,11 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-09-10,PHI,HOU,Zack Wheeler,Cristian Javier,PHI,-110,0.6042,0.0804,8.0%,HIGH,True,Standard play,
+1ST INN ML,2026-09-10,ATL,TB,Martín Pérez,Nick Martinez,TB,-110,0.5544,0.0306,3.1%,LOW,True,Elite pitching matchup,
+1ST INN ML,2026-09-10,NYY,COL,Max Fried,Ryan Feltner,NYY,-110,0.552,0.0282,2.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-10,SEA,TEX,Logan Gilbert,Jacob deGrom,SEA,-110,0.5276,0.0038,0.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-10,CWS,PIT,Hagen Smith,Jared Jones,CWS,-110,0.5013,-0.0225,-2.3%,NO PLAY,False,Elite pitching matchup,
+1ST INN TOTAL,2026-09-10,CWS,PIT,Hagen Smith,Jared Jones,OVER 0.5,-110,0.5455,0.0217,2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-10,NYY,COL,Max Fried,Ryan Feltner,OVER 0.5,-110,0.5276,0.0038,0.4%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-09-10,ATL,TB,Martín Pérez,Nick Martinez,OVER 0.5,-110,0.5256,0.0018,0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-10,PHI,HOU,Zack Wheeler,Cristian Javier,OVER 0.5,-110,0.525,0.0012,0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-10,SEA,TEX,Logan Gilbert,Jacob deGrom,UNDER 0.5,-110,0.5209,-0.0029,-0.3%,NO PLAY,False,Standard play,0.5

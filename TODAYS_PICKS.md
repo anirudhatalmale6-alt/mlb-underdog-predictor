@@ -1,6 +1,6 @@
-# MLB Picks - Wednesday, September 09, 2026
+# MLB Picks - Thursday, September 10, 2026
 
-*Last updated: 2026-09-09 07:38 PM ET*
+*Last updated: 2026-09-10 05:37 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAA @ BOS |
-| Starting Pitchers | Ryan Johnson vs Jake Bennett |
+| Matchup | HOU @ PHI |
+| Starting Pitchers | Cristian Javier vs Zack Wheeler |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.2% |
+| Edge Over Market | 8.0% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,12 +21,12 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | WSH @ SD |
-| Starting Pitchers | Jackson Kent vs Walker Buehler |
+| Matchup | TB @ ATL |
+| Starting Pitchers | Nick Martinez vs Martín Pérez |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.0% |
-| Confidence | MEDIUM |
-| Notes | Standard play |
+| Edge Over Market | 3.1% |
+| Confidence | LOW |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAA @ BOS | Ryan Johnson vs Jake Bennett | BOS | -110 | 58.6% | 6.2% | HIGH | Standard play |
-| WSH @ SD | Jackson Kent vs Walker Buehler | SD | -110 | 57.4% | 5.0% | MEDIUM | Standard play |
+| HOU @ PHI | Cristian Javier vs Zack Wheeler | PHI | -110 | 60.4% | 8.0% | HIGH | Standard play |
+| TB @ ATL | Nick Martinez vs Martín Pérez | TB | -110 | 55.4% | 3.1% | LOW | Elite pitching matchup |
 
 ---
 
