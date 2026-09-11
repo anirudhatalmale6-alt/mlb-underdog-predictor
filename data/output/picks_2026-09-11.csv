@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-09-11,WSH,LAA,Cade Cavalli,Yusei Kikuchi,WSH,-110,0.6431,0.1192,11.9%,HIGH,True,Strong value,
+1ST INN ML,2026-09-11,BOS,KC,Sonny Gray,Seth Lugo,BOS,-110,0.5959,0.0721,7.2%,HIGH,True,Standard play,
+1ST INN ML,2026-09-11,MIL,CIN,Dustin May,Andrew Abbott,MIL,-110,0.5664,0.0426,4.3%,MEDIUM,False,Standard play,
+1ST INN ML,2026-09-11,STL,CWS,Matthew Liberatore,Anthony Kay,STL,-110,0.5545,0.0307,3.1%,LOW,False,Standard play,
+1ST INN ML,2026-09-11,MIN,CLE,Taj Bradley,Parker Messick,CLE,-110,0.5543,0.0305,3.0%,LOW,False,Elite pitching matchup,
+1ST INN ML,2026-09-11,CHC,PIT,Shota Imanaga,Wilber Dotel,CHC,-110,0.5514,0.0276,2.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-11,OAK,SEA,Jeffrey Springs,George Kirby,SEA,-110,0.5484,0.0246,2.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-11,TB,HOU,Drew Rasmussen,Miguel Ullola,HOU,-110,0.5417,0.0179,1.8%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-09-11,NYY,NYM,Carlos Rodón,Nolan McLean,NYM,-110,0.541,0.0172,1.7%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-09-11,ARI,TEX,TBD,MacKenzie Gore,ARI,-110,0.5379,0.0141,1.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-11,DET,COL,Framber Valdez,Mason Adams,DET,-110,0.5323,0.0085,0.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-11,ATL,PHI,Chris Sale,Aaron Nola,ATL,-110,0.5311,0.0073,0.7%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-09-11,MIA,LAD,Ryan Gusto,TBD,LAD,-110,0.5097,-0.0141,-1.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-11,SF,SD,Anthony Molina,Robbie Ray,SD,-110,0.5083,-0.0155,-1.5%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-09-11,TOR,BAL,Max Scherzer,Chris Bassitt,BAL,-110,0.5001,-0.0237,-2.4%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-09-11,MIN,CLE,Taj Bradley,Parker Messick,UNDER 0.5,-110,0.5683,0.0445,4.5%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-09-11,NYY,NYM,Carlos Rodón,Nolan McLean,OVER 0.5,-110,0.5608,0.037,3.7%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-09-11,SF,SD,Anthony Molina,Robbie Ray,OVER 0.5,-110,0.5474,0.0236,2.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-11,TB,HOU,Drew Rasmussen,Miguel Ullola,OVER 0.5,-110,0.5375,0.0137,1.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-11,MIA,LAD,Ryan Gusto,TBD,UNDER 0.5,-110,0.5272,0.0034,0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-11,OAK,SEA,Jeffrey Springs,George Kirby,UNDER 0.5,-110,0.5271,0.0033,0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-11,TOR,BAL,Max Scherzer,Chris Bassitt,OVER 0.5,-110,0.5179,-0.0059,-0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-11,DET,COL,Framber Valdez,Mason Adams,UNDER 0.5,-110,0.5125,-0.0113,-1.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-11,WSH,LAA,Cade Cavalli,Yusei Kikuchi,UNDER 0.5,-110,0.5094,-0.0144,-1.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-11,ATL,PHI,Chris Sale,Aaron Nola,OVER 0.5,-110,0.5085,-0.0153,-1.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-11,ARI,TEX,TBD,MacKenzie Gore,OVER 0.5,-110,0.5085,-0.0153,-1.5%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-09-11,STL,CWS,Matthew Liberatore,Anthony Kay,UNDER 0.5,-110,0.5075,-0.0163,-1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-11,MIL,CIN,Dustin May,Andrew Abbott,OVER 0.5,-110,0.5052,-0.0186,-1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-11,CHC,PIT,Shota Imanaga,Wilber Dotel,OVER 0.5,-110,0.5046,-0.0192,-1.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-11,BOS,KC,Sonny Gray,Seth Lugo,OVER 0.5,-110,0.5001,-0.0237,-2.4%,NO PLAY,False,Hitter-friendly park,0.5

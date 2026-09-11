@@ -1,6 +1,6 @@
-# MLB Picks - Thursday, September 10, 2026
+# MLB Picks - Friday, September 11, 2026
 
-*Last updated: 2026-09-10 07:29 PM ET*
+*Last updated: 2026-09-11 05:41 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | HOU @ PHI |
-| Starting Pitchers | Cristian Javier vs Zack Wheeler |
+| Matchup | LAA @ WSH |
+| Starting Pitchers | Yusei Kikuchi vs Cade Cavalli |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.0% |
+| Edge Over Market | 11.9% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | TB @ ATL |
-| Starting Pitchers | Nick Martinez vs Martín Pérez |
+| Matchup | KC @ BOS |
+| Starting Pitchers | Seth Lugo vs Sonny Gray |
 | Model Win Probability | 0 |
-| Edge Over Market | 3.1% |
-| Confidence | LOW |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 7.2% |
+| Confidence | HIGH |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| HOU @ PHI | Cristian Javier vs Zack Wheeler | PHI | -110 | 60.4% | 8.0% | HIGH | Standard play |
-| TB @ ATL | Nick Martinez vs Martín Pérez | TB | -110 | 55.4% | 3.1% | LOW | Elite pitching matchup |
+| LAA @ WSH | Yusei Kikuchi vs Cade Cavalli | WSH | -110 | 64.3% | 11.9% | HIGH | Strong value |
+| KC @ BOS | Seth Lugo vs Sonny Gray | BOS | -110 | 59.6% | 7.2% | HIGH | Standard play |
 
 ---
 
