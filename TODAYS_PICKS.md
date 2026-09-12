@@ -1,6 +1,6 @@
-# MLB Picks - Friday, September 11, 2026
+# MLB Picks - Saturday, September 12, 2026
 
-*Last updated: 2026-09-11 07:29 PM ET*
+*Last updated: 2026-09-12 04:54 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,21 +10,21 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAA @ WSH |
-| Starting Pitchers | Yusei Kikuchi vs Cade Cavalli |
+| Matchup | SD @ SF |
+| Starting Pitchers | Michael King vs Cesar Perdomo |
 | Model Win Probability | 0 |
-| Edge Over Market | 11.9% |
+| Edge Over Market | 10.6% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Elite pitching matchup; Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | KC @ BOS |
-| Starting Pitchers | Seth Lugo vs Sonny Gray |
+| Matchup | TEX @ ARI |
+| Starting Pitchers | Kumar Rocker vs Brandon Pfaadt |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.2% |
+| Edge Over Market | 8.0% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAA @ WSH | Yusei Kikuchi vs Cade Cavalli | WSH | -110 | 64.3% | 11.9% | HIGH | Strong value |
-| KC @ BOS | Seth Lugo vs Sonny Gray | BOS | -110 | 59.6% | 7.2% | HIGH | Standard play |
+| SD @ SF | Michael King vs Cesar Perdomo | SD | -110 | 62.9% | 10.6% | HIGH | Elite pitching matchup; Strong value |
+| TEX @ ARI | Kumar Rocker vs Brandon Pfaadt | ARI | -110 | 60.4% | 8.0% | HIGH | Standard play |
 
 ---
 
