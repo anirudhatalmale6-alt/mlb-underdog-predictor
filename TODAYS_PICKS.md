@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, September 12, 2026
+# MLB Picks - Sunday, September 13, 2026
 
-*Last updated: 2026-09-12 07:04 PM ET*
+*Last updated: 2026-09-13 05:22 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | SD @ SF |
-| Starting Pitchers | Michael King vs Cesar Perdomo |
+| Matchup | COL @ DET |
+| Starting Pitchers | Gabriel Hughes vs Jackson Jobe |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.6% |
+| Edge Over Market | 6.4% |
 | Confidence | HIGH |
-| Notes | Elite pitching matchup; Strong value |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
 | Matchup | TEX @ ARI |
-| Starting Pitchers | Kumar Rocker vs Brandon Pfaadt |
+| Starting Pitchers | Cal Quantrill vs Eduardo Rodriguez |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.0% |
-| Confidence | HIGH |
-| Notes | Standard play |
+| Edge Over Market | 4.1% |
+| Confidence | MEDIUM |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SD @ SF | Michael King vs Cesar Perdomo | SD | -110 | 62.9% | 10.6% | HIGH | Elite pitching matchup; Strong value |
-| TEX @ ARI | Kumar Rocker vs Brandon Pfaadt | ARI | -110 | 60.4% | 8.0% | HIGH | Standard play |
+| COL @ DET | Gabriel Hughes vs Jackson Jobe | DET | -110 | 58.8% | 6.4% | HIGH | Standard play |
+| TEX @ ARI | Cal Quantrill vs Eduardo Rodriguez | TEX | -110 | 56.5% | 4.1% | MEDIUM | Elite pitching matchup |
 
 ---
 
