@@ -1,43 +1,31 @@
-# MLB Picks - Sunday, September 13, 2026
+# MLB Picks - Monday, September 14, 2026
 
-*Last updated: 2026-09-13 07:15 PM ET*
+*Last updated: 2026-09-14 07:10 PM ET*
 
 ## Moneyline Underdogs
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (1)
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | COL @ DET |
-| Starting Pitchers | Gabriel Hughes vs Jackson Jobe |
+| Matchup | CWS @ CLE |
+| Starting Pitchers | Sean Newcomb vs Gavin Williams |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.4% |
-| Confidence | HIGH |
-| Notes | Standard play |
-
-#### ??? (0)
-
-| Stat | Value |
-|------|-------|
-| Matchup | TEX @ ARI |
-| Starting Pitchers | Cal Quantrill vs Eduardo Rodriguez |
-| Model Win Probability | 0 |
-| Edge Over Market | 4.1% |
-| Confidence | MEDIUM |
+| Edge Over Market | 3.4% |
+| Confidence | LOW |
 | Notes | Elite pitching matchup |
 
 ---
 
 ## 1st Inning Moneyline
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (1)
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| COL @ DET | Gabriel Hughes vs Jackson Jobe | DET | -110 | 58.8% | 6.4% | HIGH | Standard play |
-| TEX @ ARI | Cal Quantrill vs Eduardo Rodriguez | TEX | -110 | 56.5% | 4.1% | MEDIUM | Elite pitching matchup |
+| CWS @ CLE | Sean Newcomb vs Gavin Williams | CWS | -110 | 55.8% | 3.4% | LOW | Elite pitching matchup |
 
 ---
 
