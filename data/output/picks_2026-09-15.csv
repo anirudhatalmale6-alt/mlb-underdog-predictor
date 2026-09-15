@@ -1,0 +1,31 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-09-15,ARI,MIA,Michael Soroka,Janson Junk,ARI,-110,0.5846,0.0608,6.1%,HIGH,True,Standard play,
+1ST INN ML,2026-09-15,TB,OAK,Griffin Jax,Jack Perkins,TB,-110,0.5791,0.0552,5.5%,MEDIUM,True,Standard play,
+1ST INN ML,2026-09-15,TEX,BOS,Jacob deGrom,Patrick Sandoval,TEX,-110,0.5711,0.0472,4.7%,MEDIUM,False,Standard play,
+1ST INN ML,2026-09-15,STL,SF,Andre Pallante,Blade Tidwell,STL,-110,0.5679,0.0441,4.4%,MEDIUM,False,Standard play,
+1ST INN ML,2026-09-15,PIT,MIL,Lake Bachar,Jacob Misiorowski,MIL,-110,0.5641,0.0403,4.0%,MEDIUM,False,Elite pitching matchup,
+1ST INN ML,2026-09-15,TOR,DET,Braydon Fisher,Drew Anderson,TOR,-110,0.558,0.0342,3.4%,LOW,False,Standard play,
+1ST INN ML,2026-09-15,CHC,ATL,Kevin Gausman,Martín Pérez,ATL,-110,0.5565,0.0326,3.3%,LOW,False,Standard play,
+1ST INN ML,2026-09-15,MIN,NYY,Bailey Ober,Max Fried,NYY,-110,0.5528,0.029,2.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-15,HOU,KC,Hunter Brown,Michael Wacha,KC,-110,0.549,0.0252,2.5%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-09-15,CIN,LAD,Rhett Lowder,Yoshinobu Yamamoto,LAD,-110,0.5457,0.0219,2.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-15,LAA,SEA,Ryan Johnson,Logan Gilbert,SEA,-110,0.5315,0.0077,0.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-15,CLE,CWS,Foster Griffin,Chris Murphy,CLE,-110,0.5226,-0.0012,-0.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-15,COL,SD,Kyle Freeland,Walker Buehler,SD,-110,0.5191,-0.0047,-0.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-15,NYM,BAL,Sean Manaea,Shane Baz,BAL,-110,0.5137,-0.0101,-1.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-15,WSH,PHI,Jackson Kent,Cristopher Sánchez,WSH,-110,0.5078,-0.0161,-1.6%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-09-15,COL,SD,Kyle Freeland,Walker Buehler,OVER 0.5,-110,0.5774,0.0536,5.4%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-09-15,WSH,PHI,Jackson Kent,Cristopher Sánchez,UNDER 0.5,-110,0.5691,0.0453,4.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-15,TB,OAK,Griffin Jax,Jack Perkins,OVER 0.5,-110,0.5675,0.0437,4.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-15,CIN,LAD,Rhett Lowder,Yoshinobu Yamamoto,UNDER 0.5,-110,0.5523,0.0284,2.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-15,HOU,KC,Hunter Brown,Michael Wacha,UNDER 0.5,-110,0.5417,0.0179,1.8%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-09-15,PIT,MIL,Lake Bachar,Jacob Misiorowski,OVER 0.5,-110,0.5289,0.0051,0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-15,MIN,NYY,Bailey Ober,Max Fried,UNDER 0.5,-110,0.526,0.0022,0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-15,LAA,SEA,Ryan Johnson,Logan Gilbert,UNDER 0.5,-110,0.5247,0.0009,0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-15,TEX,BOS,Jacob deGrom,Patrick Sandoval,OVER 0.5,-110,0.5178,-0.006,-0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-15,CHC,ATL,Kevin Gausman,Martín Pérez,UNDER 0.5,-110,0.5175,-0.0063,-0.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-15,STL,SF,Andre Pallante,Blade Tidwell,UNDER 0.5,-110,0.5165,-0.0073,-0.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-15,NYM,BAL,Sean Manaea,Shane Baz,UNDER 0.5,-110,0.5139,-0.0099,-1.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-15,ARI,MIA,Michael Soroka,Janson Junk,UNDER 0.5,-110,0.5056,-0.0182,-1.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-15,CLE,CWS,Foster Griffin,Chris Murphy,UNDER 0.5,-110,0.5017,-0.0222,-2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-15,TOR,DET,Braydon Fisher,Drew Anderson,OVER 0.5,-110,0.5006,-0.0232,-2.3%,NO PLAY,False,Standard play,0.5

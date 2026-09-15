@@ -1,31 +1,43 @@
-# MLB Picks - Monday, September 14, 2026
+# MLB Picks - Tuesday, September 15, 2026
 
-*Last updated: 2026-09-14 08:49 PM ET*
+*Last updated: 2026-09-15 06:04 PM ET*
 
 ## Moneyline Underdogs
 
-### RECOMMENDED PLAYS (1)
+### RECOMMENDED PLAYS (2)
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | CWS @ CLE |
-| Starting Pitchers | Sean Newcomb vs Gavin Williams |
+| Matchup | MIA @ ARI |
+| Starting Pitchers | Janson Junk vs Michael Soroka |
 | Model Win Probability | 0 |
-| Edge Over Market | 3.4% |
-| Confidence | LOW |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 6.1% |
+| Confidence | HIGH |
+| Notes | Standard play |
+
+#### ??? (0)
+
+| Stat | Value |
+|------|-------|
+| Matchup | OAK @ TB |
+| Starting Pitchers | Jack Perkins vs Griffin Jax |
+| Model Win Probability | 0 |
+| Edge Over Market | 5.5% |
+| Confidence | MEDIUM |
+| Notes | Standard play |
 
 ---
 
 ## 1st Inning Moneyline
 
-### RECOMMENDED PLAYS (1)
+### RECOMMENDED PLAYS (2)
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CWS @ CLE | Sean Newcomb vs Gavin Williams | CWS | -110 | 55.8% | 3.4% | LOW | Elite pitching matchup |
+| MIA @ ARI | Janson Junk vs Michael Soroka | ARI | -110 | 58.5% | 6.1% | HIGH | Standard play |
+| OAK @ TB | Jack Perkins vs Griffin Jax | TB | -110 | 57.9% | 5.5% | MEDIUM | Standard play |
 
 ---
 
