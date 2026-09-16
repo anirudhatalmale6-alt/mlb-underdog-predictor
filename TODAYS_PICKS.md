@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, September 15, 2026
+# MLB Picks - Wednesday, September 16, 2026
 
-*Last updated: 2026-09-15 08:05 PM ET*
+*Last updated: 2026-09-16 06:04 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIA @ ARI |
-| Starting Pitchers | Janson Junk vs Michael Soroka |
+| Matchup | NYY @ MIN |
+| Starting Pitchers | Carlos Rodón vs Zebby Matthews |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.1% |
+| Edge Over Market | 8.8% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,11 +21,11 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | OAK @ TB |
-| Starting Pitchers | Jack Perkins vs Griffin Jax |
+| Matchup | ATL @ CHC |
+| Starting Pitchers | JR Ritchie vs Shota Imanaga |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.5% |
-| Confidence | MEDIUM |
+| Edge Over Market | 8.3% |
+| Confidence | HIGH |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIA @ ARI | Janson Junk vs Michael Soroka | ARI | -110 | 58.5% | 6.1% | HIGH | Standard play |
-| OAK @ TB | Jack Perkins vs Griffin Jax | TB | -110 | 57.9% | 5.5% | MEDIUM | Standard play |
+| NYY @ MIN | Carlos Rodón vs Zebby Matthews | NYY | -110 | 61.2% | 8.8% | HIGH | Standard play |
+| ATL @ CHC | JR Ritchie vs Shota Imanaga | CHC | -110 | 60.7% | 8.3% | HIGH | Standard play |
 
 ---
 
