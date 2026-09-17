@@ -1,0 +1,19 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-09-17,NYM,PHI,Nolan McLean,Aaron Nola,NYM,-110,0.6093,0.0854,8.5%,HIGH,True,Standard play,
+1ST INN ML,2026-09-17,HOU,KC,TBD,Seth Lugo,HOU,-110,0.5497,0.0259,2.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-17,TB,OAK,Drew Rasmussen,Jeffrey Springs,TB,-110,0.5449,0.021,2.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-17,COL,SD,Tanner Gordon,Michael King,SD,-110,0.526,0.0022,0.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-17,LAA,MIN,Walbert Ureña,Taj Bradley,LAA,-110,0.5223,-0.0015,-0.2%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-09-17,CIN,LAD,Brady Singer,Justin Wrobleski,LAD,-110,0.5213,-0.0025,-0.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-17,TEX,BOS,Tyler Alexander,Sonny Gray,TEX,-110,0.5167,-0.0071,-0.7%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-09-17,CWS,DET,Erick Fedde,Framber Valdez,CWS,-110,0.5123,-0.0115,-1.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-17,PIT,MIL,Wilber Dotel,Kyle Harrison,PIT,-110,0.5062,-0.0177,-1.8%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-09-17,TB,OAK,Drew Rasmussen,Jeffrey Springs,OVER 0.5,-110,0.5396,0.0158,1.6%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-17,TEX,BOS,Tyler Alexander,Sonny Gray,UNDER 0.5,-110,0.5368,0.013,1.3%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-09-17,CIN,LAD,Brady Singer,Justin Wrobleski,UNDER 0.5,-110,0.5327,0.0089,0.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-17,LAA,MIN,Walbert Ureña,Taj Bradley,OVER 0.5,-110,0.5312,0.0074,0.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-17,COL,SD,Tanner Gordon,Michael King,OVER 0.5,-110,0.5214,-0.0024,-0.2%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-09-17,PIT,MIL,Wilber Dotel,Kyle Harrison,UNDER 0.5,-110,0.5191,-0.0047,-0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-17,CWS,DET,Erick Fedde,Framber Valdez,UNDER 0.5,-110,0.5103,-0.0135,-1.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-17,NYM,PHI,Nolan McLean,Aaron Nola,OVER 0.5,-110,0.5092,-0.0146,-1.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-17,HOU,KC,TBD,Seth Lugo,UNDER 0.5,-110,0.5053,-0.0185,-1.8%,NO PLAY,False,Standard play,0.5

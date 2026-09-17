@@ -1,30 +1,19 @@
-# MLB Picks - Wednesday, September 16, 2026
+# MLB Picks - Thursday, September 17, 2026
 
-*Last updated: 2026-09-16 07:55 PM ET*
+*Last updated: 2026-09-17 06:05 PM ET*
 
 ## Moneyline Underdogs
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (1)
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | NYY @ MIN |
-| Starting Pitchers | Carlos Rodón vs Zebby Matthews |
+| Matchup | PHI @ NYM |
+| Starting Pitchers | Aaron Nola vs Nolan McLean |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.8% |
-| Confidence | HIGH |
-| Notes | Standard play |
-
-#### ??? (0)
-
-| Stat | Value |
-|------|-------|
-| Matchup | ATL @ CHC |
-| Starting Pitchers | JR Ritchie vs Shota Imanaga |
-| Model Win Probability | 0 |
-| Edge Over Market | 8.3% |
+| Edge Over Market | 8.5% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -32,12 +21,11 @@
 
 ## 1st Inning Moneyline
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (1)
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| NYY @ MIN | Carlos Rodón vs Zebby Matthews | NYY | -110 | 61.2% | 8.8% | HIGH | Standard play |
-| ATL @ CHC | JR Ritchie vs Shota Imanaga | CHC | -110 | 60.7% | 8.3% | HIGH | Standard play |
+| PHI @ NYM | Aaron Nola vs Nolan McLean | NYM | -110 | 60.9% | 8.5% | HIGH | Standard play |
 
 ---
 
