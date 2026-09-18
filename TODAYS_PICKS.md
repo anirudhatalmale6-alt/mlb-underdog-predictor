@@ -1,31 +1,43 @@
-# MLB Picks - Thursday, September 17, 2026
+# MLB Picks - Friday, September 18, 2026
 
-*Last updated: 2026-09-17 08:05 PM ET*
+*Last updated: 2026-09-18 05:37 PM ET*
 
 ## Moneyline Underdogs
 
-### RECOMMENDED PLAYS (1)
+### RECOMMENDED PLAYS (2)
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | PHI @ NYM |
-| Starting Pitchers | Aaron Nola vs Nolan McLean |
+| Matchup | OAK @ CLE |
+| Starting Pitchers | Mason Barnett vs Daniel Espino |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.5% |
+| Edge Over Market | 13.8% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Strong value |
+
+#### ??? (0)
+
+| Stat | Value |
+|------|-------|
+| Matchup | WSH @ STL |
+| Starting Pitchers | Cade Cavalli vs Kyle Leahy |
+| Model Win Probability | 0 |
+| Edge Over Market | 7.1% |
+| Confidence | HIGH |
+| Notes | Elite pitching matchup |
 
 ---
 
 ## 1st Inning Moneyline
 
-### RECOMMENDED PLAYS (1)
+### RECOMMENDED PLAYS (2)
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| PHI @ NYM | Aaron Nola vs Nolan McLean | NYM | -110 | 60.9% | 8.5% | HIGH | Standard play |
+| OAK @ CLE | Mason Barnett vs Daniel Espino | CLE | -110 | 66.2% | 13.8% | HIGH | Strong value |
+| WSH @ STL | Cade Cavalli vs Kyle Leahy | WSH | -110 | 59.5% | 7.1% | HIGH | Elite pitching matchup |
 
 ---
 
