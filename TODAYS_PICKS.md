@@ -1,6 +1,6 @@
-# MLB Picks - Friday, September 18, 2026
+# MLB Picks - Saturday, September 19, 2026
 
-*Last updated: 2026-09-18 07:29 PM ET*
+*Last updated: 2026-09-19 05:07 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | OAK @ CLE |
-| Starting Pitchers | Mason Barnett vs Daniel Espino |
+| Matchup | SF @ LAD |
+| Starting Pitchers | Yunior Marte vs Tarik Skubal |
 | Model Win Probability | 0 |
-| Edge Over Market | 13.8% |
+| Edge Over Market | 7.7% |
 | Confidence | HIGH |
-| Notes | Strong value |
+| Notes | Elite pitching matchup |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | WSH @ STL |
-| Starting Pitchers | Cade Cavalli vs Kyle Leahy |
+| Matchup | PHI @ NYM |
+| Starting Pitchers | Andrew Painter vs Christian Scott |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.1% |
-| Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 4.3% |
+| Confidence | MEDIUM |
+| Notes | Standard play |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| OAK @ CLE | Mason Barnett vs Daniel Espino | CLE | -110 | 66.2% | 13.8% | HIGH | Strong value |
-| WSH @ STL | Cade Cavalli vs Kyle Leahy | WSH | -110 | 59.5% | 7.1% | HIGH | Elite pitching matchup |
+| SF @ LAD | Yunior Marte vs Tarik Skubal | SF | -110 | 60.1% | 7.7% | HIGH | Elite pitching matchup |
+| PHI @ NYM | Andrew Painter vs Christian Scott | NYM | -110 | 56.7% | 4.3% | MEDIUM | Standard play |
 
 ---
 
