@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, September 19, 2026
+# MLB Picks - Sunday, September 20, 2026
 
-*Last updated: 2026-09-19 07:14 PM ET*
+*Last updated: 2026-09-20 05:22 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,23 +10,23 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | SF @ LAD |
-| Starting Pitchers | Yunior Marte vs Tarik Skubal |
+| Matchup | OAK @ CLE |
+| Starting Pitchers | Jack Perkins vs Gavin Williams |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.7% |
-| Confidence | HIGH |
-| Notes | Elite pitching matchup |
+| Edge Over Market | 4.9% |
+| Confidence | MEDIUM |
+| Notes | Standard play |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | PHI @ NYM |
-| Starting Pitchers | Andrew Painter vs Christian Scott |
+| Matchup | DET @ CWS |
+| Starting Pitchers | Troy Melton vs Davis Martin |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.3% |
+| Edge Over Market | 4.8% |
 | Confidence | MEDIUM |
-| Notes | Standard play |
+| Notes | Elite pitching matchup |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| SF @ LAD | Yunior Marte vs Tarik Skubal | SF | -110 | 60.1% | 7.7% | HIGH | Elite pitching matchup |
-| PHI @ NYM | Andrew Painter vs Christian Scott | NYM | -110 | 56.7% | 4.3% | MEDIUM | Standard play |
+| OAK @ CLE | Jack Perkins vs Gavin Williams | CLE | -110 | 57.3% | 4.9% | MEDIUM | Standard play |
+| DET @ CWS | Troy Melton vs Davis Martin | DET | -110 | 57.2% | 4.8% | MEDIUM | Elite pitching matchup |
 
 ---
 
