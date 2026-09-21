@@ -1,6 +1,6 @@
 # MLB Picks - Monday, September 21, 2026
 
-*Last updated: 2026-09-21 07:12 PM ET*
+*Last updated: 2026-09-21 08:54 PM ET*
 
 ## No Recommended Plays Today
 
