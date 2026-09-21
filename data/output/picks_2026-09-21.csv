@@ -1,0 +1,7 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-09-21,DET,WSH,River Ryan,DJ Herz,DET,-110,0.5428,0.019,1.9%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-21,SF,MIN,Blade Tidwell,Zebby Matthews,MIN,-110,0.5214,-0.0024,-0.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-21,BAL,TOR,Shane Baz,Trey Yesavage,TOR,-110,0.5195,-0.0043,-0.4%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-09-21,BAL,TOR,Shane Baz,Trey Yesavage,UNDER 0.5,-110,0.5322,0.0084,0.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-21,SF,MIN,Blade Tidwell,Zebby Matthews,UNDER 0.5,-110,0.5198,-0.004,-0.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-21,DET,WSH,River Ryan,DJ Herz,UNDER 0.5,-110,0.5157,-0.0081,-0.8%,NO PLAY,False,Standard play,0.5

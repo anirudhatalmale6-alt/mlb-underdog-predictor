@@ -1,45 +1,10 @@
-# MLB Picks - Sunday, September 20, 2026
+# MLB Picks - Monday, September 21, 2026
 
-*Last updated: 2026-09-20 07:19 PM ET*
+*Last updated: 2026-09-21 07:12 PM ET*
 
-## Moneyline Underdogs
+## No Recommended Plays Today
 
-### RECOMMENDED PLAYS (2)
-
-#### ??? (0)
-
-| Stat | Value |
-|------|-------|
-| Matchup | OAK @ CLE |
-| Starting Pitchers | Jack Perkins vs Gavin Williams |
-| Model Win Probability | 0 |
-| Edge Over Market | 4.9% |
-| Confidence | MEDIUM |
-| Notes | Standard play |
-
-#### ??? (0)
-
-| Stat | Value |
-|------|-------|
-| Matchup | DET @ CWS |
-| Starting Pitchers | Troy Melton vs Davis Martin |
-| Model Win Probability | 0 |
-| Edge Over Market | 4.8% |
-| Confidence | MEDIUM |
-| Notes | Elite pitching matchup |
-
----
-
-## 1st Inning Moneyline
-
-### RECOMMENDED PLAYS (2)
-
-| Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
-|---------|----------|------|------|-------------|------|------------|-------|
-| OAK @ CLE | Jack Perkins vs Gavin Williams | CLE | -110 | 57.3% | 4.9% | MEDIUM | Standard play |
-| DET @ CWS | Troy Melton vs Davis Martin | DET | -110 | 57.2% | 4.8% | MEDIUM | Elite pitching matchup |
-
----
+Games are on the schedule but no picks met the model's edge threshold today.
 
 ---
 
