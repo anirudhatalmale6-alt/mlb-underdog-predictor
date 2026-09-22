@@ -1,10 +1,45 @@
-# MLB Picks - Monday, September 21, 2026
+# MLB Picks - Tuesday, September 22, 2026
 
-*Last updated: 2026-09-21 08:54 PM ET*
+*Last updated: 2026-09-22 06:01 PM ET*
 
-## No Recommended Plays Today
+## Moneyline Underdogs
 
-Games are on the schedule but no picks met the model's edge threshold today.
+### RECOMMENDED PLAYS (2)
+
+#### ??? (0)
+
+| Stat | Value |
+|------|-------|
+| Matchup | MIL @ PHI |
+| Starting Pitchers | Dustin May vs Zack Wheeler |
+| Model Win Probability | 0 |
+| Edge Over Market | 7.9% |
+| Confidence | HIGH |
+| Notes | Standard play |
+
+#### ??? (0)
+
+| Stat | Value |
+|------|-------|
+| Matchup | MIA @ CHC |
+| Starting Pitchers | Janson Junk vs Shota Imanaga |
+| Model Win Probability | 0 |
+| Edge Over Market | 5.2% |
+| Confidence | MEDIUM |
+| Notes | Standard play |
+
+---
+
+## 1st Inning Moneyline
+
+### RECOMMENDED PLAYS (2)
+
+| Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
+|---------|----------|------|------|-------------|------|------------|-------|
+| MIL @ PHI | Dustin May vs Zack Wheeler | PHI | -110 | 60.3% | 7.9% | HIGH | Standard play |
+| MIA @ CHC | Janson Junk vs Shota Imanaga | CHC | -110 | 57.6% | 5.2% | MEDIUM | Standard play |
+
+---
 
 ---
 
