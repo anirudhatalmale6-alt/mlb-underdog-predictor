@@ -1,0 +1,33 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-09-23,NYY,TB,Gerrit Cole,Mason Englert,NYY,-110,0.5937,0.0699,7.0%,HIGH,True,Standard play,
+1ST INN ML,2026-09-23,PIT,STL,Lake Bachar,Matthew Liberatore,PIT,-110,0.5884,0.0646,6.5%,HIGH,True,Standard play,
+1ST INN ML,2026-09-23,BAL,TOR,Chris Bassitt,Max Scherzer,BAL,-110,0.5654,0.0416,4.2%,MEDIUM,False,Standard play,
+1ST INN ML,2026-09-23,KC,CWS,Seth Lugo,Bryan Hudson,CWS,-110,0.5641,0.0403,4.0%,MEDIUM,False,Standard play,
+1ST INN ML,2026-09-23,BAL,TOR,TBD,TBD,BAL,-110,0.5635,0.0397,4.0%,LOW,False,Standard play,
+1ST INN ML,2026-09-23,COL,ARI,Mason Adams,Merrill Kelly,COL,-110,0.5618,0.038,3.8%,LOW,False,Standard play,
+1ST INN ML,2026-09-23,PHI,MIL,Aaron Nola,Logan Henderson,MIL,-110,0.5615,0.0377,3.8%,LOW,False,Standard play,
+1ST INN ML,2026-09-23,TEX,NYM,Cody Bradford,Nolan McLean,NYM,-110,0.5568,0.033,3.3%,LOW,False,Standard play,
+1ST INN ML,2026-09-23,ATL,CIN,Chris Sale,Andrew Abbott,ATL,-110,0.5431,0.0193,1.9%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-09-23,SEA,HOU,George Kirby,Ethan Pecko,SEA,-110,0.5395,0.0157,1.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-23,DET,WSH,Framber Valdez,Richard Lovelady,DET,-110,0.5297,0.0059,0.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-23,CHC,MIA,Kevin Gausman,Ryan Gusto,CHC,-110,0.5176,-0.0062,-0.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-23,LAD,SD,Yoshinobu Yamamoto,Robbie Ray,SD,-110,0.5142,-0.0096,-1.0%,NO PLAY,False,Elite pitching matchup,
+1ST INN ML,2026-09-23,OAK,LAA,Jeffrey Springs,Walbert Ureña,OAK,-110,0.5125,-0.0113,-1.1%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-23,SF,MIN,Cesar Perdomo,Connor Prielipp,SF,-110,0.5019,-0.0219,-2.2%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-23,BOS,CLE,Sonny Gray,Foster Griffin,BOS,-110,0.5013,-0.0225,-2.2%,NO PLAY,False,Elite pitching matchup,
+1ST INN TOTAL,2026-09-23,LAD,SD,Yoshinobu Yamamoto,Robbie Ray,OVER 0.5,-110,0.5851,0.0613,6.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-23,TEX,NYM,Cody Bradford,Nolan McLean,UNDER 0.5,-110,0.5785,0.0547,5.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-23,BOS,CLE,Sonny Gray,Foster Griffin,OVER 0.5,-110,0.5752,0.0514,5.1%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-09-23,SEA,HOU,George Kirby,Ethan Pecko,UNDER 0.5,-110,0.5637,0.0399,4.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-23,KC,CWS,Seth Lugo,Bryan Hudson,UNDER 0.5,-110,0.5606,0.0368,3.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-23,PHI,MIL,Aaron Nola,Logan Henderson,UNDER 0.5,-110,0.5585,0.0347,3.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-23,COL,ARI,Mason Adams,Merrill Kelly,OVER 0.5,-110,0.5437,0.0199,2.0%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-09-23,PIT,STL,Lake Bachar,Matthew Liberatore,OVER 0.5,-110,0.5333,0.0094,0.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-23,ATL,CIN,Chris Sale,Andrew Abbott,OVER 0.5,-110,0.5239,0.0001,0.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-23,BAL,TOR,Chris Bassitt,Max Scherzer,OVER 0.5,-110,0.5223,-0.0015,-0.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-23,SF,MIN,Cesar Perdomo,Connor Prielipp,UNDER 0.5,-110,0.5201,-0.0037,-0.4%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-23,CHC,MIA,Kevin Gausman,Ryan Gusto,OVER 0.5,-110,0.5192,-0.0046,-0.5%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-23,DET,WSH,Framber Valdez,Richard Lovelady,UNDER 0.5,-110,0.5139,-0.0099,-1.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-23,NYY,TB,Gerrit Cole,Mason Englert,OVER 0.5,-110,0.505,-0.0188,-1.9%,NO PLAY,False,Hitter-friendly park,0.5
+1ST INN TOTAL,2026-09-23,OAK,LAA,Jeffrey Springs,Walbert Ureña,UNDER 0.5,-110,0.5019,-0.0219,-2.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-23,BAL,TOR,TBD,TBD,UNDER 0.5,-110,0.5005,-0.0233,-2.3%,NO PLAY,False,Standard play,0.5

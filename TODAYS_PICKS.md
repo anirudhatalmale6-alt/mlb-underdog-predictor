@@ -1,6 +1,6 @@
-# MLB Picks - Tuesday, September 22, 2026
+# MLB Picks - Wednesday, September 23, 2026
 
-*Last updated: 2026-09-22 08:04 PM ET*
+*Last updated: 2026-09-23 06:21 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIL @ PHI |
-| Starting Pitchers | Dustin May vs Zack Wheeler |
+| Matchup | TB @ NYY |
+| Starting Pitchers | Mason Englert vs Gerrit Cole |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.9% |
+| Edge Over Market | 7.0% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,11 +21,11 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | MIA @ CHC |
-| Starting Pitchers | Janson Junk vs Shota Imanaga |
+| Matchup | STL @ PIT |
+| Starting Pitchers | Matthew Liberatore vs Lake Bachar |
 | Model Win Probability | 0 |
-| Edge Over Market | 5.2% |
-| Confidence | MEDIUM |
+| Edge Over Market | 6.5% |
+| Confidence | HIGH |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| MIL @ PHI | Dustin May vs Zack Wheeler | PHI | -110 | 60.3% | 7.9% | HIGH | Standard play |
-| MIA @ CHC | Janson Junk vs Shota Imanaga | CHC | -110 | 57.6% | 5.2% | MEDIUM | Standard play |
+| TB @ NYY | Mason Englert vs Gerrit Cole | NYY | -110 | 59.4% | 7.0% | HIGH | Standard play |
+| STL @ PIT | Matthew Liberatore vs Lake Bachar | PIT | -110 | 58.8% | 6.5% | HIGH | Standard play |
 
 ---
 
