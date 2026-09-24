@@ -1,6 +1,6 @@
-# MLB Picks - Wednesday, September 23, 2026
+# MLB Picks - Thursday, September 24, 2026
 
-*Last updated: 2026-09-23 08:03 PM ET*
+*Last updated: 2026-09-24 06:21 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,10 +10,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | TB @ NYY |
-| Starting Pitchers | Mason Englert vs Gerrit Cole |
+| Matchup | CLE @ BOS |
+| Starting Pitchers | Daniel Espino vs Ranger Suarez |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.0% |
+| Edge Over Market | 7.8% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -21,10 +21,10 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | STL @ PIT |
-| Starting Pitchers | Matthew Liberatore vs Lake Bachar |
+| Matchup | CIN @ ATL |
+| Starting Pitchers | Brady Singer vs Tyler Mahle |
 | Model Win Probability | 0 |
-| Edge Over Market | 6.5% |
+| Edge Over Market | 7.5% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TB @ NYY | Mason Englert vs Gerrit Cole | NYY | -110 | 59.4% | 7.0% | HIGH | Standard play |
-| STL @ PIT | Matthew Liberatore vs Lake Bachar | PIT | -110 | 58.8% | 6.5% | HIGH | Standard play |
+| CLE @ BOS | Daniel Espino vs Ranger Suarez | BOS | -110 | 60.2% | 7.8% | HIGH | Standard play |
+| CIN @ ATL | Brady Singer vs Tyler Mahle | ATL | -110 | 59.9% | 7.5% | HIGH | Standard play |
 
 ---
 
