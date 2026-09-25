@@ -1,6 +1,6 @@
-# MLB Picks - Thursday, September 24, 2026
+# MLB Picks - Friday, September 25, 2026
 
-*Last updated: 2026-09-24 08:19 PM ET*
+*Last updated: 2026-09-25 06:25 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,21 +10,21 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | CLE @ BOS |
-| Starting Pitchers | Daniel Espino vs Ranger Suarez |
+| Matchup | TB @ PHI |
+| Starting Pitchers | Freddy Peralta vs Cristopher Sánchez |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.8% |
+| Edge Over Market | 10.2% |
 | Confidence | HIGH |
-| Notes | Standard play |
+| Notes | Strong value |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | CIN @ ATL |
-| Starting Pitchers | Brady Singer vs Tyler Mahle |
+| Matchup | NYM @ WSH |
+| Starting Pitchers | TBD vs Andrew Alvarez |
 | Model Win Probability | 0 |
-| Edge Over Market | 7.5% |
+| Edge Over Market | 8.8% |
 | Confidence | HIGH |
 | Notes | Standard play |
 
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| CLE @ BOS | Daniel Espino vs Ranger Suarez | BOS | -110 | 60.2% | 7.8% | HIGH | Standard play |
-| CIN @ ATL | Brady Singer vs Tyler Mahle | ATL | -110 | 59.9% | 7.5% | HIGH | Standard play |
+| TB @ PHI | Freddy Peralta vs Cristopher Sánchez | PHI | -110 | 62.6% | 10.2% | HIGH | Strong value |
+| NYM @ WSH | TBD vs Andrew Alvarez | WSH | -110 | 61.2% | 8.8% | HIGH | Standard play |
 
 ---
 
