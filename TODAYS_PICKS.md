@@ -1,6 +1,6 @@
-# MLB Picks - Friday, September 25, 2026
+# MLB Picks - Saturday, September 26, 2026
 
-*Last updated: 2026-09-25 08:20 PM ET*
+*Last updated: 2026-09-26 05:42 PM ET*
 
 ## Moneyline Underdogs
 
@@ -10,22 +10,22 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | TB @ PHI |
-| Starting Pitchers | Freddy Peralta vs Cristopher Sánchez |
+| Matchup | LAD @ SF |
+| Starting Pitchers | Blake Snell vs Matt Wilkinson |
 | Model Win Probability | 0 |
-| Edge Over Market | 10.2% |
-| Confidence | HIGH |
-| Notes | Strong value |
+| Edge Over Market | 4.5% |
+| Confidence | MEDIUM |
+| Notes | Elite pitching matchup |
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | NYM @ WSH |
-| Starting Pitchers | TBD vs Andrew Alvarez |
+| Matchup | COL @ CWS |
+| Starting Pitchers | Jose Quintana vs Davis Martin |
 | Model Win Probability | 0 |
-| Edge Over Market | 8.8% |
-| Confidence | HIGH |
+| Edge Over Market | 4.5% |
+| Confidence | MEDIUM |
 | Notes | Standard play |
 
 ---
@@ -36,8 +36,8 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| TB @ PHI | Freddy Peralta vs Cristopher Sánchez | PHI | -110 | 62.6% | 10.2% | HIGH | Strong value |
-| NYM @ WSH | TBD vs Andrew Alvarez | WSH | -110 | 61.2% | 8.8% | HIGH | Standard play |
+| LAD @ SF | Blake Snell vs Matt Wilkinson | LAD | -110 | 56.9% | 4.5% | MEDIUM | Elite pitching matchup |
+| COL @ CWS | Jose Quintana vs Davis Martin | CWS | -110 | 56.9% | 4.5% | MEDIUM | Standard play |
 
 ---
 

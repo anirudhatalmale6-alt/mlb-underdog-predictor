@@ -1,0 +1,27 @@
+bet_type,game_date,home_team,away_team,home_sp_name,away_sp_name,pick,odds,model_prob,edge,edge_pct,confidence,recommended,notes,line
+1ST INN ML,2026-09-26,SF,LAD,Matt Wilkinson,Blake Snell,LAD,-110,0.5693,0.0455,4.5%,MEDIUM,True,Elite pitching matchup,
+1ST INN ML,2026-09-26,CWS,COL,Davis Martin,Jose Quintana,CWS,-110,0.5693,0.0455,4.5%,MEDIUM,True,Standard play,
+1ST INN ML,2026-09-26,MIA,ATL,Jack Ralston,Brent Suter,MIA,-110,0.5595,0.0357,3.6%,LOW,False,Standard play,
+1ST INN ML,2026-09-26,TOR,CIN,Trey Yesavage,Rhett Lowder,TOR,-110,0.5564,0.0326,3.3%,LOW,False,Standard play,
+1ST INN ML,2026-09-26,SEA,LAA,Kade Anderson,Ryan Johnson,SEA,-110,0.5538,0.03,3.0%,LOW,False,Standard play,
+1ST INN ML,2026-09-26,DET,PIT,Justin Verlander,Kirby Yates,PIT,-110,0.5415,0.0176,1.8%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-26,SD,ARI,Walker Buehler,TBD,SD,-110,0.5394,0.0155,1.6%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-26,WSH,NYM,Connelly Early,Jonah Tong,WSH,-110,0.5274,0.0036,0.4%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-26,PHI,TB,TBD,Griffin Jax,TB,-110,0.5269,0.0031,0.3%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-26,KC,CLE,Michael Wacha,Tanner Bibee,KC,-110,0.5086,-0.0153,-1.5%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-26,OAK,HOU,Jack Perkins,Hayden Wesneski,HOU,-110,0.5068,-0.017,-1.7%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-26,MIL,STL,Dustin May,Quinn Mathews,MIL,-110,0.5037,-0.0201,-2.0%,NO PLAY,False,Standard play,
+1ST INN ML,2026-09-26,MIN,TEX,Bailey Ober,Nathan Eovaldi,MIN,-110,0.5034,-0.0204,-2.0%,NO PLAY,False,Standard play,
+1ST INN TOTAL,2026-09-26,DET,PIT,Justin Verlander,Kirby Yates,UNDER 0.5,-110,0.5835,0.0597,6.0%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-26,OAK,HOU,Jack Perkins,Hayden Wesneski,UNDER 0.5,-110,0.5818,0.058,5.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-26,SD,ARI,Walker Buehler,TBD,UNDER 0.5,-110,0.5309,0.0071,0.7%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-26,SEA,LAA,Kade Anderson,Ryan Johnson,UNDER 0.5,-110,0.5263,0.0025,0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-26,PHI,TB,TBD,Griffin Jax,UNDER 0.5,-110,0.5253,0.0015,0.1%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-26,TOR,CIN,Trey Yesavage,Rhett Lowder,UNDER 0.5,-110,0.5212,-0.0026,-0.3%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-26,MIA,ATL,Jack Ralston,Brent Suter,UNDER 0.5,-110,0.5161,-0.0077,-0.8%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-26,MIN,TEX,Bailey Ober,Nathan Eovaldi,UNDER 0.5,-110,0.515,-0.0088,-0.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-26,WSH,NYM,Connelly Early,Jonah Tong,OVER 0.5,-110,0.5148,-0.009,-0.9%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-26,MIL,STL,Dustin May,Quinn Mathews,OVER 0.5,-110,0.5122,-0.0116,-1.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-26,KC,CLE,Michael Wacha,Tanner Bibee,OVER 0.5,-110,0.5118,-0.012,-1.2%,NO PLAY,False,Standard play,0.5
+1ST INN TOTAL,2026-09-26,SF,LAD,Matt Wilkinson,Blake Snell,UNDER 0.5,-110,0.5067,-0.0171,-1.7%,NO PLAY,False,Elite SPs keep 1st clean,0.5
+1ST INN TOTAL,2026-09-26,CWS,COL,Davis Martin,Jose Quintana,OVER 0.5,-110,0.5059,-0.0179,-1.8%,NO PLAY,False,Standard play,0.5
