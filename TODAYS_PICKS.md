@@ -1,19 +1,19 @@
-# MLB Picks - Saturday, September 26, 2026
+# MLB Picks - Sunday, September 27, 2026
 
-*Last updated: 2026-09-26 07:37 PM ET*
+*Last updated: 2026-09-27 06:13 PM ET*
 
 ## Moneyline Underdogs
 
-### RECOMMENDED PLAYS (2)
+### RECOMMENDED PLAYS (3)
 
 #### ??? (0)
 
 | Stat | Value |
 |------|-------|
-| Matchup | LAD @ SF |
-| Starting Pitchers | Blake Snell vs Matt Wilkinson |
+| Matchup | CLE @ KC |
+| Starting Pitchers | Parker Messick vs Daniel Lynch IV |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.5% |
+| Edge Over Market | 5.8% |
 | Confidence | MEDIUM |
 | Notes | Elite pitching matchup |
 
@@ -21,11 +21,22 @@
 
 | Stat | Value |
 |------|-------|
-| Matchup | COL @ CWS |
-| Starting Pitchers | Jose Quintana vs Davis Martin |
+| Matchup | LAA @ SEA |
+| Starting Pitchers | Yusei Kikuchi vs Logan Gilbert |
 | Model Win Probability | 0 |
-| Edge Over Market | 4.5% |
+| Edge Over Market | 4.7% |
 | Confidence | MEDIUM |
+| Notes | Standard play |
+
+#### ??? (0)
+
+| Stat | Value |
+|------|-------|
+| Matchup | LAD @ SF |
+| Starting Pitchers | Jack Dreyer vs Carson Seymour |
+| Model Win Probability | 0 |
+| Edge Over Market | 9.3% |
+| Confidence | LOW |
 | Notes | Standard play |
 
 ---
@@ -36,8 +47,18 @@
 
 | Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
 |---------|----------|------|------|-------------|------|------------|-------|
-| LAD @ SF | Blake Snell vs Matt Wilkinson | LAD | -110 | 56.9% | 4.5% | MEDIUM | Elite pitching matchup |
-| COL @ CWS | Jose Quintana vs Davis Martin | CWS | -110 | 56.9% | 4.5% | MEDIUM | Standard play |
+| CLE @ KC | Parker Messick vs Daniel Lynch IV | CLE | -110 | 58.1% | 5.8% | MEDIUM | Elite pitching matchup |
+| LAA @ SEA | Yusei Kikuchi vs Logan Gilbert | SEA | -110 | 57.1% | 4.7% | MEDIUM | Standard play |
+
+---
+
+## 1st Inning Over/Under
+
+### RECOMMENDED PLAYS (1)
+
+| Matchup | Pitchers | Pick | Odds | Probability | Edge | Confidence | Notes |
+|---------|----------|------|------|-------------|------|------------|-------|
+| LAD @ SF | Jack Dreyer vs Carson Seymour | UNDER 0.5 | -110 | 61.7% | 9.3% | LOW | Standard play |
 
 ---
 
