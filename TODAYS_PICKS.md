@@ -1,6 +1,6 @@
 # MLB Picks - Monday, September 28, 2026
 
-*Last updated: 2026-09-28 08:27 PM ET*
+*Last updated: 2026-09-28 10:27 PM ET*
 
 ## No Games Today
 
