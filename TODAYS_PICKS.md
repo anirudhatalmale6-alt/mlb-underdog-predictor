@@ -1,6 +1,6 @@
 # MLB Picks - Sunday, October 04, 2026
 
-*Last updated: 2026-10-04 06:04 PM ET*
+*Last updated: 2026-10-04 07:57 PM ET*
 
 ## No Games Today
 
