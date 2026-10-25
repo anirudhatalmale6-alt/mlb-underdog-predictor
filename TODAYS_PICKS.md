@@ -1,6 +1,6 @@
-# MLB Picks - Saturday, October 24, 2026
+# MLB Picks - Sunday, October 25, 2026
 
-*Last updated: 2026-10-24 07:20 PM ET*
+*Last updated: 2026-10-25 05:32 PM ET*
 
 ## No Games Today
 
